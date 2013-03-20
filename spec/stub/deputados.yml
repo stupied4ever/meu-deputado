@@ -1,0 +1,28 @@
+--- !map:HashWithIndifferentAccess
+
+ - 
+  anexo: "1_anexo"
+  email: "1_email"
+  fone: "1_fone"
+  gabinete: "1_gabinete"
+  id_parlamentar: 1
+  ide_cadastro: 12
+  matricula: "1_matricula"
+  nome: "1_nome"
+  nome_parlamentar: "1_nome_parlamentar"
+  partido: "1_partido"
+  sexo: "1_sexo"
+  uf: "1_uf"
+ - 
+  anexo: "2_anexo"
+  email: "2_email"
+  fone: "2_fone"
+  gabinete: "2_gabinete"
+  id_parlamentar: 2
+  ide_cadastro: 22
+  matricula: "2_matricula"
+  nome: "2_nome"
+  nome_parlamentar: "2_nome_parlamentar"
+  partido: "2_partido"
+  sexo: "2_sexo"
+  uf: "2_uf"
