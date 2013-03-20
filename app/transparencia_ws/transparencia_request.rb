@@ -4,22 +4,18 @@ class TransparenciaRequest
 	URL_DEPUTADOS_WSDL = "http://www.camara.gov.br/SitCamaraWS/Deputados.asmx?wsdl"
 
 	def obter_deputados
-		executar_request.collect do |attrs| 
+		executar_request.collect do |attrs|
 			id_parlamentar = attrs[:id_parlamentar]
 			deputado = Deputado.where(id_parlamentar: id_parlamentar).first_or_create
-			
+
 			deputado.assign_attributes( limpar_campos( attrs ) )
 			deputado
 		end
 	end
 
 	private
-	def limpar_campos(fields)
-		fields_to_ignore = fields.keys - Deputado::SOAP_FIELDS.map(&:to_s)
-		fields_to_ignore.each do | attr_remove |
-			fields.delete( attr_remove )				
-		end
-		fields
+	def limpar_campos( fields )
+		fields.dup.extract!(*Deputado::SOAP_FIELDS.map(&:to_s))
 	end
 
 	def parse_deputados( hash )
@@ -38,11 +34,11 @@ end
 
 # def get_discursos_plenario( data_ini: required('data_ini'), data_fim: required('data_fim'), codigo_sessao: nil, parte_nome_parlamentar: nil, sigla_partido: nil, sigla_uf: nil )
 # 	message = {
-# 		dataIni: data_ini, 
-# 		dataFim: data_fim, 
-# 		codigoSessao: codigo_sessao, 
-# 		parteNomeParlamentar: parte_nome_parlamentar, 
-# 		siglaPartido: sigla_partido, 
+# 		dataIni: data_ini,
+# 		dataFim: data_fim,
+# 		codigoSessao: codigo_sessao,
+# 		parteNomeParlamentar: parte_nome_parlamentar,
+# 		siglaPartido: sigla_partido,
 # 		siglaUF: sigla_uf
 # 	}
 # 	client = Savon.client( strip_namespaces: true, wsdl: "http://www.camara.gov.br/sitcamaraws/SessoesReunioes.asmx?WSDL")

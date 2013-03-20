@@ -1,18 +1,18 @@
 require 'spec_helper'
 
 describe TransparenciaRequest do
-	let(:deputados){ 
-		YAML.load_file("#{Rails.root}/spec/stub/deputados.yml") 
+	let(:deputados){
+		YAML.load_file("#{Rails.root}/spec/stub/deputados.yml")
 	}
 
-	let(:transparencia_request){ 
+	let(:transparencia_request){
 		stub_model( TransparenciaRequest, :executar_request => deputados )
 	}
 
-	describe "importa deputados" do
+	describe "obtem deputados" do
 		subject{ transparencia_request.obter_deputados }
 
-		it "e retorna a lista de deputados" do
+		it "e retorna a lista" do
 			subject.map(&:id_parlamentar).should == [1,2]
 		end
 
@@ -34,7 +34,7 @@ describe TransparenciaRequest do
 		end
 
 		describe "e limpa campos" do
-			let(:transparencia_request){ 
+			let(:transparencia_request){
 				deputados.last.store(:teste, "teste")
 				stub_model( TransparenciaRequest, :executar_request => deputados )
 			}
