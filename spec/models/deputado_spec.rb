@@ -11,4 +11,12 @@ describe Deputado do
 	it { should validate_presence_of :partido }
 	it { should validate_presence_of :sexo }
 	it { should validate_presence_of :uf }
+
+	it { should have_many(:deputado_comissoes) }
+	it { should have_many(:deputado_comissoes_titular) }
+	it { should have_many(:deputado_comissoes_suplente) }
+	it { should have_many(:comissoes).through(:deputado_comissoes) }
+	it { should have_many(:comissoes_titular).through(:deputado_comissoes_titular) }
+	it { should have_many(:comissoes_suplente).through(:deputado_comissoes_suplente) }
+
 end

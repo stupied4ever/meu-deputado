@@ -4,18 +4,36 @@ class TransparenciaRequest
 	URL_DEPUTADOS_WSDL = "http://www.camara.gov.br/SitCamaraWS/Deputados.asmx?wsdl"
 
 	def obter_deputados
-		executar_request.collect do |attrs|
+		deputados = executar_request.collect do |attrs|
 			id_parlamentar = attrs[:id_parlamentar]
 			deputado = Deputado.where(id_parlamentar: id_parlamentar).first_or_create
 
-			deputado.assign_attributes( limpar_campos( attrs ) )
+			deputado.update_attributes( limpar_campos( attrs, Deputado::SOAP_FIELDS ) )
+			
+			seta_comissoes_na_cadeira(deputado, "titular",  attrs[:comissoes][:titular]  )
+			seta_comissoes_na_cadeira(deputado, "suplente", attrs[:comissoes][:suplente] )
+
+			
 			deputado
 		end
+
+		deputados
 	end
 
 	private
-	def limpar_campos( fields )
-		fields.dup.extract!(*Deputado::SOAP_FIELDS.map(&:to_s))
+	def seta_comissoes_na_cadeira(deputado, cadeira, comissoes_na_cadeira)
+		return unless comissoes_na_cadeira
+		comissoes_na_cadeira.each do | comissoes |
+			comissoes[1] = [comissoes[1]] unless comissoes[1].instance_of?(Array)
+			comissoes[1].each do | comissao_attrs |
+				comissao = Comissao.where(nome: comissao_attrs[:@nome], sigla: comissao_attrs[:@sigla]).first_or_create
+				deputado.deputado_comissoes.create(comissao: comissao, cadeira: cadeira)
+			end
+		end
+	end
+
+	def limpar_campos( fields, campos_aceitos )
+		fields.dup.extract!(*campos_aceitos)
 	end
 
 	def parse_deputados( hash )

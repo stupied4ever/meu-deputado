@@ -1,6 +1,6 @@
-class CreateComissaos < ActiveRecord::Migration
+class CreateComissoes < ActiveRecord::Migration
   def change
-    create_table :comissaos do |t|
+    create_table :comissoes do |t|
       t.text :nome
       t.string :sigla
 
