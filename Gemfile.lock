@@ -85,6 +85,7 @@ GEM
     multi_xml (0.5.3)
     nokogiri (1.5.7)
     nori (2.0.4)
+    pg (0.15.1)
     polyglot (0.3.3)
     pry (0.9.12)
       coderay (~> 1.0.5)
@@ -180,6 +181,7 @@ DEPENDENCIES
   httparty
   jquery-rails
   nori
+  pg
   rails (= 3.2.13)
   rb-fsevent (~> 0.9)
   rspec-rails
