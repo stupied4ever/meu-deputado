@@ -20,17 +20,17 @@ class ParserPresenca
     conteudo.split("\n").map {
       informacoes = PATTERN.match(conteudo)
       Presenca.new(
-        tipo_sessao:               informacoes[:tipo_sessao],
-        numero_sessao_legislativa: informacoes[:numero_sessao_legislativa],
-        sessao_legislativa:        informacoes[:sessao_legislativa],
-        sessao_numero:             informacoes[:sessao_numero],
-        sessao_extra_ordinaria:    informacoes[:sessao_extra_ordinaria],
-        sequencial_votacao:        informacoes[:sequencial_votacao],
-        nome_parlamentar:          informacoes[:nome_parlamentar].strip,
-        situacao_presenca:         informacoes[:situacao_presenca].strip,
-        partido:                   informacoes[:partido].strip,
-        uf:                        informacoes[:uf].strip,
-        codigo_parlamentar:        informacoes[:codigo_parlamentar].strip,
+        tipo_sessao:                  informacoes[:tipo_sessao],
+        numero_sessao_legislativa:    informacoes[:numero_sessao_legislativa],
+        sessao_legislativa_ordinaria: informacoes[:sessao_legislativa],
+        sessao_numero:                informacoes[:sessao_numero],
+        sessao_ordinaria:             informacoes[:sessao_extra_ordinaria],
+        sequencial_votacao:           informacoes[:sequencial_votacao],
+        nome_parlamentar:             informacoes[:nome_parlamentar].strip,
+        presente:                     informacoes[:situacao_presenca].strip,
+        partido:                      informacoes[:partido].strip,
+        uf:                           informacoes[:uf].strip,
+        codigo_parlamentar:           informacoes[:codigo_parlamentar].strip,
       )
     }
   end

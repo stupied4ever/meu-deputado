@@ -1,5 +1,9 @@
 class Presenca < ActiveRecord::Base
-  attr_accessible :nome_parlamentar 
+  attr_accessible :nome_parlamentar,
+  :nome_parlamentar, :tipo_sessao, :numero_sessao_legislativa, 
+  :sessao_legislativa, :sessao_numero, :sessao_extra_ordinaria,
+  :sequencial_votacao, :presente, :partido, :uf, :codigo_parlamentar,
+  :sessao_legislativa_ordinaria, :sessao_ordinaria
   belongs_to :deputado, :primary_key => "nome_parlamentar", :foreign_key => "nome_parlamentar"
 
   def sessao_camara?

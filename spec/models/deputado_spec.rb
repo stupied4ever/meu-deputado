@@ -26,13 +26,13 @@ describe Deputado do
     subject{
       nome_parlamentar = "nome do parlamentar"
       FactoryGirl.create(:presenca, 
-        :nome_parlamentar => nome_parlamentar, :situacao_presenca => true 
+        :nome_parlamentar => nome_parlamentar, :presente => true 
         )
       FactoryGirl.create(:presenca, 
-        :nome_parlamentar => nome_parlamentar, :situacao_presenca => true 
+        :nome_parlamentar => nome_parlamentar, :presente => true 
         )
       FactoryGirl.create(:presenca, 
-        :nome_parlamentar => nome_parlamentar, :situacao_presenca => false 
+        :nome_parlamentar => nome_parlamentar, :presente => false 
         )
 
       FactoryGirl.create(:deputado, :nome_parlamentar => nome_parlamentar)

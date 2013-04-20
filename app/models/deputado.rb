@@ -22,12 +22,12 @@ class Deputado < ActiveRecord::Base
   has_many :sessoes_presente,
   :class_name  => "Presenca", :source => :presencas,
   :foreign_key => "nome_parlamentar", :primary_key => "nome_parlamentar",
-  :conditions => ['presencas.situacao_presenca = ?', true]
+  :conditions => ['presencas.presente = ?', true]
 
   has_many :sessoes_ausente,
   :class_name  => "Presenca", :source => :presencas,
   :foreign_key => "nome_parlamentar", :primary_key => "nome_parlamentar",
-  :conditions => ['presencas.situacao_presenca = ?', false]
+  :conditions => ['presencas.presente = ?', false]
 
 
   

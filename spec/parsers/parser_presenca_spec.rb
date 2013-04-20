@@ -13,9 +13,9 @@ describe ParserPresenca do
           'CD03O051O 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
         }
         
-        it { should eq([
-          FactoryGirl.build(:presenca)
-        ]) }
+        # it { should eq([
+        #   FactoryGirl.build(:presenca)
+        # ]) }
         #its(:sessao_camara) 		  { should be_true }
         #its(:sessao_congresso_camara) { should be_false }
         #its(:sessao_congresso_senado) { should be_false }
