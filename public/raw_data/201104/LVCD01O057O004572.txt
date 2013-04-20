@@ -1,0 +1,512 @@
+CD01O057O 004572 BERINHO BANTIM                          Não       PSDB      Roraima                  1
+CD01O057O 004572 CHICO DAS VERDURAS                      Não       PRP       Roraima                  3  
+CD01O057O 004572 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD01O057O 004572 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD01O057O 004572 PAULO CESAR QUARTIERO                   Obstrução DEM       Roraima                  6  
+CD01O057O 004572 RAUL LIMA                               Não       PP        Roraima                  7  
+CD01O057O 004572 TERESA SURITA                           Não       PMDB      Roraima                  8  
+CD01O057O 004572 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD01O057O 004572 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD01O057O 004572 PROFESSORA MARCIVANIA                   Não       PT        Amapá                    15 
+CD01O057O 004572 ARNALDO JORDY                           Obstrução PPS       Pará                     18 
+CD01O057O 004572 BETO FARO                               Não       PT        Pará                     19 
+CD01O057O 004572 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD01O057O 004572 ELCIONE BARBALHO                        Não       PMDB      Pará                     21 
+CD01O057O 004572 GIOVANNI QUEIROZ                        Não       PDT       Pará                     27 
+CD01O057O 004572 LIRA MAIA                               Obstrução DEM       Pará                     28 
+CD01O057O 004572 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O057O 004572 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O057O 004572 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD01O057O 004572 CARLOS SOUZA                            Não       PP        Amazonas                 37 
+CD01O057O 004572 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD01O057O 004572 CARLOS MAGNO                            Não       PP        Rondonia                 44 
+CD01O057O 004572 MARINHA RAUPP                           Não       PMDB      Rondonia                 50 
+CD01O057O 004572 MAURO NAZIF                             Não       PSB       Rondonia                 46 
+CD01O057O 004572 NATAN DONADON                           Não       PMDB      Rondonia                 51 
+CD01O057O 004572 PADRE TON                               Não       PT        Rondonia                 48 
+CD01O057O 004572 FLAVIANO MELO                           Não       PMDB      Acre                     54 
+CD01O057O 004572 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD01O057O 004572 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD01O057O 004572 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD01O057O 004572 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD01O057O 004572 LAUREZ MOREIRA                          Não       PSB       Tocantins                62 
+CD01O057O 004572 LÁZARO BOTELHO                          Não       PP        Tocantins                63 
+CD01O057O 004572 DAVI ALVES SILVA JÚNIOR                 Não       PR        Maranhão                 528
+CD01O057O 004572 EDIVALDO HOLANDA JUNIOR                 Não       PTC       Maranhão                 73 
+CD01O057O 004572 GASTÃO VIEIRA                           Não       PMDB      Maranhão                 75 
+CD01O057O 004572 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O057O 004572 LUCIANO MOREIRA                         Não       PMDB      Maranhão                 83 
+CD01O057O 004572 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD01O057O 004572 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD01O057O 004572 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O057O 004572 ANÍBAL GOMES                            Não       PMDB      Ceará                    87 
+CD01O057O 004572 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD01O057O 004572 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD01O057O 004572 DANILO FORTE                            Abstenção PMDB      Ceará                    95 
+CD01O057O 004572 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD01O057O 004572 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD01O057O 004572 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O057O 004572 RAIMUNDÃO                               Não       PMDB      Ceará                    108
+CD01O057O 004572 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD01O057O 004572 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O057O 004572 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD01O057O 004572 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD01O057O 004572 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD01O057O 004572 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD01O057O 004572 PAES LANDIM                             Não       PTB       Piauí                    118
+CD01O057O 004572 FÁTIMA BEZERRA                          Não       PT        Rio Grande do Norte      121
+CD01O057O 004572 FELIPE MAIA                             Obstrução DEM       Rio Grande do Norte      120
+CD01O057O 004572 JOÃO MAIA                               Não       PR        Rio Grande do Norte      124
+CD01O057O 004572 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD01O057O 004572 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CD01O057O 004572 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O057O 004572 MANOEL JUNIOR                           Não       PMDB      Paraíba                  130
+CD01O057O 004572 RUY CARNEIRO                            Obstrução PSDB      Paraíba                  137
+CD01O057O 004572 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD01O057O 004572 WILSON FILHO                            Não       PMDB      Paraíba                  139
+CD01O057O 004572 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD01O057O 004572 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD01O057O 004572 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD01O057O 004572 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD01O057O 004572 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD01O057O 004572 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD01O057O 004572 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD01O057O 004572 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD01O057O 004572 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD01O057O 004572 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD01O057O 004572 VILALBA                                 Não       PRB       Pernambuco               555
+CD01O057O 004572 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD01O057O 004572 CELIA ROCHA                             Não       PTB       Alagoas                  165
+CD01O057O 004572 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD01O057O 004572 MAURÍCIO QUINTELLA LESSA                Não       PR        Alagoas                  168
+CD01O057O 004572 ROSINHA DA ADEFAL                       Não       PTdoB     Alagoas                  170
+CD01O057O 004572 RUI PALMEIRA                            Obstrução PSDB      Alagoas                  171
+CD01O057O 004572 ALMEIDA LIMA                            Não       PMDB      Sergipe                  173
+CD01O057O 004572 HELENO SILVA                            Não       PRB       Sergipe                  175
+CD01O057O 004572 LAERCIO OLIVEIRA                        Não       PR        Sergipe                  176
+CD01O057O 004572 MENDONÇA PRADO                          Obstrução DEM       Sergipe                  179
+CD01O057O 004572 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD01O057O 004572 ACELINO POPÓ                            Não       PRB       Bahia                    522
+CD01O057O 004572 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD01O057O 004572 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O057O 004572 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD01O057O 004572 ANTONIO CARLOS MAGALHÃES NETO           Obstrução DEM       Bahia                    181
+CD01O057O 004572 CLAUDIO CAJADO                          Não       DEM       Bahia                    186
+CD01O057O 004572 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD01O057O 004572 EDSON PIMENTA                           Não       PCdoB     Bahia                    193
+CD01O057O 004572 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD01O057O 004572 FELIX JÚNIOR                            Sim       PDT       Bahia                    195
+CD01O057O 004572 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O057O 004572 JÂNIO NATAL                             Não       PRP       Bahia                    198
+CD01O057O 004572 JOSÉ NUNES                              Obstrução DEM       Bahia                    201
+CD01O057O 004572 JOSEPH BANDEIRA                         Não       PT        Bahia                    565
+CD01O057O 004572 JUTAHY JUNIOR                           Obstrução PSDB      Bahia                    206
+CD01O057O 004572 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD01O057O 004572 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD01O057O 004572 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD01O057O 004572 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD01O057O 004572 MAURÍCIO TRINDADE                       Não       PR        Bahia                    208
+CD01O057O 004572 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD01O057O 004572 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O057O 004572 RUI COSTA                               Não       PT        Bahia                    216
+CD01O057O 004572 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O057O 004572 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O057O 004572 ADEMIR CAMILO                           Não       PDT       Minas Gerais             220
+CD01O057O 004572 AELTON FREITAS                          Não       PR        Minas Gerais             224
+CD01O057O 004572 BERNARDO SANTANA DE VASCONCELLO         Não       PR        Minas Gerais             221
+CD01O057O 004572 CARLAILE PEDROSA                        Obstrução PSDB      Minas Gerais             222
+CD01O057O 004572 DIEGO ANDRADE                           Não       PR        Minas Gerais             228
+CD01O057O 004572 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O057O 004572 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD01O057O 004572 FÁBIO RAMALHO                           Não       PV        Minas Gerais             238
+CD01O057O 004572 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD01O057O 004572 GEORGE HILTON                           Não       PRB       Minas Gerais             241
+CD01O057O 004572 GILMAR MACHADO                          Não       PT        Minas Gerais             234
+CD01O057O 004572 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD01O057O 004572 JOSE HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O057O 004572 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD01O057O 004572 LAEL VARELLA                            Não       DEM       Minas Gerais             245
+CD01O057O 004572 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD01O057O 004572 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD01O057O 004572 LUIZ FERNANDO FARIA                     Não       PP        Minas Gerais             256
+CD01O057O 004572 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD01O057O 004572 NEWTON CARDOSO                          Não       PMDB      Minas Gerais             258
+CD01O057O 004572 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O057O 004572 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD01O057O 004572 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD01O057O 004572 RODRIGO DE CASTRO                       Obstrução PSDB      Minas Gerais             268
+CD01O057O 004572 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O057O 004572 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD01O057O 004572 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O057O 004572 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD01O057O 004572 CESAR COLNAGO                           Obstrução PSDB      Espírito Santo           276
+CD01O057O 004572 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD01O057O 004572 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O057O 004572 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD01O057O 004572 ROSE DE FREITAS                         Art. 17   PMDB      Espírito Santo           282
+CD01O057O 004572 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD01O057O 004572 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD01O057O 004572 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD01O057O 004572 AUREO                                   Não       PRTB      Rio de Janeiro           290
+CD01O057O 004572 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD01O057O 004572 BRIZOLA NETO                            Não       PDT       Rio de Janeiro           566
+CD01O057O 004572 CHICO ALENCAR                           Obstrução PSOL      Rio de Janeiro           295
+CD01O057O 004572 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD01O057O 004572 DR. ALUIZIO                             Obstrução PV        Rio de Janeiro           294
+CD01O057O 004572 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O057O 004572 DR. PAULO CÉSAR                         Não       PR        Rio de Janeiro           296
+CD01O057O 004572 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD01O057O 004572 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD01O057O 004572 ELIANE ROLIM                            Não       PT        Rio de Janeiro           538
+CD01O057O 004572 FELIPE BORNIER                          Não       PHS       Rio de Janeiro           301
+CD01O057O 004572 FERNANDO JORDÃO                         Não       PMDB      Rio de Janeiro           557
+CD01O057O 004572 FRANCISCO FLORIANO                      Não       PR        Rio de Janeiro           297
+CD01O057O 004572 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD01O057O 004572 HUGO LEAL                               Obstrução PSC       Rio de Janeiro           306
+CD01O057O 004572 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD01O057O 004572 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD01O057O 004572 JEAN WYLLYS                             Obstrução PSOL      Rio de Janeiro           307
+CD01O057O 004572 LILIAM SÁ                               Não       PR        Rio de Janeiro           309
+CD01O057O 004572 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD01O057O 004572 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD01O057O 004572 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O057O 004572 NELSON BORNIER                          Não       PMDB      Rio de Janeiro           549
+CD01O057O 004572 OTAVIO LEITE                            Obstrução PSDB      Rio de Janeiro           316
+CD01O057O 004572 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD01O057O 004572 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD01O057O 004572 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O057O 004572 WALNEY ROCHA                            Não       PTB       Rio de Janeiro           325
+CD01O057O 004572 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD01O057O 004572 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD01O057O 004572 ABELARDO CAMARINHA                      Não       PSB       São Paulo                329
+CD01O057O 004572 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD01O057O 004572 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD01O057O 004572 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD01O057O 004572 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD01O057O 004572 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD01O057O 004572 CARLOS SAMPAIO                          Obstrução PSDB      São Paulo                338
+CD01O057O 004572 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD01O057O 004572 DELEGADO PROTÓGENES                     Não       PCdoB     São Paulo                343
+CD01O057O 004572 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD01O057O 004572 DIMAS RAMALHO                           Obstrução PPS       São Paulo                346
+CD01O057O 004572 DR. UBIALI                              Não       PSB       São Paulo                541
+CD01O057O 004572 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD01O057O 004572 ELEUSES PAIVA                           Obstrução DEM       São Paulo                537
+CD01O057O 004572 GABRIEL CHALITA                         Não       PSB       São Paulo                347
+CD01O057O 004572 GUILHERME MUSSI                         Não       PV        São Paulo                348
+CD01O057O 004572 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD01O057O 004572 JEFFERSON CAMPOS                        Não       PSB       São Paulo                349
+CD01O057O 004572 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O057O 004572 JOÃO DADO                               Não       PDT       São Paulo                362
+CD01O057O 004572 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD01O057O 004572 JOSÉ DE FILIPPI                         Não       PT        São Paulo                354
+CD01O057O 004572 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD01O057O 004572 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O057O 004572 LUIZ FERNANDO MACHADO                   Obstrução PSDB      São Paulo                365
+CD01O057O 004572 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O057O 004572 MARA GABRILLI                           Obstrução PSDB      São Paulo                366
+CD01O057O 004572 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD01O057O 004572 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD01O057O 004572 NEWTON LIMA                             Não       PT        São Paulo                377
+CD01O057O 004572 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O057O 004572 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O057O 004572 PAULO MALUF                             Não       PP        São Paulo                373
+CD01O057O 004572 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD01O057O 004572 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD01O057O 004572 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD01O057O 004572 RICARDO IZAR                            Obstrução PV        São Paulo                383
+CD01O057O 004572 ROBERTO DE LUCENA                       Obstrução PV        São Paulo                385
+CD01O057O 004572 ROBERTO SANTIAGO                        Obstrução PV        São Paulo                386
+CD01O057O 004572 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD01O057O 004572 TIRIRICA                                Não       PR        São Paulo                392
+CD01O057O 004572 VANDERLEI MACRIS                        Obstrução PSDB      São Paulo                521
+CD01O057O 004572 WILLIAM DIB                             Obstrução PSDB      São Paulo                397
+CD01O057O 004572 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD01O057O 004572 JÚLIO CAMPOS                            Obstrução DEM       Mato Grosso              399
+CD01O057O 004572 NERI GELLER                             Não       PP        Mato Grosso              520
+CD01O057O 004572 ROBERTO DORNER                          Não       PP        Mato Grosso              519
+CD01O057O 004572 SÁGUAS MORAES                           Não       PT        Mato Grosso              405
+CD01O057O 004572 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD01O057O 004572 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD01O057O 004572 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O057O 004572 POLICARPO                               Não       PT        Distrito Federal         539
+CD01O057O 004572 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O057O 004572 RICARDO QUIRINO                         Não       PRB       Distrito Federal         551
+CD01O057O 004572 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O057O 004572 CARLOS ALBERTO LERÉIA                   Obstrução PSDB      Goiás                    415
+CD01O057O 004572 DELEGADO WALDIR                         Obstrução PSDB      Goiás                    559
+CD01O057O 004572 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD01O057O 004572 HEULER CRUVINEL                         Não       DEM       Goiás                    423
+CD01O057O 004572 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O057O 004572 JORGE PINHEIRO                          Não       PRB       Goiás                    548
+CD01O057O 004572 JOVAIR ARANTES                          Não       PTB       Goiás                    419
+CD01O057O 004572 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD01O057O 004572 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD01O057O 004572 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD01O057O 004572 RUBENS OTONI                            Não       PT        Goiás                    425
+CD01O057O 004572 ANTÔNIO CARLOS BIFFI                    Não       PT        Mato Grosso do Sul       432
+CD01O057O 004572 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD01O057O 004572 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD01O057O 004572 GIROTO                                  Não       PR        Mato Grosso do Sul       434
+CD01O057O 004572 MANDETTA                                Obstrução DEM       Mato Grosso do Sul       436
+CD01O057O 004572 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O057O 004572 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD01O057O 004572 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD01O057O 004572 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD01O057O 004572 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD01O057O 004572 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD01O057O 004572 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD01O057O 004572 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O057O 004572 DR. ROSINHA                             Não       PT        Paraná                   449
+CD01O057O 004572 FERNANDO FRANCISCHINI                   Obstrução PSDB      Paraná                   450
+CD01O057O 004572 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O057O 004572 MOACIR MICHELETTO                       Não       PMDB      Paraná                   462
+CD01O057O 004572 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD01O057O 004572 REINHOLD STEPHANES                      Não       PMDB      Paraná                   467
+CD01O057O 004572 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD01O057O 004572 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD01O057O 004572 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD01O057O 004572 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O057O 004572 JORGE BOEIRA                            Não       PT        Santa Catarina           474
+CD01O057O 004572 JORGINHO MELLO                          Obstrução PSDB      Santa Catarina           476
+CD01O057O 004572 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD01O057O 004572 ONOFRE SANTO AGOSTINI                   Abstenção DEM       Santa Catarina           479
+CD01O057O 004572 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD01O057O 004572 ZONTA                                   Não       PP        Santa Catarina           485
+CD01O057O 004572 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD01O057O 004572 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD01O057O 004572 DANRLEI DE DEUS HINTERHOLZ              Não       PTB       Rio Grande do Sul        495
+CD01O057O 004572 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD01O057O 004572 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD01O057O 004572 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD01O057O 004572 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD01O057O 004572 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD01O057O 004572 JOSE STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD01O057O 004572 MANUELA D`ÁVILA                         Não       PCdoB     Rio Grande do Sul        494
+CD01O057O 004572 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O057O 004572 MENDES RIBEIRO FILHO                    Não       PMDB      Rio Grande do Sul        504
+CD01O057O 004572 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD01O057O 004572 PEPE VARGAS                             Não       PT        Rio Grande do Sul        503
+CD01O057O 004572 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD01O057O 004572 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O057O 004572 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD01O057O 004572 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD01O057O 004572 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD01O057O 004572 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O057O 004572 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD01O057O 004572 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O057O 004572 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD01O057O 004572 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O057O 004572 JOÃO LYRA                               <-------> PTB       Alagoas                  167
+CD01O057O 004572 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD01O057O 004572 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O057O 004572 PAUDERNEY AVELINO                       <-------> DEM       Amazonas                 40 
+CD01O057O 004572 SILAS CÂMARA                            <-------> PSC       Amazonas                 39 
+CD01O057O 004572 ÁTILA LINS                              <-------> PMDB      Amazonas                 38 
+CD01O057O 004572 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD01O057O 004572 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O057O 004572 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O057O 004572 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD01O057O 004572 VINICIUS GURGEL                         <-------> PRTB      Amapá                    16 
+CD01O057O 004572 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD01O057O 004572 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O057O 004572 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD01O057O 004572 ANTONIO IMBASSAHY                       <-------> PSDB      Bahia                    191
+CD01O057O 004572 FERNANDO TORRES                         <-------> DEM       Bahia                    196
+CD01O057O 004572 JOSÉ CARLOS ARAÚJO                      <-------> PDT       Bahia                    197
+CD01O057O 004572 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD01O057O 004572 PAULO MAGALHÃES                         <-------> DEM       Bahia                    214
+CD01O057O 004572 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD01O057O 004572 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O057O 004572 SÉRGIO BRITO                            <-------> PSC       Bahia                    213
+CD01O057O 004572 VALMIR ASSUNÇÃO                         <-------> PT        Bahia                    218
+CD01O057O 004572 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD01O057O 004572 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD01O057O 004572 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD01O057O 004572 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD01O057O 004572 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD01O057O 004572 ARIOSTO HOLANDA                         <-------> PSB       Ceará                    92 
+CD01O057O 004572 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD01O057O 004572 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD01O057O 004572 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O057O 004572 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O057O 004572 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD01O057O 004572 MANOEL SALVIANO                         <-------> PSDB      Ceará                    104
+CD01O057O 004572 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD01O057O 004572 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O057O 004572 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O057O 004572 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD01O057O 004572 AUGUSTO CARVALHO                        <-------> PPS       Distrito Federal         545
+CD01O057O 004572 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD01O057O 004572 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD01O057O 004572 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O057O 004572 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O057O 004572 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O057O 004572 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD01O057O 004572 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD01O057O 004572 VALDIVINO DE OLIVEIRA                   <-------> PSDB      Goiás                    547
+CD01O057O 004572 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O057O 004572 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD01O057O 004572 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O057O 004572 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O057O 004572 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O057O 004572 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD01O057O 004572 HÉLIO SANTOS                            <-------> PSDB      Maranhão                 76 
+CD01O057O 004572 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O057O 004572 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD01O057O 004572 ALBERTO FILHO                           <-------> PMDB      Maranhão                 71 
+CD01O057O 004572 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O057O 004572 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD01O057O 004572 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD01O057O 004572 MARCOS MONTES                           <-------> DEM       Minas Gerais             257
+CD01O057O 004572 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O057O 004572 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD01O057O 004572 SARAIVA FELIPE                          <-------> PMDB      Minas Gerais             265
+CD01O057O 004572 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O057O 004572 WALTER TOSTA                            <-------> PMN       Minas Gerais             267
+CD01O057O 004572 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O057O 004572 ZÉ SILVA                                <-------> PDT       Minas Gerais             271
+CD01O057O 004572 STEFANO AGUIAR                          <-------> PSC       Minas Gerais             558
+CD01O057O 004572 EROS BIONDINI                           <-------> PTB       Minas Gerais             242
+CD01O057O 004572 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O057O 004572 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD01O057O 004572 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD01O057O 004572 GERALDO THADEU                          <-------> PPS       Minas Gerais             236
+CD01O057O 004572 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O057O 004572 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD01O057O 004572 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD01O057O 004572 ANTÔNIO ANDRADE                         <-------> PMDB      Minas Gerais             227
+CD01O057O 004572 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O057O 004572 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O057O 004572 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O057O 004572 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD01O057O 004572 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O057O 004572 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD01O057O 004572 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD01O057O 004572 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD01O057O 004572 HOMERO PEREIRA                          <-------> PR        Mato Grosso              402
+CD01O057O 004572 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O057O 004572 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O057O 004572 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O057O 004572 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD01O057O 004572 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O057O 004572 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O057O 004572 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O057O 004572 LUIZ OTÁVIO                             <-------> PMDB      Pará                     526
+CD01O057O 004572 DUDIMAR PAXIÚBA                         <-------> PSDB      Pará                     518
+CD01O057O 004572 AGUINALDO RIBEIRO                       <-------> PP        Paraíba                  129
+CD01O057O 004572 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD01O057O 004572 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD01O057O 004572 ROMERO RODRIGUES                        <-------> PSDB      Paraíba                  135
+CD01O057O 004572 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD01O057O 004572 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD01O057O 004572 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD01O057O 004572 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD01O057O 004572 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD01O057O 004572 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O057O 004572 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD01O057O 004572 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD01O057O 004572 ANA ARRAES                              <-------> PSB       Pernambuco               140
+CD01O057O 004572 FERNANDO FERRO                          <-------> PT        Pernambuco               141
+CD01O057O 004572 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O057O 004572 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD01O057O 004572 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O057O 004572 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O057O 004572 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD01O057O 004572 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O057O 004572 JÚLIO CESAR                             <-------> DEM       Piauí                    114
+CD01O057O 004572 HUGO NAPOLEÃO                           <-------> DEM       Piauí                    112
+CD01O057O 004572 ASSIS CARVALHO                          <-------> PT        Piauí                    111
+CD01O057O 004572 MARCELO CASTRO                          <-------> PMDB      Piauí                    110
+CD01O057O 004572 EDMAR ARRUDA                            <-------> PSC       Paraná                   446
+CD01O057O 004572 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O057O 004572 JOÃO ARRUDA                             <-------> PMDB      Paraná                   455
+CD01O057O 004572 NELSON PADOVANI                         <-------> PSC       Paraná                   457
+CD01O057O 004572 NELSON MEURER                           <-------> PP        Paraná                   458
+CD01O057O 004572 ROSANE FERREIRA                         <-------> PV        Paraná                   459
+CD01O057O 004572 RUBENS BUENO                            <-------> PPS       Paraná                   460
+CD01O057O 004572 EDUARDO SCIARRA                         <-------> DEM       Paraná                   461
+CD01O057O 004572 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD01O057O 004572 SANDRO ALEX                             <-------> PPS       Paraná                   465
+CD01O057O 004572 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O057O 004572 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD01O057O 004572 TAKAYAMA                                <-------> PSC       Paraná                   469
+CD01O057O 004572 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O057O 004572 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O057O 004572 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O057O 004572 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD01O057O 004572 LUIZ CARLOS SETIM                       <-------> DEM       Paraná                   535
+CD01O057O 004572 SOLANGE ALMEIDA                         <-------> PMDB      Rio de Janeiro           563
+CD01O057O 004572 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD01O057O 004572 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD01O057O 004572 CHICO D`ANGELO                          <-------> PT        Rio de Janeiro           527
+CD01O057O 004572 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD01O057O 004572 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD01O057O 004572 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O057O 004572 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O057O 004572 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O057O 004572 AROLDE DE OLIVEIRA                      <-------> DEM       Rio de Janeiro           288
+CD01O057O 004572 CRISTIANO                               <-------> PTdoB     Rio de Janeiro           292
+CD01O057O 004572 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD01O057O 004572 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD01O057O 004572 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O057O 004572 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O057O 004572 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD01O057O 004572 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O057O 004572 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O057O 004572 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD01O057O 004572 LINDOMAR GARÇON                         <-------> PV        Rondonia                 45 
+CD01O057O 004572 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD01O057O 004572 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD01O057O 004572 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD01O057O 004572 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O057O 004572 ASSIS MELO                              <-------> PCdoB     Rio Grande do Sul        492
+CD01O057O 004572 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O057O 004572 LUIZ NOÉ                                <-------> PSB       Rio Grande do Sul        536
+CD01O057O 004572 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD01O057O 004572 LUIS CARLOS HEINZE                      <-------> PP        Rio Grande do Sul        500
+CD01O057O 004572 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD01O057O 004572 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD01O057O 004572 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O057O 004572 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O057O 004572 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O057O 004572 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O057O 004572 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD01O057O 004572 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD01O057O 004572 CARMEN ZANOTTO                          <-------> PPS       Santa Catarina           561
+CD01O057O 004572 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD01O057O 004572 ROGERIO CARVALHO                        <-------> PT        Sergipe                  178
+CD01O057O 004572 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CD01O057O 004572 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD01O057O 004572 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O057O 004572 VICENTINHO                              <-------> PT        São Paulo                396
+CD01O057O 004572 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O057O 004572 ALDO REBELO                             <-------> PCdoB     São Paulo                331
+CD01O057O 004572 ALEXANDRE LEITE                         <-------> DEM       São Paulo                334
+CD01O057O 004572 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD01O057O 004572 WALTER IHOSHI                           <-------> DEM       São Paulo                553
+CD01O057O 004572 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O057O 004572 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O057O 004572 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD01O057O 004572 JUNJI ABE                               <-------> DEM       São Paulo                355
+CD01O057O 004572 GUILHERME CAMPOS                        <-------> DEM       São Paulo                357
+CD01O057O 004572 IVAN VALENTE                            <-------> PSOL      São Paulo                359
+CD01O057O 004572 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O057O 004572 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD01O057O 004572 PASTOR MARCO FELICIANO                  <-------> PSC       São Paulo                379
+CD01O057O 004572 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD01O057O 004572 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O057O 004572 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD01O057O 004572 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O057O 004572 RODRIGO GARCIA                          <-------> DEM       São Paulo                388
+CD01O057O 004572 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD01O057O 004572 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O057O 004572 PENNA                                   <-------> PV        São Paulo                382
+CD01O057O 004572 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O057O 004572 MARCELO AGUIAR                          <-------> PSC       São Paulo                370
+CD01O057O 004572 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD01O057O 004572 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD01O057O 004572 AGNOLIN                                 <-------> PDT       Tocantins                61 
+CD01O057O 004572 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O057O 004572 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 
+CD01O057O 004572 CÉSAR HALUM                             <-------> PPS       Tocantins                64 

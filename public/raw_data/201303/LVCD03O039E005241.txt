@@ -1,0 +1,513 @@
+CD03O039E 005241 CHICO DAS VERDURAS                      Não       PRP       Roraima                  3
+CD03O039E 005241 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD03O039E 005241 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD03O039E 005241 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD03O039E 005241 MARCIO JUNQUEIRA                        Obstrução DEM       Roraima                  625
+CD03O039E 005241 PAULO CESAR QUARTIERO                   Obstrução DEM       Roraima                  6  
+CD03O039E 005241 RAUL LIMA                               Não       PSD       Roraima                  7  
+CD03O039E 005241 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD03O039E 005241 DAVI ALCOLUMBRE                         Obstrução DEM       Amapá                    10 
+CD03O039E 005241 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD03O039E 005241 LUIZ CARLOS                             Obstrução PSDB      Amapá                    14 
+CD03O039E 005241 ASDRUBAL BENTES                         Não       PMDB      Pará                     20 
+CD03O039E 005241 BETO FARO                               Não       PT        Pará                     19 
+CD03O039E 005241 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD03O039E 005241 JOSÉ PRIANTE                            Não       PMDB      Pará                     26 
+CD03O039E 005241 LÚCIO VALE                              Não       PR        Pará                     29 
+CD03O039E 005241 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD03O039E 005241 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD03O039E 005241 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD03O039E 005241 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD03O039E 005241 ÁTILA LINS                              Não       PSD       Amazonas                 38 
+CD03O039E 005241 CARLOS SOUZA                            Não       PSD       Amazonas                 37 
+CD03O039E 005241 DR. LUIZ FERNANDO                       Não       PSD       Amazonas                 605
+CD03O039E 005241 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD03O039E 005241 PLÍNIO VALÉRIO                          Obstrução PSDB      Amazonas                 633
+CD03O039E 005241 SILAS CÂMARA                            Não       PSD       Amazonas                 39 
+CD03O039E 005241 ANSELMO DE JESUS                        Não       PT        Rondonia                 615
+CD03O039E 005241 MARCOS ROGÉRIO                          Não       PDT       Rondonia                 583
+CD03O039E 005241 MOREIRA MENDES                          Não       PSD       Rondonia                 49 
+CD03O039E 005241 ANTÔNIA LÚCIA                           Não       PSC       Acre                     53 
+CD03O039E 005241 FLAVIANO MELO                           Não       PMDB      Acre                     54 
+CD03O039E 005241 GLADSON CAMELI                          Não       PP        Acre                     55 
+CD03O039E 005241 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD03O039E 005241 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD03O039E 005241 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD03O039E 005241 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD03O039E 005241 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD03O039E 005241 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD03O039E 005241 NILMAR RUIZ                             Abstenção PEN       Tocantins                634
+CD03O039E 005241 OSVALDO REIS                            Não       PMDB      Tocantins                620
+CD03O039E 005241 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD03O039E 005241 CARLOS BRANDÃO                          Obstrução PSDB      Maranhão                 68 
+CD03O039E 005241 CLEBER VERDE                            Obstrução PRB       Maranhão                 70 
+CD03O039E 005241 COSTA FERREIRA                          Não       PSC       Maranhão                 571
+CD03O039E 005241 DAVI ALVES SILVA JÚNIOR                 Não       PR        Maranhão                 528
+CD03O039E 005241 DOMINGOS DUTRA                          Abstenção PT        Maranhão                 72 
+CD03O039E 005241 FRANCISCO ESCÓRCIO                      Não       PMDB      Maranhão                 567
+CD03O039E 005241 HÉLIO SANTOS                            Não       PSD       Maranhão                 76 
+CD03O039E 005241 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD03O039E 005241 NICE LOBÃO                              Não       PSD       Maranhão                 78 
+CD03O039E 005241 PINTO ITAMARATY                         Obstrução PSDB      Maranhão                 79 
+CD03O039E 005241 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD03O039E 005241 SARNEY FILHO                            Não       PV        Maranhão                 85 
+CD03O039E 005241 SIMPLÍCIO ARAÚJO                        Abstenção PPS       Maranhão                 585
+CD03O039E 005241 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD03O039E 005241 WEVERTON ROCHA                          Não       PDT       Maranhão                 579
+CD03O039E 005241 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD03O039E 005241 ARIOSTO HOLANDA                         Obstrução PSB       Ceará                    92 
+CD03O039E 005241 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD03O039E 005241 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD03O039E 005241 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD03O039E 005241 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD03O039E 005241 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD03O039E 005241 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD03O039E 005241 MANOEL SALVIANO                         Não       PSD       Ceará                    104
+CD03O039E 005241 MÁRIO FEITOZA                           Não       PMDB      Ceará                    590
+CD03O039E 005241 RAIMUNDO GOMES DE MATOS                 Obstrução PSDB      Ceará                    102
+CD03O039E 005241 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD03O039E 005241 HUGO NAPOLEÃO                           Não       PSD       Piauí                    112
+CD03O039E 005241 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD03O039E 005241 JÚLIO CESAR                             Não       PSD       Piauí                    114
+CD03O039E 005241 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD03O039E 005241 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD03O039E 005241 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD03O039E 005241 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD03O039E 005241 FELIPE MAIA                             Obstrução DEM       Rio Grande do Norte      120
+CD03O039E 005241 HENRIQUE EDUARDO ALVES                  Art. 17   PMDB      Rio Grande do Norte      123
+CD03O039E 005241 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD03O039E 005241 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD03O039E 005241 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD03O039E 005241 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD03O039E 005241 MAJOR FÁBIO                             Obstrução DEM       Paraíba                  599
+CD03O039E 005241 MANOEL JUNIOR                           Não       PMDB      Paraíba                  130
+CD03O039E 005241 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD03O039E 005241 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD03O039E 005241 WILSON FILHO                            Não       PMDB      Paraíba                  139
+CD03O039E 005241 EDUARDO DA FONTE                        Não       PP        Pernambuco               156
+CD03O039E 005241 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD03O039E 005241 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD03O039E 005241 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD03O039E 005241 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD03O039E 005241 MENDONÇA FILHO                          Obstrução DEM       Pernambuco               154
+CD03O039E 005241 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD03O039E 005241 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD03O039E 005241 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD03O039E 005241 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD03O039E 005241 SEVERINO NINHO                          Obstrução PSB       Pernambuco               580
+CD03O039E 005241 VILALBA                                 Obstrução PRB       Pernambuco               555
+CD03O039E 005241 ALEXANDRE TOLEDO                        Sim       PSDB      Alagoas                  596
+CD03O039E 005241 GIVALDO CARIMBÃO                        Não       PSB       Alagoas                  166
+CD03O039E 005241 JOÃO LYRA                               Não       PSD       Alagoas                  167
+CD03O039E 005241 PAULÃO                                  Não       PT        Alagoas                  608
+CD03O039E 005241 ROSINHA DA ADEFAL                       Não       PTdoB     Alagoas                  170
+CD03O039E 005241 ALMEIDA LIMA                            Não       PPS       Sergipe                  173
+CD03O039E 005241 ANDRE MOURA                             Não       PSC       Sergipe                  174
+CD03O039E 005241 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD03O039E 005241 ROGÉRIO CARVALHO                        Não       PT        Sergipe                  178
+CD03O039E 005241 AFONSO FLORENCE                         Não       PT        Bahia                    182
+CD03O039E 005241 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD03O039E 005241 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD03O039E 005241 ANTONIO BRITO                           Obstrução PTB       Bahia                    189
+CD03O039E 005241 COLBERT MARTINS                         Não       PMDB      Bahia                    622
+CD03O039E 005241 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD03O039E 005241 EDSON PIMENTA                           Não       PSD       Bahia                    193
+CD03O039E 005241 ERIVELTON SANTANA                       Não       PSC       Bahia                    194
+CD03O039E 005241 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD03O039E 005241 FERNANDO TORRES                         Não       PSD       Bahia                    196
+CD03O039E 005241 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD03O039E 005241 JÂNIO NATAL                             Não       PRP       Bahia                    198
+CD03O039E 005241 JOSÉ CARLOS ARAÚJO                      Não       PSD       Bahia                    197
+CD03O039E 005241 JOSÉ NUNES                              Não       PSD       Bahia                    201
+CD03O039E 005241 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD03O039E 005241 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD03O039E 005241 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD03O039E 005241 LUIZ DE DEUS                            Obstrução DEM       Bahia                    609
+CD03O039E 005241 MARCELO GUIMARÃES FILHO                 Não       PMDB      Bahia                    627
+CD03O039E 005241 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD03O039E 005241 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD03O039E 005241 PAULO MAGALHÃES                         Não       PSD       Bahia                    214
+CD03O039E 005241 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD03O039E 005241 SÉRGIO BRITO                            Não       PSD       Bahia                    213
+CD03O039E 005241 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD03O039E 005241 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD03O039E 005241 ZEZÉU RIBEIRO                           Abstenção PT        Bahia                    217
+CD03O039E 005241 ADEMIR CAMILO                           Não       PSD       Minas Gerais             220
+CD03O039E 005241 AELTON FREITAS                          Não       PR        Minas Gerais             224
+CD03O039E 005241 BERNARDO SANTANA DE VASCONCELLO         Não       PR        Minas Gerais             221
+CD03O039E 005241 BONIFÁCIO DE ANDRADA                    Não       PSDB      Minas Gerais             534
+CD03O039E 005241 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD03O039E 005241 DOMINGOS SÁVIO                          Obstrução PSDB      Minas Gerais             233
+CD03O039E 005241 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD03O039E 005241 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD03O039E 005241 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD03O039E 005241 GERALDO THADEU                          Não       PSD       Minas Gerais             236
+CD03O039E 005241 ISAIAS SILVESTRE                        Não       PSB       Minas Gerais             604
+CD03O039E 005241 JAIME MARTINS                           Não       PR        Minas Gerais             240
+CD03O039E 005241 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD03O039E 005241 JOÃO BITTAR                             Obstrução DEM       Minas Gerais             531
+CD03O039E 005241 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD03O039E 005241 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD03O039E 005241 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD03O039E 005241 LUIS TIBÉ                               Não       PTdoB     Minas Gerais             251
+CD03O039E 005241 MARCOS MONTES                           Não       PSD       Minas Gerais             257
+CD03O039E 005241 MARCUS PESTANA                          Obstrução PSDB      Minas Gerais             254
+CD03O039E 005241 MAURO LOPES                             Não       PMDB      Minas Gerais             252
+CD03O039E 005241 MIGUEL CORRÊA                           Não       PT        Minas Gerais             261
+CD03O039E 005241 NEWTON CARDOSO                          Não       PMDB      Minas Gerais             258
+CD03O039E 005241 NILMÁRIO MIRANDA                        Não       PT        Minas Gerais             611
+CD03O039E 005241 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD03O039E 005241 RENATO ANDRADE                          Não       PP        Minas Gerais             612
+CD03O039E 005241 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD03O039E 005241 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD03O039E 005241 SILAS BRASILEIRO                        Não       PMDB      Minas Gerais             636
+CD03O039E 005241 STEFANO AGUIAR                          Não       PSC       Minas Gerais             558
+CD03O039E 005241 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD03O039E 005241 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD03O039E 005241 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD03O039E 005241 IRINY LOPES                             Não       PT        Espírito Santo           273
+CD03O039E 005241 MANATO                                  Não       PDT       Espírito Santo           275
+CD03O039E 005241 ALESSANDRO MOLON                        Obstrução PT        Rio de Janeiro           287
+CD03O039E 005241 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CD03O039E 005241 ALFREDO SIRKIS                          Obstrução PV        Rio de Janeiro           321
+CD03O039E 005241 ANDREIA ZITO                            Obstrução PSDB      Rio de Janeiro           283
+CD03O039E 005241 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD03O039E 005241 AROLDE DE OLIVEIRA                      Não       PSD       Rio de Janeiro           288
+CD03O039E 005241 AUREO                                   Não       PRTB      Rio de Janeiro           290
+CD03O039E 005241 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD03O039E 005241 CELSO JACOB                             Não       PMDB      Rio de Janeiro           632
+CD03O039E 005241 CHICO ALENCAR                           Obstrução PSOL      Rio de Janeiro           295
+CD03O039E 005241 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD03O039E 005241 DR. CARLOS ALBERTO                      Obstrução PMN       Rio de Janeiro           529
+CD03O039E 005241 DR. PAULO CÉSAR                         Não       PSD       Rio de Janeiro           296
+CD03O039E 005241 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD03O039E 005241 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD03O039E 005241 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD03O039E 005241 FELIPE BORNIER                          Não       PSD       Rio de Janeiro           301
+CD03O039E 005241 FRANCISCO FLORIANO                      Não       PR        Rio de Janeiro           297
+CD03O039E 005241 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD03O039E 005241 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD03O039E 005241 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD03O039E 005241 JORGE BITTAR                            Não       PT        Rio de Janeiro           310
+CD03O039E 005241 LUIZ SÉRGIO                             Não       PT        Rio de Janeiro           313
+CD03O039E 005241 MANUEL ROSA NECA                        Não       PR        Rio de Janeiro           614
+CD03O039E 005241 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD03O039E 005241 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CD03O039E 005241 ROMÁRIO                                 Obstrução PSB       Rio de Janeiro           319
+CD03O039E 005241 SERGIO ZVEITER                          Não       PSD       Rio de Janeiro           320
+CD03O039E 005241 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD03O039E 005241 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD03O039E 005241 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD03O039E 005241 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD03O039E 005241 ABELARDO CAMARINHA                      Não       PSB       São Paulo                329
+CD03O039E 005241 ALEXANDRE LEITE                         Obstrução DEM       São Paulo                334
+CD03O039E 005241 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD03O039E 005241 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD03O039E 005241 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD03O039E 005241 DELEGADO PROTÓGENES                     Não       PCdoB     São Paulo                343
+CD03O039E 005241 DR. UBIALI                              Não       PSB       São Paulo                541
+CD03O039E 005241 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD03O039E 005241 EMANUEL FERNANDES                       Obstrução PSDB      São Paulo                352
+CD03O039E 005241 FRANCISCO CHAGAS                        Não       PT        São Paulo                626
+CD03O039E 005241 GUILHERME CAMPOS                        Não       PSD       São Paulo                357
+CD03O039E 005241 GUILHERME MUSSI                         Não       PSD       São Paulo                348
+CD03O039E 005241 IVAN VALENTE                            Obstrução PSOL      São Paulo                359
+CD03O039E 005241 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD03O039E 005241 JEFFERSON CAMPOS                        Não       PSD       São Paulo                349
+CD03O039E 005241 JOÃO DADO                               Obstrução PDT       São Paulo                362
+CD03O039E 005241 JOÃO PAULO CUNHA                        Não       PT        São Paulo                361
+CD03O039E 005241 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD03O039E 005241 JUNJI ABE                               Não       PSD       São Paulo                355
+CD03O039E 005241 MARCELO AGUIAR                          Não       PSD       São Paulo                370
+CD03O039E 005241 RICARDO IZAR                            Não       PSD       São Paulo                383
+CD03O039E 005241 TIRIRICA                                Não       PR        São Paulo                392
+CD03O039E 005241 VANDERLEI SIRAQUE                       Não       PT        São Paulo                581
+CD03O039E 005241 VAZ DE LIMA                             Obstrução PSDB      São Paulo                394
+CD03O039E 005241 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CD03O039E 005241 VICENTINHO                              Não       PT        São Paulo                396
+CD03O039E 005241 WILLIAM DIB                             Obstrução PSDB      São Paulo                397
+CD03O039E 005241 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD03O039E 005241 ELIENE LIMA                             Não       PSD       Mato Grosso              401
+CD03O039E 005241 NILSON LEITÃO                           Obstrução PSDB      Mato Grosso              573
+CD03O039E 005241 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD03O039E 005241 IZALCI                                  Obstrução PSDB      Distrito Federal         408
+CD03O039E 005241 JAQUELINE RORIZ                         Não       PMN       Distrito Federal         409
+CD03O039E 005241 LUIZ PITIMAN                            Não       PMDB      Distrito Federal         410
+CD03O039E 005241 POLICARPO                               Não       PT        Distrito Federal         539
+CD03O039E 005241 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD03O039E 005241 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD03O039E 005241 ARMANDO VERGÍLIO                        Não       PSD       Goiás                    416
+CD03O039E 005241 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD03O039E 005241 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD03O039E 005241 MAGDA MOFATTO                           Não       PTB       Goiás                    575
+CD03O039E 005241 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD03O039E 005241 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD03O039E 005241 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD03O039E 005241 VALDIVINO DE OLIVEIRA                   Abstenção PSDB      Goiás                    547
+CD03O039E 005241 BIFFI                                   Não       PT        Mato Grosso do Sul       432
+CD03O039E 005241 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD03O039E 005241 GIROTO                                  Não       PMDB      Mato Grosso do Sul       434
+CD03O039E 005241 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD03O039E 005241 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD03O039E 005241 ALFREDO KAEFER                          Obstrução PSDB      Paraná                   451
+CD03O039E 005241 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD03O039E 005241 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD03O039E 005241 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD03O039E 005241 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD03O039E 005241 EDUARDO SCIARRA                         Não       PSD       Paraná                   461
+CD03O039E 005241 HERMES PARCIANELLO                      Não       PMDB      Paraná                   448
+CD03O039E 005241 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD03O039E 005241 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD03O039E 005241 LUIZ NISHIMORI                          Obstrução PSDB      Paraná                   542
+CD03O039E 005241 MARCELO ALMEIDA                         Sim       PMDB      Paraná                   631
+CD03O039E 005241 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD03O039E 005241 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD03O039E 005241 PROFESSOR SÉRGIO DE OLIVEIRA            Não       PSC       Paraná                   603
+CD03O039E 005241 RICARDO ARRUDA                          Não       PSC       Paraná                   635
+CD03O039E 005241 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD03O039E 005241 SANDRO ALEX                             Não       PPS       Paraná                   465
+CD03O039E 005241 TAKAYAMA                                Não       PSC       Paraná                   469
+CD03O039E 005241 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD03O039E 005241 CARMEN ZANOTTO                          Não       PPS       Santa Catarina           561
+CD03O039E 005241 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD03O039E 005241 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD03O039E 005241 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD03O039E 005241 JORGE BOEIRA                            Não       PSD       Santa Catarina           474
+CD03O039E 005241 ONOFRE SANTO AGOSTINI                   Não       PSD       Santa Catarina           479
+CD03O039E 005241 VALDIR COLATTO                          Não       PMDB      Santa Catarina           560
+CD03O039E 005241 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD03O039E 005241 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD03O039E 005241 DANRLEI DE DEUS HINTERHOLZ              Não       PSD       Rio Grande do Sul        495
+CD03O039E 005241 DARCÍSIO PERONDI                        Não       PMDB      Rio Grande do Sul        491
+CD03O039E 005241 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD03O039E 005241 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD03O039E 005241 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD03O039E 005241 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD03O039E 005241 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD03O039E 005241 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD03O039E 005241 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD03O039E 005241 ONYX LORENZONI                          Obstrução DEM       Rio Grande do Sul        510
+CD03O039E 005241 PAULO FERREIRA                          Não       PT        Rio Grande do Sul        591
+CD03O039E 005241 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD03O039E 005241 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD03O039E 005241 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD03O039E 005241 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD03O039E 005241 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD03O039E 005241 FRANCISCO TENÓRIO                       <-------> PMN       Alagoas                  607
+CD03O039E 005241 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD03O039E 005241 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD03O039E 005241 ARTHUR LIRA                             <-------> PP        Alagoas                  162
+CD03O039E 005241 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD03O039E 005241 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD03O039E 005241 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD03O039E 005241 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD03O039E 005241 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD03O039E 005241 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD03O039E 005241 ANTONIO IMBASSAHY                       <-------> PSDB      Bahia                    191
+CD03O039E 005241 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD03O039E 005241 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD03O039E 005241 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD03O039E 005241 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD03O039E 005241 JOÃO LEÃO                               <-------> PP        Bahia                    199
+CD03O039E 005241 MÁRIO NEGROMONTE                        <-------> PP        Bahia                    210
+CD03O039E 005241 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD03O039E 005241 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD03O039E 005241 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD03O039E 005241 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD03O039E 005241 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD03O039E 005241 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD03O039E 005241 GERA ARRUDA                             <-------> PMDB      Ceará                    592
+CD03O039E 005241 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD03O039E 005241 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD03O039E 005241 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD03O039E 005241 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD03O039E 005241 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD03O039E 005241 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD03O039E 005241 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD03O039E 005241 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD03O039E 005241 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD03O039E 005241 AUGUSTO CARVALHO                        <-------> PPS       Distrito Federal         545
+CD03O039E 005241 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD03O039E 005241 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD03O039E 005241 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD03O039E 005241 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD03O039E 005241 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD03O039E 005241 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD03O039E 005241 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD03O039E 005241 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD03O039E 005241 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD03O039E 005241 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD03O039E 005241 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD03O039E 005241 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD03O039E 005241 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD03O039E 005241 HEULER CRUVINEL                         <-------> PSD       Goiás                    423
+CD03O039E 005241 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD03O039E 005241 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD03O039E 005241 PEDRO NOVAIS                            <-------> PMDB      Maranhão                 82 
+CD03O039E 005241 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD03O039E 005241 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD03O039E 005241 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD03O039E 005241 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD03O039E 005241 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD03O039E 005241 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD03O039E 005241 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD03O039E 005241 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD03O039E 005241 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD03O039E 005241 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD03O039E 005241 HUMBERTO SOUTO                          <-------> PPS       Minas Gerais             606
+CD03O039E 005241 MARGARIDA SALOMÃO                       <-------> PT        Minas Gerais             610
+CD03O039E 005241 DIEGO ANDRADE                           <-------> PSD       Minas Gerais             228
+CD03O039E 005241 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD03O039E 005241 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD03O039E 005241 MÁRIO HERINGER                          <-------> PDT       Minas Gerais             629
+CD03O039E 005241 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD03O039E 005241 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD03O039E 005241 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD03O039E 005241 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD03O039E 005241 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD03O039E 005241 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD03O039E 005241 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD03O039E 005241 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD03O039E 005241 GERALDO RESENDE                         <-------> PMDB      Mato Grosso do Sul       435
+CD03O039E 005241 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD03O039E 005241 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD03O039E 005241 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD03O039E 005241 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD03O039E 005241 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD03O039E 005241 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD03O039E 005241 NILSON PINTO                            <-------> PSDB      Pará                     31 
+CD03O039E 005241 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD03O039E 005241 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD03O039E 005241 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD03O039E 005241 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD03O039E 005241 DUDIMAR PAXIÚBA                         <-------> PSDB      Pará                     518
+CD03O039E 005241 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD03O039E 005241 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD03O039E 005241 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD03O039E 005241 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD03O039E 005241 LEONARDO GADELHA                        <-------> PSC       Paraíba                  586
+CD03O039E 005241 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD03O039E 005241 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD03O039E 005241 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD03O039E 005241 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD03O039E 005241 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD03O039E 005241 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD03O039E 005241 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD03O039E 005241 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD03O039E 005241 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD03O039E 005241 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD03O039E 005241 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD03O039E 005241 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD03O039E 005241 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD03O039E 005241 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD03O039E 005241 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD03O039E 005241 RUBENS BUENO                            <-------> PPS       Paraná                   460
+CD03O039E 005241 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD03O039E 005241 GIACOBO                                 <-------> PR        Paraná                   466
+CD03O039E 005241 ODÍLIO BALBINOTTI                       <-------> PMDB      Paraná                   588
+CD03O039E 005241 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD03O039E 005241 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD03O039E 005241 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD03O039E 005241 NELSON MEURER                           <-------> PP        Paraná                   458
+CD03O039E 005241 OLIVEIRA FILHO                          <-------> PRB       Paraná                   621
+CD03O039E 005241 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD03O039E 005241 FERNANDO FRANCISCHINI                   <-------> PEN       Paraná                   450
+CD03O039E 005241 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD03O039E 005241 LILIAM SÁ                               <-------> PSD       Rio de Janeiro           309
+CD03O039E 005241 FERNANDO LOPES                          <-------> PMDB      Rio de Janeiro           623
+CD03O039E 005241 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD03O039E 005241 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD03O039E 005241 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD03O039E 005241 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD03O039E 005241 LEONARDO PICCIANI                       <-------> PMDB      Rio de Janeiro           312
+CD03O039E 005241 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD03O039E 005241 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD03O039E 005241 EURICO JÚNIOR                           <-------> PV        Rio de Janeiro           613
+CD03O039E 005241 MIRO TEIXEIRA                           <-------> PDT       Rio de Janeiro           317
+CD03O039E 005241 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD03O039E 005241 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD03O039E 005241 FÁBIO FARIA                             <-------> PSD       Rio Grande do Norte      119
+CD03O039E 005241 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD03O039E 005241 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD03O039E 005241 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD03O039E 005241 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD03O039E 005241 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD03O039E 005241 PADRE TON                               <-------> PT        Rondonia                 48 
+CD03O039E 005241 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD03O039E 005241 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD03O039E 005241 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD03O039E 005241 URZENI ROCHA                            <-------> PSDB      Roraima                  616
+CD03O039E 005241 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD03O039E 005241 BETO ALBUQUERQUE                        <-------> PSB       Rio Grande do Sul        490
+CD03O039E 005241 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD03O039E 005241 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD03O039E 005241 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD03O039E 005241 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD03O039E 005241 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD03O039E 005241 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD03O039E 005241 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD03O039E 005241 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD03O039E 005241 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD03O039E 005241 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD03O039E 005241 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD03O039E 005241 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD03O039E 005241 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD03O039E 005241 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD03O039E 005241 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD03O039E 005241 JORGINHO MELLO                          <-------> PR        Santa Catarina           476
+CD03O039E 005241 MARCO TEBALDI                           <-------> PSDB      Santa Catarina           478
+CD03O039E 005241 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD03O039E 005241 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD03O039E 005241 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD03O039E 005241 ESPERIDIÃO AMIN                         <-------> PP        Santa Catarina           471
+CD03O039E 005241 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD03O039E 005241 FABIO REIS                              <-------> PMDB      Sergipe                  619
+CD03O039E 005241 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD03O039E 005241 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD03O039E 005241 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD03O039E 005241 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD03O039E 005241 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD03O039E 005241 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD03O039E 005241 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD03O039E 005241 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD03O039E 005241 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD03O039E 005241 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD03O039E 005241 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD03O039E 005241 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD03O039E 005241 MÁRCIO FRANÇA                           <-------> PSB       São Paulo                368
+CD03O039E 005241 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD03O039E 005241 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD03O039E 005241 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD03O039E 005241 KEIKO OTA                               <-------> PSB       São Paulo                356
+CD03O039E 005241 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CD03O039E 005241 ELEUSES PAIVA                           <-------> PSD       São Paulo                537
+CD03O039E 005241 ARNALDO FARIA DE SÁ                     <-------> PTB       São Paulo                337
+CD03O039E 005241 PASTOR MARCO FELICIANO                  <-------> PSC       São Paulo                379
+CD03O039E 005241 WALTER FELDMAN                          <-------> PSDB      São Paulo                550
+CD03O039E 005241 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD03O039E 005241 ROBERTO DE LUCENA                       <-------> PV        São Paulo                385
+CD03O039E 005241 WALTER IHOSHI                           <-------> PSD       São Paulo                553
+CD03O039E 005241 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD03O039E 005241 ROBERTO SANTIAGO                        <-------> PSD       São Paulo                386
+CD03O039E 005241 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD03O039E 005241 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD03O039E 005241 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD03O039E 005241 PENNA                                   <-------> PV        São Paulo                382
+CD03O039E 005241 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD03O039E 005241 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD03O039E 005241 OTONIEL LIMA                            <-------> PRB       São Paulo                378
+CD03O039E 005241 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD03O039E 005241 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD03O039E 005241 MILTON MONTI                            <-------> PR        São Paulo                374
+CD03O039E 005241 PAULO MALUF                             <-------> PP        São Paulo                373
+CD03O039E 005241 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD03O039E 005241 LUIZA ERUNDINA                          <-------> PSB       São Paulo                371
+CD03O039E 005241 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD03O039E 005241 JOSÉ GENOÍNO                            <-------> PT        São Paulo                617
+CD03O039E 005241 IARA BERNARDI                           <-------> PT        São Paulo                618
+CD03O039E 005241 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD03O039E 005241 BETO MANSUR                             <-------> PP        São Paulo                340
+CD03O039E 005241 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD03O039E 005241 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CD03O039E 005241 CÉSAR HALUM                             <-------> PSD       Tocantins                64 
+CD03O039E 005241 LEOMAR QUINTANILHA                      <-------> PMDB      Tocantins                628

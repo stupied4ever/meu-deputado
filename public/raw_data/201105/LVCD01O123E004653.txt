@@ -1,0 +1,513 @@
+CD01O123E 004653 BERINHO BANTIM                          Sim       PSDB      Roraima                  1
+CD01O123E 004653 DR. FRANCISCO ARAÚJO                    Sim       PSL       Roraima                  570
+CD01O123E 004653 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD01O123E 004653 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CD01O123E 004653 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD01O123E 004653 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD01O123E 004653 TERESA SURITA                           Sim       PMDB      Roraima                  8  
+CD01O123E 004653 DAVI ALCOLUMBRE                         Sim       DEM       Amapá                    10 
+CD01O123E 004653 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD01O123E 004653 FÁTIMA PELAES                           Sim       PMDB      Amapá                    12 
+CD01O123E 004653 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD01O123E 004653 PROFESSORA MARCIVANIA                   Não       PT        Amapá                    15 
+CD01O123E 004653 SEBASTIÃO BALA ROCHA                    Obstrução PDT       Amapá                    17 
+CD01O123E 004653 VINICIUS GURGEL                         Não       PRTB      Amapá                    16 
+CD01O123E 004653 ANDRÉ DIAS                              Sim       PSDB      Pará                     517
+CD01O123E 004653 ARNALDO JORDY                           Não       PPS       Pará                     18 
+CD01O123E 004653 BETO FARO                               Não       PT        Pará                     19 
+CD01O123E 004653 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD01O123E 004653 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD01O123E 004653 ELCIONE BARBALHO                        Sim       PMDB      Pará                     21 
+CD01O123E 004653 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD01O123E 004653 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CD01O123E 004653 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD01O123E 004653 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD01O123E 004653 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O123E 004653 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O123E 004653 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CD01O123E 004653 WLADIMIR COSTA                          Sim       PMDB      Pará                     23 
+CD01O123E 004653 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD01O123E 004653 ÁTILA LINS                              Sim       PMDB      Amazonas                 38 
+CD01O123E 004653 CARLOS SOUZA                            Sim       PP        Amazonas                 37 
+CD01O123E 004653 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD01O123E 004653 HENRIQUE OLIVEIRA                       Não       PR        Amazonas                 36 
+CD01O123E 004653 PAUDERNEY AVELINO                       Sim       DEM       Amazonas                 40 
+CD01O123E 004653 REBECCA GARCIA                          Não       PP        Amazonas                 42 
+CD01O123E 004653 SABINO CASTELO BRANCO                   Sim       PTB       Amazonas                 43 
+CD01O123E 004653 SILAS CÂMARA                            Sim       PSC       Amazonas                 39 
+CD01O123E 004653 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD01O123E 004653 LINDOMAR GARÇON                         Não       PV        Rondonia                 45 
+CD01O123E 004653 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD01O123E 004653 MAURO NAZIF                             Sim       PSB       Rondonia                 46 
+CD01O123E 004653 MOREIRA MENDES                          Sim       PPS       Rondonia                 49 
+CD01O123E 004653 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD01O123E 004653 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD01O123E 004653 PADRE TON                               Não       PT        Rondonia                 48 
+CD01O123E 004653 ANTÔNIA LÚCIA                           Sim       PSC       Acre                     53 
+CD01O123E 004653 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD01O123E 004653 GLADSON CAMELI                          Sim       PP        Acre                     55 
+CD01O123E 004653 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD01O123E 004653 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD01O123E 004653 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD01O123E 004653 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD01O123E 004653 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD01O123E 004653 CÉSAR HALUM                             Sim       PPS       Tocantins                64 
+CD01O123E 004653 IRAJÁ ABREU                             Sim       DEM       Tocantins                65 
+CD01O123E 004653 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD01O123E 004653 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD01O123E 004653 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD01O123E 004653 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD01O123E 004653 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD01O123E 004653 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD01O123E 004653 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD01O123E 004653 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD01O123E 004653 GASTÃO VIEIRA                           Sim       PMDB      Maranhão                 75 
+CD01O123E 004653 HÉLIO SANTOS                            Sim       PSDB      Maranhão                 76 
+CD01O123E 004653 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O123E 004653 LUCIANO MOREIRA                         Sim       PMDB      Maranhão                 83 
+CD01O123E 004653 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD01O123E 004653 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD01O123E 004653 RIBAMAR ALVES                           Não       PSB       Maranhão                 74 
+CD01O123E 004653 SARNEY FILHO                            Não       PV        Maranhão                 85 
+CD01O123E 004653 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD01O123E 004653 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O123E 004653 ANÍBAL GOMES                            Sim       PMDB      Ceará                    87 
+CD01O123E 004653 ANTONIO BALHMANN                        Não       PSB       Ceará                    93 
+CD01O123E 004653 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD01O123E 004653 ARNON BEZERRA                           Não       PTB       Ceará                    90 
+CD01O123E 004653 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD01O123E 004653 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CD01O123E 004653 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD01O123E 004653 GENECIAS NORONHA                        Sim       PMDB      Ceará                    99 
+CD01O123E 004653 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD01O123E 004653 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O123E 004653 MANOEL SALVIANO                         Sim       PSDB      Ceará                    104
+CD01O123E 004653 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD01O123E 004653 RAIMUNDÃO                               Sim       PMDB      Ceará                    108
+CD01O123E 004653 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD01O123E 004653 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD01O123E 004653 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD01O123E 004653 HUGO NAPOLEÃO                           Sim       DEM       Piauí                    112
+CD01O123E 004653 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O123E 004653 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD01O123E 004653 JÚLIO CESAR                             Sim       DEM       Piauí                    114
+CD01O123E 004653 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD01O123E 004653 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD01O123E 004653 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD01O123E 004653 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CD01O123E 004653 PAES LANDIM                             Não       PTB       Piauí                    118
+CD01O123E 004653 FÁBIO FARIA                             Sim       PMN       Rio Grande do Norte      119
+CD01O123E 004653 FÁTIMA BEZERRA                          Não       PT        Rio Grande do Norte      121
+CD01O123E 004653 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD01O123E 004653 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD01O123E 004653 JOÃO MAIA                               Sim       PR        Rio Grande do Norte      124
+CD01O123E 004653 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD01O123E 004653 ROGÉRIO MARINHO                         Sim       PSDB      Rio Grande do Norte      540
+CD01O123E 004653 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CD01O123E 004653 AGUINALDO RIBEIRO                       Não       PP        Paraíba                  129
+CD01O123E 004653 BENJAMIN MARANHÃO                       Sim       PMDB      Paraíba                  131
+CD01O123E 004653 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD01O123E 004653 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD01O123E 004653 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD01O123E 004653 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O123E 004653 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD01O123E 004653 NILDA GONDIM                            Sim       PMDB      Paraíba                  134
+CD01O123E 004653 ROMERO RODRIGUES                        Sim       PSDB      Paraíba                  135
+CD01O123E 004653 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD01O123E 004653 ANA ARRAES                              Não       PSB       Pernambuco               140
+CD01O123E 004653 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD01O123E 004653 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CD01O123E 004653 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD01O123E 004653 EDUARDO DA FONTE                        Não       PP        Pernambuco               156
+CD01O123E 004653 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD01O123E 004653 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD01O123E 004653 GONZAGA PATRIOTA                        Não       PSB       Pernambuco               143
+CD01O123E 004653 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD01O123E 004653 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD01O123E 004653 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD01O123E 004653 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD01O123E 004653 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD01O123E 004653 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD01O123E 004653 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD01O123E 004653 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD01O123E 004653 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD01O123E 004653 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD01O123E 004653 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD01O123E 004653 VILALBA                                 Sim       PRB       Pernambuco               555
+CD01O123E 004653 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD01O123E 004653 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD01O123E 004653 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD01O123E 004653 GIVALDO CARIMBÃO                        Não       PSB       Alagoas                  166
+CD01O123E 004653 JOÃO LYRA                               Sim       PTB       Alagoas                  167
+CD01O123E 004653 JOAQUIM BELTRÃO                         Sim       PMDB      Alagoas                  172
+CD01O123E 004653 MAURÍCIO QUINTELLA LESSA                Não       PR        Alagoas                  168
+CD01O123E 004653 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD01O123E 004653 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD01O123E 004653 ALMEIDA LIMA                            Sim       PMDB      Sergipe                  173
+CD01O123E 004653 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD01O123E 004653 HELENO SILVA                            Sim       PRB       Sergipe                  175
+CD01O123E 004653 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD01O123E 004653 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD01O123E 004653 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD01O123E 004653 ROGÉRIO CARVALHO                        Não       PT        Sergipe                  178
+CD01O123E 004653 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD01O123E 004653 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD01O123E 004653 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O123E 004653 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD01O123E 004653 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD01O123E 004653 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O123E 004653 ARTHUR OLIVEIRA MAIA                    Sim       PMDB      Bahia                    192
+CD01O123E 004653 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD01O123E 004653 EDSON PIMENTA                           Não       PCdoB     Bahia                    193
+CD01O123E 004653 EMILIANO JOSÉ                           Não       PT        Bahia                    523
+CD01O123E 004653 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD01O123E 004653 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD01O123E 004653 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD01O123E 004653 FERNANDO TORRES                         Não       DEM       Bahia                    196
+CD01O123E 004653 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O123E 004653 JÂNIO NATAL                             Não       PRP       Bahia                    198
+CD01O123E 004653 JOÃO CARLOS BACELAR                     Não       PR        Bahia                    187
+CD01O123E 004653 JOSÉ CARLOS ARAÚJO                      Sim       PDT       Bahia                    197
+CD01O123E 004653 JOSÉ NUNES                              Abstenção DEM       Bahia                    201
+CD01O123E 004653 JOSEPH BANDEIRA                         Não       PT        Bahia                    565
+CD01O123E 004653 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD01O123E 004653 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O123E 004653 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD01O123E 004653 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD01O123E 004653 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD01O123E 004653 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD01O123E 004653 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD01O123E 004653 MAURÍCIO TRINDADE                       Sim       PR        Bahia                    208
+CD01O123E 004653 NELSON PELLEGRINO                       Não       PT        Bahia                    209
+CD01O123E 004653 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD01O123E 004653 PAULO MAGALHÃES                         Sim       DEM       Bahia                    214
+CD01O123E 004653 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O123E 004653 RUI COSTA                               Não       PT        Bahia                    216
+CD01O123E 004653 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O123E 004653 SÉRGIO BRITO                            Sim       PSC       Bahia                    213
+CD01O123E 004653 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD01O123E 004653 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O123E 004653 ADEMIR CAMILO                           Não       PDT       Minas Gerais             220
+CD01O123E 004653 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CD01O123E 004653 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD01O123E 004653 ANTÔNIO ROBERTO                         Não       PV        Minas Gerais             229
+CD01O123E 004653 ARACELY DE PAULA                        Sim       PR        Minas Gerais             223
+CD01O123E 004653 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD01O123E 004653 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CD01O123E 004653 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD01O123E 004653 DIEGO ANDRADE                           Sim       PR        Minas Gerais             228
+CD01O123E 004653 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD01O123E 004653 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD01O123E 004653 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD01O123E 004653 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD01O123E 004653 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD01O123E 004653 EROS BIONDINI                           Sim       PTB       Minas Gerais             242
+CD01O123E 004653 FÁBIO RAMALHO                           Não       PV        Minas Gerais             238
+CD01O123E 004653 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD01O123E 004653 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD01O123E 004653 GERALDO THADEU                          Sim       PPS       Minas Gerais             236
+CD01O123E 004653 GILMAR MACHADO                          Não       PT        Minas Gerais             234
+CD01O123E 004653 JAIME MARTINS                           Sim       PR        Minas Gerais             240
+CD01O123E 004653 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CD01O123E 004653 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD01O123E 004653 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD01O123E 004653 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD01O123E 004653 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD01O123E 004653 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD01O123E 004653 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD01O123E 004653 LUIS TIBÉ                               Não       PTdoB     Minas Gerais             251
+CD01O123E 004653 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD01O123E 004653 MARCOS MONTES                           Sim       DEM       Minas Gerais             257
+CD01O123E 004653 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD01O123E 004653 MIGUEL CORRÊA                           Não       PT        Minas Gerais             261
+CD01O123E 004653 NEWTON CARDOSO                          Sim       PMDB      Minas Gerais             258
+CD01O123E 004653 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O123E 004653 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD01O123E 004653 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD01O123E 004653 PAULO PIAU                              Sim       PMDB      Minas Gerais             266
+CD01O123E 004653 RODRIGO DE CASTRO                       Abstenção PSDB      Minas Gerais             268
+CD01O123E 004653 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD01O123E 004653 STEFANO AGUIAR                          Sim       PSC       Minas Gerais             558
+CD01O123E 004653 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD01O123E 004653 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD01O123E 004653 WALTER TOSTA                            Não       PMN       Minas Gerais             267
+CD01O123E 004653 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD01O123E 004653 ZÉ SILVA                                Sim       PDT       Minas Gerais             271
+CD01O123E 004653 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O123E 004653 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD01O123E 004653 CESAR COLNAGO                           Não       PSDB      Espírito Santo           276
+CD01O123E 004653 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD01O123E 004653 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD01O123E 004653 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD01O123E 004653 MANATO                                  Sim       PDT       Espírito Santo           275
+CD01O123E 004653 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD01O123E 004653 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD01O123E 004653 ADRIAN                                  Sim       PMDB      Rio de Janeiro           286
+CD01O123E 004653 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD01O123E 004653 ALEXANDRE SANTOS                        Sim       PMDB      Rio de Janeiro           285
+CD01O123E 004653 ALFREDO SIRKIS                          Não       PV        Rio de Janeiro           321
+CD01O123E 004653 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD01O123E 004653 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD01O123E 004653 AROLDE DE OLIVEIRA                      Sim       DEM       Rio de Janeiro           288
+CD01O123E 004653 AUREO                                   Não       PRTB      Rio de Janeiro           290
+CD01O123E 004653 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD01O123E 004653 BRIZOLA NETO                            Não       PDT       Rio de Janeiro           566
+CD01O123E 004653 CHICO ALENCAR                           Não       PSOL      Rio de Janeiro           295
+CD01O123E 004653 CHICO D`ANGELO                          Não       PT        Rio de Janeiro           527
+CD01O123E 004653 CRISTIANO                               Não       PTdoB     Rio de Janeiro           292
+CD01O123E 004653 DELEY                                   Não       PSC       Rio de Janeiro           562
+CD01O123E 004653 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD01O123E 004653 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CD01O123E 004653 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD01O123E 004653 DR. PAULO CÉSAR                         Não       PR        Rio de Janeiro           296
+CD01O123E 004653 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD01O123E 004653 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD01O123E 004653 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD01O123E 004653 ELIANE ROLIM                            Não       PT        Rio de Janeiro           538
+CD01O123E 004653 FELIPE BORNIER                          Sim       PHS       Rio de Janeiro           301
+CD01O123E 004653 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD01O123E 004653 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD01O123E 004653 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD01O123E 004653 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD01O123E 004653 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O123E 004653 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD01O123E 004653 LILIAM SÁ                               Não       PR        Rio de Janeiro           309
+CD01O123E 004653 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD01O123E 004653 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD01O123E 004653 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O123E 004653 NELSON BORNIER                          Sim       PMDB      Rio de Janeiro           549
+CD01O123E 004653 OTAVIO LEITE                            Não       PSDB      Rio de Janeiro           316
+CD01O123E 004653 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD01O123E 004653 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD01O123E 004653 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD01O123E 004653 SOLANGE ALMEIDA                         Sim       PMDB      Rio de Janeiro           563
+CD01O123E 004653 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD01O123E 004653 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD01O123E 004653 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD01O123E 004653 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD01O123E 004653 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD01O123E 004653 ABELARDO CAMARINHA                      Não       PSB       São Paulo                329
+CD01O123E 004653 ALDO REBELO                             Sim       PCdoB     São Paulo                331
+CD01O123E 004653 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD01O123E 004653 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD01O123E 004653 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD01O123E 004653 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD01O123E 004653 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD01O123E 004653 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD01O123E 004653 BETO MANSUR                             Sim       PP        São Paulo                340
+CD01O123E 004653 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CD01O123E 004653 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD01O123E 004653 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD01O123E 004653 CARLOS ROBERTO                          Sim       PSDB      São Paulo                569
+CD01O123E 004653 CARLOS SAMPAIO                          Sim       PSDB      São Paulo                338
+CD01O123E 004653 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD01O123E 004653 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD01O123E 004653 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD01O123E 004653 DIMAS RAMALHO                           Sim       PPS       São Paulo                346
+CD01O123E 004653 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD01O123E 004653 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O123E 004653 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD01O123E 004653 ELEUSES PAIVA                           Sim       DEM       São Paulo                537
+CD01O123E 004653 GABRIEL CHALITA                         Não       PSB       São Paulo                347
+CD01O123E 004653 GUILHERME CAMPOS                        Sim       DEM       São Paulo                357
+CD01O123E 004653 GUILHERME MUSSI                         Não       PV        São Paulo                348
+CD01O123E 004653 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD01O123E 004653 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD01O123E 004653 JEFFERSON CAMPOS                        Não       PSB       São Paulo                349
+CD01O123E 004653 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O123E 004653 JOÃO DADO                               Não       PDT       São Paulo                362
+CD01O123E 004653 JOÃO PAULO CUNHA                        Não       PT        São Paulo                361
+CD01O123E 004653 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD01O123E 004653 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD01O123E 004653 JOSÉ DE FILIPPI                         Não       PT        São Paulo                354
+CD01O123E 004653 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD01O123E 004653 JUNJI ABE                               Sim       DEM       São Paulo                355
+CD01O123E 004653 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O123E 004653 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD01O123E 004653 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O123E 004653 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD01O123E 004653 MARCELO AGUIAR                          Sim       PSC       São Paulo                370
+CD01O123E 004653 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD01O123E 004653 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD01O123E 004653 NEWTON LIMA                             Não       PT        São Paulo                377
+CD01O123E 004653 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O123E 004653 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD01O123E 004653 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O123E 004653 PAULO MALUF                             Sim       PP        São Paulo                373
+CD01O123E 004653 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD01O123E 004653 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD01O123E 004653 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD01O123E 004653 RICARDO IZAR                            Não       PV        São Paulo                383
+CD01O123E 004653 RICARDO TRIPOLI                         Não       PSDB      São Paulo                384
+CD01O123E 004653 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD01O123E 004653 ROBERTO SANTIAGO                        Não       PV        São Paulo                386
+CD01O123E 004653 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD01O123E 004653 TIRIRICA                                Sim       PR        São Paulo                392
+CD01O123E 004653 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD01O123E 004653 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD01O123E 004653 VICENTINHO                              Não       PT        São Paulo                396
+CD01O123E 004653 WALTER IHOSHI                           Sim       DEM       São Paulo                553
+CD01O123E 004653 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD01O123E 004653 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD01O123E 004653 HOMERO PEREIRA                          Sim       PR        Mato Grosso              402
+CD01O123E 004653 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD01O123E 004653 NERI GELLER                             Sim       PP        Mato Grosso              520
+CD01O123E 004653 ROBERTO DORNER                          Sim       PP        Mato Grosso              519
+CD01O123E 004653 SÁGUAS MORAES                           Não       PT        Mato Grosso              405
+CD01O123E 004653 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD01O123E 004653 WELLINGTON FAGUNDES                     Sim       PR        Mato Grosso              406
+CD01O123E 004653 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD01O123E 004653 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD01O123E 004653 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O123E 004653 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD01O123E 004653 POLICARPO                               Não       PT        Distrito Federal         539
+CD01O123E 004653 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD01O123E 004653 RICARDO QUIRINO                         Sim       PRB       Distrito Federal         551
+CD01O123E 004653 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O123E 004653 CARLOS ALBERTO LERÉIA                   Sim       PSDB      Goiás                    415
+CD01O123E 004653 DELEGADO WALDIR                         Sim       PSDB      Goiás                    559
+CD01O123E 004653 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD01O123E 004653 HEULER CRUVINEL                         Sim       DEM       Goiás                    423
+CD01O123E 004653 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD01O123E 004653 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD01O123E 004653 JORGE PINHEIRO                          Não       PRB       Goiás                    548
+CD01O123E 004653 JOVAIR ARANTES                          Sim       PTB       Goiás                    419
+CD01O123E 004653 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CD01O123E 004653 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD01O123E 004653 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD01O123E 004653 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD01O123E 004653 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD01O123E 004653 RUBENS OTONI                            Não       PT        Goiás                    425
+CD01O123E 004653 SANDES JÚNIOR                           Não       PP        Goiás                    426
+CD01O123E 004653 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD01O123E 004653 ANTÔNIO CARLOS BIFFI                    Não       PT        Mato Grosso do Sul       432
+CD01O123E 004653 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD01O123E 004653 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD01O123E 004653 GIROTO                                  Sim       PR        Mato Grosso do Sul       434
+CD01O123E 004653 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD01O123E 004653 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD01O123E 004653 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD01O123E 004653 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD01O123E 004653 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD01O123E 004653 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD01O123E 004653 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD01O123E 004653 ANGELO VANHONI                          Não       PT        Paraná                   453
+CD01O123E 004653 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD01O123E 004653 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD01O123E 004653 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD01O123E 004653 DR. ROSINHA                             Não       PT        Paraná                   449
+CD01O123E 004653 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD01O123E 004653 EDUARDO SCIARRA                         Sim       DEM       Paraná                   461
+CD01O123E 004653 GIACOBO                                 Sim       PR        Paraná                   466
+CD01O123E 004653 HERMES PARCIANELLO                      Sim       PMDB      Paraná                   448
+CD01O123E 004653 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD01O123E 004653 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O123E 004653 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD01O123E 004653 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD01O123E 004653 MOACIR MICHELETTO                       Sim       PMDB      Paraná                   462
+CD01O123E 004653 NELSON MEURER                           Sim       PP        Paraná                   458
+CD01O123E 004653 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD01O123E 004653 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD01O123E 004653 RATINHO JUNIOR                          Sim       PSC       Paraná                   464
+CD01O123E 004653 REINHOLD STEPHANES                      Sim       PMDB      Paraná                   467
+CD01O123E 004653 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD01O123E 004653 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD01O123E 004653 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O123E 004653 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD01O123E 004653 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD01O123E 004653 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD01O123E 004653 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD01O123E 004653 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD01O123E 004653 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD01O123E 004653 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD01O123E 004653 GEAN LOUREIRO                           Sim       PMDB      Santa Catarina           568
+CD01O123E 004653 JORGINHO MELLO                          Sim       PSDB      Santa Catarina           476
+CD01O123E 004653 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD01O123E 004653 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CD01O123E 004653 ONOFRE SANTO AGOSTINI                   Sim       DEM       Santa Catarina           479
+CD01O123E 004653 PEDRO UCZAI                             Não       PT        Santa Catarina           481
+CD01O123E 004653 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD01O123E 004653 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD01O123E 004653 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD01O123E 004653 ZONTA                                   Sim       PP        Santa Catarina           485
+CD01O123E 004653 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD01O123E 004653 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD01O123E 004653 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD01O123E 004653 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD01O123E 004653 DANRLEI DE DEUS HINTERHOLZ              Sim       PTB       Rio Grande do Sul        495
+CD01O123E 004653 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD01O123E 004653 ENIO BACCI                              Sim       PDT       Rio Grande do Sul        493
+CD01O123E 004653 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD01O123E 004653 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD01O123E 004653 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD01O123E 004653 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD01O123E 004653 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD01O123E 004653 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD01O123E 004653 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD01O123E 004653 MANUELA D`ÁVILA                         Sim       PCdoB     Rio Grande do Sul        494
+CD01O123E 004653 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O123E 004653 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD01O123E 004653 MENDES RIBEIRO FILHO                    Sim       PMDB      Rio Grande do Sul        504
+CD01O123E 004653 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD01O123E 004653 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD01O123E 004653 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD01O123E 004653 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD01O123E 004653 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD01O123E 004653 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD01O123E 004653 SÉRGIO MORAES                           Sim       PTB       Rio Grande do Sul        512
+CD01O123E 004653 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD01O123E 004653 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD01O123E 004653 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD01O123E 004653 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O123E 004653 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD01O123E 004653 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD01O123E 004653 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD01O123E 004653 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD01O123E 004653 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD01O123E 004653 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O123E 004653 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O123E 004653 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD01O123E 004653 ARTUR BRUNO                             <-------> PT        Ceará                    94 
+CD01O123E 004653 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD01O123E 004653 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD01O123E 004653 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O123E 004653 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O123E 004653 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O123E 004653 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O123E 004653 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD01O123E 004653 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD01O123E 004653 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O123E 004653 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O123E 004653 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O123E 004653 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD01O123E 004653 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O123E 004653 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD01O123E 004653 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O123E 004653 MARÇAL FILHO                            <-------> PMDB      Mato Grosso do Sul       437
+CD01O123E 004653 LUIZ OTÁVIO                             <-------> PMDB      Pará                     526
+CD01O123E 004653 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O123E 004653 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD01O123E 004653 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O123E 004653 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD01O123E 004653 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD01O123E 004653 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O123E 004653 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD01O123E 004653 FERNANDO FRANCISCHINI                   <-------> PSDB      Paraná                   450
+CD01O123E 004653 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O123E 004653 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD01O123E 004653 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD01O123E 004653 RAUL LIMA                               <-------> PP        Roraima                  7  
+CD01O123E 004653 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O123E 004653 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O123E 004653 PEPE VARGAS                             <-------> PT        Rio Grande do Sul        503
+CD01O123E 004653 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O123E 004653 JORGE BOEIRA                            <-------> PT        Santa Catarina           474
+CD01O123E 004653 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O123E 004653 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O123E 004653 PENNA                                   <-------> PV        São Paulo                382
+CD01O123E 004653 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O123E 004653 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O123E 004653 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O123E 004653 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD01O123E 004653 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O123E 004653 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 

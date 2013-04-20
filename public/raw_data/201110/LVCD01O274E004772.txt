@@ -1,0 +1,513 @@
+CD01O274E 004772 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6
+CD01O274E 004772 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD01O274E 004772 DAVI ALCOLUMBRE                         Sim       DEM       Amapá                    10 
+CD01O274E 004772 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD01O274E 004772 FÁTIMA PELAES                           Não       PMDB      Amapá                    12 
+CD01O274E 004772 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD01O274E 004772 VINICIUS GURGEL                         Sim       PR        Amapá                    16 
+CD01O274E 004772 ASDRUBAL BENTES                         Não       PMDB      Pará                     20 
+CD01O274E 004772 BETO FARO                               Não       PT        Pará                     19 
+CD01O274E 004772 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD01O274E 004772 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O274E 004772 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O274E 004772 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD01O274E 004772 ÁTILA LINS                              Não       PMDB      Amazonas                 38 
+CD01O274E 004772 CARLOS SOUZA                            Não       PP        Amazonas                 37 
+CD01O274E 004772 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD01O274E 004772 PAUDERNEY AVELINO                       Sim       DEM       Amazonas                 40 
+CD01O274E 004772 REBECCA GARCIA                          Não       PP        Amazonas                 42 
+CD01O274E 004772 LINDOMAR GARÇON                         Não       PV        Rondonia                 45 
+CD01O274E 004772 MARINHA RAUPP                           Não       PMDB      Rondonia                 50 
+CD01O274E 004772 MAURO NAZIF                             Não       PSB       Rondonia                 46 
+CD01O274E 004772 PADRE TON                               Não       PT        Rondonia                 48 
+CD01O274E 004772 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD01O274E 004772 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD01O274E 004772 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD01O274E 004772 LÁZARO BOTELHO                          Não       PP        Tocantins                63 
+CD01O274E 004772 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD01O274E 004772 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O274E 004772 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD01O274E 004772 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD01O274E 004772 EDIVALDO HOLANDA JUNIOR                 Não       PTC       Maranhão                 73 
+CD01O274E 004772 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O274E 004772 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD01O274E 004772 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD01O274E 004772 WEVERTON ROCHA                          Sim       PDT       Maranhão                 579
+CD01O274E 004772 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD01O274E 004772 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD01O274E 004772 ARNON BEZERRA                           Não       PTB       Ceará                    90 
+CD01O274E 004772 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD01O274E 004772 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD01O274E 004772 DOMINGOS NETO                           Não       PSB       Ceará                    97 
+CD01O274E 004772 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD01O274E 004772 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD01O274E 004772 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD01O274E 004772 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O274E 004772 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD01O274E 004772 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD01O274E 004772 HUGO NAPOLEÃO                           Sim       DEM       Piauí                    112
+CD01O274E 004772 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD01O274E 004772 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD01O274E 004772 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD01O274E 004772 HENRIQUE EDUARDO ALVES                  Não       PMDB      Rio Grande do Norte      123
+CD01O274E 004772 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD01O274E 004772 ROGÉRIO MARINHO                         Sim       PSDB      Rio Grande do Norte      540
+CD01O274E 004772 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD01O274E 004772 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD01O274E 004772 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD01O274E 004772 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O274E 004772 MANOEL JUNIOR                           Não       PMDB      Paraíba                  130
+CD01O274E 004772 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD01O274E 004772 ROMERO RODRIGUES                        Sim       PSDB      Paraíba                  135
+CD01O274E 004772 WELLINGTON ROBERTO                      Sim       PR        Paraíba                  136
+CD01O274E 004772 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD01O274E 004772 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD01O274E 004772 CARLOS EDUARDO CADOCA                   Não       PSC       Pernambuco               152
+CD01O274E 004772 EDUARDO DA FONTE                        Não       PP        Pernambuco               156
+CD01O274E 004772 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD01O274E 004772 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD01O274E 004772 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD01O274E 004772 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD01O274E 004772 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD01O274E 004772 PAULO RUBEM SANTIAGO                    Sim       PDT       Pernambuco               554
+CD01O274E 004772 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD01O274E 004772 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD01O274E 004772 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD01O274E 004772 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD01O274E 004772 WOLNEY QUEIROZ                          Sim       PDT       Pernambuco               164
+CD01O274E 004772 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD01O274E 004772 CELIA ROCHA                             Não       PTB       Alagoas                  165
+CD01O274E 004772 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD01O274E 004772 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD01O274E 004772 ALMEIDA LIMA                            Sim       PMDB      Sergipe                  173
+CD01O274E 004772 HELENO SILVA                            Não       PRB       Sergipe                  175
+CD01O274E 004772 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD01O274E 004772 ACELINO POPÓ                            Não       PRB       Bahia                    522
+CD01O274E 004772 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O274E 004772 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD01O274E 004772 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD01O274E 004772 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O274E 004772 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD01O274E 004772 ERIVELTON SANTANA                       Não       PSC       Bahia                    194
+CD01O274E 004772 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD01O274E 004772 FERNANDO TORRES                         Não       DEM       Bahia                    196
+CD01O274E 004772 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O274E 004772 JOÃO CARLOS BACELAR                     Não       PR        Bahia                    187
+CD01O274E 004772 JOSÉ CARLOS ARAÚJO                      Sim       PDT       Bahia                    197
+CD01O274E 004772 JOSÉ NUNES                              Não       DEM       Bahia                    201
+CD01O274E 004772 JOSEPH BANDEIRA                         Não       PT        Bahia                    565
+CD01O274E 004772 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD01O274E 004772 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD01O274E 004772 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD01O274E 004772 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD01O274E 004772 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD01O274E 004772 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD01O274E 004772 PAULO MAGALHÃES                         Não       DEM       Bahia                    214
+CD01O274E 004772 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O274E 004772 RUI COSTA                               Não       PT        Bahia                    216
+CD01O274E 004772 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O274E 004772 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O274E 004772 ANTÔNIO ANDRADE                         Não       PMDB      Minas Gerais             227
+CD01O274E 004772 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD01O274E 004772 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD01O274E 004772 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O274E 004772 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD01O274E 004772 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD01O274E 004772 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD01O274E 004772 FÁBIO RAMALHO                           Não       PV        Minas Gerais             238
+CD01O274E 004772 JAIME MARTINS                           Sim       PR        Minas Gerais             240
+CD01O274E 004772 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CD01O274E 004772 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD01O274E 004772 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD01O274E 004772 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD01O274E 004772 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD01O274E 004772 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD01O274E 004772 MÁRIO DE OLIVEIRA                       Não       PSC       Minas Gerais             260
+CD01O274E 004772 NEWTON CARDOSO                          Não       PMDB      Minas Gerais             258
+CD01O274E 004772 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD01O274E 004772 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD01O274E 004772 PAULO PIAU                              Não       PMDB      Minas Gerais             266
+CD01O274E 004772 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD01O274E 004772 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD01O274E 004772 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD01O274E 004772 ZÉ SILVA                                Não       PDT       Minas Gerais             271
+CD01O274E 004772 AUDIFAX                                 Sim       PSB       Espírito Santo           274
+CD01O274E 004772 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD01O274E 004772 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD01O274E 004772 LAURIETE                                Não       PSC       Espírito Santo           279
+CD01O274E 004772 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD01O274E 004772 MANATO                                  Sim       PDT       Espírito Santo           275
+CD01O274E 004772 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD01O274E 004772 ROSE DE FREITAS                         Art. 17   PMDB      Espírito Santo           282
+CD01O274E 004772 SUELI VIDIGAL                           Sim       PDT       Espírito Santo           281
+CD01O274E 004772 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD01O274E 004772 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD01O274E 004772 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD01O274E 004772 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD01O274E 004772 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD01O274E 004772 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O274E 004772 CHICO D`ANGELO                          Não       PT        Rio de Janeiro           527
+CD01O274E 004772 DELEY                                   Sim       PSC       Rio de Janeiro           562
+CD01O274E 004772 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD01O274E 004772 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD01O274E 004772 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O274E 004772 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD01O274E 004772 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD01O274E 004772 ELIANE ROLIM                            Não       PT        Rio de Janeiro           538
+CD01O274E 004772 FELIPE BORNIER                          Não       PHS       Rio de Janeiro           301
+CD01O274E 004772 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD01O274E 004772 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD01O274E 004772 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O274E 004772 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD01O274E 004772 LILIAM SÁ                               Sim       PR        Rio de Janeiro           309
+CD01O274E 004772 MARCELO MATOS                           Sim       PDT       Rio de Janeiro           311
+CD01O274E 004772 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD01O274E 004772 NEILTON MULIM                           Sim       PR        Rio de Janeiro           315
+CD01O274E 004772 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD01O274E 004772 PAULO FEIJÓ                             Sim       PR        Rio de Janeiro           577
+CD01O274E 004772 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD01O274E 004772 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD01O274E 004772 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD01O274E 004772 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O274E 004772 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD01O274E 004772 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD01O274E 004772 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD01O274E 004772 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD01O274E 004772 BETO MANSUR                             Não       PP        São Paulo                340
+CD01O274E 004772 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CD01O274E 004772 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD01O274E 004772 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD01O274E 004772 CARLOS ROBERTO                          Sim       PSDB      São Paulo                569
+CD01O274E 004772 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD01O274E 004772 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD01O274E 004772 DIMAS RAMALHO                           Sim       PPS       São Paulo                346
+CD01O274E 004772 DR. UBIALI                              Não       PSB       São Paulo                541
+CD01O274E 004772 DRA.ELAINE ABISSAMRA                    Não       PSB       São Paulo                576
+CD01O274E 004772 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O274E 004772 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD01O274E 004772 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD01O274E 004772 GUILHERME CAMPOS                        Não       DEM       São Paulo                357
+CD01O274E 004772 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD01O274E 004772 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD01O274E 004772 JEFFERSON CAMPOS                        Não       PSB       São Paulo                349
+CD01O274E 004772 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O274E 004772 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD01O274E 004772 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD01O274E 004772 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD01O274E 004772 JUNJI ABE                               Não       DEM       São Paulo                355
+CD01O274E 004772 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O274E 004772 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD01O274E 004772 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O274E 004772 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD01O274E 004772 MARCELO AGUIAR                          Não       PSC       São Paulo                370
+CD01O274E 004772 MILTON MONTI                            Sim       PR        São Paulo                374
+CD01O274E 004772 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD01O274E 004772 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD01O274E 004772 NEWTON LIMA                             Não       PT        São Paulo                377
+CD01O274E 004772 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD01O274E 004772 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD01O274E 004772 RICARDO IZAR                            Sim       PV        São Paulo                383
+CD01O274E 004772 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD01O274E 004772 ROBERTO SANTIAGO                        Sim       PV        São Paulo                386
+CD01O274E 004772 TIRIRICA                                Sim       PR        São Paulo                392
+CD01O274E 004772 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD01O274E 004772 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CD01O274E 004772 WALTER IHOSHI                           Sim       DEM       São Paulo                553
+CD01O274E 004772 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD01O274E 004772 HOMERO PEREIRA                          Não       PR        Mato Grosso              402
+CD01O274E 004772 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD01O274E 004772 NERI GELLER                             Não       PP        Mato Grosso              520
+CD01O274E 004772 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD01O274E 004772 WELLINGTON FAGUNDES                     Sim       PR        Mato Grosso              406
+CD01O274E 004772 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O274E 004772 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD01O274E 004772 IZALCI                                  Sim       PR        Distrito Federal         408
+CD01O274E 004772 JAQUELINE RORIZ                         Não       PMN       Distrito Federal         409
+CD01O274E 004772 LUIZ PITIMAN                            Não       PMDB      Distrito Federal         410
+CD01O274E 004772 POLICARPO                               Não       PT        Distrito Federal         539
+CD01O274E 004772 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O274E 004772 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD01O274E 004772 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD01O274E 004772 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O274E 004772 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD01O274E 004772 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD01O274E 004772 MAGDA MOFATTO                           Não       PTB       Goiás                    575
+CD01O274E 004772 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD01O274E 004772 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD01O274E 004772 SANDES JÚNIOR                           Não       PP        Goiás                    426
+CD01O274E 004772 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD01O274E 004772 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD01O274E 004772 GIROTO                                  Sim       PR        Mato Grosso do Sul       434
+CD01O274E 004772 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD01O274E 004772 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O274E 004772 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD01O274E 004772 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD01O274E 004772 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD01O274E 004772 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD01O274E 004772 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD01O274E 004772 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD01O274E 004772 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD01O274E 004772 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O274E 004772 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD01O274E 004772 FERNANDO FRANCISCHINI                   Sim       PSDB      Paraná                   450
+CD01O274E 004772 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O274E 004772 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O274E 004772 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD01O274E 004772 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD01O274E 004772 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD01O274E 004772 RATINHO JUNIOR                          Não       PSC       Paraná                   464
+CD01O274E 004772 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD01O274E 004772 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O274E 004772 TAKAYAMA                                Não       PSC       Paraná                   469
+CD01O274E 004772 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD01O274E 004772 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD01O274E 004772 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD01O274E 004772 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD01O274E 004772 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O274E 004772 GEAN LOUREIRO                           Não       PMDB      Santa Catarina           568
+CD01O274E 004772 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD01O274E 004772 PEDRO UCZAI                             Não       PT        Santa Catarina           481
+CD01O274E 004772 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD01O274E 004772 VALDIR COLATTO                          Não       PMDB      Santa Catarina           560
+CD01O274E 004772 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD01O274E 004772 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD01O274E 004772 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD01O274E 004772 ELISEU PADILHA                          Não       PMDB      Rio Grande do Sul        578
+CD01O274E 004772 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD01O274E 004772 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD01O274E 004772 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD01O274E 004772 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD01O274E 004772 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD01O274E 004772 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD01O274E 004772 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD01O274E 004772 PEPE VARGAS                             Não       PT        Rio Grande do Sul        503
+CD01O274E 004772 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD01O274E 004772 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O274E 004772 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD01O274E 004772 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD01O274E 004772 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD01O274E 004772 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD01O274E 004772 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD01O274E 004772 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O274E 004772 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O274E 004772 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD01O274E 004772 TAUMATURGO LIMA                         <-------> PT        Acre                     59 
+CD01O274E 004772 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD01O274E 004772 RUI PALMEIRA                            <-------> PSDB      Alagoas                  171
+CD01O274E 004772 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD01O274E 004772 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O274E 004772 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O274E 004772 JOÃO LYRA                               <-------> PTB       Alagoas                  167
+CD01O274E 004772 FRANCISCO PRACIANO                      <-------> PT        Amazonas                 41 
+CD01O274E 004772 SILAS CÂMARA                            <-------> PSC       Amazonas                 39 
+CD01O274E 004772 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O274E 004772 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O274E 004772 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD01O274E 004772 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD01O274E 004772 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD01O274E 004772 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD01O274E 004772 EDSON PIMENTA                           <-------> PCdoB     Bahia                    193
+CD01O274E 004772 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD01O274E 004772 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD01O274E 004772 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD01O274E 004772 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD01O274E 004772 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O274E 004772 SÉRGIO BRITO                            <-------> PSC       Bahia                    213
+CD01O274E 004772 VALMIR ASSUNÇÃO                         <-------> PT        Bahia                    218
+CD01O274E 004772 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD01O274E 004772 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD01O274E 004772 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD01O274E 004772 RAIMUNDÃO                               <-------> PMDB      Ceará                    108
+CD01O274E 004772 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD01O274E 004772 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O274E 004772 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD01O274E 004772 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD01O274E 004772 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O274E 004772 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O274E 004772 MANOEL SALVIANO                         <-------> PSDB      Ceará                    104
+CD01O274E 004772 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD01O274E 004772 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD01O274E 004772 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O274E 004772 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD01O274E 004772 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O274E 004772 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O274E 004772 HEULER CRUVINEL                         <-------> DEM       Goiás                    423
+CD01O274E 004772 ARMANDO VERGÍLIO                        <-------> PMN       Goiás                    416
+CD01O274E 004772 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD01O274E 004772 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD01O274E 004772 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O274E 004772 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O274E 004772 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O274E 004772 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O274E 004772 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O274E 004772 COSTA FERREIRA                          <-------> PSC       Maranhão                 571
+CD01O274E 004772 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O274E 004772 PEDRO NOVAIS                            <-------> PMDB      Maranhão                 82 
+CD01O274E 004772 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O274E 004772 HÉLIO SANTOS                            <-------> PSDB      Maranhão                 76 
+CD01O274E 004772 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O274E 004772 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O274E 004772 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD01O274E 004772 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD01O274E 004772 JÔ MORAES                               <-------> PCdoB     Minas Gerais             246
+CD01O274E 004772 MÁRCIO REINALDO MOREIRA                 <-------> PP        Minas Gerais             247
+CD01O274E 004772 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O274E 004772 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD01O274E 004772 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O274E 004772 MARCOS MONTES                           <-------> DEM       Minas Gerais             257
+CD01O274E 004772 TONINHO PINHEIRO                        <-------> PP        Minas Gerais             264
+CD01O274E 004772 WALTER TOSTA                            <-------> PMN       Minas Gerais             267
+CD01O274E 004772 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O274E 004772 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD01O274E 004772 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O274E 004772 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O274E 004772 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O274E 004772 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O274E 004772 EROS BIONDINI                           <-------> PTB       Minas Gerais             242
+CD01O274E 004772 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD01O274E 004772 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD01O274E 004772 GERALDO THADEU                          <-------> PPS       Minas Gerais             236
+CD01O274E 004772 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD01O274E 004772 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O274E 004772 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD01O274E 004772 DIEGO ANDRADE                           <-------> PR        Minas Gerais             228
+CD01O274E 004772 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O274E 004772 ADEMIR CAMILO                           <-------> PDT       Minas Gerais             220
+CD01O274E 004772 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O274E 004772 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD01O274E 004772 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD01O274E 004772 GERALDO RESENDE                         <-------> PMDB      Mato Grosso do Sul       435
+CD01O274E 004772 ANTÔNIO CARLOS BIFFI                    <-------> PT        Mato Grosso do Sul       432
+CD01O274E 004772 ROBERTO DORNER                          <-------> PP        Mato Grosso              519
+CD01O274E 004772 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD01O274E 004772 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD01O274E 004772 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O274E 004772 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD01O274E 004772 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O274E 004772 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CD01O274E 004772 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O274E 004772 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O274E 004772 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD01O274E 004772 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD01O274E 004772 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O274E 004772 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O274E 004772 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O274E 004772 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD01O274E 004772 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD01O274E 004772 AGUINALDO RIBEIRO                       <-------> PP        Paraíba                  129
+CD01O274E 004772 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O274E 004772 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD01O274E 004772 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD01O274E 004772 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD01O274E 004772 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD01O274E 004772 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD01O274E 004772 VILALBA                                 <-------> PRB       Pernambuco               555
+CD01O274E 004772 ANA ARRAES                              <-------> PSB       Pernambuco               140
+CD01O274E 004772 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O274E 004772 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O274E 004772 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O274E 004772 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O274E 004772 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD01O274E 004772 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD01O274E 004772 MARCELO CASTRO                          <-------> PMDB      Piauí                    110
+CD01O274E 004772 JESUS RODRIGUES                         <-------> PT        Piauí                    115
+CD01O274E 004772 JÚLIO CESAR                             <-------> DEM       Piauí                    114
+CD01O274E 004772 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD01O274E 004772 EDUARDO SCIARRA                         <-------> DEM       Paraná                   461
+CD01O274E 004772 MOACIR MICHELETTO                       <-------> PMDB      Paraná                   462
+CD01O274E 004772 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD01O274E 004772 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O274E 004772 REINHOLD STEPHANES                      <-------> PMDB      Paraná                   467
+CD01O274E 004772 ROSANE FERREIRA                         <-------> PV        Paraná                   459
+CD01O274E 004772 NELSON MEURER                           <-------> PP        Paraná                   458
+CD01O274E 004772 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O274E 004772 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O274E 004772 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O274E 004772 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O274E 004772 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O274E 004772 AROLDE DE OLIVEIRA                      <-------> DEM       Rio de Janeiro           288
+CD01O274E 004772 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O274E 004772 SOLANGE ALMEIDA                         <-------> PMDB      Rio de Janeiro           563
+CD01O274E 004772 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD01O274E 004772 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD01O274E 004772 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD01O274E 004772 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD01O274E 004772 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD01O274E 004772 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD01O274E 004772 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD01O274E 004772 DR. PAULO CÉSAR                         <-------> PR        Rio de Janeiro           296
+CD01O274E 004772 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD01O274E 004772 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD01O274E 004772 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD01O274E 004772 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O274E 004772 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O274E 004772 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O274E 004772 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O274E 004772 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD01O274E 004772 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD01O274E 004772 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD01O274E 004772 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD01O274E 004772 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O274E 004772 BERINHO BANTIM                          <-------> PSDB      Roraima                  1  
+CD01O274E 004772 FRANCISCO ARAÚJO                        <-------> PSL       Roraima                  570
+CD01O274E 004772 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD01O274E 004772 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD01O274E 004772 RAUL LIMA                               <-------> PP        Roraima                  7  
+CD01O274E 004772 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD01O274E 004772 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD01O274E 004772 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O274E 004772 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD01O274E 004772 GIOVANI CHERINI                         <-------> PDT       Rio Grande do Sul        502
+CD01O274E 004772 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O274E 004772 ASSIS MELO                              <-------> PCdoB     Rio Grande do Sul        492
+CD01O274E 004772 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O274E 004772 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O274E 004772 DANRLEI DE DEUS HINTERHOLZ              <-------> PTB       Rio Grande do Sul        495
+CD01O274E 004772 JOSÉ STÉDILE                            <-------> PSB       Rio Grande do Sul        506
+CD01O274E 004772 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O274E 004772 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O274E 004772 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD01O274E 004772 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD01O274E 004772 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O274E 004772 EDINHO BEZ                              <-------> PMDB      Santa Catarina           470
+CD01O274E 004772 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O274E 004772 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD01O274E 004772 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O274E 004772 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD01O274E 004772 ONOFRE SANTO AGOSTINI                   <-------> DEM       Santa Catarina           479
+CD01O274E 004772 JORGE BOEIRA                            <-------> PT        Santa Catarina           474
+CD01O274E 004772 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O274E 004772 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD01O274E 004772 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD01O274E 004772 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD01O274E 004772 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CD01O274E 004772 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O274E 004772 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD01O274E 004772 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O274E 004772 ALDO REBELO                             <-------> PCdoB     São Paulo                331
+CD01O274E 004772 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD01O274E 004772 ALEXANDRE LEITE                         <-------> DEM       São Paulo                334
+CD01O274E 004772 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD01O274E 004772 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD01O274E 004772 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O274E 004772 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O274E 004772 GUILHERME MUSSI                         <-------> PV        São Paulo                348
+CD01O274E 004772 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O274E 004772 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O274E 004772 PENNA                                   <-------> PV        São Paulo                382
+CD01O274E 004772 ELEUSES PAIVA                           <-------> DEM       São Paulo                537
+CD01O274E 004772 JOSÉ DE FILIPPI                         <-------> PT        São Paulo                354
+CD01O274E 004772 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD01O274E 004772 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O274E 004772 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD01O274E 004772 OTONIEL LIMA                            <-------> PRB       São Paulo                378
+CD01O274E 004772 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O274E 004772 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD01O274E 004772 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O274E 004772 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD01O274E 004772 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD01O274E 004772 VICENTINHO                              <-------> PT        São Paulo                396
+CD01O274E 004772 LAUREZ MOREIRA                          <-------> PSB       Tocantins                62 
+CD01O274E 004772 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O274E 004772 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 
+CD01O274E 004772 CÉSAR HALUM                             <-------> PPS       Tocantins                64 

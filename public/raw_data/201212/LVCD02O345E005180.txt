@@ -1,0 +1,513 @@
+CD02O345E 005180 BERINHO BANTIM                          Não       PEN       Roraima                  1
+CD02O345E 005180 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD02O345E 005180 RAUL LIMA                               Sim       PSD       Roraima                  7  
+CD02O345E 005180 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD02O345E 005180 DAVI ALCOLUMBRE                         Sim       DEM       Amapá                    10 
+CD02O345E 005180 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD02O345E 005180 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD02O345E 005180 VINICIUS GURGEL                         Não       PR        Amapá                    16 
+CD02O345E 005180 ASDRUBAL BENTES                         Não       PMDB      Pará                     20 
+CD02O345E 005180 BETO FARO                               Não       PT        Pará                     19 
+CD02O345E 005180 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD02O345E 005180 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD02O345E 005180 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD02O345E 005180 LIRA MAIA                               Obstrução DEM       Pará                     28 
+CD02O345E 005180 LÚCIO VALE                              Não       PR        Pará                     29 
+CD02O345E 005180 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD02O345E 005180 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CD02O345E 005180 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD02O345E 005180 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD02O345E 005180 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD02O345E 005180 CARLOS SOUZA                            Sim       PSD       Amazonas                 37 
+CD02O345E 005180 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD02O345E 005180 MAURO NAZIF                             Não       PSB       Rondonia                 46 
+CD02O345E 005180 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD02O345E 005180 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD02O345E 005180 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD02O345E 005180 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD02O345E 005180 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD02O345E 005180 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD02O345E 005180 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD02O345E 005180 COSTA FERREIRA                          Não       PSC       Maranhão                 571
+CD02O345E 005180 DAVI ALVES SILVA JÚNIOR                 Não       PR        Maranhão                 528
+CD02O345E 005180 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD02O345E 005180 FRANCISCO ESCÓRCIO                      Não       PMDB      Maranhão                 567
+CD02O345E 005180 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CD02O345E 005180 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD02O345E 005180 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD02O345E 005180 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD02O345E 005180 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD02O345E 005180 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD02O345E 005180 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD02O345E 005180 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD02O345E 005180 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD02O345E 005180 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD02O345E 005180 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD02O345E 005180 RAIMUNDÃO                               Não       PMDB      Ceará                    108
+CD02O345E 005180 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD02O345E 005180 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD02O345E 005180 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CD02O345E 005180 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD02O345E 005180 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD02O345E 005180 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD02O345E 005180 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD02O345E 005180 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD02O345E 005180 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD02O345E 005180 HENRIQUE EDUARDO ALVES                  Não       PMDB      Rio Grande do Norte      123
+CD02O345E 005180 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD02O345E 005180 LEONARDO GADELHA                        Não       PSC       Paraíba                  586
+CD02O345E 005180 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD02O345E 005180 MANOEL JUNIOR                           Não       PMDB      Paraíba                  130
+CD02O345E 005180 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD02O345E 005180 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD02O345E 005180 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD02O345E 005180 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD02O345E 005180 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD02O345E 005180 SEVERINO NINHO                          Não       PSB       Pernambuco               580
+CD02O345E 005180 VILALBA                                 Não       PRB       Pernambuco               555
+CD02O345E 005180 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD02O345E 005180 GIVALDO CARIMBÃO                        Não       PSB       Alagoas                  166
+CD02O345E 005180 JOÃO LYRA                               Sim       PSD       Alagoas                  167
+CD02O345E 005180 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD02O345E 005180 ROSINHA DA ADEFAL                       Não       PTdoB     Alagoas                  170
+CD02O345E 005180 ALMEIDA LIMA                            Sim       PPS       Sergipe                  173
+CD02O345E 005180 ANDRE MOURA                             Não       PSC       Sergipe                  174
+CD02O345E 005180 LAERCIO OLIVEIRA                        Não       PR        Sergipe                  176
+CD02O345E 005180 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD02O345E 005180 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CD02O345E 005180 AFONSO FLORENCE                         Não       PT        Bahia                    182
+CD02O345E 005180 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD02O345E 005180 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD02O345E 005180 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD02O345E 005180 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD02O345E 005180 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD02O345E 005180 EDSON PIMENTA                           Não       PSD       Bahia                    193
+CD02O345E 005180 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD02O345E 005180 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CD02O345E 005180 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD02O345E 005180 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD02O345E 005180 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD02O345E 005180 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD02O345E 005180 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD02O345E 005180 LUIZ ARGÔLO                             Sim       PP        Bahia                    207
+CD02O345E 005180 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD02O345E 005180 NELSON PELLEGRINO                       Não       PT        Bahia                    209
+CD02O345E 005180 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD02O345E 005180 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD02O345E 005180 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD02O345E 005180 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD02O345E 005180 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD02O345E 005180 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD02O345E 005180 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CD02O345E 005180 GILMAR MACHADO                          Não       PT        Minas Gerais             234
+CD02O345E 005180 JAIME MARTINS                           Não       PR        Minas Gerais             240
+CD02O345E 005180 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD02O345E 005180 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD02O345E 005180 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD02O345E 005180 LUIS TIBÉ                               Não       PTdoB     Minas Gerais             251
+CD02O345E 005180 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD02O345E 005180 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD02O345E 005180 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD02O345E 005180 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD02O345E 005180 ZÉ SILVA                                Sim       PDT       Minas Gerais             271
+CD02O345E 005180 IRINY LOPES                             Não       PT        Espírito Santo           273
+CD02O345E 005180 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD02O345E 005180 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD02O345E 005180 ROSE DE FREITAS                         Art. 17   PMDB      Espírito Santo           282
+CD02O345E 005180 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD02O345E 005180 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD02O345E 005180 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD02O345E 005180 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD02O345E 005180 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD02O345E 005180 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD02O345E 005180 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD02O345E 005180 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD02O345E 005180 JEAN WYLLYS                             Não       PSOL      Rio de Janeiro           307
+CD02O345E 005180 JORGE BITTAR                            Não       PT        Rio de Janeiro           310
+CD02O345E 005180 LEONARDO PICCIANI                       Sim       PMDB      Rio de Janeiro           312
+CD02O345E 005180 LILIAM SÁ                               Não       PSD       Rio de Janeiro           309
+CD02O345E 005180 LUIZ SÉRGIO                             Não       PT        Rio de Janeiro           313
+CD02O345E 005180 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD02O345E 005180 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD02O345E 005180 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD02O345E 005180 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD02O345E 005180 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD02O345E 005180 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD02O345E 005180 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD02O345E 005180 DELEGADO PROTÓGENES                     Não       PCdoB     São Paulo                343
+CD02O345E 005180 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD02O345E 005180 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD02O345E 005180 EMANUEL FERNANDES                       Sim       PSDB      São Paulo                352
+CD02O345E 005180 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD02O345E 005180 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD02O345E 005180 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD02O345E 005180 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD02O345E 005180 JOÃO DADO                               Não       PDT       São Paulo                362
+CD02O345E 005180 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD02O345E 005180 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD02O345E 005180 NEWTON LIMA                             Não       PT        São Paulo                377
+CD02O345E 005180 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD02O345E 005180 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD02O345E 005180 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD02O345E 005180 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD02O345E 005180 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD02O345E 005180 TIRIRICA                                Sim       PR        São Paulo                392
+CD02O345E 005180 VANDERLEI SIRAQUE                       Não       PT        São Paulo                581
+CD02O345E 005180 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD02O345E 005180 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CD02O345E 005180 VICENTINHO                              Não       PT        São Paulo                396
+CD02O345E 005180 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD02O345E 005180 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD02O345E 005180 WELLINGTON FAGUNDES                     Não       PR        Mato Grosso              406
+CD02O345E 005180 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD02O345E 005180 IZALCI                                  Sim       PSDB      Distrito Federal         408
+CD02O345E 005180 LUIZ PITIMAN                            Não       PMDB      Distrito Federal         410
+CD02O345E 005180 POLICARPO                               Não       PT        Distrito Federal         539
+CD02O345E 005180 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD02O345E 005180 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD02O345E 005180 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD02O345E 005180 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD02O345E 005180 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD02O345E 005180 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD02O345E 005180 SANDRO MABEL                            Não       PMDB      Goiás                    431
+CD02O345E 005180 ANTÔNIO CARLOS BIFFI                    Não       PT        Mato Grosso do Sul       432
+CD02O345E 005180 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD02O345E 005180 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD02O345E 005180 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD02O345E 005180 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD02O345E 005180 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD02O345E 005180 ALEX CANZIANI                           Não       PTB       Paraná                   445
+CD02O345E 005180 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD02O345E 005180 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD02O345E 005180 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD02O345E 005180 FERNANDO FRANCISCHINI                   Sim       PEN       Paraná                   450
+CD02O345E 005180 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD02O345E 005180 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD02O345E 005180 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD02O345E 005180 ODÍLIO BALBINOTTI                       Não       PMDB      Paraná                   588
+CD02O345E 005180 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD02O345E 005180 RATINHO JUNIOR                          Sim       PSC       Paraná                   464
+CD02O345E 005180 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD02O345E 005180 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD02O345E 005180 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD02O345E 005180 TAKAYAMA                                Não       PSC       Paraná                   469
+CD02O345E 005180 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD02O345E 005180 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD02O345E 005180 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD02O345E 005180 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD02O345E 005180 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD02O345E 005180 JORGE BOEIRA                            Não       PSD       Santa Catarina           474
+CD02O345E 005180 JORGINHO MELLO                          Não       PR        Santa Catarina           476
+CD02O345E 005180 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD02O345E 005180 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD02O345E 005180 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD02O345E 005180 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD02O345E 005180 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD02O345E 005180 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD02O345E 005180 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD02O345E 005180 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD02O345E 005180 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD02O345E 005180 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD02O345E 005180 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD02O345E 005180 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD02O345E 005180 OSMAR TERRA                             Não       PMDB      Rio Grande do Sul        497
+CD02O345E 005180 PAULO FERREIRA                          Não       PT        Rio Grande do Sul        591
+CD02O345E 005180 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD02O345E 005180 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD02O345E 005180 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD02O345E 005180 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD02O345E 005180 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD02O345E 005180 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD02O345E 005180 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD02O345E 005180 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD02O345E 005180 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD02O345E 005180 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD02O345E 005180 CELIA ROCHA                             <-------> PTB       Alagoas                  165
+CD02O345E 005180 RUI PALMEIRA                            <-------> PSDB      Alagoas                  171
+CD02O345E 005180 FRANCISCO PRACIANO                      <-------> PT        Amazonas                 41 
+CD02O345E 005180 ÁTILA LINS                              <-------> PSD       Amazonas                 38 
+CD02O345E 005180 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD02O345E 005180 PAUDERNEY AVELINO                       <-------> DEM       Amazonas                 40 
+CD02O345E 005180 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD02O345E 005180 DR. LUIZ FERNANDO                       <-------> PSD       Amazonas                 605
+CD02O345E 005180 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD02O345E 005180 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD02O345E 005180 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD02O345E 005180 ANTONIO CARLOS MAGALHÃES NETO           <-------> DEM       Bahia                    181
+CD02O345E 005180 PAULO MAGALHÃES                         <-------> PSD       Bahia                    214
+CD02O345E 005180 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD02O345E 005180 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD02O345E 005180 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD02O345E 005180 ROBERTO BRITTO                          <-------> PP        Bahia                    211
+CD02O345E 005180 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD02O345E 005180 MARCOS MEDRADO                          <-------> PDT       Bahia                    200
+CD02O345E 005180 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD02O345E 005180 SÉRGIO BRITO                            <-------> PSD       Bahia                    213
+CD02O345E 005180 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD02O345E 005180 MÁRIO NEGROMONTE                        <-------> PP        Bahia                    210
+CD02O345E 005180 FELIX MENDONÇA JÚNIOR                   <-------> PDT       Bahia                    195
+CD02O345E 005180 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD02O345E 005180 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD02O345E 005180 ZEZÉU RIBEIRO                           <-------> PT        Bahia                    217
+CD02O345E 005180 JOÃO LEÃO                               <-------> PP        Bahia                    199
+CD02O345E 005180 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD02O345E 005180 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD02O345E 005180 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD02O345E 005180 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD02O345E 005180 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD02O345E 005180 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD02O345E 005180 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD02O345E 005180 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD02O345E 005180 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD02O345E 005180 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD02O345E 005180 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD02O345E 005180 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD02O345E 005180 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD02O345E 005180 RONALDO FONSECA                         <-------> PR        Distrito Federal         414
+CD02O345E 005180 MAGELA                                  <-------> PT        Distrito Federal         411
+CD02O345E 005180 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD02O345E 005180 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD02O345E 005180 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD02O345E 005180 AUDIFAX                                 <-------> PSB       Espírito Santo           274
+CD02O345E 005180 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD02O345E 005180 MANATO                                  <-------> PDT       Espírito Santo           275
+CD02O345E 005180 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD02O345E 005180 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD02O345E 005180 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD02O345E 005180 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD02O345E 005180 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD02O345E 005180 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD02O345E 005180 ARMANDO VERGÍLIO                        <-------> PSD       Goiás                    416
+CD02O345E 005180 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD02O345E 005180 MAGDA MOFATTO                           <-------> PTB       Goiás                    575
+CD02O345E 005180 VALDIVINO DE OLIVEIRA                   <-------> PSDB      Goiás                    547
+CD02O345E 005180 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD02O345E 005180 HEULER CRUVINEL                         <-------> PSD       Goiás                    423
+CD02O345E 005180 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD02O345E 005180 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD02O345E 005180 PEDRO NOVAIS                            <-------> PMDB      Maranhão                 82 
+CD02O345E 005180 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD02O345E 005180 WALDIR MARANHÃO                         <-------> PP        Maranhão                 84 
+CD02O345E 005180 LOURIVAL MENDES                         <-------> PTdoB     Maranhão                 77 
+CD02O345E 005180 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD02O345E 005180 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD02O345E 005180 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD02O345E 005180 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD02O345E 005180 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD02O345E 005180 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD02O345E 005180 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD02O345E 005180 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD02O345E 005180 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD02O345E 005180 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD02O345E 005180 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD02O345E 005180 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD02O345E 005180 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD02O345E 005180 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD02O345E 005180 TONINHO PINHEIRO                        <-------> PP        Minas Gerais             264
+CD02O345E 005180 SARAIVA FELIPE                          <-------> PMDB      Minas Gerais             265
+CD02O345E 005180 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD02O345E 005180 MARCOS MONTES                           <-------> PSD       Minas Gerais             257
+CD02O345E 005180 ADEMIR CAMILO                           <-------> PSD       Minas Gerais             220
+CD02O345E 005180 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD02O345E 005180 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD02O345E 005180 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD02O345E 005180 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD02O345E 005180 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD02O345E 005180 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD02O345E 005180 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD02O345E 005180 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD02O345E 005180 ANTÔNIO ANDRADE                         <-------> PMDB      Minas Gerais             227
+CD02O345E 005180 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD02O345E 005180 CARLAILE PEDROSA                        <-------> PSDB      Minas Gerais             222
+CD02O345E 005180 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD02O345E 005180 DIEGO ANDRADE                           <-------> PSD       Minas Gerais             228
+CD02O345E 005180 ISAIAS SILVESTRE                        <-------> PSB       Minas Gerais             604
+CD02O345E 005180 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD02O345E 005180 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD02O345E 005180 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD02O345E 005180 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD02O345E 005180 MARCIO REINALDO MOREIRA                 <-------> PP        Minas Gerais             247
+CD02O345E 005180 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CD02O345E 005180 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD02O345E 005180 GIROTO                                  <-------> PMDB      Mato Grosso do Sul       434
+CD02O345E 005180 GERALDO RESENDE                         <-------> PMDB      Mato Grosso do Sul       435
+CD02O345E 005180 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD02O345E 005180 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD02O345E 005180 ELIENE LIMA                             <-------> PSD       Mato Grosso              401
+CD02O345E 005180 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD02O345E 005180 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD02O345E 005180 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD02O345E 005180 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD02O345E 005180 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CD02O345E 005180 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD02O345E 005180 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD02O345E 005180 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD02O345E 005180 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD02O345E 005180 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD02O345E 005180 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD02O345E 005180 ROMERO RODRIGUES                        <-------> PSDB      Paraíba                  135
+CD02O345E 005180 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD02O345E 005180 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD02O345E 005180 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD02O345E 005180 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD02O345E 005180 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD02O345E 005180 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD02O345E 005180 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD02O345E 005180 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD02O345E 005180 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD02O345E 005180 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD02O345E 005180 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD02O345E 005180 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD02O345E 005180 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD02O345E 005180 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD02O345E 005180 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD02O345E 005180 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD02O345E 005180 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD02O345E 005180 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD02O345E 005180 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD02O345E 005180 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD02O345E 005180 FERNANDO FERRO                          <-------> PT        Pernambuco               141
+CD02O345E 005180 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD02O345E 005180 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD02O345E 005180 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD02O345E 005180 GIACOBO                                 <-------> PR        Paraná                   466
+CD02O345E 005180 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD02O345E 005180 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD02O345E 005180 EDMAR ARRUDA                            <-------> PSC       Paraná                   446
+CD02O345E 005180 DILCEU SPERAFICO                        <-------> PP        Paraná                   444
+CD02O345E 005180 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD02O345E 005180 REINHOLD STEPHANES                      <-------> PSD       Paraná                   467
+CD02O345E 005180 LUIZ CARLOS SETIM                       <-------> DEM       Paraná                   535
+CD02O345E 005180 EDUARDO SCIARRA                         <-------> PSD       Paraná                   461
+CD02O345E 005180 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD02O345E 005180 NELSON MEURER                           <-------> PP        Paraná                   458
+CD02O345E 005180 JOÃO ARRUDA                             <-------> PMDB      Paraná                   455
+CD02O345E 005180 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD02O345E 005180 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD02O345E 005180 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD02O345E 005180 CHICO ALENCAR                           <-------> PSOL      Rio de Janeiro           295
+CD02O345E 005180 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD02O345E 005180 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD02O345E 005180 ANTHONY GAROTINHO                       <-------> PR        Rio de Janeiro           289
+CD02O345E 005180 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD02O345E 005180 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CD02O345E 005180 DR. ALUIZIO                             <-------> PV        Rio de Janeiro           294
+CD02O345E 005180 JAIR BOLSONARO                          <-------> PP        Rio de Janeiro           302
+CD02O345E 005180 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD02O345E 005180 NEILTON MULIM                           <-------> PR        Rio de Janeiro           315
+CD02O345E 005180 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD02O345E 005180 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD02O345E 005180 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD02O345E 005180 VITOR PAULO                             <-------> PRB       Rio de Janeiro           324
+CD02O345E 005180 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD02O345E 005180 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD02O345E 005180 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD02O345E 005180 ALEXANDRE CARDOSO                       <-------> PSB       Rio de Janeiro           284
+CD02O345E 005180 AROLDE DE OLIVEIRA                      <-------> PSD       Rio de Janeiro           288
+CD02O345E 005180 DR. PAULO CÉSAR                         <-------> PSD       Rio de Janeiro           296
+CD02O345E 005180 FELIPE BORNIER                          <-------> PSD       Rio de Janeiro           301
+CD02O345E 005180 PAULO FEIJÓ                             <-------> PR        Rio de Janeiro           577
+CD02O345E 005180 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD02O345E 005180 SERGIO ZVEITER                          <-------> PSD       Rio de Janeiro           320
+CD02O345E 005180 RODRIGO BETHLEM                         <-------> PMDB      Rio de Janeiro           318
+CD02O345E 005180 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD02O345E 005180 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD02O345E 005180 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD02O345E 005180 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD02O345E 005180 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD02O345E 005180 FÁBIO FARIA                             <-------> PSD       Rio Grande do Norte      119
+CD02O345E 005180 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD02O345E 005180 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD02O345E 005180 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD02O345E 005180 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD02O345E 005180 MARCOS ROGÉRIO                          <-------> PDT       Rondonia                 583
+CD02O345E 005180 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD02O345E 005180 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD02O345E 005180 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD02O345E 005180 PADRE TON                               <-------> PT        Rondonia                 48 
+CD02O345E 005180 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD02O345E 005180 PAULO CESAR QUARTIERO                   <-------> DEM       Roraima                  6  
+CD02O345E 005180 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD02O345E 005180 FRANCISCO ARAÚJO                        <-------> PSD       Roraima                  570
+CD02O345E 005180 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD02O345E 005180 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD02O345E 005180 GIOVANI CHERINI                         <-------> PDT       Rio Grande do Sul        502
+CD02O345E 005180 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD02O345E 005180 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD02O345E 005180 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD02O345E 005180 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD02O345E 005180 RONALDO NOGUEIRA                        <-------> PTB       Rio Grande do Sul        556
+CD02O345E 005180 LUIS CARLOS HEINZE                      <-------> PP        Rio Grande do Sul        500
+CD02O345E 005180 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD02O345E 005180 ASSIS MELO                              <-------> PCdoB     Rio Grande do Sul        492
+CD02O345E 005180 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD02O345E 005180 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD02O345E 005180 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD02O345E 005180 BETO ALBUQUERQUE                        <-------> PSB       Rio Grande do Sul        490
+CD02O345E 005180 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD02O345E 005180 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD02O345E 005180 DANRLEI DE DEUS HINTERHOLZ              <-------> PSD       Rio Grande do Sul        495
+CD02O345E 005180 ELISEU PADILHA                          <-------> PMDB      Rio Grande do Sul        578
+CD02O345E 005180 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD02O345E 005180 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD02O345E 005180 MARCO TEBALDI                           <-------> PSDB      Santa Catarina           478
+CD02O345E 005180 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD02O345E 005180 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD02O345E 005180 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD02O345E 005180 ONOFRE SANTO AGOSTINI                   <-------> PSD       Santa Catarina           479
+CD02O345E 005180 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD02O345E 005180 HELENO SILVA                            <-------> PRB       Sergipe                  175
+CD02O345E 005180 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD02O345E 005180 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD02O345E 005180 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD02O345E 005180 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD02O345E 005180 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD02O345E 005180 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD02O345E 005180 ALEXANDRE LEITE                         <-------> DEM       São Paulo                334
+CD02O345E 005180 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD02O345E 005180 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD02O345E 005180 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD02O345E 005180 BETO MANSUR                             <-------> PP        São Paulo                340
+CD02O345E 005180 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD02O345E 005180 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD02O345E 005180 KEIKO OTA                               <-------> PSB       São Paulo                356
+CD02O345E 005180 JILMAR TATTO                            <-------> PT        São Paulo                360
+CD02O345E 005180 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD02O345E 005180 MÁRCIO FRANÇA                           <-------> PSB       São Paulo                368
+CD02O345E 005180 JUNJI ABE                               <-------> PSD       São Paulo                355
+CD02O345E 005180 ELEUSES PAIVA                           <-------> PSD       São Paulo                537
+CD02O345E 005180 MARCELO AGUIAR                          <-------> PSD       São Paulo                370
+CD02O345E 005180 RICARDO IZAR                            <-------> PSD       São Paulo                383
+CD02O345E 005180 ARNALDO FARIA DE SÁ                     <-------> PTB       São Paulo                337
+CD02O345E 005180 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD02O345E 005180 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD02O345E 005180 JEFFERSON CAMPOS                        <-------> PSD       São Paulo                349
+CD02O345E 005180 WALTER FELDMAN                          <-------> PSDB      São Paulo                550
+CD02O345E 005180 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD02O345E 005180 WALTER IHOSHI                           <-------> PSD       São Paulo                553
+CD02O345E 005180 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD02O345E 005180 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD02O345E 005180 ROBERTO SANTIAGO                        <-------> PSD       São Paulo                386
+CD02O345E 005180 JOSÉ DE FILIPPI                         <-------> PT        São Paulo                354
+CD02O345E 005180 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD02O345E 005180 JONAS DONIZETTE                         <-------> PSB       São Paulo                353
+CD02O345E 005180 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD02O345E 005180 PENNA                                   <-------> PV        São Paulo                382
+CD02O345E 005180 CARLINHOS ALMEIDA                       <-------> PT        São Paulo                341
+CD02O345E 005180 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD02O345E 005180 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD02O345E 005180 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD02O345E 005180 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD02O345E 005180 MILTON MONTI                            <-------> PR        São Paulo                374
+CD02O345E 005180 PAULO MALUF                             <-------> PP        São Paulo                373
+CD02O345E 005180 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD02O345E 005180 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD02O345E 005180 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD02O345E 005180 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD02O345E 005180 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD02O345E 005180 LAUREZ MOREIRA                          <-------> PSB       Tocantins                62 
+CD02O345E 005180 LÁZARO BOTELHO                          <-------> PP        Tocantins                63 
+CD02O345E 005180 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD02O345E 005180 CÉSAR HALUM                             <-------> PSD       Tocantins                64 
+CD02O345E 005180 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CD02O345E 005180 ÂNGELO AGNOLIN                          <-------> PDT       Tocantins                61 

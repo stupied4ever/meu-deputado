@@ -1,0 +1,513 @@
+CD01O228E 004740 BERINHO BANTIM                          Sim       PSDB      Roraima                  1
+CD01O228E 004740 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD01O228E 004740 FRANCISCO ARAÚJO                        Sim       PSL       Roraima                  570
+CD01O228E 004740 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD01O228E 004740 DAVI ALCOLUMBRE                         Sim       DEM       Amapá                    10 
+CD01O228E 004740 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD01O228E 004740 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD01O228E 004740 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD01O228E 004740 VINICIUS GURGEL                         Sim       S.Part.   Amapá                    16 
+CD01O228E 004740 ARNALDO JORDY                           Sim       PPS       Pará                     18 
+CD01O228E 004740 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD01O228E 004740 BETO FARO                               Sim       PT        Pará                     19 
+CD01O228E 004740 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD01O228E 004740 DUDIMAR PAXIÚBA                         Não       PSDB      Pará                     518
+CD01O228E 004740 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD01O228E 004740 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD01O228E 004740 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD01O228E 004740 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD01O228E 004740 ÁTILA LINS                              Não       PMDB      Amazonas                 38 
+CD01O228E 004740 CARLOS SOUZA                            Sim       PP        Amazonas                 37 
+CD01O228E 004740 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD01O228E 004740 SILAS CÂMARA                            Sim       PSC       Amazonas                 39 
+CD01O228E 004740 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD01O228E 004740 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD01O228E 004740 MAURO NAZIF                             Sim       PSB       Rondonia                 46 
+CD01O228E 004740 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD01O228E 004740 NILTON CAPIXABA                         Não       PTB       Rondonia                 47 
+CD01O228E 004740 PADRE TON                               Sim       PT        Rondonia                 48 
+CD01O228E 004740 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD01O228E 004740 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD01O228E 004740 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD01O228E 004740 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD01O228E 004740 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD01O228E 004740 CÉSAR HALUM                             Não       PPS       Tocantins                64 
+CD01O228E 004740 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD01O228E 004740 LAUREZ MOREIRA                          Não       PSB       Tocantins                62 
+CD01O228E 004740 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD01O228E 004740 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD01O228E 004740 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O228E 004740 CLEBER VERDE                            Sim       PRB       Maranhão                 70 
+CD01O228E 004740 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD01O228E 004740 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CD01O228E 004740 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD01O228E 004740 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD01O228E 004740 GASTÃO VIEIRA                           Sim       PMDB      Maranhão                 75 
+CD01O228E 004740 HÉLIO SANTOS                            Sim       PSDB      Maranhão                 76 
+CD01O228E 004740 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD01O228E 004740 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD01O228E 004740 SARNEY FILHO                            Sim       PV        Maranhão                 85 
+CD01O228E 004740 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD01O228E 004740 ZÉ VIEIRA                               Sim       PR        Maranhão                 86 
+CD01O228E 004740 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD01O228E 004740 ANTONIO BALHMANN                        Não       PSB       Ceará                    93 
+CD01O228E 004740 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD01O228E 004740 ARNON BEZERRA                           Sim       PTB       Ceará                    90 
+CD01O228E 004740 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD01O228E 004740 DOMINGOS NETO                           Sim       PSB       Ceará                    97 
+CD01O228E 004740 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CD01O228E 004740 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD01O228E 004740 GENECIAS NORONHA                        Sim       PMDB      Ceará                    99 
+CD01O228E 004740 GORETE PEREIRA                          Sim       PR        Ceará                    100
+CD01O228E 004740 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD01O228E 004740 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD01O228E 004740 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O228E 004740 JOSÉ LINHARES                           Sim       PP        Ceará                    96 
+CD01O228E 004740 MANOEL SALVIANO                         Sim       PSDB      Ceará                    104
+CD01O228E 004740 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD01O228E 004740 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD01O228E 004740 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD01O228E 004740 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD01O228E 004740 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O228E 004740 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD01O228E 004740 JÚLIO CESAR                             Sim       DEM       Piauí                    114
+CD01O228E 004740 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD01O228E 004740 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD01O228E 004740 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD01O228E 004740 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD01O228E 004740 PAES LANDIM                             Não       PTB       Piauí                    118
+CD01O228E 004740 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD01O228E 004740 AGUINALDO RIBEIRO                       Não       PP        Paraíba                  129
+CD01O228E 004740 BENJAMIN MARANHÃO                       Sim       PMDB      Paraíba                  131
+CD01O228E 004740 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD01O228E 004740 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD01O228E 004740 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD01O228E 004740 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O228E 004740 NILDA GONDIM                            Sim       PMDB      Paraíba                  134
+CD01O228E 004740 ROMERO RODRIGUES                        Sim       PSDB      Paraíba                  135
+CD01O228E 004740 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD01O228E 004740 WILSON FILHO                            Sim       PMDB      Paraíba                  139
+CD01O228E 004740 ANA ARRAES                              Sim       PSB       Pernambuco               140
+CD01O228E 004740 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD01O228E 004740 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CD01O228E 004740 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD01O228E 004740 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD01O228E 004740 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD01O228E 004740 GONZAGA PATRIOTA                        Não       PSB       Pernambuco               143
+CD01O228E 004740 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD01O228E 004740 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD01O228E 004740 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD01O228E 004740 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD01O228E 004740 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD01O228E 004740 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD01O228E 004740 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD01O228E 004740 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD01O228E 004740 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD01O228E 004740 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD01O228E 004740 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD01O228E 004740 VILALBA                                 Sim       PRB       Pernambuco               555
+CD01O228E 004740 WOLNEY QUEIROZ                          Sim       PDT       Pernambuco               164
+CD01O228E 004740 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD01O228E 004740 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD01O228E 004740 JOAQUIM BELTRÃO                         Sim       PMDB      Alagoas                  172
+CD01O228E 004740 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD01O228E 004740 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD01O228E 004740 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD01O228E 004740 ALMEIDA LIMA                            Sim       PMDB      Sergipe                  173
+CD01O228E 004740 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD01O228E 004740 HELENO SILVA                            Sim       PRB       Sergipe                  175
+CD01O228E 004740 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD01O228E 004740 ROGÉRIO CARVALHO                        Não       PT        Sergipe                  178
+CD01O228E 004740 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD01O228E 004740 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CD01O228E 004740 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD01O228E 004740 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD01O228E 004740 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD01O228E 004740 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O228E 004740 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD01O228E 004740 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD01O228E 004740 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD01O228E 004740 EMILIANO JOSÉ                           Não       PT        Bahia                    523
+CD01O228E 004740 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD01O228E 004740 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD01O228E 004740 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD01O228E 004740 FERNANDO TORRES                         Não       DEM       Bahia                    196
+CD01O228E 004740 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O228E 004740 JÂNIO NATAL                             Sim       PRP       Bahia                    198
+CD01O228E 004740 JOSÉ CARLOS ARAÚJO                      Sim       PDT       Bahia                    197
+CD01O228E 004740 JOSÉ NUNES                              Sim       DEM       Bahia                    201
+CD01O228E 004740 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CD01O228E 004740 JOSEPH BANDEIRA                         Não       PT        Bahia                    565
+CD01O228E 004740 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD01O228E 004740 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O228E 004740 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD01O228E 004740 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD01O228E 004740 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD01O228E 004740 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD01O228E 004740 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD01O228E 004740 MAURÍCIO TRINDADE                       Sim       PR        Bahia                    208
+CD01O228E 004740 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD01O228E 004740 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD01O228E 004740 PAULO MAGALHÃES                         Não       DEM       Bahia                    214
+CD01O228E 004740 RUI COSTA                               Não       PT        Bahia                    216
+CD01O228E 004740 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O228E 004740 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD01O228E 004740 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O228E 004740 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CD01O228E 004740 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD01O228E 004740 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD01O228E 004740 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD01O228E 004740 DIEGO ANDRADE                           Não       PR        Minas Gerais             228
+CD01O228E 004740 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O228E 004740 DOMINGOS SÁVIO                          Não       PSDB      Minas Gerais             233
+CD01O228E 004740 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD01O228E 004740 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD01O228E 004740 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD01O228E 004740 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD01O228E 004740 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD01O228E 004740 GERALDO THADEU                          Não       PPS       Minas Gerais             236
+CD01O228E 004740 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD01O228E 004740 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD01O228E 004740 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD01O228E 004740 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD01O228E 004740 LAEL VARELLA                            Sim       DEM       Minas Gerais             245
+CD01O228E 004740 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD01O228E 004740 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD01O228E 004740 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD01O228E 004740 LUIS TIBÉ                               Sim       PTdoB     Minas Gerais             251
+CD01O228E 004740 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD01O228E 004740 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD01O228E 004740 MIGUEL CORRÊA                           Não       PT        Minas Gerais             261
+CD01O228E 004740 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O228E 004740 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD01O228E 004740 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD01O228E 004740 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD01O228E 004740 RODRIGO DE CASTRO                       Não       PSDB      Minas Gerais             268
+CD01O228E 004740 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD01O228E 004740 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O228E 004740 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD01O228E 004740 WALTER TOSTA                            Não       PMN       Minas Gerais             267
+CD01O228E 004740 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O228E 004740 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD01O228E 004740 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD01O228E 004740 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD01O228E 004740 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD01O228E 004740 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O228E 004740 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD01O228E 004740 ROSE DE FREITAS                         Sim       PMDB      Espírito Santo           282
+CD01O228E 004740 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD01O228E 004740 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD01O228E 004740 ANDREIA ZITO                            Não       PSDB      Rio de Janeiro           283
+CD01O228E 004740 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD01O228E 004740 AROLDE DE OLIVEIRA                      Sim       DEM       Rio de Janeiro           288
+CD01O228E 004740 AUREO                                   Não       PRTB      Rio de Janeiro           290
+CD01O228E 004740 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD01O228E 004740 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O228E 004740 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD01O228E 004740 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD01O228E 004740 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O228E 004740 DR. PAULO CÉSAR                         Sim       PR        Rio de Janeiro           296
+CD01O228E 004740 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD01O228E 004740 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD01O228E 004740 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD01O228E 004740 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD01O228E 004740 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD01O228E 004740 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD01O228E 004740 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O228E 004740 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD01O228E 004740 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD01O228E 004740 LILIAM SÁ                               Sim       PR        Rio de Janeiro           309
+CD01O228E 004740 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD01O228E 004740 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD01O228E 004740 NEILTON MULIM                           Sim       PR        Rio de Janeiro           315
+CD01O228E 004740 PAULO FEIJÓ                             Sim       PR        Rio de Janeiro           577
+CD01O228E 004740 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD01O228E 004740 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD01O228E 004740 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD01O228E 004740 WALNEY ROCHA                            Não       PTB       Rio de Janeiro           325
+CD01O228E 004740 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD01O228E 004740 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD01O228E 004740 ALDO REBELO                             Não       PCdoB     São Paulo                331
+CD01O228E 004740 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD01O228E 004740 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD01O228E 004740 ANTONIO CARLOS MENDES THAME             Abstenção PSDB      São Paulo                332
+CD01O228E 004740 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD01O228E 004740 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD01O228E 004740 BRUNA FURLAN                            Não       PSDB      São Paulo                335
+CD01O228E 004740 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD01O228E 004740 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD01O228E 004740 CARLOS ROBERTO                          Não       PSDB      São Paulo                569
+CD01O228E 004740 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD01O228E 004740 DELEGADO PROTÓGENES                     Não       PCdoB     São Paulo                343
+CD01O228E 004740 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD01O228E 004740 DIMAS RAMALHO                           Sim       PPS       São Paulo                346
+CD01O228E 004740 DR. UBIALI                              Não       PSB       São Paulo                541
+CD01O228E 004740 DUARTE NOGUEIRA                         Não       PSDB      São Paulo                350
+CD01O228E 004740 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD01O228E 004740 ELEUSES PAIVA                           Sim       DEM       São Paulo                537
+CD01O228E 004740 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD01O228E 004740 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD01O228E 004740 GUILHERME CAMPOS                        Sim       DEM       São Paulo                357
+CD01O228E 004740 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD01O228E 004740 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD01O228E 004740 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O228E 004740 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD01O228E 004740 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD01O228E 004740 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD01O228E 004740 JOSÉ DE FILIPPI                         Não       PT        São Paulo                354
+CD01O228E 004740 JUNJI ABE                               Não       DEM       São Paulo                355
+CD01O228E 004740 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O228E 004740 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD01O228E 004740 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O228E 004740 MARA GABRILLI                           Não       PSDB      São Paulo                366
+CD01O228E 004740 MARCELO AGUIAR                          Sim       PSC       São Paulo                370
+CD01O228E 004740 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD01O228E 004740 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD01O228E 004740 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD01O228E 004740 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD01O228E 004740 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD01O228E 004740 PAULO FREIRE                            Sim       PR        São Paulo                380
+CD01O228E 004740 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD01O228E 004740 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD01O228E 004740 PENNA                                   Sim       PV        São Paulo                382
+CD01O228E 004740 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD01O228E 004740 RICARDO IZAR                            Não       PV        São Paulo                383
+CD01O228E 004740 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O228E 004740 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CD01O228E 004740 ROBERTO SANTIAGO                        Sim       PV        São Paulo                386
+CD01O228E 004740 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CD01O228E 004740 TIRIRICA                                Sim       PR        São Paulo                392
+CD01O228E 004740 VAZ DE LIMA                             Não       PSDB      São Paulo                394
+CD01O228E 004740 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CD01O228E 004740 WALTER IHOSHI                           Sim       DEM       São Paulo                553
+CD01O228E 004740 WILLIAM DIB                             Não       PSDB      São Paulo                397
+CD01O228E 004740 HOMERO PEREIRA                          Sim       PR        Mato Grosso              402
+CD01O228E 004740 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD01O228E 004740 NERI GELLER                             Não       PP        Mato Grosso              520
+CD01O228E 004740 NILSON LEITÃO                           Sim       PSDB      Mato Grosso              573
+CD01O228E 004740 ROBERTO DORNER                          Não       PP        Mato Grosso              519
+CD01O228E 004740 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD01O228E 004740 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O228E 004740 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD01O228E 004740 IZALCI                                  Sim       PR        Distrito Federal         408
+CD01O228E 004740 JAQUELINE RORIZ                         Não       PMN       Distrito Federal         409
+CD01O228E 004740 LUIZ PITIMAN                            Não       PMDB      Distrito Federal         410
+CD01O228E 004740 POLICARPO                               Sim       PT        Distrito Federal         539
+CD01O228E 004740 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O228E 004740 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD01O228E 004740 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD01O228E 004740 MAGDA MOFATTO                           Não       PTB       Goiás                    575
+CD01O228E 004740 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD01O228E 004740 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD01O228E 004740 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD01O228E 004740 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD01O228E 004740 RUBENS OTONI                            Não       PT        Goiás                    425
+CD01O228E 004740 SANDES JÚNIOR                           Não       PP        Goiás                    426
+CD01O228E 004740 VALDIVINO DE OLIVEIRA                   Não       PSDB      Goiás                    547
+CD01O228E 004740 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD01O228E 004740 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD01O228E 004740 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O228E 004740 REINALDO AZAMBUJA                       Não       PSDB      Mato Grosso do Sul       439
+CD01O228E 004740 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD01O228E 004740 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD01O228E 004740 ALEX CANZIANI                           Não       PTB       Paraná                   445
+CD01O228E 004740 ALFREDO KAEFER                          Abstenção PSDB      Paraná                   451
+CD01O228E 004740 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD01O228E 004740 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD01O228E 004740 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD01O228E 004740 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O228E 004740 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD01O228E 004740 EDUARDO SCIARRA                         Sim       DEM       Paraná                   461
+CD01O228E 004740 FERNANDO FRANCISCHINI                   Não       PSDB      Paraná                   450
+CD01O228E 004740 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O228E 004740 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O228E 004740 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD01O228E 004740 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD01O228E 004740 MOACIR MICHELETTO                       Sim       PMDB      Paraná                   462
+CD01O228E 004740 NELSON MEURER                           Não       PP        Paraná                   458
+CD01O228E 004740 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD01O228E 004740 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD01O228E 004740 RATINHO JUNIOR                          Sim       PSC       Paraná                   464
+CD01O228E 004740 REINHOLD STEPHANES                      Sim       PMDB      Paraná                   467
+CD01O228E 004740 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD01O228E 004740 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD01O228E 004740 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O228E 004740 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD01O228E 004740 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD01O228E 004740 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD01O228E 004740 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD01O228E 004740 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD01O228E 004740 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O228E 004740 GEAN LOUREIRO                           Não       PMDB      Santa Catarina           568
+CD01O228E 004740 JOÃO PIZZOLATTI                         Não       PP        Santa Catarina           574
+CD01O228E 004740 JORGINHO MELLO                          Não       PSDB      Santa Catarina           476
+CD01O228E 004740 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD01O228E 004740 ONOFRE SANTO AGOSTINI                   Sim       DEM       Santa Catarina           479
+CD01O228E 004740 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD01O228E 004740 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD01O228E 004740 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD01O228E 004740 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD01O228E 004740 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD01O228E 004740 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD01O228E 004740 ELISEU PADILHA                          Não       PMDB      Rio Grande do Sul        578
+CD01O228E 004740 ENIO BACCI                              Não       PDT       Rio Grande do Sul        493
+CD01O228E 004740 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD01O228E 004740 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD01O228E 004740 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD01O228E 004740 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD01O228E 004740 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O228E 004740 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD01O228E 004740 MANUELA D`ÁVILA                         Não       PCdoB     Rio Grande do Sul        494
+CD01O228E 004740 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O228E 004740 NELSON MARCHEZAN JUNIOR                 Não       PSDB      Rio Grande do Sul        509
+CD01O228E 004740 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CD01O228E 004740 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD01O228E 004740 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD01O228E 004740 PEPE VARGAS                             Não       PT        Rio Grande do Sul        503
+CD01O228E 004740 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD01O228E 004740 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O228E 004740 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD01O228E 004740 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD01O228E 004740 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD01O228E 004740 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O228E 004740 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD01O228E 004740 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD01O228E 004740 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O228E 004740 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O228E 004740 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O228E 004740 JOÃO LYRA                               <-------> PTB       Alagoas                  167
+CD01O228E 004740 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O228E 004740 PAUDERNEY AVELINO                       <-------> DEM       Amazonas                 40 
+CD01O228E 004740 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD01O228E 004740 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD01O228E 004740 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O228E 004740 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD01O228E 004740 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD01O228E 004740 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O228E 004740 SÉRGIO BRITO                            <-------> PSC       Bahia                    213
+CD01O228E 004740 ROBERTO BRITTO                          <-------> PP        Bahia                    211
+CD01O228E 004740 EDSON PIMENTA                           <-------> PCdoB     Bahia                    193
+CD01O228E 004740 RAIMUNDÃO                               <-------> PMDB      Ceará                    108
+CD01O228E 004740 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD01O228E 004740 CHICO LOPES                             <-------> PCdoB     Ceará                    88 
+CD01O228E 004740 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD01O228E 004740 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD01O228E 004740 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD01O228E 004740 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O228E 004740 ÍRIS DE ARAÚJO                          <-------> PMDB      Goiás                    417
+CD01O228E 004740 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O228E 004740 ARMANDO VERGÍLIO                        <-------> PMN       Goiás                    416
+CD01O228E 004740 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD01O228E 004740 HEULER CRUVINEL                         <-------> DEM       Goiás                    423
+CD01O228E 004740 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O228E 004740 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O228E 004740 LOURIVAL MENDES                         <-------> PTdoB     Maranhão                 77 
+CD01O228E 004740 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O228E 004740 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O228E 004740 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD01O228E 004740 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD01O228E 004740 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O228E 004740 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O228E 004740 MARCOS MONTES                           <-------> DEM       Minas Gerais             257
+CD01O228E 004740 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O228E 004740 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD01O228E 004740 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD01O228E 004740 ZÉ SILVA                                <-------> PDT       Minas Gerais             271
+CD01O228E 004740 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD01O228E 004740 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O228E 004740 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD01O228E 004740 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD01O228E 004740 ADEMIR CAMILO                           <-------> PDT       Minas Gerais             220
+CD01O228E 004740 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O228E 004740 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O228E 004740 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD01O228E 004740 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD01O228E 004740 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD01O228E 004740 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O228E 004740 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CD01O228E 004740 ANTÔNIO CARLOS BIFFI                    <-------> PT        Mato Grosso do Sul       432
+CD01O228E 004740 GIROTO                                  <-------> PR        Mato Grosso do Sul       434
+CD01O228E 004740 GERALDO RESENDE                         <-------> PMDB      Mato Grosso do Sul       435
+CD01O228E 004740 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD01O228E 004740 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O228E 004740 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD01O228E 004740 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD01O228E 004740 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O228E 004740 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O228E 004740 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O228E 004740 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O228E 004740 MIRIQUINHO BATISTA                      <-------> PT        Pará                     35 
+CD01O228E 004740 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O228E 004740 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O228E 004740 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD01O228E 004740 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD01O228E 004740 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O228E 004740 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O228E 004740 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O228E 004740 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD01O228E 004740 HUGO NAPOLEÃO                           <-------> DEM       Piauí                    112
+CD01O228E 004740 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O228E 004740 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O228E 004740 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O228E 004740 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O228E 004740 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD01O228E 004740 ELIANE ROLIM                            <-------> PT        Rio de Janeiro           538
+CD01O228E 004740 SOLANGE ALMEIDA                         <-------> PMDB      Rio de Janeiro           563
+CD01O228E 004740 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD01O228E 004740 CHICO D`ANGELO                          <-------> PT        Rio de Janeiro           527
+CD01O228E 004740 VITOR PAULO                             <-------> PRB       Rio de Janeiro           324
+CD01O228E 004740 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD01O228E 004740 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD01O228E 004740 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD01O228E 004740 FELIPE BORNIER                          <-------> PHS       Rio de Janeiro           301
+CD01O228E 004740 EDUARDO CUNHA                           <-------> PMDB      Rio de Janeiro           300
+CD01O228E 004740 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O228E 004740 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O228E 004740 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD01O228E 004740 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O228E 004740 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O228E 004740 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD01O228E 004740 FELIPE MAIA                             <-------> DEM       Rio Grande do Norte      120
+CD01O228E 004740 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O228E 004740 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O228E 004740 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD01O228E 004740 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O228E 004740 LINDOMAR GARÇON                         <-------> PV        Rondonia                 45 
+CD01O228E 004740 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O228E 004740 PAULO CESAR QUARTIERO                   <-------> DEM       Roraima                  6  
+CD01O228E 004740 RAUL LIMA                               <-------> PP        Roraima                  7  
+CD01O228E 004740 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD01O228E 004740 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD01O228E 004740 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD01O228E 004740 GIOVANI CHERINI                         <-------> PDT       Rio Grande do Sul        502
+CD01O228E 004740 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O228E 004740 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O228E 004740 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD01O228E 004740 DANRLEI DE DEUS HINTERHOLZ              <-------> PTB       Rio Grande do Sul        495
+CD01O228E 004740 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O228E 004740 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD01O228E 004740 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O228E 004740 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD01O228E 004740 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD01O228E 004740 JORGE BOEIRA                            <-------> PT        Santa Catarina           474
+CD01O228E 004740 CELSO MALDANER                          <-------> PMDB      Santa Catarina           472
+CD01O228E 004740 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O228E 004740 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CD01O228E 004740 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O228E 004740 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD01O228E 004740 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD01O228E 004740 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O228E 004740 GUILHERME MUSSI                         <-------> PV        São Paulo                348
+CD01O228E 004740 JEFFERSON CAMPOS                        <-------> PSB       São Paulo                349
+CD01O228E 004740 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O228E 004740 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD01O228E 004740 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O228E 004740 VICENTINHO                              <-------> PT        São Paulo                396
+CD01O228E 004740 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O228E 004740 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O228E 004740 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O228E 004740 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O228E 004740 DRA.ELAINE ABISSAMRA                    <-------> PSB       São Paulo                576
+CD01O228E 004740 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O228E 004740 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O228E 004740 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 

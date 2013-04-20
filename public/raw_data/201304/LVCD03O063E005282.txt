@@ -1,0 +1,513 @@
+CD03O063E 005282 CHICO DAS VERDURAS                      Sim       PRP       Roraima                  3
+CD03O063E 005282 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD03O063E 005282 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD03O063E 005282 MARCIO JUNQUEIRA                        Não       DEM       Roraima                  625
+CD03O063E 005282 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD03O063E 005282 DALVA FIGUEIREDO                        Sim       PT        Amapá                    9  
+CD03O063E 005282 DAVI ALCOLUMBRE                         Obstrução DEM       Amapá                    10 
+CD03O063E 005282 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD03O063E 005282 FÁTIMA PELAES                           Sim       PMDB      Amapá                    12 
+CD03O063E 005282 SEBASTIÃO BALA ROCHA                    Obstrução PDT       Amapá                    17 
+CD03O063E 005282 VINICIUS GURGEL                         Sim       PR        Amapá                    16 
+CD03O063E 005282 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD03O063E 005282 BETO FARO                               Sim       PT        Pará                     19 
+CD03O063E 005282 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD03O063E 005282 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CD03O063E 005282 LIRA MAIA                               Abstenção DEM       Pará                     28 
+CD03O063E 005282 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD03O063E 005282 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD03O063E 005282 NILSON PINTO                            Obstrução PSDB      Pará                     31 
+CD03O063E 005282 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CD03O063E 005282 ZEQUINHA MARINHO                        Sim       PSC       Pará                     33 
+CD03O063E 005282 ÁTILA LINS                              Sim       PSD       Amazonas                 38 
+CD03O063E 005282 DR. LUIZ FERNANDO                       Sim       PSD       Amazonas                 605
+CD03O063E 005282 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD03O063E 005282 HENRIQUE OLIVEIRA                       Não       PR        Amazonas                 36 
+CD03O063E 005282 PLÍNIO VALÉRIO                          Obstrução PSDB      Amazonas                 633
+CD03O063E 005282 ANSELMO DE JESUS                        Sim       PT        Rondonia                 615
+CD03O063E 005282 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD03O063E 005282 MOREIRA MENDES                          Sim       PSD       Rondonia                 49 
+CD03O063E 005282 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD03O063E 005282 NILTON CAPIXABA                         Obstrução PTB       Rondonia                 47 
+CD03O063E 005282 PADRE TON                               Sim       PT        Rondonia                 48 
+CD03O063E 005282 ANTÔNIA LÚCIA                           Sim       PSC       Acre                     53 
+CD03O063E 005282 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD03O063E 005282 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD03O063E 005282 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD03O063E 005282 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD03O063E 005282 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD03O063E 005282 LEOMAR QUINTANILHA                      Sim       PMDB      Tocantins                628
+CD03O063E 005282 NILMAR RUIZ                             Obstrução PEN       Tocantins                634
+CD03O063E 005282 OSVALDO REIS                            Sim       PMDB      Tocantins                620
+CD03O063E 005282 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD03O063E 005282 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD03O063E 005282 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD03O063E 005282 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD03O063E 005282 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CD03O063E 005282 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD03O063E 005282 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD03O063E 005282 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CD03O063E 005282 PEDRO NOVAIS                            Sim       PMDB      Maranhão                 82 
+CD03O063E 005282 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD03O063E 005282 SIMPLÍCIO ARAÚJO                        Não       PPS       Maranhão                 585
+CD03O063E 005282 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD03O063E 005282 WEVERTON ROCHA                          Obstrução PDT       Maranhão                 579
+CD03O063E 005282 ANDRÉ FIGUEIREDO                        Obstrução PDT       Ceará                    89 
+CD03O063E 005282 ANÍBAL GOMES                            Sim       PMDB      Ceará                    87 
+CD03O063E 005282 ANTONIO BALHMANN                        Obstrução PSB       Ceará                    93 
+CD03O063E 005282 ARIOSTO HOLANDA                         Obstrução PSB       Ceará                    92 
+CD03O063E 005282 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD03O063E 005282 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD03O063E 005282 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CD03O063E 005282 EDSON SILVA                             Obstrução PSB       Ceará                    98 
+CD03O063E 005282 GORETE PEREIRA                          Sim       PR        Ceará                    100
+CD03O063E 005282 ILÁRIO MARQUES                          Sim       PT        Ceará                    637
+CD03O063E 005282 JOSÉ AIRTON                             Sim       PT        Ceará                    101
+CD03O063E 005282 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD03O063E 005282 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD03O063E 005282 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD03O063E 005282 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CD03O063E 005282 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD03O063E 005282 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD03O063E 005282 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD03O063E 005282 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD03O063E 005282 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD03O063E 005282 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD03O063E 005282 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CD03O063E 005282 FÁBIO FARIA                             Sim       PSD       Rio Grande do Norte      119
+CD03O063E 005282 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD03O063E 005282 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD03O063E 005282 HENRIQUE EDUARDO ALVES                  Art. 17   PMDB      Rio Grande do Norte      123
+CD03O063E 005282 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD03O063E 005282 BENJAMIN MARANHÃO                       Sim       PMDB      Paraíba                  131
+CD03O063E 005282 EFRAIM FILHO                            Não       DEM       Paraíba                  128
+CD03O063E 005282 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD03O063E 005282 LEONARDO GADELHA                        Sim       PSC       Paraíba                  586
+CD03O063E 005282 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD03O063E 005282 MAJOR FÁBIO                             Não       DEM       Paraíba                  599
+CD03O063E 005282 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD03O063E 005282 NILDA GONDIM                            Sim       PMDB      Paraíba                  134
+CD03O063E 005282 RUY CARNEIRO                            Abstenção PSDB      Paraíba                  137
+CD03O063E 005282 WELLINGTON ROBERTO                      Sim       PR        Paraíba                  136
+CD03O063E 005282 WILSON FILHO                            Não       PMDB      Paraíba                  139
+CD03O063E 005282 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD03O063E 005282 AUGUSTO COUTINHO                        Não       DEM       Pernambuco               144
+CD03O063E 005282 CARLOS EDUARDO CADOCA                   Obstrução PSC       Pernambuco               152
+CD03O063E 005282 EDUARDO DA FONTE                        Sim       PP        Pernambuco               156
+CD03O063E 005282 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD03O063E 005282 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD03O063E 005282 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD03O063E 005282 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD03O063E 005282 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD03O063E 005282 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD03O063E 005282 RAUL HENRY                              Obstrução PMDB      Pernambuco               163
+CD03O063E 005282 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD03O063E 005282 SERGIO GUERRA                           Obstrução PSDB      Pernambuco               159
+CD03O063E 005282 SEVERINO NINHO                          Obstrução PSB       Pernambuco               580
+CD03O063E 005282 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD03O063E 005282 VILALBA                                 Sim       PRB       Pernambuco               555
+CD03O063E 005282 ALEXANDRE TOLEDO                        Obstrução PSDB      Alagoas                  596
+CD03O063E 005282 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD03O063E 005282 FRANCISCO TENÓRIO                       Não       PMN       Alagoas                  607
+CD03O063E 005282 GIVALDO CARIMBÃO                        Obstrução PSB       Alagoas                  166
+CD03O063E 005282 MAURÍCIO QUINTELLA LESSA                Sim       PR        Alagoas                  168
+CD03O063E 005282 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD03O063E 005282 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD03O063E 005282 FABIO REIS                              Sim       PMDB      Sergipe                  619
+CD03O063E 005282 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD03O063E 005282 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD03O063E 005282 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD03O063E 005282 ROGÉRIO CARVALHO                        Sim       PT        Sergipe                  178
+CD03O063E 005282 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CD03O063E 005282 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD03O063E 005282 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD03O063E 005282 ANTONIO BRITO                           Obstrução PTB       Bahia                    189
+CD03O063E 005282 ARTHUR OLIVEIRA MAIA                    Sim       PMDB      Bahia                    192
+CD03O063E 005282 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD03O063E 005282 COLBERT MARTINS                         Sim       PMDB      Bahia                    622
+CD03O063E 005282 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD03O063E 005282 EDSON PIMENTA                           Sim       PSD       Bahia                    193
+CD03O063E 005282 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD03O063E 005282 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD03O063E 005282 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD03O063E 005282 JOÃO LEÃO                               Sim       PP        Bahia                    199
+CD03O063E 005282 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CD03O063E 005282 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD03O063E 005282 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD03O063E 005282 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD03O063E 005282 LUIZ DE DEUS                            Sim       DEM       Bahia                    609
+CD03O063E 005282 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD03O063E 005282 MARCOS MEDRADO                          Obstrução PDT       Bahia                    200
+CD03O063E 005282 MÁRIO NEGROMONTE                        Sim       PP        Bahia                    210
+CD03O063E 005282 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD03O063E 005282 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CD03O063E 005282 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD03O063E 005282 SÉRGIO BRITO                            Sim       PSD       Bahia                    213
+CD03O063E 005282 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD03O063E 005282 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD03O063E 005282 ANTÔNIO ROBERTO                         Obstrução PV        Minas Gerais             229
+CD03O063E 005282 DIEGO ANDRADE                           Sim       PSD       Minas Gerais             228
+CD03O063E 005282 DIMAS FABIANO                           Obstrução PP        Minas Gerais             231
+CD03O063E 005282 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD03O063E 005282 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD03O063E 005282 EDUARDO BARBOSA                         Obstrução PSDB      Minas Gerais             230
+CD03O063E 005282 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD03O063E 005282 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD03O063E 005282 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CD03O063E 005282 HUMBERTO SOUTO                          Obstrução PPS       Minas Gerais             606
+CD03O063E 005282 ISAIAS SILVESTRE                        Abstenção PSB       Minas Gerais             604
+CD03O063E 005282 JAIME MARTINS                           Obstrução PR        Minas Gerais             240
+CD03O063E 005282 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD03O063E 005282 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD03O063E 005282 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD03O063E 005282 JÚLIO DELGADO                           Obstrução PSB       Minas Gerais             250
+CD03O063E 005282 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CD03O063E 005282 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD03O063E 005282 LUIS TIBÉ                               Sim       PTdoB     Minas Gerais             251
+CD03O063E 005282 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD03O063E 005282 MARCUS PESTANA                          Obstrução PSDB      Minas Gerais             254
+CD03O063E 005282 MARGARIDA SALOMÃO                       Sim       PT        Minas Gerais             610
+CD03O063E 005282 MÁRIO HERINGER                          Obstrução PDT       Minas Gerais             629
+CD03O063E 005282 NILMÁRIO MIRANDA                        Sim       PT        Minas Gerais             611
+CD03O063E 005282 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD03O063E 005282 RENATO ANDRADE                          Sim       PP        Minas Gerais             612
+CD03O063E 005282 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD03O063E 005282 SILAS BRASILEIRO                        Sim       PMDB      Minas Gerais             636
+CD03O063E 005282 STEFANO AGUIAR                          Sim       PSC       Minas Gerais             558
+CD03O063E 005282 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD03O063E 005282 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD03O063E 005282 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD03O063E 005282 CAMILO COLA                             Sim       PMDB      Espírito Santo           543
+CD03O063E 005282 CESAR COLNAGO                           Obstrução PSDB      Espírito Santo           276
+CD03O063E 005282 DR. JORGE SILVA                         Obstrução PDT       Espírito Santo           278
+CD03O063E 005282 IRINY LOPES                             Sim       PT        Espírito Santo           273
+CD03O063E 005282 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD03O063E 005282 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD03O063E 005282 MANATO                                  Sim       PDT       Espírito Santo           275
+CD03O063E 005282 PAULO FOLETTO                           Obstrução PSB       Espírito Santo           280
+CD03O063E 005282 ADRIAN                                  Sim       PMDB      Rio de Janeiro           286
+CD03O063E 005282 ALEXANDRE SANTOS                        Sim       PMDB      Rio de Janeiro           285
+CD03O063E 005282 ALFREDO SIRKIS                          Obstrução PV        Rio de Janeiro           321
+CD03O063E 005282 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD03O063E 005282 AUREO                                   Obstrução PRTB      Rio de Janeiro           290
+CD03O063E 005282 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD03O063E 005282 CELSO JACOB                             Sim       PMDB      Rio de Janeiro           632
+CD03O063E 005282 CHICO ALENCAR                           Obstrução PSOL      Rio de Janeiro           295
+CD03O063E 005282 DELEY                                   Obstrução PSC       Rio de Janeiro           562
+CD03O063E 005282 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD03O063E 005282 DR. CARLOS ALBERTO                      Obstrução PMN       Rio de Janeiro           529
+CD03O063E 005282 DR. PAULO CÉSAR                         Sim       PSD       Rio de Janeiro           296
+CD03O063E 005282 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD03O063E 005282 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD03O063E 005282 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD03O063E 005282 EURICO JÚNIOR                           Sim       PV        Rio de Janeiro           613
+CD03O063E 005282 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD03O063E 005282 FERNANDO LOPES                          Sim       PMDB      Rio de Janeiro           623
+CD03O063E 005282 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD03O063E 005282 GLAUBER BRAGA                           Obstrução PSB       Rio de Janeiro           304
+CD03O063E 005282 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD03O063E 005282 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD03O063E 005282 JORGE BITTAR                            Sim       PT        Rio de Janeiro           310
+CD03O063E 005282 LEONARDO PICCIANI                       Sim       PMDB      Rio de Janeiro           312
+CD03O063E 005282 LILIAM SÁ                               Sim       PSD       Rio de Janeiro           309
+CD03O063E 005282 LUIZ SÉRGIO                             Sim       PT        Rio de Janeiro           313
+CD03O063E 005282 MANUEL ROSA NECA                        Sim       PR        Rio de Janeiro           614
+CD03O063E 005282 MARCELO MATOS                           Abstenção PDT       Rio de Janeiro           311
+CD03O063E 005282 MIRO TEIXEIRA                           Obstrução PDT       Rio de Janeiro           317
+CD03O063E 005282 PAULO FEIJÓ                             Sim       PR        Rio de Janeiro           577
+CD03O063E 005282 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD03O063E 005282 ROMÁRIO                                 Obstrução PSB       Rio de Janeiro           319
+CD03O063E 005282 SERGIO ZVEITER                          Sim       PSD       Rio de Janeiro           320
+CD03O063E 005282 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD03O063E 005282 STEPAN NERCESSIAN                       Obstrução PPS       Rio de Janeiro           323
+CD03O063E 005282 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD03O063E 005282 WALNEY ROCHA                            Obstrução PTB       Rio de Janeiro           325
+CD03O063E 005282 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD03O063E 005282 ABELARDO CAMARINHA                      Abstenção PSB       São Paulo                329
+CD03O063E 005282 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD03O063E 005282 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD03O063E 005282 ANTONIO CARLOS MENDES THAME             Obstrução PSDB      São Paulo                332
+CD03O063E 005282 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD03O063E 005282 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD03O063E 005282 ARNALDO JARDIM                          Obstrução PPS       São Paulo                339
+CD03O063E 005282 CÂNDIDO VACCAREZZA                      Sim       PT        São Paulo                389
+CD03O063E 005282 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD03O063E 005282 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD03O063E 005282 DR. UBIALI                              Obstrução PSB       São Paulo                541
+CD03O063E 005282 DUARTE NOGUEIRA                         Obstrução PSDB      São Paulo                350
+CD03O063E 005282 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD03O063E 005282 ELEUSES PAIVA                           Sim       PSD       São Paulo                537
+CD03O063E 005282 EMANUEL FERNANDES                       Obstrução PSDB      São Paulo                352
+CD03O063E 005282 FRANCISCO CHAGAS                        Sim       PT        São Paulo                626
+CD03O063E 005282 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD03O063E 005282 GUILHERME MUSSI                         Sim       PSD       São Paulo                348
+CD03O063E 005282 IARA BERNARDI                           Sim       PT        São Paulo                618
+CD03O063E 005282 IVAN VALENTE                            Obstrução PSOL      São Paulo                359
+CD03O063E 005282 JANETE ROCHA PIETÁ                      Abstenção PT        São Paulo                358
+CD03O063E 005282 JEFFERSON CAMPOS                        Sim       PSD       São Paulo                349
+CD03O063E 005282 JOÃO DADO                               Obstrução PDT       São Paulo                362
+CD03O063E 005282 JOÃO PAULO CUNHA                        Sim       PT        São Paulo                361
+CD03O063E 005282 JOSÉ GENOÍNO                            Sim       PT        São Paulo                617
+CD03O063E 005282 JOSÉ MENTOR                             Sim       PT        São Paulo                367
+CD03O063E 005282 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD03O063E 005282 LUIZA ERUNDINA                          Obstrução PSB       São Paulo                371
+CD03O063E 005282 MARA GABRILLI                           Obstrução PSDB      São Paulo                366
+CD03O063E 005282 MARCELO AGUIAR                          Não       PSD       São Paulo                370
+CD03O063E 005282 MISSIONÁRIO JOSÉ OLIMPIO                Obstrução PP        São Paulo                375
+CD03O063E 005282 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD03O063E 005282 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD03O063E 005282 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD03O063E 005282 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD03O063E 005282 PAULO PEREIRA DA SILVA                  Obstrução PDT       São Paulo                372
+CD03O063E 005282 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD03O063E 005282 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CD03O063E 005282 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD03O063E 005282 ROBERTO SANTIAGO                        Não       PSD       São Paulo                386
+CD03O063E 005282 TIRIRICA                                Sim       PR        São Paulo                392
+CD03O063E 005282 VANDERLEI MACRIS                        Obstrução PSDB      São Paulo                521
+CD03O063E 005282 VANDERLEI SIRAQUE                       Sim       PT        São Paulo                581
+CD03O063E 005282 VICENTINHO                              Sim       PT        São Paulo                396
+CD03O063E 005282 WALTER FELDMAN                          Obstrução PSDB      São Paulo                550
+CD03O063E 005282 WALTER IHOSHI                           Sim       PSD       São Paulo                553
+CD03O063E 005282 WILLIAM DIB                             Obstrução PSDB      São Paulo                397
+CD03O063E 005282 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD03O063E 005282 ELIENE LIMA                             Sim       PSD       Mato Grosso              401
+CD03O063E 005282 JÚLIO CAMPOS                            Obstrução DEM       Mato Grosso              399
+CD03O063E 005282 NILSON LEITÃO                           Obstrução PSDB      Mato Grosso              573
+CD03O063E 005282 WELLINGTON FAGUNDES                     Sim       PR        Mato Grosso              406
+CD03O063E 005282 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD03O063E 005282 IZALCI                                  Obstrução PSDB      Distrito Federal         408
+CD03O063E 005282 JAQUELINE RORIZ                         Obstrução PMN       Distrito Federal         409
+CD03O063E 005282 LUIZ PITIMAN                            Não       PMDB      Distrito Federal         410
+CD03O063E 005282 POLICARPO                               Sim       PT        Distrito Federal         539
+CD03O063E 005282 REGUFFE                                 Obstrução PDT       Distrito Federal         413
+CD03O063E 005282 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD03O063E 005282 ARMANDO VERGÍLIO                        Sim       PSD       Goiás                    416
+CD03O063E 005282 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD03O063E 005282 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD03O063E 005282 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CD03O063E 005282 MARINA SANTANNA                         Sim       PT        Goiás                    564
+CD03O063E 005282 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD03O063E 005282 ROBERTO BALESTRA                        Abstenção PP        Goiás                    427
+CD03O063E 005282 VALDIVINO DE OLIVEIRA                   Obstrução PSDB      Goiás                    547
+CD03O063E 005282 AKIRA OTSUBO                            Sim       PMDB      Mato Grosso do Sul       638
+CD03O063E 005282 BIFFI                                   Não       PT        Mato Grosso do Sul       432
+CD03O063E 005282 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD03O063E 005282 GERALDO RESENDE                         Abstenção PMDB      Mato Grosso do Sul       435
+CD03O063E 005282 MANDETTA                                Obstrução DEM       Mato Grosso do Sul       436
+CD03O063E 005282 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD03O063E 005282 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD03O063E 005282 ALFREDO KAEFER                          Abstenção PSDB      Paraná                   451
+CD03O063E 005282 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD03O063E 005282 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD03O063E 005282 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD03O063E 005282 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD03O063E 005282 DR. ROSINHA                             Sim       PT        Paraná                   449
+CD03O063E 005282 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD03O063E 005282 FERNANDO FRANCISCHINI                   Obstrução PEN       Paraná                   450
+CD03O063E 005282 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD03O063E 005282 LEOPOLDO MEYER                          Obstrução PSB       Paraná                   456
+CD03O063E 005282 LUIZ NISHIMORI                          Obstrução PSDB      Paraná                   542
+CD03O063E 005282 MARCELO ALMEIDA                         Sim       PMDB      Paraná                   631
+CD03O063E 005282 NELSON MEURER                           Sim       PP        Paraná                   458
+CD03O063E 005282 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD03O063E 005282 ODÍLIO BALBINOTTI                       Sim       PMDB      Paraná                   588
+CD03O063E 005282 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD03O063E 005282 PROFESSOR SÉRGIO DE OLIVEIRA            Sim       PSC       Paraná                   603
+CD03O063E 005282 RICARDO ARRUDA                          Sim       PSC       Paraná                   635
+CD03O063E 005282 ROSANE FERREIRA                         Obstrução PV        Paraná                   459
+CD03O063E 005282 RUBENS BUENO                            Obstrução PPS       Paraná                   460
+CD03O063E 005282 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CD03O063E 005282 CARMEN ZANOTTO                          Obstrução PPS       Santa Catarina           561
+CD03O063E 005282 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD03O063E 005282 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CD03O063E 005282 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD03O063E 005282 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD03O063E 005282 JOÃO PIZZOLATTI                         Sim       PP        Santa Catarina           574
+CD03O063E 005282 JORGE BOEIRA                            Obstrução PSD       Santa Catarina           474
+CD03O063E 005282 JORGINHO MELLO                          Sim       PR        Santa Catarina           476
+CD03O063E 005282 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD03O063E 005282 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD03O063E 005282 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD03O063E 005282 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD03O063E 005282 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD03O063E 005282 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD03O063E 005282 ALEXANDRE ROSO                          Obstrução PSB       Rio Grande do Sul        489
+CD03O063E 005282 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD03O063E 005282 DANRLEI DE DEUS HINTERHOLZ              Sim       PSD       Rio Grande do Sul        495
+CD03O063E 005282 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD03O063E 005282 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD03O063E 005282 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD03O063E 005282 JOSÉ STÉDILE                            Obstrução PSB       Rio Grande do Sul        506
+CD03O063E 005282 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD03O063E 005282 MARCO MAIA                              Sim       PT        Rio Grande do Sul        496
+CD03O063E 005282 NELSON MARCHEZAN JUNIOR                 Obstrução PSDB      Rio Grande do Sul        509
+CD03O063E 005282 PAULO FERREIRA                          Sim       PT        Rio Grande do Sul        591
+CD03O063E 005282 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD03O063E 005282 RONALDO NOGUEIRA                        Obstrução PTB       Rio Grande do Sul        556
+CD03O063E 005282 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD03O063E 005282 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD03O063E 005282 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD03O063E 005282 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD03O063E 005282 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD03O063E 005282 PAULÃO                                  <-------> PT        Alagoas                  608
+CD03O063E 005282 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD03O063E 005282 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD03O063E 005282 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD03O063E 005282 CARLOS SOUZA                            <-------> PSD       Amazonas                 37 
+CD03O063E 005282 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD03O063E 005282 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD03O063E 005282 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD03O063E 005282 ANTONIO IMBASSAHY                       <-------> PSDB      Bahia                    191
+CD03O063E 005282 LUIZ ALBERTO                            <-------> PT        Bahia                    204
+CD03O063E 005282 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD03O063E 005282 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD03O063E 005282 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD03O063E 005282 ZEZÉU RIBEIRO                           <-------> PT        Bahia                    217
+CD03O063E 005282 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD03O063E 005282 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD03O063E 005282 AFONSO FLORENCE                         <-------> PT        Bahia                    182
+CD03O063E 005282 FELIX MENDONÇA JÚNIOR                   <-------> PDT       Bahia                    195
+CD03O063E 005282 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD03O063E 005282 MARCELO GUIMARÃES FILHO                 <-------> PMDB      Bahia                    627
+CD03O063E 005282 MÁRIO FEITOZA                           <-------> PMDB      Ceará                    590
+CD03O063E 005282 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD03O063E 005282 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD03O063E 005282 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD03O063E 005282 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD03O063E 005282 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD03O063E 005282 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD03O063E 005282 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD03O063E 005282 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD03O063E 005282 ERIKA KOKAY                             <-------> PT        Distrito Federal         407
+CD03O063E 005282 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD03O063E 005282 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD03O063E 005282 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD03O063E 005282 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD03O063E 005282 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD03O063E 005282 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD03O063E 005282 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD03O063E 005282 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD03O063E 005282 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD03O063E 005282 MAGDA MOFATTO                           <-------> PTB       Goiás                    575
+CD03O063E 005282 HEULER CRUVINEL                         <-------> PSD       Goiás                    423
+CD03O063E 005282 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD03O063E 005282 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD03O063E 005282 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD03O063E 005282 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD03O063E 005282 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD03O063E 005282 LOURIVAL MENDES                         <-------> PTdoB     Maranhão                 77 
+CD03O063E 005282 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD03O063E 005282 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD03O063E 005282 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD03O063E 005282 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD03O063E 005282 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD03O063E 005282 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD03O063E 005282 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD03O063E 005282 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD03O063E 005282 ADEMIR CAMILO                           <-------> PSD       Minas Gerais             220
+CD03O063E 005282 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD03O063E 005282 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD03O063E 005282 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD03O063E 005282 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD03O063E 005282 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD03O063E 005282 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD03O063E 005282 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD03O063E 005282 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD03O063E 005282 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD03O063E 005282 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD03O063E 005282 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD03O063E 005282 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD03O063E 005282 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD03O063E 005282 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD03O063E 005282 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD03O063E 005282 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD03O063E 005282 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD03O063E 005282 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD03O063E 005282 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD03O063E 005282 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD03O063E 005282 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD03O063E 005282 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD03O063E 005282 DUDIMAR PAXIÚBA                         <-------> PSDB      Pará                     518
+CD03O063E 005282 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD03O063E 005282 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD03O063E 005282 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD03O063E 005282 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD03O063E 005282 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD03O063E 005282 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD03O063E 005282 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD03O063E 005282 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD03O063E 005282 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD03O063E 005282 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD03O063E 005282 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD03O063E 005282 OLIVEIRA FILHO                          <-------> PRB       Paraná                   621
+CD03O063E 005282 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD03O063E 005282 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD03O063E 005282 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD03O063E 005282 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD03O063E 005282 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD03O063E 005282 SANDRO ALEX                             <-------> PPS       Paraná                   465
+CD03O063E 005282 GIACOBO                                 <-------> PR        Paraná                   466
+CD03O063E 005282 TAKAYAMA                                <-------> PSC       Paraná                   469
+CD03O063E 005282 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD03O063E 005282 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CD03O063E 005282 AROLDE DE OLIVEIRA                      <-------> PSD       Rio de Janeiro           288
+CD03O063E 005282 FELIPE BORNIER                          <-------> PSD       Rio de Janeiro           301
+CD03O063E 005282 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD03O063E 005282 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD03O063E 005282 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD03O063E 005282 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD03O063E 005282 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD03O063E 005282 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD03O063E 005282 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD03O063E 005282 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD03O063E 005282 MARCOS ROGÉRIO                          <-------> PDT       Rondonia                 583
+CD03O063E 005282 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD03O063E 005282 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD03O063E 005282 URZENI ROCHA                            <-------> PSDB      Roraima                  616
+CD03O063E 005282 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD03O063E 005282 BOHN GASS                               <-------> PT        Rio Grande do Sul        499
+CD03O063E 005282 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD03O063E 005282 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD03O063E 005282 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD03O063E 005282 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD03O063E 005282 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD03O063E 005282 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD03O063E 005282 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD03O063E 005282 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD03O063E 005282 RONALDO ZULKE                           <-------> PT        Rio Grande do Sul        515
+CD03O063E 005282 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD03O063E 005282 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD03O063E 005282 BETO ALBUQUERQUE                        <-------> PSB       Rio Grande do Sul        490
+CD03O063E 005282 MARCO TEBALDI                           <-------> PSDB      Santa Catarina           478
+CD03O063E 005282 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD03O063E 005282 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD03O063E 005282 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD03O063E 005282 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD03O063E 005282 ALMEIDA LIMA                            <-------> PPS       Sergipe                  173
+CD03O063E 005282 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CD03O063E 005282 KEIKO OTA                               <-------> PSB       São Paulo                356
+CD03O063E 005282 MÁRCIO FRANÇA                           <-------> PSB       São Paulo                368
+CD03O063E 005282 PENNA                                   <-------> PV        São Paulo                382
+CD03O063E 005282 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD03O063E 005282 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD03O063E 005282 BETO MANSUR                             <-------> PP        São Paulo                340
+CD03O063E 005282 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD03O063E 005282 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD03O063E 005282 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD03O063E 005282 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD03O063E 005282 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD03O063E 005282 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD03O063E 005282 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD03O063E 005282 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD03O063E 005282 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD03O063E 005282 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD03O063E 005282 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD03O063E 005282 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD03O063E 005282 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD03O063E 005282 MILTON MONTI                            <-------> PR        São Paulo                374
+CD03O063E 005282 PAULO MALUF                             <-------> PP        São Paulo                373
+CD03O063E 005282 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD03O063E 005282 ÂNGELO AGNOLIN                          <-------> PDT       Tocantins                61 
+CD03O063E 005282 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CD03O063E 005282 CÉSAR HALUM                             <-------> PSD       Tocantins                64 

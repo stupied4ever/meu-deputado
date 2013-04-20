@@ -1,0 +1,513 @@
+CD01O281E 004775 DALVA FIGUEIREDO                        Obstrução PT        Amapá                    9
+CD01O281E 004775 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD01O281E 004775 LINDOMAR GARÇON                         Sim       PV        Rondonia                 45 
+CD01O281E 004775 NILTON CAPIXABA                         Obstrução PTB       Rondonia                 47 
+CD01O281E 004775 CHICO LOPES                             Obstrução PCdoB     Ceará                    88 
+CD01O281E 004775 JÚLIO CESAR                             Obstrução DEM       Piauí                    114
+CD01O281E 004775 NAZARENO FONTELES                       Obstrução PT        Piauí                    530
+CD01O281E 004775 SANDRA ROSADO                           Obstrução PSB       Rio Grande do Norte      125
+CD01O281E 004775 LUIZ COUTO                              Obstrução PT        Paraíba                  133
+CD01O281E 004775 PAULO RUBEM SANTIAGO                    Obstrução PDT       Pernambuco               554
+CD01O281E 004775 ROBERTO TEIXEIRA                        Obstrução PP        Pernambuco               157
+CD01O281E 004775 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD01O281E 004775 JOAQUIM BELTRÃO                         Obstrução PMDB      Alagoas                  172
+CD01O281E 004775 MAURÍCIO QUINTELLA LESSA                Obstrução PR        Alagoas                  168
+CD01O281E 004775 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD01O281E 004775 AMAURI TEIXEIRA                         Obstrução PT        Bahia                    184
+CD01O281E 004775 ANTONIO CARLOS MAGALHÃES NETO           Obstrução DEM       Bahia                    181
+CD01O281E 004775 RUI COSTA                               Obstrução PT        Bahia                    216
+CD01O281E 004775 VALMIR ASSUNÇÃO                         Abstenção PT        Bahia                    218
+CD01O281E 004775 WALDENOR PEREIRA                        Obstrução PT        Bahia                    219
+CD01O281E 004775 DIMAS FABIANO                           Obstrução PP        Minas Gerais             231
+CD01O281E 004775 JÔ MORAES                               Obstrução PCdoB     Minas Gerais             246
+CD01O281E 004775 JÚLIO DELGADO                           Abstenção PSB       Minas Gerais             250
+CD01O281E 004775 SARAIVA FELIPE                          Abstenção PMDB      Minas Gerais             265
+CD01O281E 004775 VITOR PENIDO                            Obstrução DEM       Minas Gerais             532
+CD01O281E 004775 DR. JORGE SILVA                         Obstrução PDT       Espírito Santo           278
+CD01O281E 004775 ROSE DE FREITAS                         Art. 17   PMDB      Espírito Santo           282
+CD01O281E 004775 ALFREDO SIRKIS                          Obstrução PV        Rio de Janeiro           321
+CD01O281E 004775 CHICO ALENCAR                           Obstrução PSOL      Rio de Janeiro           295
+CD01O281E 004775 CHICO D`ANGELO                          Obstrução PT        Rio de Janeiro           527
+CD01O281E 004775 DR. ALUIZIO                             Obstrução PV        Rio de Janeiro           294
+CD01O281E 004775 RODRIGO MAIA                            Obstrução DEM       Rio de Janeiro           322
+CD01O281E 004775 ZOINHO                                  Abstenção PR        Rio de Janeiro           328
+CD01O281E 004775 ALEXANDRE LEITE                         Obstrução DEM       São Paulo                334
+CD01O281E 004775 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O281E 004775 EDINHO ARAÚJO                           Obstrução PMDB      São Paulo                344
+CD01O281E 004775 PASTOR MARCO FELICIANO                  Obstrução PSC       São Paulo                379
+CD01O281E 004775 PAULO FREIRE                            Obstrução PR        São Paulo                380
+CD01O281E 004775 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O281E 004775 TIRIRICA                                Abstenção PR        São Paulo                392
+CD01O281E 004775 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD01O281E 004775 WELLINGTON FAGUNDES                     Sim       PR        Mato Grosso              406
+CD01O281E 004775 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O281E 004775 IZALCI                                  Obstrução PR        Distrito Federal         408
+CD01O281E 004775 LUIZ PITIMAN                            Obstrução PMDB      Distrito Federal         410
+CD01O281E 004775 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O281E 004775 LEOPOLDO MEYER                          Obstrução PSB       Paraná                   456
+CD01O281E 004775 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD01O281E 004775 DÉCIO LIMA                              Obstrução PT        Santa Catarina           475
+CD01O281E 004775 LUIS CARLOS HEINZE                      Obstrução PP        Rio Grande do Sul        500
+CD01O281E 004775 RONALDO NOGUEIRA                        Obstrução PTB       Rio Grande do Sul        556
+CD01O281E 004775 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD01O281E 004775 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD01O281E 004775 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O281E 004775 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O281E 004775 SIBÁ MACHADO                            <-------> PT        Acre                     58 
+CD01O281E 004775 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD01O281E 004775 TAUMATURGO LIMA                         <-------> PT        Acre                     59 
+CD01O281E 004775 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD01O281E 004775 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O281E 004775 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD01O281E 004775 JOÃO LYRA                               <-------> PTB       Alagoas                  167
+CD01O281E 004775 ARTHUR LIRA                             <-------> PP        Alagoas                  162
+CD01O281E 004775 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O281E 004775 FRANCISCO PRACIANO                      <-------> PT        Amazonas                 41 
+CD01O281E 004775 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD01O281E 004775 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O281E 004775 SILAS CÂMARA                            <-------> PSC       Amazonas                 39 
+CD01O281E 004775 ÁTILA LINS                              <-------> PMDB      Amazonas                 38 
+CD01O281E 004775 CARLOS SOUZA                            <-------> PP        Amazonas                 37 
+CD01O281E 004775 PAUDERNEY AVELINO                       <-------> DEM       Amazonas                 40 
+CD01O281E 004775 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD01O281E 004775 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD01O281E 004775 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD01O281E 004775 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O281E 004775 EVANDRO MILHOMEN                        <-------> PCdoB     Amapá                    11 
+CD01O281E 004775 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD01O281E 004775 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O281E 004775 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD01O281E 004775 JOSEPH BANDEIRA                         <-------> PT        Bahia                    565
+CD01O281E 004775 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD01O281E 004775 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O281E 004775 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD01O281E 004775 ANTONIO BRITO                           <-------> PTB       Bahia                    189
+CD01O281E 004775 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD01O281E 004775 ANTONIO IMBASSAHY                       <-------> PSDB      Bahia                    191
+CD01O281E 004775 EDSON PIMENTA                           <-------> PCdoB     Bahia                    193
+CD01O281E 004775 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD01O281E 004775 FERNANDO TORRES                         <-------> DEM       Bahia                    196
+CD01O281E 004775 JOSÉ CARLOS ARAÚJO                      <-------> PDT       Bahia                    197
+CD01O281E 004775 MARCOS MEDRADO                          <-------> PDT       Bahia                    200
+CD01O281E 004775 JOSÉ NUNES                              <-------> DEM       Bahia                    201
+CD01O281E 004775 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD01O281E 004775 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD01O281E 004775 LUIZ ALBERTO                            <-------> PT        Bahia                    204
+CD01O281E 004775 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD01O281E 004775 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD01O281E 004775 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD01O281E 004775 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD01O281E 004775 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O281E 004775 ROBERTO BRITTO                          <-------> PP        Bahia                    211
+CD01O281E 004775 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD01O281E 004775 SÉRGIO BRITO                            <-------> PSC       Bahia                    213
+CD01O281E 004775 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD01O281E 004775 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD01O281E 004775 FELIX MENDONÇA JÚNIOR                   <-------> PDT       Bahia                    195
+CD01O281E 004775 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD01O281E 004775 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD01O281E 004775 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD01O281E 004775 SÉRGIO BARRADAS CARNEIRO                <-------> PT        Bahia                    524
+CD01O281E 004775 PAULO MAGALHÃES                         <-------> DEM       Bahia                    214
+CD01O281E 004775 GERALDO SIMÕES                          <-------> PT        Bahia                    185
+CD01O281E 004775 ARTUR BRUNO                             <-------> PT        Ceará                    94 
+CD01O281E 004775 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O281E 004775 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD01O281E 004775 ANDRÉ FIGUEIREDO                        <-------> PDT       Ceará                    89 
+CD01O281E 004775 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD01O281E 004775 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD01O281E 004775 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD01O281E 004775 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O281E 004775 ARIOSTO HOLANDA                         <-------> PSB       Ceará                    92 
+CD01O281E 004775 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD01O281E 004775 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD01O281E 004775 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD01O281E 004775 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD01O281E 004775 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O281E 004775 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O281E 004775 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD01O281E 004775 JOSÉ GUIMARÃES                          <-------> PT        Ceará                    103
+CD01O281E 004775 MANOEL SALVIANO                         <-------> PSDB      Ceará                    104
+CD01O281E 004775 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD01O281E 004775 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD01O281E 004775 RAIMUNDÃO                               <-------> PMDB      Ceará                    108
+CD01O281E 004775 POLICARPO                               <-------> PT        Distrito Federal         539
+CD01O281E 004775 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD01O281E 004775 RONALDO FONSECA                         <-------> PR        Distrito Federal         414
+CD01O281E 004775 ERIKA KOKAY                             <-------> PT        Distrito Federal         407
+CD01O281E 004775 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD01O281E 004775 AUDIFAX                                 <-------> PSB       Espírito Santo           274
+CD01O281E 004775 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD01O281E 004775 MANATO                                  <-------> PDT       Espírito Santo           275
+CD01O281E 004775 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD01O281E 004775 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD01O281E 004775 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD01O281E 004775 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD01O281E 004775 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O281E 004775 MAGDA MOFATTO                           <-------> PTB       Goiás                    575
+CD01O281E 004775 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O281E 004775 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O281E 004775 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD01O281E 004775 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD01O281E 004775 HEULER CRUVINEL                         <-------> DEM       Goiás                    423
+CD01O281E 004775 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O281E 004775 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD01O281E 004775 VALDIVINO DE OLIVEIRA                   <-------> PSDB      Goiás                    547
+CD01O281E 004775 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD01O281E 004775 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O281E 004775 PEDRO CHAVES                            <-------> PMDB      Goiás                    428
+CD01O281E 004775 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD01O281E 004775 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O281E 004775 ARMANDO VERGÍLIO                        <-------> PMN       Goiás                    416
+CD01O281E 004775 ÍRIS DE ARAÚJO                          <-------> PMDB      Goiás                    417
+CD01O281E 004775 PROFESSOR SETIMO                        <-------> PMDB      Maranhão                 81 
+CD01O281E 004775 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O281E 004775 WEVERTON ROCHA                          <-------> PDT       Maranhão                 579
+CD01O281E 004775 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD01O281E 004775 ALBERTO FILHO                           <-------> PMDB      Maranhão                 71 
+CD01O281E 004775 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD01O281E 004775 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD01O281E 004775 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O281E 004775 HÉLIO SANTOS                            <-------> PSDB      Maranhão                 76 
+CD01O281E 004775 LOURIVAL MENDES                         <-------> PTdoB     Maranhão                 77 
+CD01O281E 004775 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O281E 004775 WALDIR MARANHÃO                         <-------> PP        Maranhão                 84 
+CD01O281E 004775 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O281E 004775 PEDRO NOVAIS                            <-------> PMDB      Maranhão                 82 
+CD01O281E 004775 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O281E 004775 COSTA FERREIRA                          <-------> PSC       Maranhão                 571
+CD01O281E 004775 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O281E 004775 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O281E 004775 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD01O281E 004775 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD01O281E 004775 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD01O281E 004775 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD01O281E 004775 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O281E 004775 ADEMIR CAMILO                           <-------> PDT       Minas Gerais             220
+CD01O281E 004775 CARLAILE PEDROSA                        <-------> PSDB      Minas Gerais             222
+CD01O281E 004775 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O281E 004775 ANTÔNIO ANDRADE                         <-------> PMDB      Minas Gerais             227
+CD01O281E 004775 DIEGO ANDRADE                           <-------> PR        Minas Gerais             228
+CD01O281E 004775 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD01O281E 004775 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD01O281E 004775 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O281E 004775 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD01O281E 004775 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD01O281E 004775 GERALDO THADEU                          <-------> PPS       Minas Gerais             236
+CD01O281E 004775 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD01O281E 004775 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD01O281E 004775 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD01O281E 004775 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O281E 004775 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD01O281E 004775 EROS BIONDINI                           <-------> PTB       Minas Gerais             242
+CD01O281E 004775 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD01O281E 004775 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD01O281E 004775 MÁRCIO REINALDO MOREIRA                 <-------> PP        Minas Gerais             247
+CD01O281E 004775 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O281E 004775 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD01O281E 004775 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD01O281E 004775 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD01O281E 004775 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O281E 004775 MARCOS MONTES                           <-------> DEM       Minas Gerais             257
+CD01O281E 004775 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O281E 004775 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O281E 004775 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD01O281E 004775 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD01O281E 004775 TONINHO PINHEIRO                        <-------> PP        Minas Gerais             264
+CD01O281E 004775 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O281E 004775 WALTER TOSTA                            <-------> PMN       Minas Gerais             267
+CD01O281E 004775 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O281E 004775 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD01O281E 004775 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O281E 004775 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD01O281E 004775 ZÉ SILVA                                <-------> PDT       Minas Gerais             271
+CD01O281E 004775 JOSÉ HUMBERTO                           <-------> PHS       Minas Gerais             249
+CD01O281E 004775 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O281E 004775 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O281E 004775 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O281E 004775 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CD01O281E 004775 MARÇAL FILHO                            <-------> PMDB      Mato Grosso do Sul       437
+CD01O281E 004775 GERALDO RESENDE                         <-------> PMDB      Mato Grosso do Sul       435
+CD01O281E 004775 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD01O281E 004775 GIROTO                                  <-------> PR        Mato Grosso do Sul       434
+CD01O281E 004775 FABIO TRAD                              <-------> PMDB      Mato Grosso do Sul       433
+CD01O281E 004775 ANTÔNIO CARLOS BIFFI                    <-------> PT        Mato Grosso do Sul       432
+CD01O281E 004775 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O281E 004775 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD01O281E 004775 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD01O281E 004775 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD01O281E 004775 HOMERO PEREIRA                          <-------> PR        Mato Grosso              402
+CD01O281E 004775 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD01O281E 004775 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD01O281E 004775 ROBERTO DORNER                          <-------> PP        Mato Grosso              519
+CD01O281E 004775 NERI GELLER                             <-------> PP        Mato Grosso              520
+CD01O281E 004775 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O281E 004775 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD01O281E 004775 BETO FARO                               <-------> PT        Pará                     19 
+CD01O281E 004775 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O281E 004775 MIRIQUINHO BATISTA                      <-------> PT        Pará                     35 
+CD01O281E 004775 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O281E 004775 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O281E 004775 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD01O281E 004775 LÚCIO VALE                              <-------> PR        Pará                     29 
+CD01O281E 004775 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O281E 004775 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O281E 004775 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD01O281E 004775 ASDRUBAL BENTES                         <-------> PMDB      Pará                     20 
+CD01O281E 004775 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O281E 004775 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CD01O281E 004775 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD01O281E 004775 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O281E 004775 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD01O281E 004775 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O281E 004775 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD01O281E 004775 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD01O281E 004775 ROMERO RODRIGUES                        <-------> PSDB      Paraíba                  135
+CD01O281E 004775 AGUINALDO RIBEIRO                       <-------> PP        Paraíba                  129
+CD01O281E 004775 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD01O281E 004775 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O281E 004775 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD01O281E 004775 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD01O281E 004775 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD01O281E 004775 VILALBA                                 <-------> PRB       Pernambuco               555
+CD01O281E 004775 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD01O281E 004775 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD01O281E 004775 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD01O281E 004775 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O281E 004775 RAUL HENRY                              <-------> PMDB      Pernambuco               163
+CD01O281E 004775 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD01O281E 004775 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD01O281E 004775 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD01O281E 004775 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD01O281E 004775 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD01O281E 004775 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD01O281E 004775 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O281E 004775 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD01O281E 004775 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD01O281E 004775 JOÃO PAULO  LIMA                        <-------> PT        Pernambuco               149
+CD01O281E 004775 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O281E 004775 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O281E 004775 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD01O281E 004775 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O281E 004775 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD01O281E 004775 ANA ARRAES                              <-------> PSB       Pernambuco               140
+CD01O281E 004775 FERNANDO FERRO                          <-------> PT        Pernambuco               141
+CD01O281E 004775 MARCELO CASTRO                          <-------> PMDB      Piauí                    110
+CD01O281E 004775 ASSIS CARVALHO                          <-------> PT        Piauí                    111
+CD01O281E 004775 HUGO NAPOLEÃO                           <-------> DEM       Piauí                    112
+CD01O281E 004775 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD01O281E 004775 JESUS RODRIGUES                         <-------> PT        Piauí                    115
+CD01O281E 004775 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD01O281E 004775 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD01O281E 004775 MARLLOS SAMPAIO                         <-------> PMDB      Piauí                    117
+CD01O281E 004775 ASSIS DO COUTO                          <-------> PT        Paraná                   443
+CD01O281E 004775 DILCEU SPERAFICO                        <-------> PP        Paraná                   444
+CD01O281E 004775 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O281E 004775 EDMAR ARRUDA                            <-------> PSC       Paraná                   446
+CD01O281E 004775 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O281E 004775 FERNANDO FRANCISCHINI                   <-------> PSDB      Paraná                   450
+CD01O281E 004775 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD01O281E 004775 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O281E 004775 JOÃO ARRUDA                             <-------> PMDB      Paraná                   455
+CD01O281E 004775 NELSON PADOVANI                         <-------> PSC       Paraná                   457
+CD01O281E 004775 NELSON MEURER                           <-------> PP        Paraná                   458
+CD01O281E 004775 RUBENS BUENO                            <-------> PPS       Paraná                   460
+CD01O281E 004775 EDUARDO SCIARRA                         <-------> DEM       Paraná                   461
+CD01O281E 004775 MOACIR MICHELETTO                       <-------> PMDB      Paraná                   462
+CD01O281E 004775 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD01O281E 004775 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD01O281E 004775 SANDRO ALEX                             <-------> PPS       Paraná                   465
+CD01O281E 004775 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O281E 004775 REINHOLD STEPHANES                      <-------> PMDB      Paraná                   467
+CD01O281E 004775 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD01O281E 004775 TAKAYAMA                                <-------> PSC       Paraná                   469
+CD01O281E 004775 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD01O281E 004775 LUIZ CARLOS SETIM                       <-------> DEM       Paraná                   535
+CD01O281E 004775 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD01O281E 004775 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O281E 004775 ANDRÉ VARGAS                            <-------> PT        Paraná                   452
+CD01O281E 004775 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O281E 004775 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD01O281E 004775 ELIANE ROLIM                            <-------> PT        Rio de Janeiro           538
+CD01O281E 004775 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD01O281E 004775 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O281E 004775 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O281E 004775 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O281E 004775 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD01O281E 004775 AROLDE DE OLIVEIRA                      <-------> DEM       Rio de Janeiro           288
+CD01O281E 004775 ANTHONY GAROTINHO                       <-------> PR        Rio de Janeiro           289
+CD01O281E 004775 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD01O281E 004775 BENEDITA DA SILVA                       <-------> PT        Rio de Janeiro           291
+CD01O281E 004775 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CD01O281E 004775 DR. PAULO CÉSAR                         <-------> PR        Rio de Janeiro           296
+CD01O281E 004775 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD01O281E 004775 EDSON EZEQUIEL                          <-------> PMDB      Rio de Janeiro           298
+CD01O281E 004775 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD01O281E 004775 EDUARDO CUNHA                           <-------> PMDB      Rio de Janeiro           300
+CD01O281E 004775 FELIPE BORNIER                          <-------> PHS       Rio de Janeiro           301
+CD01O281E 004775 JAIR BOLSONARO                          <-------> PP        Rio de Janeiro           302
+CD01O281E 004775 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD01O281E 004775 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD01O281E 004775 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CD01O281E 004775 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD01O281E 004775 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD01O281E 004775 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD01O281E 004775 NEILTON MULIM                           <-------> PR        Rio de Janeiro           315
+CD01O281E 004775 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD01O281E 004775 MIRO TEIXEIRA                           <-------> PDT       Rio de Janeiro           317
+CD01O281E 004775 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD01O281E 004775 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD01O281E 004775 VITOR PAULO                             <-------> PRB       Rio de Janeiro           324
+CD01O281E 004775 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD01O281E 004775 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD01O281E 004775 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD01O281E 004775 DR. CARLOS ALBERTO                      <-------> PMN       Rio de Janeiro           529
+CD01O281E 004775 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD01O281E 004775 SOLANGE ALMEIDA                         <-------> PMDB      Rio de Janeiro           563
+CD01O281E 004775 PAULO FEIJÓ                             <-------> PR        Rio de Janeiro           577
+CD01O281E 004775 LILIAM SÁ                               <-------> PR        Rio de Janeiro           309
+CD01O281E 004775 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD01O281E 004775 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O281E 004775 FELIPE MAIA                             <-------> DEM       Rio Grande do Norte      120
+CD01O281E 004775 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD01O281E 004775 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O281E 004775 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O281E 004775 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O281E 004775 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD01O281E 004775 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O281E 004775 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD01O281E 004775 PADRE TON                               <-------> PT        Rondonia                 48 
+CD01O281E 004775 MAURO NAZIF                             <-------> PSB       Rondonia                 46 
+CD01O281E 004775 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD01O281E 004775 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD01O281E 004775 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O281E 004775 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD01O281E 004775 FRANCISCO ARAÚJO                        <-------> PSL       Roraima                  570
+CD01O281E 004775 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD01O281E 004775 RAUL LIMA                               <-------> PP        Roraima                  7  
+CD01O281E 004775 PAULO CESAR QUARTIERO                   <-------> DEM       Roraima                  6  
+CD01O281E 004775 BERINHO BANTIM                          <-------> PSDB      Roraima                  1  
+CD01O281E 004775 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD01O281E 004775 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD01O281E 004775 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O281E 004775 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O281E 004775 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD01O281E 004775 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O281E 004775 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD01O281E 004775 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD01O281E 004775 JOSÉ STÉDILE                            <-------> PSB       Rio Grande do Sul        506
+CD01O281E 004775 RONALDO ZULKE                           <-------> PT        Rio Grande do Sul        515
+CD01O281E 004775 DANRLEI DE DEUS HINTERHOLZ              <-------> PTB       Rio Grande do Sul        495
+CD01O281E 004775 FERNANDO MARRONI                        <-------> PT        Rio Grande do Sul        525
+CD01O281E 004775 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD01O281E 004775 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O281E 004775 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O281E 004775 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD01O281E 004775 ASSIS MELO                              <-------> PCdoB     Rio Grande do Sul        492
+CD01O281E 004775 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O281E 004775 LUIZ NOÉ                                <-------> PSB       Rio Grande do Sul        536
+CD01O281E 004775 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD01O281E 004775 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD01O281E 004775 GIOVANI CHERINI                         <-------> PDT       Rio Grande do Sul        502
+CD01O281E 004775 PEPE VARGAS                             <-------> PT        Rio Grande do Sul        503
+CD01O281E 004775 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD01O281E 004775 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD01O281E 004775 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O281E 004775 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD01O281E 004775 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD01O281E 004775 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD01O281E 004775 BOHN GASS                               <-------> PT        Rio Grande do Sul        499
+CD01O281E 004775 ELISEU PADILHA                          <-------> PMDB      Rio Grande do Sul        578
+CD01O281E 004775 EDINHO BEZ                              <-------> PMDB      Santa Catarina           470
+CD01O281E 004775 CARMEN ZANOTTO                          <-------> PPS       Santa Catarina           561
+CD01O281E 004775 GEAN LOUREIRO                           <-------> PMDB      Santa Catarina           568
+CD01O281E 004775 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD01O281E 004775 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD01O281E 004775 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD01O281E 004775 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O281E 004775 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD01O281E 004775 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD01O281E 004775 ESPERIDIÃO AMIN                         <-------> PP        Santa Catarina           471
+CD01O281E 004775 CELSO MALDANER                          <-------> PMDB      Santa Catarina           472
+CD01O281E 004775 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O281E 004775 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD01O281E 004775 JORGE BOEIRA                            <-------> PT        Santa Catarina           474
+CD01O281E 004775 ONOFRE SANTO AGOSTINI                   <-------> DEM       Santa Catarina           479
+CD01O281E 004775 HELENO SILVA                            <-------> PRB       Sergipe                  175
+CD01O281E 004775 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD01O281E 004775 ALMEIDA LIMA                            <-------> PMDB      Sergipe                  173
+CD01O281E 004775 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CD01O281E 004775 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD01O281E 004775 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O281E 004775 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD01O281E 004775 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD01O281E 004775 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD01O281E 004775 ELEUSES PAIVA                           <-------> DEM       São Paulo                537
+CD01O281E 004775 JOSÉ DE FILIPPI                         <-------> PT        São Paulo                354
+CD01O281E 004775 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD01O281E 004775 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O281E 004775 DRA.ELAINE ABISSAMRA                    <-------> PSB       São Paulo                576
+CD01O281E 004775 PENNA                                   <-------> PV        São Paulo                382
+CD01O281E 004775 WALTER IHOSHI                           <-------> DEM       São Paulo                553
+CD01O281E 004775 CARLINHOS ALMEIDA                       <-------> PT        São Paulo                341
+CD01O281E 004775 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD01O281E 004775 DR. UBIALI                              <-------> PSB       São Paulo                541
+CD01O281E 004775 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD01O281E 004775 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD01O281E 004775 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD01O281E 004775 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O281E 004775 MARCELO AGUIAR                          <-------> PSC       São Paulo                370
+CD01O281E 004775 LUIZA ERUNDINA                          <-------> PSB       São Paulo                371
+CD01O281E 004775 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD01O281E 004775 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O281E 004775 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O281E 004775 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD01O281E 004775 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD01O281E 004775 OTONIEL LIMA                            <-------> PRB       São Paulo                378
+CD01O281E 004775 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD01O281E 004775 RICARDO IZAR                            <-------> PV        São Paulo                383
+CD01O281E 004775 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O281E 004775 ROBERTO SANTIAGO                        <-------> PV        São Paulo                386
+CD01O281E 004775 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD01O281E 004775 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD01O281E 004775 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD01O281E 004775 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O281E 004775 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD01O281E 004775 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O281E 004775 VICENTINHO                              <-------> PT        São Paulo                396
+CD01O281E 004775 CARLOS ZARATTINI                        <-------> PT        São Paulo                398
+CD01O281E 004775 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O281E 004775 ALDO REBELO                             <-------> PCdoB     São Paulo                331
+CD01O281E 004775 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD01O281E 004775 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD01O281E 004775 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O281E 004775 ARNALDO FARIA DE SÁ                     <-------> PTB       São Paulo                337
+CD01O281E 004775 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD01O281E 004775 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD01O281E 004775 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O281E 004775 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD01O281E 004775 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O281E 004775 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O281E 004775 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD01O281E 004775 GUILHERME MUSSI                         <-------> PV        São Paulo                348
+CD01O281E 004775 JEFFERSON CAMPOS                        <-------> PSB       São Paulo                349
+CD01O281E 004775 JONAS DONIZETTE                         <-------> PSB       São Paulo                353
+CD01O281E 004775 JUNJI ABE                               <-------> DEM       São Paulo                355
+CD01O281E 004775 KEIKO OTA                               <-------> PSB       São Paulo                356
+CD01O281E 004775 GUILHERME CAMPOS                        <-------> DEM       São Paulo                357
+CD01O281E 004775 JANETE ROCHA PIETÁ                      <-------> PT        São Paulo                358
+CD01O281E 004775 IVAN VALENTE                            <-------> PSOL      São Paulo                359
+CD01O281E 004775 JILMAR TATTO                            <-------> PT        São Paulo                360
+CD01O281E 004775 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O281E 004775 JOÃO DADO                               <-------> PDT       São Paulo                362
+CD01O281E 004775 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD01O281E 004775 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CD01O281E 004775 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD01O281E 004775 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD01O281E 004775 LAUREZ MOREIRA                          <-------> PSB       Tocantins                62 
+CD01O281E 004775 LÁZARO BOTELHO                          <-------> PP        Tocantins                63 
+CD01O281E 004775 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O281E 004775 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 
+CD01O281E 004775 JÚNIOR COIMBRA                          <-------> PMDB      Tocantins                66 
+CD01O281E 004775 ÂNGELO AGNOLIN                          <-------> PDT       Tocantins                61 
+CD01O281E 004775 CÉSAR HALUM                             <-------> PPS       Tocantins                64 

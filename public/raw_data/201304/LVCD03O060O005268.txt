@@ -1,0 +1,513 @@
+CD03O060O 005268 CHICO DAS VERDURAS                      Sim       PRP       Roraima                  3
+CD03O060O 005268 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD03O060O 005268 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CD03O060O 005268 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD03O060O 005268 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD03O060O 005268 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD03O060O 005268 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD03O060O 005268 FÁTIMA PELAES                           Não       PMDB      Amapá                    12 
+CD03O060O 005268 JANETE CAPIBERIBE                       Sim       PSB       Amapá                    572
+CD03O060O 005268 LUIZ CARLOS                             Não       PSDB      Amapá                    14 
+CD03O060O 005268 ARNALDO JORDY                           Sim       PPS       Pará                     18 
+CD03O060O 005268 ASDRUBAL BENTES                         Não       PMDB      Pará                     20 
+CD03O060O 005268 BETO FARO                               Não       PT        Pará                     19 
+CD03O060O 005268 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD03O060O 005268 DUDIMAR PAXIÚBA                         Não       PSDB      Pará                     518
+CD03O060O 005268 GIOVANNI QUEIROZ                        Não       PDT       Pará                     27 
+CD03O060O 005268 JOSÉ PRIANTE                            Não       PMDB      Pará                     26 
+CD03O060O 005268 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD03O060O 005268 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD03O060O 005268 LÚCIO VALE                              Não       PR        Pará                     29 
+CD03O060O 005268 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD03O060O 005268 NILSON PINTO                            Não       PSDB      Pará                     31 
+CD03O060O 005268 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD03O060O 005268 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD03O060O 005268 ÁTILA LINS                              Não       PSD       Amazonas                 38 
+CD03O060O 005268 DR. LUIZ FERNANDO                       Não       PSD       Amazonas                 605
+CD03O060O 005268 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD03O060O 005268 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD03O060O 005268 PLÍNIO VALÉRIO                          Sim       PSDB      Amazonas                 633
+CD03O060O 005268 SABINO CASTELO BRANCO                   Sim       PTB       Amazonas                 43 
+CD03O060O 005268 SILAS CÂMARA                            Não       PSD       Amazonas                 39 
+CD03O060O 005268 ANSELMO DE JESUS                        Não       PT        Rondonia                 615
+CD03O060O 005268 MARCOS ROGÉRIO                          Não       PDT       Rondonia                 583
+CD03O060O 005268 NATAN DONADON                           Não       PMDB      Rondonia                 51 
+CD03O060O 005268 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD03O060O 005268 PADRE TON                               Não       PT        Rondonia                 48 
+CD03O060O 005268 ANTÔNIA LÚCIA                           Sim       PSC       Acre                     53 
+CD03O060O 005268 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD03O060O 005268 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD03O060O 005268 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD03O060O 005268 IRAJÁ ABREU                             Não       PSD       Tocantins                65 
+CD03O060O 005268 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD03O060O 005268 LEOMAR QUINTANILHA                      Não       PMDB      Tocantins                628
+CD03O060O 005268 NILMAR RUIZ                             Sim       PEN       Tocantins                634
+CD03O060O 005268 OSVALDO REIS                            Não       PMDB      Tocantins                620
+CD03O060O 005268 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD03O060O 005268 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD03O060O 005268 COSTA FERREIRA                          Não       PSC       Maranhão                 571
+CD03O060O 005268 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CD03O060O 005268 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD03O060O 005268 HÉLIO SANTOS                            Não       PSD       Maranhão                 76 
+CD03O060O 005268 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD03O060O 005268 PEDRO NOVAIS                            Não       PMDB      Maranhão                 82 
+CD03O060O 005268 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD03O060O 005268 SIMPLÍCIO ARAÚJO                        Sim       PPS       Maranhão                 585
+CD03O060O 005268 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD03O060O 005268 WEVERTON ROCHA                          Não       PDT       Maranhão                 579
+CD03O060O 005268 ZÉ VIEIRA                               Sim       PR        Maranhão                 86 
+CD03O060O 005268 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD03O060O 005268 ANÍBAL GOMES                            Não       PMDB      Ceará                    87 
+CD03O060O 005268 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD03O060O 005268 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD03O060O 005268 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD03O060O 005268 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD03O060O 005268 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CD03O060O 005268 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD03O060O 005268 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD03O060O 005268 ILÁRIO MARQUES                          Não       PT        Ceará                    637
+CD03O060O 005268 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD03O060O 005268 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD03O060O 005268 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD03O060O 005268 JOSÉ LINHARES                           Não       PP        Ceará                    96 
+CD03O060O 005268 MÁRIO FEITOZA                           Não       PMDB      Ceará                    590
+CD03O060O 005268 MAURO BENEVIDES                         Não       PMDB      Ceará                    105
+CD03O060O 005268 RAIMUNDO GOMES DE MATOS                 Não       PSDB      Ceará                    102
+CD03O060O 005268 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD03O060O 005268 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD03O060O 005268 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD03O060O 005268 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD03O060O 005268 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD03O060O 005268 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD03O060O 005268 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD03O060O 005268 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD03O060O 005268 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD03O060O 005268 PAES LANDIM                             Não       PTB       Piauí                    118
+CD03O060O 005268 BETINHO ROSADO                          Não       DEM       Rio Grande do Norte      122
+CD03O060O 005268 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD03O060O 005268 HENRIQUE EDUARDO ALVES                  Art. 17   PMDB      Rio Grande do Norte      123
+CD03O060O 005268 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD03O060O 005268 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CD03O060O 005268 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD03O060O 005268 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD03O060O 005268 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD03O060O 005268 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD03O060O 005268 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD03O060O 005268 MAJOR FÁBIO                             Sim       DEM       Paraíba                  599
+CD03O060O 005268 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD03O060O 005268 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD03O060O 005268 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD03O060O 005268 BRUNO ARAÚJO                            Não       PSDB      Pernambuco               146
+CD03O060O 005268 CARLOS EDUARDO CADOCA                   Não       PSC       Pernambuco               152
+CD03O060O 005268 EDUARDO DA FONTE                        Não       PP        Pernambuco               156
+CD03O060O 005268 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD03O060O 005268 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD03O060O 005268 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD03O060O 005268 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD03O060O 005268 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD03O060O 005268 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD03O060O 005268 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD03O060O 005268 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD03O060O 005268 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD03O060O 005268 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD03O060O 005268 SERGIO GUERRA                           Não       PSDB      Pernambuco               159
+CD03O060O 005268 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CD03O060O 005268 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD03O060O 005268 VILALBA                                 Sim       PRB       Pernambuco               555
+CD03O060O 005268 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD03O060O 005268 ALEXANDRE TOLEDO                        Não       PSDB      Alagoas                  596
+CD03O060O 005268 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD03O060O 005268 FRANCISCO TENÓRIO                       Não       PMN       Alagoas                  607
+CD03O060O 005268 JOÃO LYRA                               Sim       PSD       Alagoas                  167
+CD03O060O 005268 RENAN FILHO                             Não       PMDB      Alagoas                  169
+CD03O060O 005268 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD03O060O 005268 ALMEIDA LIMA                            Sim       PPS       Sergipe                  173
+CD03O060O 005268 ANDRE MOURA                             Não       PSC       Sergipe                  174
+CD03O060O 005268 FABIO REIS                              Não       PMDB      Sergipe                  619
+CD03O060O 005268 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD03O060O 005268 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD03O060O 005268 ROGÉRIO CARVALHO                        Não       PT        Sergipe                  178
+CD03O060O 005268 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD03O060O 005268 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CD03O060O 005268 AFONSO FLORENCE                         Não       PT        Bahia                    182
+CD03O060O 005268 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD03O060O 005268 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD03O060O 005268 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD03O060O 005268 ANTONIO IMBASSAHY                       Não       PSDB      Bahia                    191
+CD03O060O 005268 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD03O060O 005268 COLBERT MARTINS                         Não       PMDB      Bahia                    622
+CD03O060O 005268 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD03O060O 005268 EDSON PIMENTA                           Não       PSD       Bahia                    193
+CD03O060O 005268 ERIVELTON SANTANA                       Não       PSC       Bahia                    194
+CD03O060O 005268 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD03O060O 005268 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD03O060O 005268 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD03O060O 005268 JOÃO LEÃO                               Não       PP        Bahia                    199
+CD03O060O 005268 JOSÉ CARLOS ARAÚJO                      Não       PSD       Bahia                    197
+CD03O060O 005268 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD03O060O 005268 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD03O060O 005268 JUTAHY JUNIOR                           Não       PSDB      Bahia                    206
+CD03O060O 005268 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD03O060O 005268 LUIZ DE DEUS                            Sim       DEM       Bahia                    609
+CD03O060O 005268 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD03O060O 005268 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD03O060O 005268 MÁRIO NEGROMONTE                        Não       PP        Bahia                    210
+CD03O060O 005268 PAULO MAGALHÃES                         Não       PSD       Bahia                    214
+CD03O060O 005268 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD03O060O 005268 SÉRGIO BRITO                            Não       PSD       Bahia                    213
+CD03O060O 005268 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD03O060O 005268 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD03O060O 005268 ZEZÉU RIBEIRO                           Não       PT        Bahia                    217
+CD03O060O 005268 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD03O060O 005268 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD03O060O 005268 BONIFÁCIO DE ANDRADA                    Não       PSDB      Minas Gerais             534
+CD03O060O 005268 DIEGO ANDRADE                           Não       PSD       Minas Gerais             228
+CD03O060O 005268 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD03O060O 005268 DOMINGOS SÁVIO                          Não       PSDB      Minas Gerais             233
+CD03O060O 005268 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD03O060O 005268 EDUARDO AZEREDO                         Não       PSDB      Minas Gerais             237
+CD03O060O 005268 EDUARDO BARBOSA                         Não       PSDB      Minas Gerais             230
+CD03O060O 005268 FÁBIO RAMALHO                           Não       PV        Minas Gerais             238
+CD03O060O 005268 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD03O060O 005268 HUMBERTO SOUTO                          Sim       PPS       Minas Gerais             606
+CD03O060O 005268 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD03O060O 005268 JOÃO BITTAR                             Não       DEM       Minas Gerais             531
+CD03O060O 005268 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD03O060O 005268 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD03O060O 005268 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD03O060O 005268 LAEL VARELLA                            Sim       DEM       Minas Gerais             245
+CD03O060O 005268 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD03O060O 005268 LEONARDO QUINTÃO                        Não       PMDB      Minas Gerais             255
+CD03O060O 005268 LUIZ FERNANDO FARIA                     Não       PP        Minas Gerais             256
+CD03O060O 005268 MARCUS PESTANA                          Não       PSDB      Minas Gerais             254
+CD03O060O 005268 MARGARIDA SALOMÃO                       Não       PT        Minas Gerais             610
+CD03O060O 005268 MAURO LOPES                             Não       PMDB      Minas Gerais             252
+CD03O060O 005268 MIGUEL CORRÊA                           Não       PT        Minas Gerais             261
+CD03O060O 005268 NEWTON CARDOSO                          Não       PMDB      Minas Gerais             258
+CD03O060O 005268 NILMÁRIO MIRANDA                        Não       PT        Minas Gerais             611
+CD03O060O 005268 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD03O060O 005268 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD03O060O 005268 PAULO ABI-ACKEL                         Não       PSDB      Minas Gerais             263
+CD03O060O 005268 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD03O060O 005268 RENATO ANDRADE                          Sim       PP        Minas Gerais             612
+CD03O060O 005268 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD03O060O 005268 RODRIGO DE CASTRO                       Não       PSDB      Minas Gerais             268
+CD03O060O 005268 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD03O060O 005268 SILAS BRASILEIRO                        Não       PMDB      Minas Gerais             636
+CD03O060O 005268 STEFANO AGUIAR                          Não       PSC       Minas Gerais             558
+CD03O060O 005268 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD03O060O 005268 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD03O060O 005268 WALTER TOSTA                            Não       PSD       Minas Gerais             267
+CD03O060O 005268 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD03O060O 005268 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD03O060O 005268 CESAR COLNAGO                           Não       PSDB      Espírito Santo           276
+CD03O060O 005268 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD03O060O 005268 IRINY LOPES                             Não       PT        Espírito Santo           273
+CD03O060O 005268 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD03O060O 005268 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD03O060O 005268 MANATO                                  Sim       PDT       Espírito Santo           275
+CD03O060O 005268 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD03O060O 005268 ROSE DE FREITAS                         Não       PMDB      Espírito Santo           282
+CD03O060O 005268 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD03O060O 005268 ADRIAN                                  Não       PMDB      Rio de Janeiro           286
+CD03O060O 005268 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD03O060O 005268 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CD03O060O 005268 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD03O060O 005268 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD03O060O 005268 AUREO                                   Sim       PRTB      Rio de Janeiro           290
+CD03O060O 005268 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD03O060O 005268 CELSO JACOB                             Não       PMDB      Rio de Janeiro           632
+CD03O060O 005268 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD03O060O 005268 DELEY                                   Sim       PSC       Rio de Janeiro           562
+CD03O060O 005268 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD03O060O 005268 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD03O060O 005268 DR. PAULO CÉSAR                         Não       PSD       Rio de Janeiro           296
+CD03O060O 005268 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD03O060O 005268 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD03O060O 005268 EURICO JÚNIOR                           Sim       PV        Rio de Janeiro           613
+CD03O060O 005268 FELIPE BORNIER                          Não       PSD       Rio de Janeiro           301
+CD03O060O 005268 FERNANDO JORDÃO                         Não       PMDB      Rio de Janeiro           557
+CD03O060O 005268 FERNANDO LOPES                          Não       PMDB      Rio de Janeiro           623
+CD03O060O 005268 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD03O060O 005268 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD03O060O 005268 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD03O060O 005268 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD03O060O 005268 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD03O060O 005268 JORGE BITTAR                            Não       PT        Rio de Janeiro           310
+CD03O060O 005268 LEONARDO PICCIANI                       Não       PMDB      Rio de Janeiro           312
+CD03O060O 005268 LILIAM SÁ                               Sim       PSD       Rio de Janeiro           309
+CD03O060O 005268 LUIZ SÉRGIO                             Não       PT        Rio de Janeiro           313
+CD03O060O 005268 MANUEL ROSA NECA                        Sim       PR        Rio de Janeiro           614
+CD03O060O 005268 MARCELO MATOS                           Sim       PDT       Rio de Janeiro           311
+CD03O060O 005268 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD03O060O 005268 OTAVIO LEITE                            Não       PSDB      Rio de Janeiro           316
+CD03O060O 005268 PAULO FEIJÓ                             Sim       PR        Rio de Janeiro           577
+CD03O060O 005268 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD03O060O 005268 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD03O060O 005268 SERGIO ZVEITER                          Não       PSD       Rio de Janeiro           320
+CD03O060O 005268 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD03O060O 005268 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD03O060O 005268 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD03O060O 005268 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD03O060O 005268 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD03O060O 005268 ABELARDO CAMARINHA                      Sim       PSB       São Paulo                329
+CD03O060O 005268 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD03O060O 005268 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD03O060O 005268 ANTONIO CARLOS MENDES THAME             Não       PSDB      São Paulo                332
+CD03O060O 005268 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD03O060O 005268 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD03O060O 005268 ARNALDO JARDIM                          Não       PPS       São Paulo                339
+CD03O060O 005268 BRUNA FURLAN                            Não       PSDB      São Paulo                335
+CD03O060O 005268 CARLOS ROBERTO                          Não       PSDB      São Paulo                569
+CD03O060O 005268 CARLOS SAMPAIO                          Não       PSDB      São Paulo                338
+CD03O060O 005268 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD03O060O 005268 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD03O060O 005268 DUARTE NOGUEIRA                         Não       PSDB      São Paulo                350
+CD03O060O 005268 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD03O060O 005268 ELEUSES PAIVA                           Não       PSD       São Paulo                537
+CD03O060O 005268 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD03O060O 005268 EMANUEL FERNANDES                       Não       PSDB      São Paulo                352
+CD03O060O 005268 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD03O060O 005268 GUILHERME CAMPOS                        Não       PSD       São Paulo                357
+CD03O060O 005268 GUILHERME MUSSI                         Não       PSD       São Paulo                348
+CD03O060O 005268 IARA BERNARDI                           Não       PT        São Paulo                618
+CD03O060O 005268 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD03O060O 005268 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD03O060O 005268 JEFFERSON CAMPOS                        Não       PSD       São Paulo                349
+CD03O060O 005268 JOÃO DADO                               Não       PDT       São Paulo                362
+CD03O060O 005268 JOSÉ GENOÍNO                            Não       PT        São Paulo                617
+CD03O060O 005268 JUNJI ABE                               Não       PSD       São Paulo                355
+CD03O060O 005268 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD03O060O 005268 LUIZ FERNANDO MACHADO                   Não       PSDB      São Paulo                365
+CD03O060O 005268 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD03O060O 005268 MARA GABRILLI                           Não       PSDB      São Paulo                366
+CD03O060O 005268 MILTON MONTI                            Sim       PR        São Paulo                374
+CD03O060O 005268 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD03O060O 005268 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD03O060O 005268 NEWTON LIMA                             Não       PT        São Paulo                377
+CD03O060O 005268 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD03O060O 005268 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD03O060O 005268 PAULO MALUF                             Não       PP        São Paulo                373
+CD03O060O 005268 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD03O060O 005268 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD03O060O 005268 PENNA                                   Sim       PV        São Paulo                382
+CD03O060O 005268 RICARDO IZAR                            Não       PSD       São Paulo                383
+CD03O060O 005268 RICARDO TRIPOLI                         Não       PSDB      São Paulo                384
+CD03O060O 005268 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD03O060O 005268 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CD03O060O 005268 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CD03O060O 005268 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD03O060O 005268 TIRIRICA                                Sim       PR        São Paulo                392
+CD03O060O 005268 VANDERLEI MACRIS                        Não       PSDB      São Paulo                521
+CD03O060O 005268 VANDERLEI SIRAQUE                       Não       PT        São Paulo                581
+CD03O060O 005268 VAZ DE LIMA                             Não       PSDB      São Paulo                394
+CD03O060O 005268 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CD03O060O 005268 VICENTINHO                              Não       PT        São Paulo                396
+CD03O060O 005268 WALTER FELDMAN                          Sim       PSDB      São Paulo                550
+CD03O060O 005268 WALTER IHOSHI                           Não       PSD       São Paulo                553
+CD03O060O 005268 WILLIAM DIB                             Não       PSDB      São Paulo                397
+CD03O060O 005268 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD03O060O 005268 ELIENE LIMA                             Não       PSD       Mato Grosso              401
+CD03O060O 005268 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD03O060O 005268 NILSON LEITÃO                           Não       PSDB      Mato Grosso              573
+CD03O060O 005268 PEDRO HENRY                             Não       PP        Mato Grosso              403
+CD03O060O 005268 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD03O060O 005268 WELLINGTON FAGUNDES                     Sim       PR        Mato Grosso              406
+CD03O060O 005268 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD03O060O 005268 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD03O060O 005268 IZALCI                                  Não       PSDB      Distrito Federal         408
+CD03O060O 005268 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD03O060O 005268 LUIZ PITIMAN                            Não       PMDB      Distrito Federal         410
+CD03O060O 005268 POLICARPO                               Não       PT        Distrito Federal         539
+CD03O060O 005268 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD03O060O 005268 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD03O060O 005268 ARMANDO VERGÍLIO                        Não       PSD       Goiás                    416
+CD03O060O 005268 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD03O060O 005268 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD03O060O 005268 JOÃO CAMPOS                             Não       PSDB      Goiás                    418
+CD03O060O 005268 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD03O060O 005268 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CD03O060O 005268 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD03O060O 005268 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD03O060O 005268 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD03O060O 005268 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD03O060O 005268 RUBENS OTONI                            Não       PT        Goiás                    425
+CD03O060O 005268 VALDIVINO DE OLIVEIRA                   Não       PSDB      Goiás                    547
+CD03O060O 005268 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD03O060O 005268 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD03O060O 005268 GIROTO                                  Não       PMDB      Mato Grosso do Sul       434
+CD03O060O 005268 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD03O060O 005268 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD03O060O 005268 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD03O060O 005268 ALFREDO KAEFER                          Não       PSDB      Paraná                   451
+CD03O060O 005268 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD03O060O 005268 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD03O060O 005268 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD03O060O 005268 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD03O060O 005268 DR. ROSINHA                             Não       PT        Paraná                   449
+CD03O060O 005268 EDUARDO SCIARRA                         Não       PSD       Paraná                   461
+CD03O060O 005268 HERMES PARCIANELLO                      Não       PMDB      Paraná                   448
+CD03O060O 005268 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD03O060O 005268 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD03O060O 005268 LUIZ NISHIMORI                          Não       PSDB      Paraná                   542
+CD03O060O 005268 MARCELO ALMEIDA                         Não       PMDB      Paraná                   631
+CD03O060O 005268 NELSON MEURER                           Não       PP        Paraná                   458
+CD03O060O 005268 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD03O060O 005268 ODÍLIO BALBINOTTI                       Não       PMDB      Paraná                   588
+CD03O060O 005268 OLIVEIRA FILHO                          Sim       PRB       Paraná                   621
+CD03O060O 005268 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD03O060O 005268 PROFESSOR SÉRGIO DE OLIVEIRA            Sim       PSC       Paraná                   603
+CD03O060O 005268 RICARDO ARRUDA                          Não       PSC       Paraná                   635
+CD03O060O 005268 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD03O060O 005268 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD03O060O 005268 TAKAYAMA                                Não       PSC       Paraná                   469
+CD03O060O 005268 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD03O060O 005268 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD03O060O 005268 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD03O060O 005268 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD03O060O 005268 JOÃO PIZZOLATTI                         Não       PP        Santa Catarina           574
+CD03O060O 005268 JORGINHO MELLO                          Sim       PR        Santa Catarina           476
+CD03O060O 005268 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD03O060O 005268 MARCO TEBALDI                           Sim       PSDB      Santa Catarina           478
+CD03O060O 005268 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CD03O060O 005268 ONOFRE SANTO AGOSTINI                   Não       PSD       Santa Catarina           479
+CD03O060O 005268 PEDRO UCZAI                             Não       PT        Santa Catarina           481
+CD03O060O 005268 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD03O060O 005268 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD03O060O 005268 VALDIR COLATTO                          Não       PMDB      Santa Catarina           560
+CD03O060O 005268 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD03O060O 005268 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD03O060O 005268 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD03O060O 005268 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD03O060O 005268 DANRLEI DE DEUS HINTERHOLZ              Não       PSD       Rio Grande do Sul        495
+CD03O060O 005268 DARCÍSIO PERONDI                        Não       PMDB      Rio Grande do Sul        491
+CD03O060O 005268 ENIO BACCI                              Não       PDT       Rio Grande do Sul        493
+CD03O060O 005268 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD03O060O 005268 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD03O060O 005268 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD03O060O 005268 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD03O060O 005268 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD03O060O 005268 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD03O060O 005268 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD03O060O 005268 NELSON MARCHEZAN JUNIOR                 Não       PSDB      Rio Grande do Sul        509
+CD03O060O 005268 OSMAR TERRA                             Não       PMDB      Rio Grande do Sul        497
+CD03O060O 005268 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD03O060O 005268 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD03O060O 005268 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD03O060O 005268 SÉRGIO MORAES                           Sim       PTB       Rio Grande do Sul        512
+CD03O060O 005268 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD03O060O 005268 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD03O060O 005268 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD03O060O 005268 TAUMATURGO LIMA                         <-------> PT        Acre                     59 
+CD03O060O 005268 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD03O060O 005268 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD03O060O 005268 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD03O060O 005268 PAULÃO                                  <-------> PT        Alagoas                  608
+CD03O060O 005268 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD03O060O 005268 CARLOS SOUZA                            <-------> PSD       Amazonas                 37 
+CD03O060O 005268 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD03O060O 005268 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD03O060O 005268 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD03O060O 005268 LUIZ ALBERTO                            <-------> PT        Bahia                    204
+CD03O060O 005268 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD03O060O 005268 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD03O060O 005268 MARCELO GUIMARÃES FILHO                 <-------> PMDB      Bahia                    627
+CD03O060O 005268 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD03O060O 005268 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD03O060O 005268 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD03O060O 005268 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD03O060O 005268 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD03O060O 005268 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD03O060O 005268 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD03O060O 005268 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD03O060O 005268 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD03O060O 005268 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD03O060O 005268 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD03O060O 005268 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD03O060O 005268 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD03O060O 005268 HEULER CRUVINEL                         <-------> PSD       Goiás                    423
+CD03O060O 005268 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD03O060O 005268 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD03O060O 005268 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD03O060O 005268 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD03O060O 005268 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD03O060O 005268 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD03O060O 005268 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD03O060O 005268 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD03O060O 005268 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD03O060O 005268 GERALDO THADEU                          <-------> PSD       Minas Gerais             236
+CD03O060O 005268 ADEMIR CAMILO                           <-------> PSD       Minas Gerais             220
+CD03O060O 005268 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD03O060O 005268 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD03O060O 005268 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD03O060O 005268 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD03O060O 005268 MARCOS MONTES                           <-------> PSD       Minas Gerais             257
+CD03O060O 005268 MÁRIO HERINGER                          <-------> PDT       Minas Gerais             629
+CD03O060O 005268 ISAIAS SILVESTRE                        <-------> PSB       Minas Gerais             604
+CD03O060O 005268 BIFFI                                   <-------> PT        Mato Grosso do Sul       432
+CD03O060O 005268 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD03O060O 005268 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD03O060O 005268 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD03O060O 005268 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD03O060O 005268 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD03O060O 005268 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD03O060O 005268 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD03O060O 005268 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD03O060O 005268 LEONARDO GADELHA                        <-------> PSC       Paraíba                  586
+CD03O060O 005268 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD03O060O 005268 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD03O060O 005268 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD03O060O 005268 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD03O060O 005268 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD03O060O 005268 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD03O060O 005268 JOÃO PAULO  LIMA                        <-------> PT        Pernambuco               149
+CD03O060O 005268 HUGO NAPOLEÃO                           <-------> PSD       Piauí                    112
+CD03O060O 005268 GIACOBO                                 <-------> PR        Paraná                   466
+CD03O060O 005268 ASSIS DO COUTO                          <-------> PT        Paraná                   443
+CD03O060O 005268 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD03O060O 005268 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD03O060O 005268 SANDRO ALEX                             <-------> PPS       Paraná                   465
+CD03O060O 005268 FERNANDO FRANCISCHINI                   <-------> PEN       Paraná                   450
+CD03O060O 005268 VITOR PAULO                             <-------> PRB       Rio de Janeiro           324
+CD03O060O 005268 AROLDE DE OLIVEIRA                      <-------> PSD       Rio de Janeiro           288
+CD03O060O 005268 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD03O060O 005268 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD03O060O 005268 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD03O060O 005268 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD03O060O 005268 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD03O060O 005268 FÁBIO FARIA                             <-------> PSD       Rio Grande do Norte      119
+CD03O060O 005268 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD03O060O 005268 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD03O060O 005268 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD03O060O 005268 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD03O060O 005268 MARCIO JUNQUEIRA                        <-------> DEM       Roraima                  625
+CD03O060O 005268 URZENI ROCHA                            <-------> PSDB      Roraima                  616
+CD03O060O 005268 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD03O060O 005268 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD03O060O 005268 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD03O060O 005268 PAULO FERREIRA                          <-------> PT        Rio Grande do Sul        591
+CD03O060O 005268 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD03O060O 005268 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD03O060O 005268 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD03O060O 005268 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD03O060O 005268 BETO ALBUQUERQUE                        <-------> PSB       Rio Grande do Sul        490
+CD03O060O 005268 ESPERIDIÃO AMIN                         <-------> PP        Santa Catarina           471
+CD03O060O 005268 JORGE BOEIRA                            <-------> PSD       Santa Catarina           474
+CD03O060O 005268 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD03O060O 005268 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD03O060O 005268 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD03O060O 005268 CARLOS ZARATTINI                        <-------> PT        São Paulo                398
+CD03O060O 005268 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD03O060O 005268 MÁRCIO FRANÇA                           <-------> PSB       São Paulo                368
+CD03O060O 005268 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD03O060O 005268 MARCELO AGUIAR                          <-------> PSD       São Paulo                370
+CD03O060O 005268 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD03O060O 005268 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD03O060O 005268 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD03O060O 005268 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD03O060O 005268 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD03O060O 005268 FRANCISCO CHAGAS                        <-------> PT        São Paulo                626
+CD03O060O 005268 BETO MANSUR                             <-------> PP        São Paulo                340
+CD03O060O 005268 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD03O060O 005268 ÂNGELO AGNOLIN                          <-------> PDT       Tocantins                61 
+CD03O060O 005268 CÉSAR HALUM                             <-------> PSD       Tocantins                64 

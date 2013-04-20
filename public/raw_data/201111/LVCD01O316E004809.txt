@@ -1,0 +1,513 @@
+CD01O316E 004809 BERINHO BANTIM                          Obstrução PSDB      Roraima                  1
+CD01O316E 004809 FRANCISCO ARAÚJO                        Não       PSD       Roraima                  570
+CD01O316E 004809 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD01O316E 004809 PAULO CESAR QUARTIERO                   Obstrução DEM       Roraima                  6  
+CD01O316E 004809 RAUL LIMA                               Não       PSD       Roraima                  7  
+CD01O316E 004809 TERESA SURITA                           Não       PMDB      Roraima                  8  
+CD01O316E 004809 DAVI ALCOLUMBRE                         Obstrução DEM       Amapá                    10 
+CD01O316E 004809 FÁTIMA PELAES                           Não       PMDB      Amapá                    12 
+CD01O316E 004809 JANETE CAPIBERIBE                       Não       PSB       Amapá                    572
+CD01O316E 004809 VINICIUS GURGEL                         Não       PR        Amapá                    16 
+CD01O316E 004809 ASDRUBAL BENTES                         Não       PMDB      Pará                     20 
+CD01O316E 004809 BETO FARO                               Não       PT        Pará                     19 
+CD01O316E 004809 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD01O316E 004809 GIOVANNI QUEIROZ                        Não       PDT       Pará                     27 
+CD01O316E 004809 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD01O316E 004809 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O316E 004809 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O316E 004809 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CD01O316E 004809 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD01O316E 004809 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD01O316E 004809 ÁTILA LINS                              Não       PSD       Amazonas                 38 
+CD01O316E 004809 CARLOS SOUZA                            Não       PSD       Amazonas                 37 
+CD01O316E 004809 PAUDERNEY AVELINO                       Sim       DEM       Amazonas                 40 
+CD01O316E 004809 REBECCA GARCIA                          Não       PP        Amazonas                 42 
+CD01O316E 004809 SABINO CASTELO BRANCO                   Sim       PTB       Amazonas                 43 
+CD01O316E 004809 SILAS CÂMARA                            Não       PSD       Amazonas                 39 
+CD01O316E 004809 CARLOS MAGNO                            Não       PP        Rondonia                 44 
+CD01O316E 004809 GLADSON CAMELI                          Não       PP        Acre                     55 
+CD01O316E 004809 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD01O316E 004809 MARCIO BITTAR                           Abstenção PSDB      Acre                     57 
+CD01O316E 004809 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD01O316E 004809 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD01O316E 004809 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD01O316E 004809 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD01O316E 004809 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD01O316E 004809 LAUREZ MOREIRA                          Não       PSB       Tocantins                62 
+CD01O316E 004809 PROFESSORA DORINHA SEABRA REZEN         Obstrução DEM       Tocantins                67 
+CD01O316E 004809 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O316E 004809 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD01O316E 004809 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD01O316E 004809 EDIVALDO HOLANDA JUNIOR                 Não       PTC       Maranhão                 73 
+CD01O316E 004809 FRANCISCO ESCÓRCIO                      Não       PMDB      Maranhão                 567
+CD01O316E 004809 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O316E 004809 PEDRO NOVAIS                            Não       PMDB      Maranhão                 82 
+CD01O316E 004809 PINTO ITAMARATY                         Obstrução PSDB      Maranhão                 79 
+CD01O316E 004809 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD01O316E 004809 ZÉ VIEIRA                               Não       PR        Maranhão                 86 
+CD01O316E 004809 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O316E 004809 ANÍBAL GOMES                            Não       PMDB      Ceará                    87 
+CD01O316E 004809 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD01O316E 004809 ARNON BEZERRA                           Não       PTB       Ceará                    90 
+CD01O316E 004809 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD01O316E 004809 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD01O316E 004809 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD01O316E 004809 DOMINGOS NETO                           Não       PSB       Ceará                    97 
+CD01O316E 004809 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD01O316E 004809 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD01O316E 004809 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD01O316E 004809 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O316E 004809 MAURO BENEVIDES                         Não       PMDB      Ceará                    105
+CD01O316E 004809 RAIMUNDÃO                               Não       PMDB      Ceará                    108
+CD01O316E 004809 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD01O316E 004809 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD01O316E 004809 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O316E 004809 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD01O316E 004809 JÚLIO CESAR                             Não       PSD       Piauí                    114
+CD01O316E 004809 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD01O316E 004809 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD01O316E 004809 FÁBIO FARIA                             Não       PSD       Rio Grande do Norte      119
+CD01O316E 004809 FÁTIMA BEZERRA                          Não       PT        Rio Grande do Norte      121
+CD01O316E 004809 FELIPE MAIA                             Obstrução DEM       Rio Grande do Norte      120
+CD01O316E 004809 HENRIQUE EDUARDO ALVES                  Não       PMDB      Rio Grande do Norte      123
+CD01O316E 004809 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD01O316E 004809 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD01O316E 004809 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD01O316E 004809 EFRAIM FILHO                            Obstrução DEM       Paraíba                  128
+CD01O316E 004809 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD01O316E 004809 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O316E 004809 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD01O316E 004809 ROMERO RODRIGUES                        Obstrução PSDB      Paraíba                  135
+CD01O316E 004809 AUGUSTO COUTINHO                        Obstrução DEM       Pernambuco               144
+CD01O316E 004809 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD01O316E 004809 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD01O316E 004809 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD01O316E 004809 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD01O316E 004809 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD01O316E 004809 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD01O316E 004809 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD01O316E 004809 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD01O316E 004809 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD01O316E 004809 SEVERINO NINHO                          Não       PSB       Pernambuco               580
+CD01O316E 004809 VILALBA                                 Não       PRB       Pernambuco               555
+CD01O316E 004809 CELIA ROCHA                             Não       PTB       Alagoas                  165
+CD01O316E 004809 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD01O316E 004809 RENAN FILHO                             Não       PMDB      Alagoas                  169
+CD01O316E 004809 RUI PALMEIRA                            Obstrução PSDB      Alagoas                  171
+CD01O316E 004809 ANDRE MOURA                             Não       PSC       Sergipe                  174
+CD01O316E 004809 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD01O316E 004809 ROGÉRIO CARVALHO                        Não       PT        Sergipe                  178
+CD01O316E 004809 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD01O316E 004809 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O316E 004809 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD01O316E 004809 ANTONIO CARLOS MAGALHÃES NETO           Obstrução DEM       Bahia                    181
+CD01O316E 004809 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O316E 004809 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD01O316E 004809 CLAUDIO CAJADO                          Obstrução DEM       Bahia                    186
+CD01O316E 004809 EMILIANO JOSÉ                           Não       PT        Bahia                    523
+CD01O316E 004809 ERIVELTON SANTANA                       Não       PSC       Bahia                    194
+CD01O316E 004809 FÁBIO SOUTO                             Obstrução DEM       Bahia                    190
+CD01O316E 004809 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD01O316E 004809 FERNANDO TORRES                         Não       PSD       Bahia                    196
+CD01O316E 004809 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O316E 004809 JOSÉ CARLOS ARAÚJO                      Não       PSD       Bahia                    197
+CD01O316E 004809 JOSÉ ROCHA                              Não       PR        Bahia                    203
+CD01O316E 004809 JOSEPH BANDEIRA                         Não       PT        Bahia                    565
+CD01O316E 004809 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O316E 004809 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD01O316E 004809 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD01O316E 004809 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD01O316E 004809 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD01O316E 004809 NELSON PELLEGRINO                       Não       PT        Bahia                    209
+CD01O316E 004809 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O316E 004809 RUI COSTA                               Não       PT        Bahia                    216
+CD01O316E 004809 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O316E 004809 SÉRGIO BRITO                            Não       PSD       Bahia                    213
+CD01O316E 004809 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD01O316E 004809 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O316E 004809 AELTON FREITAS                          Não       PR        Minas Gerais             224
+CD01O316E 004809 ANTÔNIO ROBERTO                         Não       PV        Minas Gerais             229
+CD01O316E 004809 ARACELY DE PAULA                        Não       PR        Minas Gerais             223
+CD01O316E 004809 BERNARDO SANTANA DE VASCONCELLO         Não       PR        Minas Gerais             221
+CD01O316E 004809 BONIFÁCIO DE ANDRADA                    Obstrução PSDB      Minas Gerais             534
+CD01O316E 004809 DIEGO ANDRADE                           Não       PSD       Minas Gerais             228
+CD01O316E 004809 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O316E 004809 DOMINGOS SÁVIO                          Obstrução PSDB      Minas Gerais             233
+CD01O316E 004809 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD01O316E 004809 EDUARDO AZEREDO                         Obstrução PSDB      Minas Gerais             237
+CD01O316E 004809 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD01O316E 004809 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD01O316E 004809 GERALDO THADEU                          Não       PSD       Minas Gerais             236
+CD01O316E 004809 GILMAR MACHADO                          Não       PT        Minas Gerais             234
+CD01O316E 004809 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD01O316E 004809 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD01O316E 004809 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O316E 004809 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD01O316E 004809 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD01O316E 004809 LEONARDO QUINTÃO                        Não       PMDB      Minas Gerais             255
+CD01O316E 004809 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD01O316E 004809 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD01O316E 004809 MARCOS MONTES                           Não       PSD       Minas Gerais             257
+CD01O316E 004809 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O316E 004809 PAULO PIAU                              Não       PMDB      Minas Gerais             266
+CD01O316E 004809 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD01O316E 004809 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD01O316E 004809 RODRIGO DE CASTRO                       Obstrução PSDB      Minas Gerais             268
+CD01O316E 004809 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD01O316E 004809 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O316E 004809 VITOR PENIDO                            Não       DEM       Minas Gerais             532
+CD01O316E 004809 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD01O316E 004809 ZÉ SILVA                                Não       PDT       Minas Gerais             271
+CD01O316E 004809 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O316E 004809 CESAR COLNAGO                           Obstrução PSDB      Espírito Santo           276
+CD01O316E 004809 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O316E 004809 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD01O316E 004809 ROSE DE FREITAS                         Não       PMDB      Espírito Santo           282
+CD01O316E 004809 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD01O316E 004809 ANTHONY GAROTINHO                       Obstrução PR        Rio de Janeiro           289
+CD01O316E 004809 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD01O316E 004809 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O316E 004809 CHICO D`ANGELO                          Não       PT        Rio de Janeiro           527
+CD01O316E 004809 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD01O316E 004809 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CD01O316E 004809 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O316E 004809 DR. PAULO CÉSAR                         Não       PSD       Rio de Janeiro           296
+CD01O316E 004809 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD01O316E 004809 ELIANE ROLIM                            Não       PT        Rio de Janeiro           538
+CD01O316E 004809 FELIPE BORNIER                          Não       PSD       Rio de Janeiro           301
+CD01O316E 004809 FERNANDO JORDÃO                         Não       PMDB      Rio de Janeiro           557
+CD01O316E 004809 FILIPE PEREIRA                          Não       PSC       Rio de Janeiro           303
+CD01O316E 004809 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD01O316E 004809 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD01O316E 004809 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O316E 004809 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD01O316E 004809 LEONARDO PICCIANI                       Não       PMDB      Rio de Janeiro           312
+CD01O316E 004809 LILIAM SÁ                               Não       PSD       Rio de Janeiro           309
+CD01O316E 004809 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD01O316E 004809 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD01O316E 004809 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O316E 004809 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CD01O316E 004809 RODRIGO BETHLEM                         Não       PMDB      Rio de Janeiro           318
+CD01O316E 004809 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD01O316E 004809 STEPAN NERCESSIAN                       Obstrução PPS       Rio de Janeiro           323
+CD01O316E 004809 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O316E 004809 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD01O316E 004809 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD01O316E 004809 ALBERTO MOURÃO                          Obstrução PSDB      São Paulo                552
+CD01O316E 004809 ALEXANDRE LEITE                         Obstrução DEM       São Paulo                334
+CD01O316E 004809 ANTONIO CARLOS MENDES THAME             Obstrução PSDB      São Paulo                332
+CD01O316E 004809 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD01O316E 004809 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD01O316E 004809 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD01O316E 004809 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD01O316E 004809 CARLOS SAMPAIO                          Obstrução PSDB      São Paulo                338
+CD01O316E 004809 DUARTE NOGUEIRA                         Obstrução PSDB      São Paulo                350
+CD01O316E 004809 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD01O316E 004809 ELI CORREA FILHO                        Obstrução DEM       São Paulo                345
+CD01O316E 004809 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD01O316E 004809 GUILHERME CAMPOS                        Não       PSD       São Paulo                357
+CD01O316E 004809 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD01O316E 004809 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD01O316E 004809 JOÃO DADO                               Não       PDT       São Paulo                362
+CD01O316E 004809 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD01O316E 004809 JUNJI ABE                               Não       PSD       São Paulo                355
+CD01O316E 004809 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O316E 004809 LUIZ FERNANDO MACHADO                   Obstrução PSDB      São Paulo                365
+CD01O316E 004809 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O316E 004809 MARA GABRILLI                           Obstrução PSDB      São Paulo                366
+CD01O316E 004809 MARCELO AGUIAR                          Não       PSD       São Paulo                370
+CD01O316E 004809 MILTON MONTI                            Não       PR        São Paulo                374
+CD01O316E 004809 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD01O316E 004809 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD01O316E 004809 NEWTON LIMA                             Não       PT        São Paulo                377
+CD01O316E 004809 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O316E 004809 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD01O316E 004809 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O316E 004809 PAULO MALUF                             Não       PP        São Paulo                373
+CD01O316E 004809 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD01O316E 004809 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD01O316E 004809 RICARDO IZAR                            Não       PSD       São Paulo                383
+CD01O316E 004809 RICARDO TRIPOLI                         Obstrução PSDB      São Paulo                384
+CD01O316E 004809 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD01O316E 004809 ROBERTO SANTIAGO                        Não       PSD       São Paulo                386
+CD01O316E 004809 TIRIRICA                                Não       PR        São Paulo                392
+CD01O316E 004809 VALDEMAR COSTA NETO                     Não       PR        São Paulo                393
+CD01O316E 004809 VANDERLEI MACRIS                        Obstrução PSDB      São Paulo                521
+CD01O316E 004809 VANDERLEI SIRAQUE                       Não       PT        São Paulo                581
+CD01O316E 004809 VICENTINHO                              Não       PT        São Paulo                396
+CD01O316E 004809 WALTER IHOSHI                           Não       PSD       São Paulo                553
+CD01O316E 004809 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD01O316E 004809 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD01O316E 004809 HOMERO PEREIRA                          Não       PSD       Mato Grosso              402
+CD01O316E 004809 NILSON LEITÃO                           Obstrução PSDB      Mato Grosso              573
+CD01O316E 004809 ROBERTO DORNER                          Não       PSD       Mato Grosso              519
+CD01O316E 004809 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD01O316E 004809 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O316E 004809 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD01O316E 004809 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O316E 004809 LUIZ PITIMAN                            Não       PMDB      Distrito Federal         410
+CD01O316E 004809 POLICARPO                               Não       PT        Distrito Federal         539
+CD01O316E 004809 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O316E 004809 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O316E 004809 ARMANDO VERGÍLIO                        Não       PSD       Goiás                    416
+CD01O316E 004809 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O316E 004809 MAGDA MOFATTO                           Não       PTB       Goiás                    575
+CD01O316E 004809 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD01O316E 004809 SANDRO MABEL                            Não       PMDB      Goiás                    431
+CD01O316E 004809 VALDIVINO DE OLIVEIRA                   Obstrução PSDB      Goiás                    547
+CD01O316E 004809 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD01O316E 004809 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD01O316E 004809 GIROTO                                  Não       PMDB      Mato Grosso do Sul       434
+CD01O316E 004809 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O316E 004809 REINALDO AZAMBUJA                       Obstrução PSDB      Mato Grosso do Sul       439
+CD01O316E 004809 ALEX CANZIANI                           Não       PTB       Paraná                   445
+CD01O316E 004809 ALFREDO KAEFER                          Obstrução PSDB      Paraná                   451
+CD01O316E 004809 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD01O316E 004809 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD01O316E 004809 ANGELO VANHONI                          Não       PT        Paraná                   453
+CD01O316E 004809 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD01O316E 004809 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O316E 004809 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD01O316E 004809 EDUARDO SCIARRA                         Não       PSD       Paraná                   461
+CD01O316E 004809 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O316E 004809 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O316E 004809 LUIZ CARLOS SETIM                       Obstrução DEM       Paraná                   535
+CD01O316E 004809 LUIZ NISHIMORI                          Obstrução PSDB      Paraná                   542
+CD01O316E 004809 MOACIR MICHELETTO                       Não       PMDB      Paraná                   462
+CD01O316E 004809 NELSON MEURER                           Não       PP        Paraná                   458
+CD01O316E 004809 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD01O316E 004809 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD01O316E 004809 RATINHO JUNIOR                          Não       PSC       Paraná                   464
+CD01O316E 004809 REINHOLD STEPHANES                      Não       PSD       Paraná                   467
+CD01O316E 004809 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD01O316E 004809 RUBENS BUENO                            Obstrução PPS       Paraná                   460
+CD01O316E 004809 TAKAYAMA                                Não       PSC       Paraná                   469
+CD01O316E 004809 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD01O316E 004809 CARMEN ZANOTTO                          Obstrução PPS       Santa Catarina           561
+CD01O316E 004809 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD01O316E 004809 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD01O316E 004809 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O316E 004809 JORGE BOEIRA                            Não       PT        Santa Catarina           474
+CD01O316E 004809 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD01O316E 004809 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD01O316E 004809 ONOFRE SANTO AGOSTINI                   Não       PSD       Santa Catarina           479
+CD01O316E 004809 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD01O316E 004809 ALEXANDRE ROSO                          Não       PSB       Rio Grande do Sul        489
+CD01O316E 004809 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD01O316E 004809 DANRLEI DE DEUS HINTERHOLZ              Não       PSD       Rio Grande do Sul        495
+CD01O316E 004809 DARCÍSIO PERONDI                        Não       PMDB      Rio Grande do Sul        491
+CD01O316E 004809 ENIO BACCI                              Não       PDT       Rio Grande do Sul        493
+CD01O316E 004809 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD01O316E 004809 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD01O316E 004809 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD01O316E 004809 JOSÉ OTÁVIO GERMANO                     Não       PP        Rio Grande do Sul        501
+CD01O316E 004809 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD01O316E 004809 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O316E 004809 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD01O316E 004809 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O316E 004809 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CD01O316E 004809 OSMAR TERRA                             Não       PMDB      Rio Grande do Sul        497
+CD01O316E 004809 PEPE VARGAS                             Não       PT        Rio Grande do Sul        503
+CD01O316E 004809 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O316E 004809 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD01O316E 004809 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD01O316E 004809 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD01O316E 004809 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD01O316E 004809 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O316E 004809 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD01O316E 004809 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O316E 004809 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O316E 004809 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O316E 004809 ARTHUR LIRA                             <-------> PP        Alagoas                  162
+CD01O316E 004809 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD01O316E 004809 FRANCISCO PRACIANO                      <-------> PT        Amazonas                 41 
+CD01O316E 004809 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O316E 004809 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD01O316E 004809 EVANDRO MILHOMEN                        <-------> PCdoB     Amapá                    11 
+CD01O316E 004809 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD01O316E 004809 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD01O316E 004809 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD01O316E 004809 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD01O316E 004809 PAULO MAGALHÃES                         <-------> PSD       Bahia                    214
+CD01O316E 004809 EDSON PIMENTA                           <-------> PSD       Bahia                    193
+CD01O316E 004809 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD01O316E 004809 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD01O316E 004809 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD01O316E 004809 JOSÉ NUNES                              <-------> PSD       Bahia                    201
+CD01O316E 004809 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD01O316E 004809 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O316E 004809 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O316E 004809 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD01O316E 004809 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD01O316E 004809 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O316E 004809 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O316E 004809 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O316E 004809 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD01O316E 004809 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD01O316E 004809 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD01O316E 004809 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD01O316E 004809 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD01O316E 004809 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD01O316E 004809 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD01O316E 004809 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O316E 004809 HEULER CRUVINEL                         <-------> PSD       Goiás                    423
+CD01O316E 004809 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD01O316E 004809 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O316E 004809 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD01O316E 004809 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O316E 004809 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O316E 004809 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O316E 004809 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD01O316E 004809 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD01O316E 004809 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD01O316E 004809 HÉLIO SANTOS                            <-------> PSD       Maranhão                 76 
+CD01O316E 004809 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O316E 004809 COSTA FERREIRA                          <-------> PSC       Maranhão                 571
+CD01O316E 004809 WEVERTON ROCHA                          <-------> PDT       Maranhão                 579
+CD01O316E 004809 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD01O316E 004809 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O316E 004809 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O316E 004809 PROFESSOR SETIMO                        <-------> PMDB      Maranhão                 81 
+CD01O316E 004809 CARLAILE PEDROSA                        <-------> PSDB      Minas Gerais             222
+CD01O316E 004809 ANTÔNIO ANDRADE                         <-------> PMDB      Minas Gerais             227
+CD01O316E 004809 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD01O316E 004809 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD01O316E 004809 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O316E 004809 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD01O316E 004809 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O316E 004809 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD01O316E 004809 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O316E 004809 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O316E 004809 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O316E 004809 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD01O316E 004809 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O316E 004809 ADEMIR CAMILO                           <-------> PSD       Minas Gerais             220
+CD01O316E 004809 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD01O316E 004809 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD01O316E 004809 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O316E 004809 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CD01O316E 004809 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD01O316E 004809 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O316E 004809 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD01O316E 004809 ANTÔNIO CARLOS BIFFI                    <-------> PT        Mato Grosso do Sul       432
+CD01O316E 004809 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O316E 004809 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O316E 004809 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD01O316E 004809 ELIENE LIMA                             <-------> PSD       Mato Grosso              401
+CD01O316E 004809 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O316E 004809 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD01O316E 004809 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O316E 004809 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O316E 004809 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O316E 004809 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CD01O316E 004809 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O316E 004809 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O316E 004809 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD01O316E 004809 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD01O316E 004809 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O316E 004809 AGUINALDO RIBEIRO                       <-------> PP        Paraíba                  129
+CD01O316E 004809 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD01O316E 004809 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD01O316E 004809 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD01O316E 004809 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O316E 004809 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD01O316E 004809 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD01O316E 004809 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD01O316E 004809 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD01O316E 004809 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O316E 004809 JOÃO PAULO  LIMA                        <-------> PT        Pernambuco               149
+CD01O316E 004809 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O316E 004809 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O316E 004809 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O316E 004809 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD01O316E 004809 NAZARENO FONTELES                       <-------> PT        Piauí                    530
+CD01O316E 004809 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD01O316E 004809 HUGO NAPOLEÃO                           <-------> PSD       Piauí                    112
+CD01O316E 004809 MARLLOS SAMPAIO                         <-------> PMDB      Piauí                    117
+CD01O316E 004809 SANDRO ALEX                             <-------> PPS       Paraná                   465
+CD01O316E 004809 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD01O316E 004809 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O316E 004809 FERNANDO FRANCISCHINI                   <-------> PSDB      Paraná                   450
+CD01O316E 004809 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O316E 004809 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O316E 004809 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O316E 004809 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O316E 004809 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD01O316E 004809 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O316E 004809 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O316E 004809 AROLDE DE OLIVEIRA                      <-------> PSD       Rio de Janeiro           288
+CD01O316E 004809 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O316E 004809 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD01O316E 004809 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD01O316E 004809 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD01O316E 004809 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD01O316E 004809 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD01O316E 004809 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD01O316E 004809 EDSON EZEQUIEL                          <-------> PMDB      Rio de Janeiro           298
+CD01O316E 004809 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD01O316E 004809 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD01O316E 004809 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD01O316E 004809 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O316E 004809 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O316E 004809 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD01O316E 004809 MAURO NAZIF                             <-------> PSB       Rondonia                 46 
+CD01O316E 004809 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD01O316E 004809 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD01O316E 004809 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD01O316E 004809 LINDOMAR GARÇON                         <-------> PV        Rondonia                 45 
+CD01O316E 004809 PADRE TON                               <-------> PT        Rondonia                 48 
+CD01O316E 004809 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD01O316E 004809 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD01O316E 004809 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD01O316E 004809 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD01O316E 004809 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD01O316E 004809 ASSIS MELO                              <-------> PCdoB     Rio Grande do Sul        492
+CD01O316E 004809 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD01O316E 004809 FERNANDO MARRONI                        <-------> PT        Rio Grande do Sul        525
+CD01O316E 004809 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O316E 004809 ELISEU PADILHA                          <-------> PMDB      Rio Grande do Sul        578
+CD01O316E 004809 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD01O316E 004809 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O316E 004809 ROMANNA REMOR                           <-------> PMDB      Santa Catarina           582
+CD01O316E 004809 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD01O316E 004809 CELSO MALDANER                          <-------> PMDB      Santa Catarina           472
+CD01O316E 004809 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD01O316E 004809 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD01O316E 004809 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD01O316E 004809 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O316E 004809 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O316E 004809 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD01O316E 004809 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O316E 004809 HELENO SILVA                            <-------> PRB       Sergipe                  175
+CD01O316E 004809 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD01O316E 004809 ALMEIDA LIMA                            <-------> PPS       Sergipe                  173
+CD01O316E 004809 CARLOS ZARATTINI                        <-------> PT        São Paulo                398
+CD01O316E 004809 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD01O316E 004809 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD01O316E 004809 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD01O316E 004809 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD01O316E 004809 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O316E 004809 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD01O316E 004809 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O316E 004809 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD01O316E 004809 JILMAR TATTO                            <-------> PT        São Paulo                360
+CD01O316E 004809 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O316E 004809 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD01O316E 004809 PENNA                                   <-------> PV        São Paulo                382
+CD01O316E 004809 ELEUSES PAIVA                           <-------> PSD       São Paulo                537
+CD01O316E 004809 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD01O316E 004809 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD01O316E 004809 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD01O316E 004809 JEFFERSON CAMPOS                        <-------> PSD       São Paulo                349
+CD01O316E 004809 JOSÉ DE FILIPPI                         <-------> PT        São Paulo                354
+CD01O316E 004809 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD01O316E 004809 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O316E 004809 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD01O316E 004809 DR. UBIALI                              <-------> PSB       São Paulo                541
+CD01O316E 004809 DRA.ELAINE ABISSAMRA                    <-------> PSB       São Paulo                576
+CD01O316E 004809 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O316E 004809 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O316E 004809 LÁZARO BOTELHO                          <-------> PP        Tocantins                63 
+CD01O316E 004809 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O316E 004809 CÉSAR HALUM                             <-------> PSD       Tocantins                64 
+CD01O316E 004809 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 

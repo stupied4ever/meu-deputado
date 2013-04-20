@@ -1,0 +1,513 @@
+CD01O367E 004845 EDIO LOPES                              Presente  PMDB      Roraima                  2
+CD01O367E 004845 FRANCISCO ARAÚJO                        Presente  PSD       Roraima                  570
+CD01O367E 004845 LUCIANO CASTRO                          Presente  PR        Roraima                  4  
+CD01O367E 004845 PAULO CESAR QUARTIERO                   Presente  DEM       Roraima                  6  
+CD01O367E 004845 RAUL LIMA                               Presente  PSD       Roraima                  7  
+CD01O367E 004845 TERESA SURITA                           Presente  PMDB      Roraima                  8  
+CD01O367E 004845 DAVI ALCOLUMBRE                         Presente  DEM       Amapá                    10 
+CD01O367E 004845 EVANDRO MILHOMEN                        Presente  PCdoB     Amapá                    11 
+CD01O367E 004845 FÁTIMA PELAES                           Presente  PMDB      Amapá                    12 
+CD01O367E 004845 LUIZ CARLOS                             Presente  PSDB      Amapá                    14 
+CD01O367E 004845 SEBASTIÃO BALA ROCHA                    Presente  PDT       Amapá                    17 
+CD01O367E 004845 VINICIUS GURGEL                         Presente  PR        Amapá                    16 
+CD01O367E 004845 ASDRUBAL BENTES                         Presente  PMDB      Pará                     20 
+CD01O367E 004845 BETO FARO                               Presente  PT        Pará                     19 
+CD01O367E 004845 CLÁUDIO PUTY                            Presente  PT        Pará                     22 
+CD01O367E 004845 DUDIMAR PAXIÚBA                         Presente  PSDB      Pará                     518
+CD01O367E 004845 ELCIONE BARBALHO                        Presente  PMDB      Pará                     21 
+CD01O367E 004845 JOSÉ PRIANTE                            Presente  PMDB      Pará                     26 
+CD01O367E 004845 JOSUÉ BENGTSON                          Presente  PTB       Pará                     30 
+CD01O367E 004845 LÚCIO VALE                              Presente  PR        Pará                     29 
+CD01O367E 004845 MIRIQUINHO BATISTA                      Presente  PT        Pará                     35 
+CD01O367E 004845 WANDENKOLK GONÇALVES                    Presente  PSDB      Pará                     32 
+CD01O367E 004845 WLADIMIR COSTA                          Presente  PMDB      Pará                     23 
+CD01O367E 004845 ZÉ GERALDO                              Presente  PT        Pará                     25 
+CD01O367E 004845 ZEQUINHA MARINHO                        Presente  PSC       Pará                     33 
+CD01O367E 004845 ÁTILA LINS                              Presente  PSD       Amazonas                 38 
+CD01O367E 004845 CARLOS SOUZA                            Presente  PSD       Amazonas                 37 
+CD01O367E 004845 FRANCISCO PRACIANO                      Presente  PT        Amazonas                 41 
+CD01O367E 004845 HENRIQUE OLIVEIRA                       Presente  PR        Amazonas                 36 
+CD01O367E 004845 PAUDERNEY AVELINO                       Presente  DEM       Amazonas                 40 
+CD01O367E 004845 REBECCA GARCIA                          Presente  PP        Amazonas                 42 
+CD01O367E 004845 SABINO CASTELO BRANCO                   Presente  PTB       Amazonas                 43 
+CD01O367E 004845 SILAS CÂMARA                            Presente  PSD       Amazonas                 39 
+CD01O367E 004845 CARLOS MAGNO                            Presente  PP        Rondonia                 44 
+CD01O367E 004845 MARCOS ROGÉRIO                          Presente  PDT       Rondonia                 583
+CD01O367E 004845 MAURO NAZIF                             Presente  PSB       Rondonia                 46 
+CD01O367E 004845 NILTON CAPIXABA                         Presente  PTB       Rondonia                 47 
+CD01O367E 004845 PADRE TON                               Presente  PT        Rondonia                 48 
+CD01O367E 004845 FLAVIANO MELO                           Presente  PMDB      Acre                     54 
+CD01O367E 004845 HENRIQUE AFONSO                         Presente  PV        Acre                     52 
+CD01O367E 004845 PERPÉTUA ALMEIDA                        Presente  PCdoB     Acre                     56 
+CD01O367E 004845 SIBÁ MACHADO                            Presente  PT        Acre                     58 
+CD01O367E 004845 TAUMATURGO LIMA                         Presente  PT        Acre                     59 
+CD01O367E 004845 ÂNGELO AGNOLIN                          Presente  PDT       Tocantins                61 
+CD01O367E 004845 CÉSAR HALUM                             Presente  PSD       Tocantins                64 
+CD01O367E 004845 IRAJÁ ABREU                             Presente  PSD       Tocantins                65 
+CD01O367E 004845 JÚNIOR COIMBRA                          Presente  PMDB      Tocantins                66 
+CD01O367E 004845 LAUREZ MOREIRA                          Presente  PSB       Tocantins                62 
+CD01O367E 004845 LÁZARO BOTELHO                          Presente  PP        Tocantins                63 
+CD01O367E 004845 PROFESSORA DORINHA SEABRA REZEN         Presente  DEM       Tocantins                67 
+CD01O367E 004845 ALBERTO FILHO                           Presente  PMDB      Maranhão                 71 
+CD01O367E 004845 CLEBER VERDE                            Presente  PRB       Maranhão                 70 
+CD01O367E 004845 COSTA FERREIRA                          Presente  PSC       Maranhão                 571
+CD01O367E 004845 DAVI ALVES SILVA JÚNIOR                 Presente  PR        Maranhão                 528
+CD01O367E 004845 DOMINGOS DUTRA                          Presente  PT        Maranhão                 72 
+CD01O367E 004845 HÉLIO SANTOS                            Presente  PSD       Maranhão                 76 
+CD01O367E 004845 LOURIVAL MENDES                         Presente  PTdoB     Maranhão                 77 
+CD01O367E 004845 PEDRO NOVAIS                            Presente  PMDB      Maranhão                 82 
+CD01O367E 004845 PROFESSOR SETIMO                        Presente  PMDB      Maranhão                 81 
+CD01O367E 004845 WALDIR MARANHÃO                         Presente  PP        Maranhão                 84 
+CD01O367E 004845 WEVERTON ROCHA                          Presente  PDT       Maranhão                 579
+CD01O367E 004845 ZÉ VIEIRA                               Presente  PR        Maranhão                 86 
+CD01O367E 004845 ANDRÉ FIGUEIREDO                        Presente  PDT       Ceará                    89 
+CD01O367E 004845 ANTONIO BALHMANN                        Presente  PSB       Ceará                    93 
+CD01O367E 004845 ARIOSTO HOLANDA                         Presente  PSB       Ceará                    92 
+CD01O367E 004845 ARTUR BRUNO                             Presente  PT        Ceará                    94 
+CD01O367E 004845 CHICO LOPES                             Presente  PCdoB     Ceará                    88 
+CD01O367E 004845 DANILO FORTE                            Presente  PMDB      Ceará                    95 
+CD01O367E 004845 DOMINGOS NETO                           Presente  PSB       Ceará                    97 
+CD01O367E 004845 EDSON SILVA                             Presente  PSB       Ceará                    98 
+CD01O367E 004845 GORETE PEREIRA                          Presente  PR        Ceará                    100
+CD01O367E 004845 JOSÉ AIRTON                             Presente  PT        Ceará                    101
+CD01O367E 004845 JOSÉ GUIMARÃES                          Presente  PT        Ceará                    103
+CD01O367E 004845 JOSÉ LINHARES                           Presente  PP        Ceará                    96 
+CD01O367E 004845 MANOEL SALVIANO                         Presente  PSD       Ceará                    104
+CD01O367E 004845 MAURO BENEVIDES                         Presente  PMDB      Ceará                    105
+CD01O367E 004845 RAIMUNDÃO                               Presente  PMDB      Ceará                    108
+CD01O367E 004845 VICENTE ARRUDA                          Presente  PR        Ceará                    107
+CD01O367E 004845 ASSIS CARVALHO                          Presente  PT        Piauí                    111
+CD01O367E 004845 HUGO NAPOLEÃO                           Presente  PSD       Piauí                    112
+CD01O367E 004845 IRACEMA PORTELLA                        Presente  PP        Piauí                    113
+CD01O367E 004845 JESUS RODRIGUES                         Presente  PT        Piauí                    115
+CD01O367E 004845 JÚLIO CESAR                             Presente  PSD       Piauí                    114
+CD01O367E 004845 MARCELO CASTRO                          Presente  PMDB      Piauí                    110
+CD01O367E 004845 MARLLOS SAMPAIO                         Presente  PMDB      Piauí                    117
+CD01O367E 004845 NAZARENO FONTELES                       Presente  PT        Piauí                    530
+CD01O367E 004845 OSMAR JÚNIOR                            Presente  PCdoB     Piauí                    116
+CD01O367E 004845 FÁBIO FARIA                             Presente  PSD       Rio Grande do Norte      119
+CD01O367E 004845 FÁTIMA BEZERRA                          Presente  PT        Rio Grande do Norte      121
+CD01O367E 004845 FELIPE MAIA                             Presente  DEM       Rio Grande do Norte      120
+CD01O367E 004845 HENRIQUE EDUARDO ALVES                  Presente  PMDB      Rio Grande do Norte      123
+CD01O367E 004845 PAULO WAGNER                            Presente  PV        Rio Grande do Norte      126
+CD01O367E 004845 ROGÉRIO MARINHO                         Presente  PSDB      Rio Grande do Norte      540
+CD01O367E 004845 SANDRA ROSADO                           Presente  PSB       Rio Grande do Norte      125
+CD01O367E 004845 AGUINALDO RIBEIRO                       Presente  PP        Paraíba                  129
+CD01O367E 004845 DAMIÃO FELICIANO                        Presente  PDT       Paraíba                  127
+CD01O367E 004845 EFRAIM FILHO                            Presente  DEM       Paraíba                  128
+CD01O367E 004845 HUGO MOTTA                              Presente  PMDB      Paraíba                  132
+CD01O367E 004845 LUIZ COUTO                              Presente  PT        Paraíba                  133
+CD01O367E 004845 NILDA GONDIM                            Presente  PMDB      Paraíba                  134
+CD01O367E 004845 ROMERO RODRIGUES                        Presente  PSDB      Paraíba                  135
+CD01O367E 004845 WELLINGTON ROBERTO                      Presente  PR        Paraíba                  136
+CD01O367E 004845 ANDERSON FERREIRA                       Presente  PR        Pernambuco               142
+CD01O367E 004845 AUGUSTO COUTINHO                        Presente  DEM       Pernambuco               144
+CD01O367E 004845 BRUNO ARAÚJO                            Presente  PSDB      Pernambuco               146
+CD01O367E 004845 CARLOS EDUARDO CADOCA                   Presente  PSC       Pernambuco               152
+CD01O367E 004845 EDUARDO DA FONTE                        Presente  PP        Pernambuco               156
+CD01O367E 004845 FERNANDO COELHO FILHO                   Presente  PSB       Pernambuco               158
+CD01O367E 004845 INOCÊNCIO OLIVEIRA                      Presente  PR        Pernambuco               145
+CD01O367E 004845 JOÃO PAULO  LIMA                        Presente  PT        Pernambuco               149
+CD01O367E 004845 JOSÉ AUGUSTO MAIA                       Presente  PTB       Pernambuco               151
+CD01O367E 004845 JOSÉ CHAVES                             Presente  PTB       Pernambuco               147
+CD01O367E 004845 LUCIANA SANTOS                          Presente  PCdoB     Pernambuco               153
+CD01O367E 004845 MENDONÇA FILHO                          Presente  DEM       Pernambuco               154
+CD01O367E 004845 PASTOR EURICO                           Presente  PSB       Pernambuco               155
+CD01O367E 004845 PAULO RUBEM SANTIAGO                    Presente  PDT       Pernambuco               554
+CD01O367E 004845 PEDRO EUGÊNIO                           Presente  PT        Pernambuco               161
+CD01O367E 004845 ROBERTO TEIXEIRA                        Presente  PP        Pernambuco               157
+CD01O367E 004845 SEVERINO NINHO                          Presente  PSB       Pernambuco               580
+CD01O367E 004845 SILVIO COSTA                            Presente  PTB       Pernambuco               160
+CD01O367E 004845 VILALBA                                 Presente  PRB       Pernambuco               555
+CD01O367E 004845 ARTHUR LIRA                             Presente  PP        Alagoas                  162
+CD01O367E 004845 GIVALDO CARIMBÃO                        Presente  PSB       Alagoas                  166
+CD01O367E 004845 JOÃO LYRA                               Presente  PSD       Alagoas                  167
+CD01O367E 004845 RENAN FILHO                             Presente  PMDB      Alagoas                  169
+CD01O367E 004845 ROSINHA DA ADEFAL                       Presente  PTdoB     Alagoas                  170
+CD01O367E 004845 RUI PALMEIRA                            Presente  PSDB      Alagoas                  171
+CD01O367E 004845 ALMEIDA LIMA                            Presente  PPS       Sergipe                  173
+CD01O367E 004845 ANDRE MOURA                             Presente  PSC       Sergipe                  174
+CD01O367E 004845 HELENO SILVA                            Presente  PRB       Sergipe                  175
+CD01O367E 004845 LAERCIO OLIVEIRA                        Presente  PR        Sergipe                  176
+CD01O367E 004845 MÁRCIO MACÊDO                           Presente  PT        Sergipe                  177
+CD01O367E 004845 MENDONÇA PRADO                          Presente  DEM       Sergipe                  179
+CD01O367E 004845 ROGÉRIO CARVALHO                        Presente  PT        Sergipe                  178
+CD01O367E 004845 VALADARES FILHO                         Presente  PSB       Sergipe                  183
+CD01O367E 004845 ACELINO POPÓ                            Presente  PRB       Bahia                    522
+CD01O367E 004845 ALICE PORTUGAL                          Presente  PCdoB     Bahia                    180
+CD01O367E 004845 AMAURI TEIXEIRA                         Presente  PT        Bahia                    184
+CD01O367E 004845 ANTONIO BRITO                           Presente  PTB       Bahia                    189
+CD01O367E 004845 ANTONIO CARLOS MAGALHÃES NETO           Presente  DEM       Bahia                    181
+CD01O367E 004845 ANTONIO IMBASSAHY                       Presente  PSDB      Bahia                    191
+CD01O367E 004845 ARTHUR OLIVEIRA MAIA                    Presente  PMDB      Bahia                    192
+CD01O367E 004845 CLAUDIO CAJADO                          Presente  DEM       Bahia                    186
+CD01O367E 004845 DANIEL ALMEIDA                          Presente  PCdoB     Bahia                    188
+CD01O367E 004845 EDSON PIMENTA                           Presente  PSD       Bahia                    193
+CD01O367E 004845 EMILIANO JOSÉ                           Presente  PT        Bahia                    523
+CD01O367E 004845 ERIVELTON SANTANA                       Presente  PSC       Bahia                    194
+CD01O367E 004845 FÁBIO SOUTO                             Presente  DEM       Bahia                    190
+CD01O367E 004845 FELIX MENDONÇA JÚNIOR                   Presente  PDT       Bahia                    195
+CD01O367E 004845 GERALDO SIMÕES                          Presente  PT        Bahia                    185
+CD01O367E 004845 JÂNIO NATAL                             Presente  PRP       Bahia                    198
+CD01O367E 004845 JOSÉ CARLOS ARAÚJO                      Presente  PSD       Bahia                    197
+CD01O367E 004845 JOSÉ NUNES                              Presente  PSD       Bahia                    201
+CD01O367E 004845 JOSÉ ROCHA                              Presente  PR        Bahia                    203
+CD01O367E 004845 JOSEPH BANDEIRA                         Presente  PT        Bahia                    565
+CD01O367E 004845 JUTAHY JUNIOR                           Presente  PSDB      Bahia                    206
+CD01O367E 004845 LUCIO VIEIRA LIMA                       Presente  PMDB      Bahia                    205
+CD01O367E 004845 LUIZ ALBERTO                            Presente  PT        Bahia                    204
+CD01O367E 004845 LUIZ ARGÔLO                             Presente  PP        Bahia                    207
+CD01O367E 004845 MÁRCIO MARINHO                          Presente  PRB       Bahia                    212
+CD01O367E 004845 MAURÍCIO TRINDADE                       Presente  PR        Bahia                    208
+CD01O367E 004845 OZIEL OLIVEIRA                          Presente  PDT       Bahia                    215
+CD01O367E 004845 PAULO MAGALHÃES                         Presente  PSD       Bahia                    214
+CD01O367E 004845 ROBERTO BRITTO                          Presente  PP        Bahia                    211
+CD01O367E 004845 SÉRGIO BARRADAS CARNEIRO                Presente  PT        Bahia                    524
+CD01O367E 004845 SÉRGIO BRITO                            Presente  PSD       Bahia                    213
+CD01O367E 004845 VALMIR ASSUNÇÃO                         Presente  PT        Bahia                    218
+CD01O367E 004845 WALDENOR PEREIRA                        Presente  PT        Bahia                    219
+CD01O367E 004845 ADEMIR CAMILO                           Presente  PSD       Minas Gerais             220
+CD01O367E 004845 ANTÔNIO ANDRADE                         Presente  PMDB      Minas Gerais             227
+CD01O367E 004845 ANTÔNIO ROBERTO                         Presente  PV        Minas Gerais             229
+CD01O367E 004845 ARACELY DE PAULA                        Presente  PR        Minas Gerais             223
+CD01O367E 004845 CARLAILE PEDROSA                        Presente  PSDB      Minas Gerais             222
+CD01O367E 004845 DIEGO ANDRADE                           Presente  PSD       Minas Gerais             228
+CD01O367E 004845 DIMAS FABIANO                           Presente  PP        Minas Gerais             231
+CD01O367E 004845 DR. GRILO                               Presente  PSL       Minas Gerais             235
+CD01O367E 004845 EDUARDO AZEREDO                         Presente  PSDB      Minas Gerais             237
+CD01O367E 004845 EDUARDO BARBOSA                         Presente  PSDB      Minas Gerais             230
+CD01O367E 004845 EROS BIONDINI                           Presente  PTB       Minas Gerais             242
+CD01O367E 004845 FÁBIO RAMALHO                           Presente  PV        Minas Gerais             238
+CD01O367E 004845 GABRIEL GUIMARÃES                       Presente  PT        Minas Gerais             244
+CD01O367E 004845 GEORGE HILTON                           Presente  PRB       Minas Gerais             241
+CD01O367E 004845 GERALDO THADEU                          Presente  PSD       Minas Gerais             236
+CD01O367E 004845 GILMAR MACHADO                          Presente  PT        Minas Gerais             234
+CD01O367E 004845 JAIRO ATAIDE                            Presente  DEM       Minas Gerais             533
+CD01O367E 004845 JÔ MORAES                               Presente  PCdoB     Minas Gerais             246
+CD01O367E 004845 JOSÉ HUMBERTO                           Presente  PHS       Minas Gerais             249
+CD01O367E 004845 LINCOLN PORTELA                         Presente  PR        Minas Gerais             243
+CD01O367E 004845 LUIS TIBÉ                               Presente  PTdoB     Minas Gerais             251
+CD01O367E 004845 MÁRCIO REINALDO MOREIRA                 Presente  PP        Minas Gerais             247
+CD01O367E 004845 MARCOS MONTES                           Presente  PSD       Minas Gerais             257
+CD01O367E 004845 MARCUS PESTANA                          Presente  PSDB      Minas Gerais             254
+CD01O367E 004845 MÁRIO DE OLIVEIRA                       Presente  PSC       Minas Gerais             260
+CD01O367E 004845 ODAIR CUNHA                             Presente  PT        Minas Gerais             269
+CD01O367E 004845 PAULO ABI-ACKEL                         Presente  PSDB      Minas Gerais             263
+CD01O367E 004845 PAULO PIAU                              Presente  PMDB      Minas Gerais             266
+CD01O367E 004845 RENZO BRAZ                              Presente  PP        Minas Gerais             262
+CD01O367E 004845 TONINHO PINHEIRO                        Presente  PP        Minas Gerais             264
+CD01O367E 004845 VITOR PENIDO                            Presente  DEM       Minas Gerais             532
+CD01O367E 004845 WALTER TOSTA                            Presente  PSD       Minas Gerais             267
+CD01O367E 004845 WELITON PRADO                           Presente  PT        Minas Gerais             270
+CD01O367E 004845 ZÉ SILVA                                Presente  PDT       Minas Gerais             271
+CD01O367E 004845 AUDIFAX                                 Presente  PSB       Espírito Santo           274
+CD01O367E 004845 CESAR COLNAGO                           Presente  PSDB      Espírito Santo           276
+CD01O367E 004845 DR. JORGE SILVA                         Presente  PDT       Espírito Santo           278
+CD01O367E 004845 LAURIETE                                Presente  PSC       Espírito Santo           279
+CD01O367E 004845 MANATO                                  Presente  PDT       Espírito Santo           275
+CD01O367E 004845 PAULO FOLETTO                           Presente  PSB       Espírito Santo           280
+CD01O367E 004845 SUELI VIDIGAL                           Presente  PDT       Espírito Santo           281
+CD01O367E 004845 ALEXANDRE SANTOS                        Presente  PMDB      Rio de Janeiro           285
+CD01O367E 004845 ALFREDO SIRKIS                          Presente  PV        Rio de Janeiro           321
+CD01O367E 004845 ANDREIA ZITO                            Presente  PSDB      Rio de Janeiro           283
+CD01O367E 004845 ANTHONY GAROTINHO                       Presente  PR        Rio de Janeiro           289
+CD01O367E 004845 AROLDE DE OLIVEIRA                      Presente  PSD       Rio de Janeiro           288
+CD01O367E 004845 BENEDITA DA SILVA                       Presente  PT        Rio de Janeiro           291
+CD01O367E 004845 CHICO ALENCAR                           Presente  PSOL      Rio de Janeiro           295
+CD01O367E 004845 CHICO D`ANGELO                          Presente  PT        Rio de Janeiro           527
+CD01O367E 004845 DELEY                                   Presente  PSC       Rio de Janeiro           562
+CD01O367E 004845 DR. ALUIZIO                             Presente  PV        Rio de Janeiro           294
+CD01O367E 004845 DR. CARLOS ALBERTO                      Presente  PMN       Rio de Janeiro           529
+CD01O367E 004845 EDSON EZEQUIEL                          Presente  PMDB      Rio de Janeiro           298
+CD01O367E 004845 EDSON SANTOS                            Presente  PT        Rio de Janeiro           299
+CD01O367E 004845 ELIANE ROLIM                            Presente  PT        Rio de Janeiro           538
+CD01O367E 004845 FELIPE BORNIER                          Presente  PSD       Rio de Janeiro           301
+CD01O367E 004845 FILIPE PEREIRA                          Presente  PSC       Rio de Janeiro           303
+CD01O367E 004845 FRANCISCO FLORIANO                      Presente  PR        Rio de Janeiro           297
+CD01O367E 004845 GLAUBER BRAGA                           Presente  PSB       Rio de Janeiro           304
+CD01O367E 004845 HUGO LEAL                               Presente  PSC       Rio de Janeiro           306
+CD01O367E 004845 JAIR BOLSONARO                          Presente  PP        Rio de Janeiro           302
+CD01O367E 004845 JANDIRA FEGHALI                         Presente  PCdoB     Rio de Janeiro           305
+CD01O367E 004845 JEAN WYLLYS                             Presente  PSOL      Rio de Janeiro           307
+CD01O367E 004845 LEONARDO PICCIANI                       Presente  PMDB      Rio de Janeiro           312
+CD01O367E 004845 LILIAM SÁ                               Presente  PSD       Rio de Janeiro           309
+CD01O367E 004845 MARCELO MATOS                           Presente  PDT       Rio de Janeiro           311
+CD01O367E 004845 MIRO TEIXEIRA                           Presente  PDT       Rio de Janeiro           317
+CD01O367E 004845 NEILTON MULIM                           Presente  PR        Rio de Janeiro           315
+CD01O367E 004845 PAULO FEIJÓ                             Presente  PR        Rio de Janeiro           577
+CD01O367E 004845 RODRIGO MAIA                            Presente  DEM       Rio de Janeiro           322
+CD01O367E 004845 ROMÁRIO                                 Presente  PSB       Rio de Janeiro           319
+CD01O367E 004845 SIMÃO SESSIM                            Presente  PP        Rio de Janeiro           327
+CD01O367E 004845 STEPAN NERCESSIAN                       Presente  PPS       Rio de Janeiro           323
+CD01O367E 004845 VITOR PAULO                             Presente  PRB       Rio de Janeiro           324
+CD01O367E 004845 WALNEY ROCHA                            Presente  PTB       Rio de Janeiro           325
+CD01O367E 004845 ZOINHO                                  Presente  PR        Rio de Janeiro           328
+CD01O367E 004845 ABELARDO CAMARINHA                      Presente  PSB       São Paulo                329
+CD01O367E 004845 ALBERTO MOURÃO                          Presente  PSDB      São Paulo                552
+CD01O367E 004845 ALEXANDRE LEITE                         Presente  DEM       São Paulo                334
+CD01O367E 004845 ALINE CORRÊA                            Presente  PP        São Paulo                330
+CD01O367E 004845 ANTONIO BULHÕES                         Presente  PRB       São Paulo                333
+CD01O367E 004845 ANTONIO CARLOS MENDES THAME             Presente  PSDB      São Paulo                332
+CD01O367E 004845 ARNALDO FARIA DE SÁ                     Presente  PTB       São Paulo                337
+CD01O367E 004845 ARNALDO JARDIM                          Presente  PPS       São Paulo                339
+CD01O367E 004845 CÂNDIDO VACCAREZZA                      Presente  PT        São Paulo                389
+CD01O367E 004845 CARLINHOS ALMEIDA                       Presente  PT        São Paulo                341
+CD01O367E 004845 CARLOS SAMPAIO                          Presente  PSDB      São Paulo                338
+CD01O367E 004845 CARLOS ZARATTINI                        Presente  PT        São Paulo                398
+CD01O367E 004845 DELEGADO PROTÓGENES                     Presente  PCdoB     São Paulo                343
+CD01O367E 004845 DEVANIR RIBEIRO                         Presente  PT        São Paulo                342
+CD01O367E 004845 DIMAS RAMALHO                           Presente  PPS       São Paulo                346
+CD01O367E 004845 DR. UBIALI                              Presente  PSB       São Paulo                541
+CD01O367E 004845 EDINHO ARAÚJO                           Presente  PMDB      São Paulo                344
+CD01O367E 004845 ELEUSES PAIVA                           Presente  PSD       São Paulo                537
+CD01O367E 004845 EMANUEL FERNANDES                       Presente  PSDB      São Paulo                352
+CD01O367E 004845 GUILHERME CAMPOS                        Presente  PSD       São Paulo                357
+CD01O367E 004845 IVAN VALENTE                            Presente  PSOL      São Paulo                359
+CD01O367E 004845 JANETE ROCHA PIETÁ                      Presente  PT        São Paulo                358
+CD01O367E 004845 JEFFERSON CAMPOS                        Presente  PSD       São Paulo                349
+CD01O367E 004845 JILMAR TATTO                            Presente  PT        São Paulo                360
+CD01O367E 004845 JOÃO DADO                               Presente  PDT       São Paulo                362
+CD01O367E 004845 JONAS DONIZETTE                         Presente  PSB       São Paulo                353
+CD01O367E 004845 JORGE TADEU MUDALEN                     Presente  DEM       São Paulo                363
+CD01O367E 004845 JOSÉ DE FILIPPI                         Presente  PT        São Paulo                354
+CD01O367E 004845 JUNJI ABE                               Presente  PSD       São Paulo                355
+CD01O367E 004845 KEIKO OTA                               Presente  PSB       São Paulo                356
+CD01O367E 004845 LUIZ FERNANDO MACHADO                   Presente  PSDB      São Paulo                365
+CD01O367E 004845 LUIZA ERUNDINA                          Presente  PSB       São Paulo                371
+CD01O367E 004845 MARCELO AGUIAR                          Presente  PSD       São Paulo                370
+CD01O367E 004845 MISSIONÁRIO JOSÉ OLIMPIO                Presente  PP        São Paulo                375
+CD01O367E 004845 NELSON MARQUEZELLI                      Presente  PTB       São Paulo                381
+CD01O367E 004845 NEWTON LIMA                             Presente  PT        São Paulo                377
+CD01O367E 004845 OTONIEL LIMA                            Presente  PRB       São Paulo                378
+CD01O367E 004845 PASTOR MARCO FELICIANO                  Presente  PSC       São Paulo                379
+CD01O367E 004845 PAULO FREIRE                            Presente  PR        São Paulo                380
+CD01O367E 004845 PAULO PEREIRA DA SILVA                  Presente  PDT       São Paulo                372
+CD01O367E 004845 PAULO TEIXEIRA                          Presente  PT        São Paulo                376
+CD01O367E 004845 RICARDO BERZOINI                        Presente  PT        São Paulo                390
+CD01O367E 004845 RICARDO IZAR                            Presente  PSD       São Paulo                383
+CD01O367E 004845 RICARDO TRIPOLI                         Presente  PSDB      São Paulo                384
+CD01O367E 004845 ROBERTO DE LUCENA                       Presente  PV        São Paulo                385
+CD01O367E 004845 ROBERTO SANTIAGO                        Presente  PSD       São Paulo                386
+CD01O367E 004845 SALVADOR ZIMBALDI                       Presente  PDT       São Paulo                391
+CD01O367E 004845 TIRIRICA                                Presente  PR        São Paulo                392
+CD01O367E 004845 VANDERLEI MACRIS                        Presente  PSDB      São Paulo                521
+CD01O367E 004845 VANDERLEI SIRAQUE                       Presente  PT        São Paulo                581
+CD01O367E 004845 VAZ DE LIMA                             Presente  PSDB      São Paulo                394
+CD01O367E 004845 VICENTE CANDIDO                         Presente  PT        São Paulo                395
+CD01O367E 004845 WALTER IHOSHI                           Presente  PSD       São Paulo                553
+CD01O367E 004845 WILLIAM DIB                             Presente  PSDB      São Paulo                397
+CD01O367E 004845 CABO JULIANO RABELO                     Presente  PSB       Mato Grosso              584
+CD01O367E 004845 ELIENE LIMA                             Presente  PSD       Mato Grosso              401
+CD01O367E 004845 HOMERO PEREIRA                          Presente  PSD       Mato Grosso              402
+CD01O367E 004845 JÚLIO CAMPOS                            Presente  DEM       Mato Grosso              399
+CD01O367E 004845 NILSON LEITÃO                           Presente  PSDB      Mato Grosso              573
+CD01O367E 004845 WELLINGTON FAGUNDES                     Presente  PR        Mato Grosso              406
+CD01O367E 004845 AUGUSTO CARVALHO                        Presente  PPS       Distrito Federal         545
+CD01O367E 004845 ERIKA KOKAY                             Presente  PT        Distrito Federal         407
+CD01O367E 004845 IZALCI                                  Presente  PR        Distrito Federal         408
+CD01O367E 004845 JAQUELINE RORIZ                         Presente  PMN       Distrito Federal         409
+CD01O367E 004845 LUIZ PITIMAN                            Presente  PMDB      Distrito Federal         410
+CD01O367E 004845 POLICARPO                               Presente  PT        Distrito Federal         539
+CD01O367E 004845 REGUFFE                                 Presente  PDT       Distrito Federal         413
+CD01O367E 004845 RONALDO FONSECA                         Presente  PR        Distrito Federal         414
+CD01O367E 004845 CARLOS ALBERTO LERÉIA                   Presente  PSDB      Goiás                    415
+CD01O367E 004845 HEULER CRUVINEL                         Presente  PSD       Goiás                    423
+CD01O367E 004845 JOÃO CAMPOS                             Presente  PSDB      Goiás                    418
+CD01O367E 004845 JOVAIR ARANTES                          Presente  PTB       Goiás                    419
+CD01O367E 004845 LEANDRO VILELA                          Presente  PMDB      Goiás                    420
+CD01O367E 004845 MAGDA MOFATTO                           Presente  PTB       Goiás                    575
+CD01O367E 004845 MARINA SANTANNA                         Presente  PT        Goiás                    564
+CD01O367E 004845 PEDRO CHAVES                            Presente  PMDB      Goiás                    428
+CD01O367E 004845 ROBERTO BALESTRA                        Presente  PP        Goiás                    427
+CD01O367E 004845 SANDES JÚNIOR                           Presente  PP        Goiás                    426
+CD01O367E 004845 VALDIVINO DE OLIVEIRA                   Presente  PSDB      Goiás                    547
+CD01O367E 004845 ANTÔNIO CARLOS BIFFI                    Presente  PT        Mato Grosso do Sul       432
+CD01O367E 004845 GIROTO                                  Presente  PMDB      Mato Grosso do Sul       434
+CD01O367E 004845 MANDETTA                                Presente  DEM       Mato Grosso do Sul       436
+CD01O367E 004845 MARÇAL FILHO                            Presente  PMDB      Mato Grosso do Sul       437
+CD01O367E 004845 REINALDO AZAMBUJA                       Presente  PSDB      Mato Grosso do Sul       439
+CD01O367E 004845 VANDER LOUBET                           Presente  PT        Mato Grosso do Sul       438
+CD01O367E 004845 ALFREDO KAEFER                          Presente  PSDB      Paraná                   451
+CD01O367E 004845 ANDRÉ VARGAS                            Presente  PT        Paraná                   452
+CD01O367E 004845 ANGELO VANHONI                          Presente  PT        Paraná                   453
+CD01O367E 004845 ASSIS DO COUTO                          Presente  PT        Paraná                   443
+CD01O367E 004845 CIDA BORGHETTI                          Presente  PP        Paraná                   442
+CD01O367E 004845 DR. ROSINHA                             Presente  PT        Paraná                   449
+CD01O367E 004845 EDMAR ARRUDA                            Presente  PSC       Paraná                   446
+CD01O367E 004845 EDUARDO SCIARRA                         Presente  PSD       Paraná                   461
+CD01O367E 004845 GIACOBO                                 Presente  PR        Paraná                   466
+CD01O367E 004845 HERMES PARCIANELLO                      Presente  PMDB      Paraná                   448
+CD01O367E 004845 JOÃO ARRUDA                             Presente  PMDB      Paraná                   455
+CD01O367E 004845 LEOPOLDO MEYER                          Presente  PSB       Paraná                   456
+CD01O367E 004845 LUIZ CARLOS SETIM                       Presente  DEM       Paraná                   535
+CD01O367E 004845 LUIZ NISHIMORI                          Presente  PSDB      Paraná                   542
+CD01O367E 004845 MOACIR MICHELETTO                       Presente  PMDB      Paraná                   462
+CD01O367E 004845 NELSON MEURER                           Presente  PP        Paraná                   458
+CD01O367E 004845 OSMAR SERRAGLIO                         Presente  PMDB      Paraná                   463
+CD01O367E 004845 REINHOLD STEPHANES                      Presente  PSD       Paraná                   467
+CD01O367E 004845 ROSANE FERREIRA                         Presente  PV        Paraná                   459
+CD01O367E 004845 RUBENS BUENO                            Presente  PPS       Paraná                   460
+CD01O367E 004845 SANDRO ALEX                             Presente  PPS       Paraná                   465
+CD01O367E 004845 TAKAYAMA                                Presente  PSC       Paraná                   469
+CD01O367E 004845 CARMEN ZANOTTO                          Presente  PPS       Santa Catarina           561
+CD01O367E 004845 CELSO MALDANER                          Presente  PMDB      Santa Catarina           472
+CD01O367E 004845 ESPERIDIÃO AMIN                         Presente  PP        Santa Catarina           471
+CD01O367E 004845 JOÃO PIZZOLATTI                         Presente  PP        Santa Catarina           574
+CD01O367E 004845 JORGE BOEIRA                            Presente  PSD       Santa Catarina           474
+CD01O367E 004845 JORGINHO MELLO                          Presente  PSDB      Santa Catarina           476
+CD01O367E 004845 LUCI CHOINACKI                          Presente  PT        Santa Catarina           477
+CD01O367E 004845 MAURO MARIANI                           Presente  PMDB      Santa Catarina           480
+CD01O367E 004845 ONOFRE SANTO AGOSTINI                   Presente  PSD       Santa Catarina           479
+CD01O367E 004845 PEDRO UCZAI                             Presente  PT        Santa Catarina           481
+CD01O367E 004845 ROGÉRIO PENINHA MENDONÇA                Presente  PMDB      Santa Catarina           483
+CD01O367E 004845 RONALDO BENEDET                         Presente  PMDB      Santa Catarina           484
+CD01O367E 004845 VALDIR COLATTO                          Presente  PMDB      Santa Catarina           560
+CD01O367E 004845 AFONSO HAMM                             Presente  PP        Rio Grande do Sul        487
+CD01O367E 004845 ALCEU MOREIRA                           Presente  PMDB      Rio Grande do Sul        486
+CD01O367E 004845 ALEXANDRE ROSO                          Presente  PSB       Rio Grande do Sul        489
+CD01O367E 004845 ASSIS MELO                              Presente  PCdoB     Rio Grande do Sul        492
+CD01O367E 004845 DARCÍSIO PERONDI                        Presente  PMDB      Rio Grande do Sul        491
+CD01O367E 004845 ELISEU PADILHA                          Presente  PMDB      Rio Grande do Sul        578
+CD01O367E 004845 ENIO BACCI                              Presente  PDT       Rio Grande do Sul        493
+CD01O367E 004845 HENRIQUE FONTANA                        Presente  PT        Rio Grande do Sul        498
+CD01O367E 004845 JERONIMO GOERGEN                        Presente  PP        Rio Grande do Sul        505
+CD01O367E 004845 JOSÉ STÉDILE                            Presente  PSB       Rio Grande do Sul        506
+CD01O367E 004845 LUIS CARLOS HEINZE                      Presente  PP        Rio Grande do Sul        500
+CD01O367E 004845 LUIZ NOÉ                                Presente  PSB       Rio Grande do Sul        536
+CD01O367E 004845 MARCO MAIA                              Presente  PT        Rio Grande do Sul        496
+CD01O367E 004845 NELSON MARCHEZAN JUNIOR                 Presente  PSDB      Rio Grande do Sul        509
+CD01O367E 004845 OSMAR TERRA                             Presente  PMDB      Rio Grande do Sul        497
+CD01O367E 004845 PEPE VARGAS                             Presente  PT        Rio Grande do Sul        503
+CD01O367E 004845 RENATO MOLLING                          Presente  PP        Rio Grande do Sul        511
+CD01O367E 004845 RONALDO NOGUEIRA                        Presente  PTB       Rio Grande do Sul        556
+CD01O367E 004845 RONALDO ZULKE                           Presente  PT        Rio Grande do Sul        515
+CD01O367E 004845 VIEIRA DA CUNHA                         Presente  PDT       Rio Grande do Sul        514
+CD01O367E 004845 VILSON COVATTI                          Presente  PP        Rio Grande do Sul        516
+CD01O367E 004845 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O367E 004845 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD01O367E 004845 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O367E 004845 CELIA ROCHA                             <-------> PTB       Alagoas                  165
+CD01O367E 004845 JOAQUIM BELTRÃO                         <-------> PMDB      Alagoas                  172
+CD01O367E 004845 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O367E 004845 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD01O367E 004845 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD01O367E 004845 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O367E 004845 MARCOS MEDRADO                          <-------> PDT       Bahia                    200
+CD01O367E 004845 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD01O367E 004845 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O367E 004845 RUI COSTA                               <-------> PT        Bahia                    216
+CD01O367E 004845 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD01O367E 004845 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD01O367E 004845 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD01O367E 004845 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD01O367E 004845 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD01O367E 004845 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O367E 004845 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD01O367E 004845 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD01O367E 004845 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD01O367E 004845 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD01O367E 004845 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD01O367E 004845 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O367E 004845 ARMANDO VERGÍLIO                        <-------> PSD       Goiás                    416
+CD01O367E 004845 ÍRIS DE ARAÚJO                          <-------> PMDB      Goiás                    417
+CD01O367E 004845 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD01O367E 004845 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD01O367E 004845 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O367E 004845 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O367E 004845 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O367E 004845 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD01O367E 004845 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O367E 004845 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD01O367E 004845 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD01O367E 004845 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O367E 004845 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O367E 004845 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O367E 004845 SARAIVA FELIPE                          <-------> PMDB      Minas Gerais             265
+CD01O367E 004845 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O367E 004845 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD01O367E 004845 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O367E 004845 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD01O367E 004845 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O367E 004845 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O367E 004845 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD01O367E 004845 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O367E 004845 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O367E 004845 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O367E 004845 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O367E 004845 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD01O367E 004845 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD01O367E 004845 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD01O367E 004845 FABIO TRAD                              <-------> PMDB      Mato Grosso do Sul       433
+CD01O367E 004845 GERALDO RESENDE                         <-------> PMDB      Mato Grosso do Sul       435
+CD01O367E 004845 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD01O367E 004845 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD01O367E 004845 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O367E 004845 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O367E 004845 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O367E 004845 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CD01O367E 004845 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O367E 004845 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD01O367E 004845 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O367E 004845 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD01O367E 004845 RAUL HENRY                              <-------> PMDB      Pernambuco               163
+CD01O367E 004845 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD01O367E 004845 FERNANDO FERRO                          <-------> PT        Pernambuco               141
+CD01O367E 004845 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O367E 004845 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD01O367E 004845 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O367E 004845 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD01O367E 004845 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O367E 004845 DILCEU SPERAFICO                        <-------> PP        Paraná                   444
+CD01O367E 004845 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD01O367E 004845 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD01O367E 004845 NELSON PADOVANI                         <-------> PSC       Paraná                   457
+CD01O367E 004845 FERNANDO FRANCISCHINI                   <-------> PSDB      Paraná                   450
+CD01O367E 004845 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD01O367E 004845 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O367E 004845 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD01O367E 004845 EDUARDO CUNHA                           <-------> PMDB      Rio de Janeiro           300
+CD01O367E 004845 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CD01O367E 004845 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD01O367E 004845 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD01O367E 004845 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O367E 004845 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD01O367E 004845 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD01O367E 004845 DR. PAULO CÉSAR                         <-------> PSD       Rio de Janeiro           296
+CD01O367E 004845 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O367E 004845 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD01O367E 004845 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O367E 004845 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD01O367E 004845 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD01O367E 004845 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD01O367E 004845 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD01O367E 004845 BERINHO BANTIM                          <-------> PSDB      Roraima                  1  
+CD01O367E 004845 FERNANDO MARRONI                        <-------> PT        Rio Grande do Sul        525
+CD01O367E 004845 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD01O367E 004845 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O367E 004845 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD01O367E 004845 DANRLEI DE DEUS HINTERHOLZ              <-------> PSD       Rio Grande do Sul        495
+CD01O367E 004845 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O367E 004845 GIOVANI CHERINI                         <-------> PDT       Rio Grande do Sul        502
+CD01O367E 004845 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O367E 004845 BOHN GASS                               <-------> PT        Rio Grande do Sul        499
+CD01O367E 004845 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O367E 004845 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD01O367E 004845 ROMANNA REMOR                           <-------> PMDB      Santa Catarina           582
+CD01O367E 004845 EDINHO BEZ                              <-------> PMDB      Santa Catarina           470
+CD01O367E 004845 PENNA                                   <-------> PV        São Paulo                382
+CD01O367E 004845 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD01O367E 004845 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O367E 004845 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O367E 004845 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O367E 004845 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD01O367E 004845 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD01O367E 004845 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CD01O367E 004845 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O367E 004845 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O367E 004845 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O367E 004845 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD01O367E 004845 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O367E 004845 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O367E 004845 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD01O367E 004845 VICENTINHO                              <-------> PT        São Paulo                396
+CD01O367E 004845 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 

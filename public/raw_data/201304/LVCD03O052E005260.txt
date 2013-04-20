@@ -1,0 +1,513 @@
+CD03O052E 005260 MARCIO JUNQUEIRA                        Sim       DEM       Roraima                  625
+CD03O052E 005260 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD03O052E 005260 RAUL LIMA                               Sim       PSD       Roraima                  7  
+CD03O052E 005260 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD03O052E 005260 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD03O052E 005260 JESUS RODRIGUES                         Obstrução PT        Piauí                    115
+CD03O052E 005260 MANOEL JUNIOR                           Obstrução PMDB      Paraíba                  130
+CD03O052E 005260 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CD03O052E 005260 VILALBA                                 Obstrução PRB       Pernambuco               555
+CD03O052E 005260 ALEXANDRE TOLEDO                        Sim       PSDB      Alagoas                  596
+CD03O052E 005260 AMAURI TEIXEIRA                         Obstrução PT        Bahia                    184
+CD03O052E 005260 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD03O052E 005260 BERNARDO SANTANA DE VASCONCELLO         Obstrução PR        Minas Gerais             221
+CD03O052E 005260 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD03O052E 005260 PADRE JOÃO                              Obstrução PT        Minas Gerais             259
+CD03O052E 005260 EDSON EZEQUIEL                          Obstrução PMDB      Rio de Janeiro           298
+CD03O052E 005260 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD03O052E 005260 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD03O052E 005260 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD03O052E 005260 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD03O052E 005260 IZALCI                                  Sim       PSDB      Distrito Federal         408
+CD03O052E 005260 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD03O052E 005260 MARINA SANTANNA                         Obstrução PT        Goiás                    564
+CD03O052E 005260 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD03O052E 005260 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD03O052E 005260 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD03O052E 005260 ANDRÉ VARGAS                            Art. 17   PT        Paraná                   452
+CD03O052E 005260 OLIVEIRA FILHO                          Obstrução PRB       Paraná                   621
+CD03O052E 005260 PROFESSOR SÉRGIO DE OLIVEIRA            Sim       PSC       Paraná                   603
+CD03O052E 005260 ROSANE FERREIRA                         Obstrução PV        Paraná                   459
+CD03O052E 005260 BETO ALBUQUERQUE                        Sim       PSB       Rio Grande do Sul        490
+CD03O052E 005260 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CD03O052E 005260 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD03O052E 005260 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD03O052E 005260 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD03O052E 005260 SIBÁ MACHADO                            <-------> PT        Acre                     58 
+CD03O052E 005260 TAUMATURGO LIMA                         <-------> PT        Acre                     59 
+CD03O052E 005260 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD03O052E 005260 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD03O052E 005260 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD03O052E 005260 ARTHUR LIRA                             <-------> PP        Alagoas                  162
+CD03O052E 005260 PAULÃO                                  <-------> PT        Alagoas                  608
+CD03O052E 005260 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD03O052E 005260 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD03O052E 005260 FRANCISCO TENÓRIO                       <-------> PMN       Alagoas                  607
+CD03O052E 005260 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD03O052E 005260 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD03O052E 005260 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD03O052E 005260 CARLOS SOUZA                            <-------> PSD       Amazonas                 37 
+CD03O052E 005260 DR. LUIZ FERNANDO                       <-------> PSD       Amazonas                 605
+CD03O052E 005260 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD03O052E 005260 FRANCISCO PRACIANO                      <-------> PT        Amazonas                 41 
+CD03O052E 005260 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD03O052E 005260 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD03O052E 005260 PLÍNIO VALÉRIO                          <-------> PSDB      Amazonas                 633
+CD03O052E 005260 ÁTILA LINS                              <-------> PSD       Amazonas                 38 
+CD03O052E 005260 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD03O052E 005260 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD03O052E 005260 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD03O052E 005260 EVANDRO MILHOMEN                        <-------> PCdoB     Amapá                    11 
+CD03O052E 005260 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD03O052E 005260 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD03O052E 005260 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD03O052E 005260 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD03O052E 005260 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD03O052E 005260 PAULO MAGALHÃES                         <-------> PSD       Bahia                    214
+CD03O052E 005260 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD03O052E 005260 ANTONIO BRITO                           <-------> PTB       Bahia                    189
+CD03O052E 005260 ANTONIO IMBASSAHY                       <-------> PSDB      Bahia                    191
+CD03O052E 005260 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD03O052E 005260 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD03O052E 005260 LUIZ ALBERTO                            <-------> PT        Bahia                    204
+CD03O052E 005260 LUIZ DE DEUS                            <-------> DEM       Bahia                    609
+CD03O052E 005260 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD03O052E 005260 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD03O052E 005260 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD03O052E 005260 ROBERTO BRITTO                          <-------> PP        Bahia                    211
+CD03O052E 005260 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD03O052E 005260 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD03O052E 005260 VALMIR ASSUNÇÃO                         <-------> PT        Bahia                    218
+CD03O052E 005260 WALDENOR PEREIRA                        <-------> PT        Bahia                    219
+CD03O052E 005260 MARCELO GUIMARÃES FILHO                 <-------> PMDB      Bahia                    627
+CD03O052E 005260 COLBERT MARTINS                         <-------> PMDB      Bahia                    622
+CD03O052E 005260 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD03O052E 005260 MARCOS MEDRADO                          <-------> PDT       Bahia                    200
+CD03O052E 005260 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD03O052E 005260 SÉRGIO BRITO                            <-------> PSD       Bahia                    213
+CD03O052E 005260 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD03O052E 005260 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD03O052E 005260 MÁRIO NEGROMONTE                        <-------> PP        Bahia                    210
+CD03O052E 005260 AFONSO FLORENCE                         <-------> PT        Bahia                    182
+CD03O052E 005260 EDSON PIMENTA                           <-------> PSD       Bahia                    193
+CD03O052E 005260 FELIX MENDONÇA JÚNIOR                   <-------> PDT       Bahia                    195
+CD03O052E 005260 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD03O052E 005260 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD03O052E 005260 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD03O052E 005260 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD03O052E 005260 ZEZÉU RIBEIRO                           <-------> PT        Bahia                    217
+CD03O052E 005260 JOÃO LEÃO                               <-------> PP        Bahia                    199
+CD03O052E 005260 JOSÉ CARLOS ARAÚJO                      <-------> PSD       Bahia                    197
+CD03O052E 005260 GERALDO SIMÕES                          <-------> PT        Bahia                    185
+CD03O052E 005260 MÁRIO FEITOZA                           <-------> PMDB      Ceará                    590
+CD03O052E 005260 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD03O052E 005260 CHICO LOPES                             <-------> PCdoB     Ceará                    88 
+CD03O052E 005260 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD03O052E 005260 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD03O052E 005260 GERA ARRUDA                             <-------> PMDB      Ceará                    592
+CD03O052E 005260 ANDRÉ FIGUEIREDO                        <-------> PDT       Ceará                    89 
+CD03O052E 005260 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD03O052E 005260 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD03O052E 005260 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD03O052E 005260 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD03O052E 005260 ARIOSTO HOLANDA                         <-------> PSB       Ceará                    92 
+CD03O052E 005260 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD03O052E 005260 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD03O052E 005260 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD03O052E 005260 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD03O052E 005260 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD03O052E 005260 JOSÉ GUIMARÃES                          <-------> PT        Ceará                    103
+CD03O052E 005260 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD03O052E 005260 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD03O052E 005260 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD03O052E 005260 ARTUR BRUNO                             <-------> PT        Ceará                    94 
+CD03O052E 005260 AUGUSTO CARVALHO                        <-------> PPS       Distrito Federal         545
+CD03O052E 005260 ERIKA KOKAY                             <-------> PT        Distrito Federal         407
+CD03O052E 005260 LUIZ PITIMAN                            <-------> PMDB      Distrito Federal         410
+CD03O052E 005260 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD03O052E 005260 POLICARPO                               <-------> PT        Distrito Federal         539
+CD03O052E 005260 RONALDO FONSECA                         <-------> PR        Distrito Federal         414
+CD03O052E 005260 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD03O052E 005260 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD03O052E 005260 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD03O052E 005260 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD03O052E 005260 MANATO                                  <-------> PDT       Espírito Santo           275
+CD03O052E 005260 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD03O052E 005260 IRINY LOPES                             <-------> PT        Espírito Santo           273
+CD03O052E 005260 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD03O052E 005260 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD03O052E 005260 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD03O052E 005260 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD03O052E 005260 ARMANDO VERGÍLIO                        <-------> PSD       Goiás                    416
+CD03O052E 005260 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD03O052E 005260 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD03O052E 005260 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD03O052E 005260 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD03O052E 005260 HEULER CRUVINEL                         <-------> PSD       Goiás                    423
+CD03O052E 005260 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD03O052E 005260 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD03O052E 005260 MAGDA MOFATTO                           <-------> PTB       Goiás                    575
+CD03O052E 005260 ÍRIS DE ARAÚJO                          <-------> PMDB      Goiás                    417
+CD03O052E 005260 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD03O052E 005260 PEDRO CHAVES                            <-------> PMDB      Goiás                    428
+CD03O052E 005260 VALDIVINO DE OLIVEIRA                   <-------> PSDB      Goiás                    547
+CD03O052E 005260 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD03O052E 005260 SIMPLÍCIO ARAÚJO                        <-------> PPS       Maranhão                 585
+CD03O052E 005260 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD03O052E 005260 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD03O052E 005260 LOURIVAL MENDES                         <-------> PTdoB     Maranhão                 77 
+CD03O052E 005260 WALDIR MARANHÃO                         <-------> PP        Maranhão                 84 
+CD03O052E 005260 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD03O052E 005260 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD03O052E 005260 COSTA FERREIRA                          <-------> PSC       Maranhão                 571
+CD03O052E 005260 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD03O052E 005260 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD03O052E 005260 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD03O052E 005260 ALBERTO FILHO                           <-------> PMDB      Maranhão                 71 
+CD03O052E 005260 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD03O052E 005260 PEDRO NOVAIS                            <-------> PMDB      Maranhão                 82 
+CD03O052E 005260 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD03O052E 005260 PROFESSOR SETIMO                        <-------> PMDB      Maranhão                 81 
+CD03O052E 005260 HÉLIO SANTOS                            <-------> PSD       Maranhão                 76 
+CD03O052E 005260 WEVERTON ROCHA                          <-------> PDT       Maranhão                 579
+CD03O052E 005260 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD03O052E 005260 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD03O052E 005260 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD03O052E 005260 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD03O052E 005260 DIMAS FABIANO                           <-------> PP        Minas Gerais             231
+CD03O052E 005260 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD03O052E 005260 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD03O052E 005260 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD03O052E 005260 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD03O052E 005260 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD03O052E 005260 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD03O052E 005260 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD03O052E 005260 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD03O052E 005260 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD03O052E 005260 JÔ MORAES                               <-------> PCdoB     Minas Gerais             246
+CD03O052E 005260 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD03O052E 005260 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD03O052E 005260 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD03O052E 005260 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD03O052E 005260 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD03O052E 005260 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD03O052E 005260 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD03O052E 005260 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD03O052E 005260 TONINHO PINHEIRO                        <-------> PP        Minas Gerais             264
+CD03O052E 005260 SARAIVA FELIPE                          <-------> PMDB      Minas Gerais             265
+CD03O052E 005260 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD03O052E 005260 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD03O052E 005260 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD03O052E 005260 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD03O052E 005260 SILAS BRASILEIRO                        <-------> PMDB      Minas Gerais             636
+CD03O052E 005260 HUMBERTO SOUTO                          <-------> PPS       Minas Gerais             606
+CD03O052E 005260 RENATO ANDRADE                          <-------> PP        Minas Gerais             612
+CD03O052E 005260 NILMÁRIO MIRANDA                        <-------> PT        Minas Gerais             611
+CD03O052E 005260 MARGARIDA SALOMÃO                       <-------> PT        Minas Gerais             610
+CD03O052E 005260 JOSÉ HUMBERTO                           <-------> PHS       Minas Gerais             249
+CD03O052E 005260 ADEMIR CAMILO                           <-------> PSD       Minas Gerais             220
+CD03O052E 005260 GERALDO THADEU                          <-------> PSD       Minas Gerais             236
+CD03O052E 005260 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD03O052E 005260 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD03O052E 005260 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD03O052E 005260 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD03O052E 005260 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD03O052E 005260 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD03O052E 005260 ISAIAS SILVESTRE                        <-------> PSB       Minas Gerais             604
+CD03O052E 005260 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD03O052E 005260 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD03O052E 005260 MÁRIO HERINGER                          <-------> PDT       Minas Gerais             629
+CD03O052E 005260 STEFANO AGUIAR                          <-------> PSC       Minas Gerais             558
+CD03O052E 005260 DIEGO ANDRADE                           <-------> PSD       Minas Gerais             228
+CD03O052E 005260 MARCOS MONTES                           <-------> PSD       Minas Gerais             257
+CD03O052E 005260 GIROTO                                  <-------> PMDB      Mato Grosso do Sul       434
+CD03O052E 005260 GERALDO RESENDE                         <-------> PMDB      Mato Grosso do Sul       435
+CD03O052E 005260 BIFFI                                   <-------> PT        Mato Grosso do Sul       432
+CD03O052E 005260 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD03O052E 005260 MARÇAL FILHO                            <-------> PMDB      Mato Grosso do Sul       437
+CD03O052E 005260 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD03O052E 005260 FABIO TRAD                              <-------> PMDB      Mato Grosso do Sul       433
+CD03O052E 005260 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD03O052E 005260 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD03O052E 005260 ELIENE LIMA                             <-------> PSD       Mato Grosso              401
+CD03O052E 005260 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD03O052E 005260 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD03O052E 005260 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD03O052E 005260 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD03O052E 005260 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD03O052E 005260 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD03O052E 005260 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD03O052E 005260 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD03O052E 005260 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD03O052E 005260 NILSON PINTO                            <-------> PSDB      Pará                     31 
+CD03O052E 005260 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD03O052E 005260 BETO FARO                               <-------> PT        Pará                     19 
+CD03O052E 005260 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD03O052E 005260 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD03O052E 005260 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD03O052E 005260 ASDRUBAL BENTES                         <-------> PMDB      Pará                     20 
+CD03O052E 005260 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD03O052E 005260 LÚCIO VALE                              <-------> PR        Pará                     29 
+CD03O052E 005260 MIRIQUINHO BATISTA                      <-------> PT        Pará                     35 
+CD03O052E 005260 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD03O052E 005260 MAJOR FÁBIO                             <-------> DEM       Paraíba                  599
+CD03O052E 005260 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD03O052E 005260 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD03O052E 005260 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD03O052E 005260 LEONARDO GADELHA                        <-------> PSC       Paraíba                  586
+CD03O052E 005260 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD03O052E 005260 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD03O052E 005260 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD03O052E 005260 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD03O052E 005260 LUIZ COUTO                              <-------> PT        Paraíba                  133
+CD03O052E 005260 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD03O052E 005260 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD03O052E 005260 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD03O052E 005260 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD03O052E 005260 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD03O052E 005260 RAUL HENRY                              <-------> PMDB      Pernambuco               163
+CD03O052E 005260 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD03O052E 005260 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD03O052E 005260 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD03O052E 005260 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD03O052E 005260 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD03O052E 005260 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD03O052E 005260 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD03O052E 005260 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD03O052E 005260 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD03O052E 005260 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD03O052E 005260 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD03O052E 005260 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD03O052E 005260 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD03O052E 005260 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD03O052E 005260 JOÃO PAULO  LIMA                        <-------> PT        Pernambuco               149
+CD03O052E 005260 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD03O052E 005260 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD03O052E 005260 FERNANDO FERRO                          <-------> PT        Pernambuco               141
+CD03O052E 005260 JÚLIO CESAR                             <-------> PSD       Piauí                    114
+CD03O052E 005260 MARCELO CASTRO                          <-------> PMDB      Piauí                    110
+CD03O052E 005260 NAZARENO FONTELES                       <-------> PT        Piauí                    530
+CD03O052E 005260 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD03O052E 005260 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD03O052E 005260 ASSIS CARVALHO                          <-------> PT        Piauí                    111
+CD03O052E 005260 MARLLOS SAMPAIO                         <-------> PMDB      Piauí                    117
+CD03O052E 005260 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD03O052E 005260 HUGO NAPOLEÃO                           <-------> PSD       Piauí                    112
+CD03O052E 005260 JOÃO ARRUDA                             <-------> PMDB      Paraná                   455
+CD03O052E 005260 LEOPOLDO MEYER                          <-------> PSB       Paraná                   456
+CD03O052E 005260 NELSON PADOVANI                         <-------> PSC       Paraná                   457
+CD03O052E 005260 NELSON MEURER                           <-------> PP        Paraná                   458
+CD03O052E 005260 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD03O052E 005260 SANDRO ALEX                             <-------> PPS       Paraná                   465
+CD03O052E 005260 GIACOBO                                 <-------> PR        Paraná                   466
+CD03O052E 005260 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD03O052E 005260 TAKAYAMA                                <-------> PSC       Paraná                   469
+CD03O052E 005260 MARCELO ALMEIDA                         <-------> PMDB      Paraná                   631
+CD03O052E 005260 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD03O052E 005260 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD03O052E 005260 RICARDO ARRUDA                          <-------> PSC       Paraná                   635
+CD03O052E 005260 EDUARDO SCIARRA                         <-------> PSD       Paraná                   461
+CD03O052E 005260 RUBENS BUENO                            <-------> PPS       Paraná                   460
+CD03O052E 005260 FERNANDO FRANCISCHINI                   <-------> PEN       Paraná                   450
+CD03O052E 005260 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD03O052E 005260 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD03O052E 005260 ODÍLIO BALBINOTTI                       <-------> PMDB      Paraná                   588
+CD03O052E 005260 ASSIS DO COUTO                          <-------> PT        Paraná                   443
+CD03O052E 005260 DILCEU SPERAFICO                        <-------> PP        Paraná                   444
+CD03O052E 005260 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD03O052E 005260 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD03O052E 005260 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD03O052E 005260 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD03O052E 005260 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD03O052E 005260 CELSO JACOB                             <-------> PMDB      Rio de Janeiro           632
+CD03O052E 005260 FERNANDO LOPES                          <-------> PMDB      Rio de Janeiro           623
+CD03O052E 005260 CHICO ALENCAR                           <-------> PSOL      Rio de Janeiro           295
+CD03O052E 005260 LILIAM SÁ                               <-------> PSD       Rio de Janeiro           309
+CD03O052E 005260 JORGE BITTAR                            <-------> PT        Rio de Janeiro           310
+CD03O052E 005260 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD03O052E 005260 DR. CARLOS ALBERTO                      <-------> PMN       Rio de Janeiro           529
+CD03O052E 005260 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD03O052E 005260 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD03O052E 005260 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD03O052E 005260 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD03O052E 005260 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD03O052E 005260 ANTHONY GAROTINHO                       <-------> PR        Rio de Janeiro           289
+CD03O052E 005260 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD03O052E 005260 BENEDITA DA SILVA                       <-------> PT        Rio de Janeiro           291
+CD03O052E 005260 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CD03O052E 005260 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD03O052E 005260 JAIR BOLSONARO                          <-------> PP        Rio de Janeiro           302
+CD03O052E 005260 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD03O052E 005260 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CD03O052E 005260 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD03O052E 005260 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD03O052E 005260 MIRO TEIXEIRA                           <-------> PDT       Rio de Janeiro           317
+CD03O052E 005260 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD03O052E 005260 EURICO JÚNIOR                           <-------> PV        Rio de Janeiro           613
+CD03O052E 005260 MANUEL ROSA NECA                        <-------> PR        Rio de Janeiro           614
+CD03O052E 005260 VITOR PAULO                             <-------> PRB       Rio de Janeiro           324
+CD03O052E 005260 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD03O052E 005260 ZOINHO                                  <-------> PR        Rio de Janeiro           328
+CD03O052E 005260 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD03O052E 005260 LEONARDO PICCIANI                       <-------> PMDB      Rio de Janeiro           312
+CD03O052E 005260 LUIZ SÉRGIO                             <-------> PT        Rio de Janeiro           313
+CD03O052E 005260 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD03O052E 005260 AROLDE DE OLIVEIRA                      <-------> PSD       Rio de Janeiro           288
+CD03O052E 005260 DR. PAULO CÉSAR                         <-------> PSD       Rio de Janeiro           296
+CD03O052E 005260 FELIPE BORNIER                          <-------> PSD       Rio de Janeiro           301
+CD03O052E 005260 PAULO FEIJÓ                             <-------> PR        Rio de Janeiro           577
+CD03O052E 005260 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD03O052E 005260 SERGIO ZVEITER                          <-------> PSD       Rio de Janeiro           320
+CD03O052E 005260 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD03O052E 005260 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD03O052E 005260 EDUARDO CUNHA                           <-------> PMDB      Rio de Janeiro           300
+CD03O052E 005260 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD03O052E 005260 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD03O052E 005260 FELIPE MAIA                             <-------> DEM       Rio Grande do Norte      120
+CD03O052E 005260 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD03O052E 005260 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD03O052E 005260 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD03O052E 005260 FÁBIO FARIA                             <-------> PSD       Rio Grande do Norte      119
+CD03O052E 005260 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD03O052E 005260 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD03O052E 005260 PADRE TON                               <-------> PT        Rondonia                 48 
+CD03O052E 005260 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD03O052E 005260 ANSELMO DE JESUS                        <-------> PT        Rondonia                 615
+CD03O052E 005260 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD03O052E 005260 MARCOS ROGÉRIO                          <-------> PDT       Rondonia                 583
+CD03O052E 005260 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD03O052E 005260 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD03O052E 005260 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD03O052E 005260 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD03O052E 005260 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD03O052E 005260 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD03O052E 005260 URZENI ROCHA                            <-------> PSDB      Roraima                  616
+CD03O052E 005260 CHICO DAS VERDURAS                      <-------> PRP       Roraima                  3  
+CD03O052E 005260 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD03O052E 005260 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD03O052E 005260 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD03O052E 005260 JOSÉ STÉDILE                            <-------> PSB       Rio Grande do Sul        506
+CD03O052E 005260 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD03O052E 005260 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD03O052E 005260 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD03O052E 005260 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD03O052E 005260 GIOVANI CHERINI                         <-------> PDT       Rio Grande do Sul        502
+CD03O052E 005260 LUIS CARLOS HEINZE                      <-------> PP        Rio Grande do Sul        500
+CD03O052E 005260 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD03O052E 005260 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD03O052E 005260 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD03O052E 005260 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD03O052E 005260 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD03O052E 005260 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD03O052E 005260 FERNANDO MARRONI                        <-------> PT        Rio Grande do Sul        525
+CD03O052E 005260 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD03O052E 005260 ASSIS MELO                              <-------> PCdoB     Rio Grande do Sul        492
+CD03O052E 005260 DANRLEI DE DEUS HINTERHOLZ              <-------> PSD       Rio Grande do Sul        495
+CD03O052E 005260 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD03O052E 005260 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD03O052E 005260 BOHN GASS                               <-------> PT        Rio Grande do Sul        499
+CD03O052E 005260 PAULO FERREIRA                          <-------> PT        Rio Grande do Sul        591
+CD03O052E 005260 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD03O052E 005260 RONALDO ZULKE                           <-------> PT        Rio Grande do Sul        515
+CD03O052E 005260 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD03O052E 005260 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD03O052E 005260 RONALDO NOGUEIRA                        <-------> PTB       Rio Grande do Sul        556
+CD03O052E 005260 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD03O052E 005260 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD03O052E 005260 ONOFRE SANTO AGOSTINI                   <-------> PSD       Santa Catarina           479
+CD03O052E 005260 JORGINHO MELLO                          <-------> PR        Santa Catarina           476
+CD03O052E 005260 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD03O052E 005260 MARCO TEBALDI                           <-------> PSDB      Santa Catarina           478
+CD03O052E 005260 JORGE BOEIRA                            <-------> PSD       Santa Catarina           474
+CD03O052E 005260 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD03O052E 005260 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD03O052E 005260 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD03O052E 005260 CARMEN ZANOTTO                          <-------> PPS       Santa Catarina           561
+CD03O052E 005260 EDINHO BEZ                              <-------> PMDB      Santa Catarina           470
+CD03O052E 005260 ESPERIDIÃO AMIN                         <-------> PP        Santa Catarina           471
+CD03O052E 005260 CELSO MALDANER                          <-------> PMDB      Santa Catarina           472
+CD03O052E 005260 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD03O052E 005260 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD03O052E 005260 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD03O052E 005260 FABIO REIS                              <-------> PMDB      Sergipe                  619
+CD03O052E 005260 ALMEIDA LIMA                            <-------> PPS       Sergipe                  173
+CD03O052E 005260 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD03O052E 005260 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD03O052E 005260 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD03O052E 005260 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CD03O052E 005260 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD03O052E 005260 WALTER FELDMAN                          <-------> PSDB      São Paulo                550
+CD03O052E 005260 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD03O052E 005260 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD03O052E 005260 ROBERTO DE LUCENA                       <-------> PV        São Paulo                385
+CD03O052E 005260 WALTER IHOSHI                           <-------> PSD       São Paulo                553
+CD03O052E 005260 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD03O052E 005260 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD03O052E 005260 ROBERTO SANTIAGO                        <-------> PSD       São Paulo                386
+CD03O052E 005260 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD03O052E 005260 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD03O052E 005260 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD03O052E 005260 PENNA                                   <-------> PV        São Paulo                382
+CD03O052E 005260 EMANUEL FERNANDES                       <-------> PSDB      São Paulo                352
+CD03O052E 005260 MÁRCIO FRANÇA                           <-------> PSB       São Paulo                368
+CD03O052E 005260 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD03O052E 005260 IARA BERNARDI                           <-------> PT        São Paulo                618
+CD03O052E 005260 JOSÉ GENOÍNO                            <-------> PT        São Paulo                617
+CD03O052E 005260 VANDERLEI SIRAQUE                       <-------> PT        São Paulo                581
+CD03O052E 005260 FRANCISCO CHAGAS                        <-------> PT        São Paulo                626
+CD03O052E 005260 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD03O052E 005260 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD03O052E 005260 LUIZA ERUNDINA                          <-------> PSB       São Paulo                371
+CD03O052E 005260 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD03O052E 005260 PAULO MALUF                             <-------> PP        São Paulo                373
+CD03O052E 005260 MILTON MONTI                            <-------> PR        São Paulo                374
+CD03O052E 005260 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD03O052E 005260 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD03O052E 005260 OTONIEL LIMA                            <-------> PRB       São Paulo                378
+CD03O052E 005260 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD03O052E 005260 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD03O052E 005260 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD03O052E 005260 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD03O052E 005260 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD03O052E 005260 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD03O052E 005260 TIRIRICA                                <-------> PR        São Paulo                392
+CD03O052E 005260 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD03O052E 005260 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD03O052E 005260 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD03O052E 005260 VICENTINHO                              <-------> PT        São Paulo                396
+CD03O052E 005260 CARLOS ZARATTINI                        <-------> PT        São Paulo                398
+CD03O052E 005260 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD03O052E 005260 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD03O052E 005260 ALEXANDRE LEITE                         <-------> DEM       São Paulo                334
+CD03O052E 005260 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD03O052E 005260 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD03O052E 005260 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD03O052E 005260 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD03O052E 005260 BETO MANSUR                             <-------> PP        São Paulo                340
+CD03O052E 005260 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD03O052E 005260 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD03O052E 005260 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD03O052E 005260 KEIKO OTA                               <-------> PSB       São Paulo                356
+CD03O052E 005260 IVAN VALENTE                            <-------> PSOL      São Paulo                359
+CD03O052E 005260 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD03O052E 005260 JOÃO DADO                               <-------> PDT       São Paulo                362
+CD03O052E 005260 MARCELO AGUIAR                          <-------> PSD       São Paulo                370
+CD03O052E 005260 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CD03O052E 005260 JUNJI ABE                               <-------> PSD       São Paulo                355
+CD03O052E 005260 ELEUSES PAIVA                           <-------> PSD       São Paulo                537
+CD03O052E 005260 RICARDO IZAR                            <-------> PSD       São Paulo                383
+CD03O052E 005260 ARNALDO FARIA DE SÁ                     <-------> PTB       São Paulo                337
+CD03O052E 005260 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD03O052E 005260 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD03O052E 005260 PASTOR MARCO FELICIANO                  <-------> PSC       São Paulo                379
+CD03O052E 005260 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD03O052E 005260 JEFFERSON CAMPOS                        <-------> PSD       São Paulo                349
+CD03O052E 005260 JANETE ROCHA PIETÁ                      <-------> PT        São Paulo                358
+CD03O052E 005260 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD03O052E 005260 JÚNIOR COIMBRA                          <-------> PMDB      Tocantins                66 
+CD03O052E 005260 ÂNGELO AGNOLIN                          <-------> PDT       Tocantins                61 
+CD03O052E 005260 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CD03O052E 005260 OSVALDO REIS                            <-------> PMDB      Tocantins                620
+CD03O052E 005260 NILMAR RUIZ                             <-------> PEN       Tocantins                634
+CD03O052E 005260 CÉSAR HALUM                             <-------> PSD       Tocantins                64 
+CD03O052E 005260 LEOMAR QUINTANILHA                      <-------> PMDB      Tocantins                628

@@ -1,0 +1,513 @@
+CD01O367E 004841 EDIO LOPES                              Sim       PMDB      Roraima                  2
+CD01O367E 004841 FRANCISCO ARAÚJO                        Sim       PSD       Roraima                  570
+CD01O367E 004841 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CD01O367E 004841 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD01O367E 004841 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD01O367E 004841 RAUL LIMA                               Sim       PSD       Roraima                  7  
+CD01O367E 004841 TERESA SURITA                           Sim       PMDB      Roraima                  8  
+CD01O367E 004841 DAVI ALCOLUMBRE                         Sim       DEM       Amapá                    10 
+CD01O367E 004841 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD01O367E 004841 FÁTIMA PELAES                           Sim       PMDB      Amapá                    12 
+CD01O367E 004841 JANETE CAPIBERIBE                       Sim       PSB       Amapá                    572
+CD01O367E 004841 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD01O367E 004841 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD01O367E 004841 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD01O367E 004841 BETO FARO                               Sim       PT        Pará                     19 
+CD01O367E 004841 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD01O367E 004841 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD01O367E 004841 ELCIONE BARBALHO                        Sim       PMDB      Pará                     21 
+CD01O367E 004841 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD01O367E 004841 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD01O367E 004841 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD01O367E 004841 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD01O367E 004841 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CD01O367E 004841 WLADIMIR COSTA                          Sim       PMDB      Pará                     23 
+CD01O367E 004841 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CD01O367E 004841 ZEQUINHA MARINHO                        Sim       PSC       Pará                     33 
+CD01O367E 004841 ÁTILA LINS                              Sim       PSD       Amazonas                 38 
+CD01O367E 004841 CARLOS SOUZA                            Sim       PSD       Amazonas                 37 
+CD01O367E 004841 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD01O367E 004841 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD01O367E 004841 PAUDERNEY AVELINO                       Sim       DEM       Amazonas                 40 
+CD01O367E 004841 REBECCA GARCIA                          Sim       PP        Amazonas                 42 
+CD01O367E 004841 SILAS CÂMARA                            Sim       PSD       Amazonas                 39 
+CD01O367E 004841 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD01O367E 004841 MARCOS ROGÉRIO                          Sim       PDT       Rondonia                 583
+CD01O367E 004841 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD01O367E 004841 MAURO NAZIF                             Sim       PSB       Rondonia                 46 
+CD01O367E 004841 PADRE TON                               Sim       PT        Rondonia                 48 
+CD01O367E 004841 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD01O367E 004841 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD01O367E 004841 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD01O367E 004841 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD01O367E 004841 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD01O367E 004841 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD01O367E 004841 CÉSAR HALUM                             Sim       PSD       Tocantins                64 
+CD01O367E 004841 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD01O367E 004841 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD01O367E 004841 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD01O367E 004841 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD01O367E 004841 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD01O367E 004841 CLEBER VERDE                            Sim       PRB       Maranhão                 70 
+CD01O367E 004841 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD01O367E 004841 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CD01O367E 004841 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD01O367E 004841 EDIVALDO HOLANDA JUNIOR                 Sim       PTC       Maranhão                 73 
+CD01O367E 004841 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CD01O367E 004841 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD01O367E 004841 PEDRO NOVAIS                            Sim       PMDB      Maranhão                 82 
+CD01O367E 004841 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD01O367E 004841 RIBAMAR ALVES                           Sim       PSB       Maranhão                 74 
+CD01O367E 004841 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD01O367E 004841 WEVERTON ROCHA                          Sim       PDT       Maranhão                 579
+CD01O367E 004841 ZÉ VIEIRA                               Sim       PR        Maranhão                 86 
+CD01O367E 004841 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD01O367E 004841 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CD01O367E 004841 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD01O367E 004841 ARNON BEZERRA                           Sim       PTB       Ceará                    90 
+CD01O367E 004841 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD01O367E 004841 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD01O367E 004841 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CD01O367E 004841 DOMINGOS NETO                           Sim       PSB       Ceará                    97 
+CD01O367E 004841 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CD01O367E 004841 GENECIAS NORONHA                        Sim       PMDB      Ceará                    99 
+CD01O367E 004841 JOSÉ AIRTON                             Sim       PT        Ceará                    101
+CD01O367E 004841 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD01O367E 004841 JOSÉ LINHARES                           Sim       PP        Ceará                    96 
+CD01O367E 004841 MANOEL SALVIANO                         Sim       PSD       Ceará                    104
+CD01O367E 004841 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD01O367E 004841 RAIMUNDÃO                               Sim       PMDB      Ceará                    108
+CD01O367E 004841 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD01O367E 004841 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD01O367E 004841 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD01O367E 004841 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CD01O367E 004841 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD01O367E 004841 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD01O367E 004841 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD01O367E 004841 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD01O367E 004841 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD01O367E 004841 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD01O367E 004841 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CD01O367E 004841 PAES LANDIM                             Sim       PTB       Piauí                    118
+CD01O367E 004841 FÁBIO FARIA                             Sim       PSD       Rio Grande do Norte      119
+CD01O367E 004841 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD01O367E 004841 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD01O367E 004841 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD01O367E 004841 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD01O367E 004841 ROGÉRIO MARINHO                         Sim       PSDB      Rio Grande do Norte      540
+CD01O367E 004841 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CD01O367E 004841 AGUINALDO RIBEIRO                       Sim       PP        Paraíba                  129
+CD01O367E 004841 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CD01O367E 004841 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD01O367E 004841 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD01O367E 004841 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD01O367E 004841 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD01O367E 004841 ROMERO RODRIGUES                        Sim       PSDB      Paraíba                  135
+CD01O367E 004841 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD01O367E 004841 WELLINGTON ROBERTO                      Sim       PR        Paraíba                  136
+CD01O367E 004841 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD01O367E 004841 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD01O367E 004841 EDUARDO DA FONTE                        Sim       PP        Pernambuco               156
+CD01O367E 004841 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD01O367E 004841 GONZAGA PATRIOTA                        Sim       PSB       Pernambuco               143
+CD01O367E 004841 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD01O367E 004841 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD01O367E 004841 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD01O367E 004841 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD01O367E 004841 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD01O367E 004841 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD01O367E 004841 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD01O367E 004841 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD01O367E 004841 PAULO RUBEM SANTIAGO                    Sim       PDT       Pernambuco               554
+CD01O367E 004841 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD01O367E 004841 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD01O367E 004841 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CD01O367E 004841 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD01O367E 004841 VILALBA                                 Sim       PRB       Pernambuco               555
+CD01O367E 004841 WOLNEY QUEIROZ                          Sim       PDT       Pernambuco               164
+CD01O367E 004841 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD01O367E 004841 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD01O367E 004841 JOÃO LYRA                               Sim       PSD       Alagoas                  167
+CD01O367E 004841 JOAQUIM BELTRÃO                         Sim       PMDB      Alagoas                  172
+CD01O367E 004841 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD01O367E 004841 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD01O367E 004841 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD01O367E 004841 ALMEIDA LIMA                            Sim       PPS       Sergipe                  173
+CD01O367E 004841 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD01O367E 004841 HELENO SILVA                            Sim       PRB       Sergipe                  175
+CD01O367E 004841 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD01O367E 004841 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD01O367E 004841 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD01O367E 004841 ROGÉRIO CARVALHO                        Sim       PT        Sergipe                  178
+CD01O367E 004841 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD01O367E 004841 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CD01O367E 004841 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD01O367E 004841 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD01O367E 004841 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD01O367E 004841 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD01O367E 004841 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O367E 004841 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD01O367E 004841 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD01O367E 004841 EDSON PIMENTA                           Sim       PSD       Bahia                    193
+CD01O367E 004841 EMILIANO JOSÉ                           Sim       PT        Bahia                    523
+CD01O367E 004841 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD01O367E 004841 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD01O367E 004841 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD01O367E 004841 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD01O367E 004841 JÂNIO NATAL                             Sim       PRP       Bahia                    198
+CD01O367E 004841 JOÃO CARLOS BACELAR                     Sim       PR        Bahia                    187
+CD01O367E 004841 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CD01O367E 004841 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD01O367E 004841 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CD01O367E 004841 JOSEPH BANDEIRA                         Sim       PT        Bahia                    565
+CD01O367E 004841 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD01O367E 004841 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O367E 004841 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD01O367E 004841 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD01O367E 004841 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD01O367E 004841 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD01O367E 004841 MAURÍCIO TRINDADE                       Sim       PR        Bahia                    208
+CD01O367E 004841 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD01O367E 004841 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD01O367E 004841 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CD01O367E 004841 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD01O367E 004841 RUI COSTA                               Sim       PT        Bahia                    216
+CD01O367E 004841 SÉRGIO BARRADAS CARNEIRO                Sim       PT        Bahia                    524
+CD01O367E 004841 SÉRGIO BRITO                            Sim       PSD       Bahia                    213
+CD01O367E 004841 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD01O367E 004841 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD01O367E 004841 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD01O367E 004841 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD01O367E 004841 ARACELY DE PAULA                        Sim       PR        Minas Gerais             223
+CD01O367E 004841 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD01O367E 004841 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CD01O367E 004841 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD01O367E 004841 DIEGO ANDRADE                           Sim       PSD       Minas Gerais             228
+CD01O367E 004841 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD01O367E 004841 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD01O367E 004841 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD01O367E 004841 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD01O367E 004841 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD01O367E 004841 EROS BIONDINI                           Sim       PTB       Minas Gerais             242
+CD01O367E 004841 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD01O367E 004841 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD01O367E 004841 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CD01O367E 004841 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CD01O367E 004841 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD01O367E 004841 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD01O367E 004841 LAEL VARELLA                            Sim       DEM       Minas Gerais             245
+CD01O367E 004841 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD01O367E 004841 LUIS TIBÉ                               Sim       PTdoB     Minas Gerais             251
+CD01O367E 004841 MÁRCIO REINALDO MOREIRA                 Sim       PP        Minas Gerais             247
+CD01O367E 004841 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD01O367E 004841 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD01O367E 004841 MÁRIO DE OLIVEIRA                       Sim       PSC       Minas Gerais             260
+CD01O367E 004841 MAURO LOPES                             Sim       PMDB      Minas Gerais             252
+CD01O367E 004841 MIGUEL CORRÊA                           Sim       PT        Minas Gerais             261
+CD01O367E 004841 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CD01O367E 004841 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD01O367E 004841 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CD01O367E 004841 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD01O367E 004841 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD01O367E 004841 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD01O367E 004841 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD01O367E 004841 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD01O367E 004841 WALTER TOSTA                            Sim       PSD       Minas Gerais             267
+CD01O367E 004841 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD01O367E 004841 ZÉ SILVA                                Sim       PDT       Minas Gerais             271
+CD01O367E 004841 AUDIFAX                                 Sim       PSB       Espírito Santo           274
+CD01O367E 004841 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD01O367E 004841 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD01O367E 004841 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD01O367E 004841 MANATO                                  Sim       PDT       Espírito Santo           275
+CD01O367E 004841 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD01O367E 004841 ALEXANDRE SANTOS                        Sim       PMDB      Rio de Janeiro           285
+CD01O367E 004841 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD01O367E 004841 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD01O367E 004841 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD01O367E 004841 AROLDE DE OLIVEIRA                      Sim       PSD       Rio de Janeiro           288
+CD01O367E 004841 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD01O367E 004841 BRIZOLA NETO                            Sim       PDT       Rio de Janeiro           566
+CD01O367E 004841 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O367E 004841 CHICO D`ANGELO                          Sim       PT        Rio de Janeiro           527
+CD01O367E 004841 DELEY                                   Sim       PSC       Rio de Janeiro           562
+CD01O367E 004841 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD01O367E 004841 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD01O367E 004841 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD01O367E 004841 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD01O367E 004841 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD01O367E 004841 ELIANE ROLIM                            Sim       PT        Rio de Janeiro           538
+CD01O367E 004841 FELIPE BORNIER                          Sim       PSD       Rio de Janeiro           301
+CD01O367E 004841 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD01O367E 004841 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD01O367E 004841 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD01O367E 004841 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD01O367E 004841 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O367E 004841 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD01O367E 004841 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD01O367E 004841 LEONARDO PICCIANI                       Sim       PMDB      Rio de Janeiro           312
+CD01O367E 004841 LILIAM SÁ                               Sim       PSD       Rio de Janeiro           309
+CD01O367E 004841 MARCELO MATOS                           Sim       PDT       Rio de Janeiro           311
+CD01O367E 004841 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD01O367E 004841 NEILTON MULIM                           Sim       PR        Rio de Janeiro           315
+CD01O367E 004841 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD01O367E 004841 PAULO FEIJÓ                             Sim       PR        Rio de Janeiro           577
+CD01O367E 004841 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD01O367E 004841 ROMÁRIO                                 Sim       PSB       Rio de Janeiro           319
+CD01O367E 004841 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD01O367E 004841 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD01O367E 004841 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD01O367E 004841 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD01O367E 004841 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD01O367E 004841 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD01O367E 004841 ABELARDO CAMARINHA                      Sim       PSB       São Paulo                329
+CD01O367E 004841 ALBERTO MOURÃO                          Sim       PSDB      São Paulo                552
+CD01O367E 004841 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD01O367E 004841 ALINE CORRÊA                            Sim       PP        São Paulo                330
+CD01O367E 004841 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD01O367E 004841 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD01O367E 004841 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD01O367E 004841 CARLINHOS ALMEIDA                       Sim       PT        São Paulo                341
+CD01O367E 004841 CARLOS SAMPAIO                          Sim       PSDB      São Paulo                338
+CD01O367E 004841 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD01O367E 004841 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD01O367E 004841 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD01O367E 004841 DIMAS RAMALHO                           Sim       PPS       São Paulo                346
+CD01O367E 004841 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD01O367E 004841 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O367E 004841 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD01O367E 004841 ELEUSES PAIVA                           Sim       PSD       São Paulo                537
+CD01O367E 004841 EMANUEL FERNANDES                       Sim       PSDB      São Paulo                352
+CD01O367E 004841 GABRIEL CHALITA                         Sim       PMDB      São Paulo                347
+CD01O367E 004841 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD01O367E 004841 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD01O367E 004841 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD01O367E 004841 JEFFERSON CAMPOS                        Sim       PSD       São Paulo                349
+CD01O367E 004841 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD01O367E 004841 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD01O367E 004841 JOÃO PAULO CUNHA                        Sim       PT        São Paulo                361
+CD01O367E 004841 JONAS DONIZETTE                         Sim       PSB       São Paulo                353
+CD01O367E 004841 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD01O367E 004841 JOSÉ DE FILIPPI                         Sim       PT        São Paulo                354
+CD01O367E 004841 JOSÉ MENTOR                             Sim       PT        São Paulo                367
+CD01O367E 004841 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD01O367E 004841 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD01O367E 004841 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD01O367E 004841 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD01O367E 004841 MARCELO AGUIAR                          Sim       PSD       São Paulo                370
+CD01O367E 004841 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD01O367E 004841 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD01O367E 004841 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD01O367E 004841 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD01O367E 004841 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD01O367E 004841 PAULO FREIRE                            Sim       PR        São Paulo                380
+CD01O367E 004841 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CD01O367E 004841 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD01O367E 004841 RICARDO BERZOINI                        Sim       PT        São Paulo                390
+CD01O367E 004841 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CD01O367E 004841 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD01O367E 004841 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O367E 004841 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CD01O367E 004841 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CD01O367E 004841 TIRIRICA                                Sim       PR        São Paulo                392
+CD01O367E 004841 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD01O367E 004841 VANDERLEI SIRAQUE                       Sim       PT        São Paulo                581
+CD01O367E 004841 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD01O367E 004841 WALTER IHOSHI                           Sim       PSD       São Paulo                553
+CD01O367E 004841 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD01O367E 004841 CABO JULIANO RABELO                     Sim       PSB       Mato Grosso              584
+CD01O367E 004841 ELIENE LIMA                             Sim       PSD       Mato Grosso              401
+CD01O367E 004841 HOMERO PEREIRA                          Sim       PSD       Mato Grosso              402
+CD01O367E 004841 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD01O367E 004841 NILSON LEITÃO                           Sim       PSDB      Mato Grosso              573
+CD01O367E 004841 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O367E 004841 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD01O367E 004841 IZALCI                                  Sim       PR        Distrito Federal         408
+CD01O367E 004841 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD01O367E 004841 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD01O367E 004841 POLICARPO                               Sim       PT        Distrito Federal         539
+CD01O367E 004841 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O367E 004841 HEULER CRUVINEL                         Sim       PSD       Goiás                    423
+CD01O367E 004841 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD01O367E 004841 JOVAIR ARANTES                          Sim       PTB       Goiás                    419
+CD01O367E 004841 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CD01O367E 004841 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD01O367E 004841 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD01O367E 004841 SANDES JÚNIOR                           Sim       PP        Goiás                    426
+CD01O367E 004841 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD01O367E 004841 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CD01O367E 004841 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD01O367E 004841 GIROTO                                  Sim       PMDB      Mato Grosso do Sul       434
+CD01O367E 004841 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD01O367E 004841 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD01O367E 004841 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD01O367E 004841 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD01O367E 004841 ALEX CANZIANI                           Sim       PTB       Paraná                   445
+CD01O367E 004841 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD01O367E 004841 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD01O367E 004841 ANGELO VANHONI                          Sim       PT        Paraná                   453
+CD01O367E 004841 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD01O367E 004841 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD01O367E 004841 DR. ROSINHA                             Sim       PT        Paraná                   449
+CD01O367E 004841 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD01O367E 004841 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD01O367E 004841 FERNANDO FRANCISCHINI                   Sim       PSDB      Paraná                   450
+CD01O367E 004841 HERMES PARCIANELLO                      Sim       PMDB      Paraná                   448
+CD01O367E 004841 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD01O367E 004841 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD01O367E 004841 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD01O367E 004841 MOACIR MICHELETTO                       Sim       PMDB      Paraná                   462
+CD01O367E 004841 NELSON MEURER                           Sim       PP        Paraná                   458
+CD01O367E 004841 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD01O367E 004841 REINHOLD STEPHANES                      Sim       PSD       Paraná                   467
+CD01O367E 004841 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD01O367E 004841 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD01O367E 004841 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O367E 004841 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD01O367E 004841 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD01O367E 004841 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD01O367E 004841 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD01O367E 004841 JORGE BOEIRA                            Sim       PSD       Santa Catarina           474
+CD01O367E 004841 JORGINHO MELLO                          Sim       PSDB      Santa Catarina           476
+CD01O367E 004841 LUCI CHOINACKI                          Sim       PT        Santa Catarina           477
+CD01O367E 004841 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CD01O367E 004841 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD01O367E 004841 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CD01O367E 004841 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD01O367E 004841 ROMANNA REMOR                           Sim       PMDB      Santa Catarina           582
+CD01O367E 004841 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD01O367E 004841 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD01O367E 004841 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD01O367E 004841 ALEXANDRE ROSO                          Sim       PSB       Rio Grande do Sul        489
+CD01O367E 004841 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD01O367E 004841 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD01O367E 004841 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD01O367E 004841 ELISEU PADILHA                          Sim       PMDB      Rio Grande do Sul        578
+CD01O367E 004841 ENIO BACCI                              Sim       PDT       Rio Grande do Sul        493
+CD01O367E 004841 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD01O367E 004841 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD01O367E 004841 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD01O367E 004841 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD01O367E 004841 MANUELA D`ÁVILA                         Sim       PCdoB     Rio Grande do Sul        494
+CD01O367E 004841 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O367E 004841 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CD01O367E 004841 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD01O367E 004841 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD01O367E 004841 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CD01O367E 004841 PEPE VARGAS                             Sim       PT        Rio Grande do Sul        503
+CD01O367E 004841 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD01O367E 004841 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD01O367E 004841 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD01O367E 004841 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD01O367E 004841 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD01O367E 004841 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD01O367E 004841 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O367E 004841 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O367E 004841 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O367E 004841 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O367E 004841 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O367E 004841 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD01O367E 004841 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD01O367E 004841 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD01O367E 004841 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD01O367E 004841 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD01O367E 004841 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD01O367E 004841 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O367E 004841 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD01O367E 004841 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD01O367E 004841 RONALDO FONSECA                         <-------> PR        Distrito Federal         414
+CD01O367E 004841 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD01O367E 004841 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD01O367E 004841 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD01O367E 004841 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD01O367E 004841 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD01O367E 004841 ÍRIS DE ARAÚJO                          <-------> PMDB      Goiás                    417
+CD01O367E 004841 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD01O367E 004841 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD01O367E 004841 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD01O367E 004841 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O367E 004841 ARMANDO VERGÍLIO                        <-------> PSD       Goiás                    416
+CD01O367E 004841 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD01O367E 004841 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O367E 004841 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O367E 004841 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O367E 004841 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O367E 004841 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD01O367E 004841 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O367E 004841 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD01O367E 004841 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O367E 004841 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD01O367E 004841 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O367E 004841 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O367E 004841 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD01O367E 004841 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD01O367E 004841 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD01O367E 004841 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O367E 004841 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD01O367E 004841 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O367E 004841 ADEMIR CAMILO                           <-------> PSD       Minas Gerais             220
+CD01O367E 004841 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD01O367E 004841 FABIO TRAD                              <-------> PMDB      Mato Grosso do Sul       433
+CD01O367E 004841 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O367E 004841 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O367E 004841 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD01O367E 004841 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD01O367E 004841 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CD01O367E 004841 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O367E 004841 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O367E 004841 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O367E 004841 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD01O367E 004841 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD01O367E 004841 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O367E 004841 RAUL HENRY                              <-------> PMDB      Pernambuco               163
+CD01O367E 004841 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD01O367E 004841 FERNANDO FERRO                          <-------> PT        Pernambuco               141
+CD01O367E 004841 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O367E 004841 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O367E 004841 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD01O367E 004841 NELSON PADOVANI                         <-------> PSC       Paraná                   457
+CD01O367E 004841 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O367E 004841 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD01O367E 004841 DILCEU SPERAFICO                        <-------> PP        Paraná                   444
+CD01O367E 004841 JOÃO ARRUDA                             <-------> PMDB      Paraná                   455
+CD01O367E 004841 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD01O367E 004841 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD01O367E 004841 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CD01O367E 004841 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD01O367E 004841 DR. PAULO CÉSAR                         <-------> PSD       Rio de Janeiro           296
+CD01O367E 004841 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD01O367E 004841 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD01O367E 004841 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O367E 004841 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O367E 004841 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD01O367E 004841 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD01O367E 004841 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD01O367E 004841 BERINHO BANTIM                          <-------> PSDB      Roraima                  1  
+CD01O367E 004841 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O367E 004841 DANRLEI DE DEUS HINTERHOLZ              <-------> PSD       Rio Grande do Sul        495
+CD01O367E 004841 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O367E 004841 FERNANDO MARRONI                        <-------> PT        Rio Grande do Sul        525
+CD01O367E 004841 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O367E 004841 GIOVANI CHERINI                         <-------> PDT       Rio Grande do Sul        502
+CD01O367E 004841 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O367E 004841 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD01O367E 004841 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD01O367E 004841 EDINHO BEZ                              <-------> PMDB      Santa Catarina           470
+CD01O367E 004841 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD01O367E 004841 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD01O367E 004841 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD01O367E 004841 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD01O367E 004841 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O367E 004841 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O367E 004841 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD01O367E 004841 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O367E 004841 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD01O367E 004841 VICENTINHO                              <-------> PT        São Paulo                396
+CD01O367E 004841 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O367E 004841 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O367E 004841 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD01O367E 004841 PENNA                                   <-------> PV        São Paulo                382
+CD01O367E 004841 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O367E 004841 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O367E 004841 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CD01O367E 004841 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 

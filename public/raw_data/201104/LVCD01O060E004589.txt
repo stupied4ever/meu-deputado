@@ -1,0 +1,512 @@
+CD01O060E 004589 BERINHO BANTIM                          Abstenção PSDB      Roraima                  1
+CD01O060E 004589 CHICO DAS VERDURAS                      Sim       PRP       Roraima                  3  
+CD01O060E 004589 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD01O060E 004589 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD01O060E 004589 PAULO CESAR QUARTIERO                   Obstrução DEM       Roraima                  6  
+CD01O060E 004589 TERESA SURITA                           Sim       PMDB      Roraima                  8  
+CD01O060E 004589 DALVA FIGUEIREDO                        Sim       PT        Amapá                    9  
+CD01O060E 004589 DAVI ALCOLUMBRE                         Obstrução DEM       Amapá                    10 
+CD01O060E 004589 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD01O060E 004589 FÁTIMA PELAES                           Sim       PMDB      Amapá                    12 
+CD01O060E 004589 PROFESSORA MARCIVANIA                   Sim       PT        Amapá                    15 
+CD01O060E 004589 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD01O060E 004589 VINICIUS GURGEL                         Sim       PRTB      Amapá                    16 
+CD01O060E 004589 ARNALDO JORDY                           Sim       PPS       Pará                     18 
+CD01O060E 004589 BETO FARO                               Sim       PT        Pará                     19 
+CD01O060E 004589 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD01O060E 004589 DUDIMAR PAXIÚBA                         Obstrução PSDB      Pará                     518
+CD01O060E 004589 ELCIONE BARBALHO                        Sim       PMDB      Pará                     21 
+CD01O060E 004589 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CD01O060E 004589 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD01O060E 004589 LIRA MAIA                               Obstrução DEM       Pará                     28 
+CD01O060E 004589 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD01O060E 004589 LUIZ OTÁVIO                             Sim       PMDB      Pará                     526
+CD01O060E 004589 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD01O060E 004589 WLADIMIR COSTA                          Sim       PMDB      Pará                     23 
+CD01O060E 004589 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CD01O060E 004589 ZEQUINHA MARINHO                        Sim       PSC       Pará                     33 
+CD01O060E 004589 ÁTILA LINS                              Sim       PMDB      Amazonas                 38 
+CD01O060E 004589 CARLOS SOUZA                            Sim       PP        Amazonas                 37 
+CD01O060E 004589 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD01O060E 004589 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD01O060E 004589 PAUDERNEY AVELINO                       Não       DEM       Amazonas                 40 
+CD01O060E 004589 REBECCA GARCIA                          Sim       PP        Amazonas                 42 
+CD01O060E 004589 SABINO CASTELO BRANCO                   Sim       PTB       Amazonas                 43 
+CD01O060E 004589 SILAS CÂMARA                            Sim       PSC       Amazonas                 39 
+CD01O060E 004589 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD01O060E 004589 LINDOMAR GARÇON                         Sim       PV        Rondonia                 45 
+CD01O060E 004589 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD01O060E 004589 MAURO NAZIF                             Sim       PSB       Rondonia                 46 
+CD01O060E 004589 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD01O060E 004589 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD01O060E 004589 PADRE TON                               Sim       PT        Rondonia                 48 
+CD01O060E 004589 ANTÔNIA LÚCIA                           Sim       PSC       Acre                     53 
+CD01O060E 004589 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD01O060E 004589 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD01O060E 004589 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD01O060E 004589 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD01O060E 004589 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD01O060E 004589 AGNOLIN                                 Sim       PDT       Tocantins                61 
+CD01O060E 004589 CÉSAR HALUM                             Sim       PPS       Tocantins                64 
+CD01O060E 004589 IRAJÁ ABREU                             Obstrução DEM       Tocantins                65 
+CD01O060E 004589 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD01O060E 004589 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD01O060E 004589 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD01O060E 004589 PROFESSORA DORINHA SEABRA REZEN         Obstrução DEM       Tocantins                67 
+CD01O060E 004589 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD01O060E 004589 CLEBER VERDE                            Sim       PRB       Maranhão                 70 
+CD01O060E 004589 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CD01O060E 004589 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD01O060E 004589 EDIVALDO HOLANDA JUNIOR                 Sim       PTC       Maranhão                 73 
+CD01O060E 004589 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD01O060E 004589 GASTÃO VIEIRA                           Sim       PMDB      Maranhão                 75 
+CD01O060E 004589 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD01O060E 004589 LUCIANO MOREIRA                         Sim       PMDB      Maranhão                 83 
+CD01O060E 004589 PINTO ITAMARATY                         Obstrução PSDB      Maranhão                 79 
+CD01O060E 004589 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD01O060E 004589 RIBAMAR ALVES                           Sim       PSB       Maranhão                 74 
+CD01O060E 004589 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD01O060E 004589 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD01O060E 004589 ANÍBAL GOMES                            Sim       PMDB      Ceará                    87 
+CD01O060E 004589 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CD01O060E 004589 ARNON BEZERRA                           Sim       PTB       Ceará                    90 
+CD01O060E 004589 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD01O060E 004589 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD01O060E 004589 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CD01O060E 004589 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CD01O060E 004589 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD01O060E 004589 GENECIAS NORONHA                        Sim       PMDB      Ceará                    99 
+CD01O060E 004589 GORETE PEREIRA                          Sim       PR        Ceará                    100
+CD01O060E 004589 JOSÉ AIRTON                             Sim       PT        Ceará                    101
+CD01O060E 004589 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD01O060E 004589 MANOEL SALVIANO                         Obstrução PSDB      Ceará                    104
+CD01O060E 004589 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD01O060E 004589 RAIMUNDÃO                               Sim       PMDB      Ceará                    108
+CD01O060E 004589 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD01O060E 004589 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD01O060E 004589 HUGO NAPOLEÃO                           Obstrução DEM       Piauí                    112
+CD01O060E 004589 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD01O060E 004589 JÚLIO CESAR                             Obstrução DEM       Piauí                    114
+CD01O060E 004589 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD01O060E 004589 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD01O060E 004589 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD01O060E 004589 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CD01O060E 004589 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD01O060E 004589 FELIPE MAIA                             Obstrução DEM       Rio Grande do Norte      120
+CD01O060E 004589 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD01O060E 004589 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD01O060E 004589 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CD01O060E 004589 AGUINALDO RIBEIRO                       Sim       PP        Paraíba                  129
+CD01O060E 004589 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CD01O060E 004589 EFRAIM FILHO                            Obstrução DEM       Paraíba                  128
+CD01O060E 004589 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD01O060E 004589 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD01O060E 004589 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD01O060E 004589 NILDA GONDIM                            Sim       PMDB      Paraíba                  134
+CD01O060E 004589 ROMERO RODRIGUES                        Obstrução PSDB      Paraíba                  135
+CD01O060E 004589 RUY CARNEIRO                            Obstrução PSDB      Paraíba                  137
+CD01O060E 004589 WILSON FILHO                            Sim       PMDB      Paraíba                  139
+CD01O060E 004589 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD01O060E 004589 AUGUSTO COUTINHO                        Obstrução DEM       Pernambuco               144
+CD01O060E 004589 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD01O060E 004589 EDUARDO DA FONTE                        Não       PP        Pernambuco               156
+CD01O060E 004589 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD01O060E 004589 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD01O060E 004589 INOCÊNCIO OLIVEIRA                      Art. 17   PR        Pernambuco               145
+CD01O060E 004589 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD01O060E 004589 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD01O060E 004589 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD01O060E 004589 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD01O060E 004589 MENDONÇA FILHO                          Não       DEM       Pernambuco               154
+CD01O060E 004589 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD01O060E 004589 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD01O060E 004589 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD01O060E 004589 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD01O060E 004589 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD01O060E 004589 WOLNEY QUEIROZ                          Sim       PDT       Pernambuco               164
+CD01O060E 004589 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD01O060E 004589 GIVALDO CARIMBÃO                        Sim       PSB       Alagoas                  166
+CD01O060E 004589 JOAQUIM BELTRÃO                         Sim       PMDB      Alagoas                  172
+CD01O060E 004589 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD01O060E 004589 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD01O060E 004589 RUI PALMEIRA                            Obstrução PSDB      Alagoas                  171
+CD01O060E 004589 ALMEIDA LIMA                            Sim       PMDB      Sergipe                  173
+CD01O060E 004589 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD01O060E 004589 HELENO SILVA                            Sim       PRB       Sergipe                  175
+CD01O060E 004589 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD01O060E 004589 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD01O060E 004589 MENDONÇA PRADO                          Obstrução DEM       Sergipe                  179
+CD01O060E 004589 ROGERIO CARVALHO                        Sim       PT        Sergipe                  178
+CD01O060E 004589 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD01O060E 004589 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CD01O060E 004589 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD01O060E 004589 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD01O060E 004589 ANTONIO CARLOS MAGALHÃES NETO           Obstrução DEM       Bahia                    181
+CD01O060E 004589 ANTONIO IMBASSAHY                       Não       PSDB      Bahia                    191
+CD01O060E 004589 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD01O060E 004589 EDSON PIMENTA                           Sim       PCdoB     Bahia                    193
+CD01O060E 004589 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD01O060E 004589 FELIX JÚNIOR                            Não       PDT       Bahia                    195
+CD01O060E 004589 FERNANDO TORRES                         Sim       DEM       Bahia                    196
+CD01O060E 004589 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD01O060E 004589 JOÃO CARLOS BACELAR                     Sim       PR        Bahia                    187
+CD01O060E 004589 JOSÉ CARLOS ARAÚJO                      Sim       PDT       Bahia                    197
+CD01O060E 004589 JOSÉ NUNES                              Obstrução DEM       Bahia                    201
+CD01O060E 004589 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CD01O060E 004589 JOSEPH BANDEIRA                         Sim       PT        Bahia                    565
+CD01O060E 004589 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD01O060E 004589 JUTAHY JUNIOR                           Não       PSDB      Bahia                    206
+CD01O060E 004589 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD01O060E 004589 LUIZ ARGÔLO                             Sim       PP        Bahia                    207
+CD01O060E 004589 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD01O060E 004589 MAURÍCIO TRINDADE                       Sim       PR        Bahia                    208
+CD01O060E 004589 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD01O060E 004589 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD01O060E 004589 PAULO MAGALHÃES                         Sim       DEM       Bahia                    214
+CD01O060E 004589 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD01O060E 004589 RUI COSTA                               Sim       PT        Bahia                    216
+CD01O060E 004589 SÉRGIO BARRADAS CARNEIRO                Sim       PT        Bahia                    524
+CD01O060E 004589 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD01O060E 004589 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD01O060E 004589 ADEMIR CAMILO                           Sim       PDT       Minas Gerais             220
+CD01O060E 004589 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CD01O060E 004589 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD01O060E 004589 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD01O060E 004589 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD01O060E 004589 BONIFÁCIO DE ANDRADA                    Não       PSDB      Minas Gerais             534
+CD01O060E 004589 CARLAILE PEDROSA                        Obstrução PSDB      Minas Gerais             222
+CD01O060E 004589 DIEGO ANDRADE                           Sim       PR        Minas Gerais             228
+CD01O060E 004589 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD01O060E 004589 DOMINGOS SÁVIO                          Obstrução PSDB      Minas Gerais             233
+CD01O060E 004589 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD01O060E 004589 EDUARDO BARBOSA                         Obstrução PSDB      Minas Gerais             230
+CD01O060E 004589 EROS BIONDINI                           Sim       PTB       Minas Gerais             242
+CD01O060E 004589 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD01O060E 004589 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD01O060E 004589 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD01O060E 004589 GERALDO THADEU                          Sim       PPS       Minas Gerais             236
+CD01O060E 004589 GILMAR MACHADO                          Sim       PT        Minas Gerais             234
+CD01O060E 004589 JAIRO ATAIDE                            Obstrução DEM       Minas Gerais             533
+CD01O060E 004589 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD01O060E 004589 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD01O060E 004589 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD01O060E 004589 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD01O060E 004589 LAEL VARELLA                            Sim       DEM       Minas Gerais             245
+CD01O060E 004589 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CD01O060E 004589 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD01O060E 004589 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD01O060E 004589 LUIS TIBÉ                               Sim       PTdoB     Minas Gerais             251
+CD01O060E 004589 MÁRCIO REINALDO MOREIRA                 Sim       PP        Minas Gerais             247
+CD01O060E 004589 MARCUS PESTANA                          Obstrução PSDB      Minas Gerais             254
+CD01O060E 004589 MAURO LOPES                             Sim       PMDB      Minas Gerais             252
+CD01O060E 004589 MIGUEL CORRÊA                           Sim       PT        Minas Gerais             261
+CD01O060E 004589 NEWTON CARDOSO                          Sim       PMDB      Minas Gerais             258
+CD01O060E 004589 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CD01O060E 004589 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD01O060E 004589 PAULO ABI-ACKEL                         Obstrução PSDB      Minas Gerais             263
+CD01O060E 004589 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CD01O060E 004589 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD01O060E 004589 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD01O060E 004589 STEFANO AGUIAR                          Sim       PSC       Minas Gerais             558
+CD01O060E 004589 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD01O060E 004589 WALTER TOSTA                            Sim       PMN       Minas Gerais             267
+CD01O060E 004589 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD01O060E 004589 ZÉ SILVA                                Sim       PDT       Minas Gerais             271
+CD01O060E 004589 AUDIFAX                                 Sim       PSB       Espírito Santo           274
+CD01O060E 004589 CAMILO COLA                             Sim       PMDB      Espírito Santo           543
+CD01O060E 004589 CESAR COLNAGO                           Obstrução PSDB      Espírito Santo           276
+CD01O060E 004589 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD01O060E 004589 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD01O060E 004589 MANATO                                  Sim       PDT       Espírito Santo           275
+CD01O060E 004589 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD01O060E 004589 ROSE DE FREITAS                         Sim       PMDB      Espírito Santo           282
+CD01O060E 004589 SUELI VIDIGAL                           Sim       PDT       Espírito Santo           281
+CD01O060E 004589 ADRIAN                                  Sim       PMDB      Rio de Janeiro           286
+CD01O060E 004589 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD01O060E 004589 ALEXANDRE SANTOS                        Sim       PMDB      Rio de Janeiro           285
+CD01O060E 004589 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD01O060E 004589 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD01O060E 004589 AROLDE DE OLIVEIRA                      Obstrução DEM       Rio de Janeiro           288
+CD01O060E 004589 AUREO                                   Sim       PRTB      Rio de Janeiro           290
+CD01O060E 004589 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD01O060E 004589 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O060E 004589 CHICO D`ANGELO                          Sim       PT        Rio de Janeiro           527
+CD01O060E 004589 CRISTIANO                               Sim       PTdoB     Rio de Janeiro           292
+CD01O060E 004589 DELEY                                   Sim       PSC       Rio de Janeiro           562
+CD01O060E 004589 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD01O060E 004589 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD01O060E 004589 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD01O060E 004589 DR. PAULO CÉSAR                         Sim       PR        Rio de Janeiro           296
+CD01O060E 004589 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD01O060E 004589 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD01O060E 004589 ELIANE ROLIM                            Sim       PT        Rio de Janeiro           538
+CD01O060E 004589 FELIPE BORNIER                          Sim       PHS       Rio de Janeiro           301
+CD01O060E 004589 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD01O060E 004589 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD01O060E 004589 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD01O060E 004589 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD01O060E 004589 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD01O060E 004589 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD01O060E 004589 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD01O060E 004589 LILIAM SÁ                               Sim       PR        Rio de Janeiro           309
+CD01O060E 004589 MARCELO MATOS                           Sim       PDT       Rio de Janeiro           311
+CD01O060E 004589 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD01O060E 004589 NELSON BORNIER                          Sim       PMDB      Rio de Janeiro           549
+CD01O060E 004589 OTAVIO LEITE                            Obstrução PSDB      Rio de Janeiro           316
+CD01O060E 004589 ROMÁRIO                                 Sim       PSB       Rio de Janeiro           319
+CD01O060E 004589 SOLANGE ALMEIDA                         Sim       PMDB      Rio de Janeiro           563
+CD01O060E 004589 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD01O060E 004589 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD01O060E 004589 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD01O060E 004589 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD01O060E 004589 ABELARDO CAMARINHA                      Sim       PSB       São Paulo                329
+CD01O060E 004589 ALDO REBELO                             Sim       PCdoB     São Paulo                331
+CD01O060E 004589 ALEXANDRE LEITE                         Obstrução DEM       São Paulo                334
+CD01O060E 004589 ALINE CORRÊA                            Sim       PP        São Paulo                330
+CD01O060E 004589 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD01O060E 004589 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD01O060E 004589 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD01O060E 004589 ARNALDO JARDIM                          Não       PPS       São Paulo                339
+CD01O060E 004589 BETO MANSUR                             Não       PP        São Paulo                340
+CD01O060E 004589 BRUNA FURLAN                            Obstrução PSDB      São Paulo                335
+CD01O060E 004589 CÂNDIDO VACCAREZZA                      Sim       PT        São Paulo                389
+CD01O060E 004589 CARLINHOS ALMEIDA                       Sim       PT        São Paulo                341
+CD01O060E 004589 CARLOS SAMPAIO                          Não       PSDB      São Paulo                338
+CD01O060E 004589 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD01O060E 004589 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD01O060E 004589 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD01O060E 004589 DIMAS RAMALHO                           Sim       PPS       São Paulo                346
+CD01O060E 004589 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD01O060E 004589 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD01O060E 004589 ELEUSES PAIVA                           Obstrução DEM       São Paulo                537
+CD01O060E 004589 ELI CORREA FILHO                        Obstrução DEM       São Paulo                345
+CD01O060E 004589 GABRIEL CHALITA                         Sim       PSB       São Paulo                347
+CD01O060E 004589 GUILHERME MUSSI                         Sim       PV        São Paulo                348
+CD01O060E 004589 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD01O060E 004589 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD01O060E 004589 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD01O060E 004589 JONAS DONIZETTE                         Sim       PSB       São Paulo                353
+CD01O060E 004589 JORGE TADEU MUDALEN                     Obstrução DEM       São Paulo                363
+CD01O060E 004589 JOSÉ DE FILIPPI                         Sim       PT        São Paulo                354
+CD01O060E 004589 JOSÉ MENTOR                             Sim       PT        São Paulo                367
+CD01O060E 004589 JUNJI ABE                               Obstrução DEM       São Paulo                355
+CD01O060E 004589 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD01O060E 004589 LUIZ FERNANDO MACHADO                   Obstrução PSDB      São Paulo                365
+CD01O060E 004589 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD01O060E 004589 MARA GABRILLI                           Obstrução PSDB      São Paulo                366
+CD01O060E 004589 MARCELO AGUIAR                          Sim       PSC       São Paulo                370
+CD01O060E 004589 MILTON MONTI                            Sim       PR        São Paulo                374
+CD01O060E 004589 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD01O060E 004589 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD01O060E 004589 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD01O060E 004589 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD01O060E 004589 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD01O060E 004589 PAULO FREIRE                            Sim       PR        São Paulo                380
+CD01O060E 004589 PAULO MALUF                             Não       PP        São Paulo                373
+CD01O060E 004589 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CD01O060E 004589 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD01O060E 004589 PENNA                                   Não       PV        São Paulo                382
+CD01O060E 004589 RICARDO BERZOINI                        Sim       PT        São Paulo                390
+CD01O060E 004589 RICARDO IZAR                            Sim       PV        São Paulo                383
+CD01O060E 004589 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O060E 004589 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CD01O060E 004589 ROBERTO SANTIAGO                        Sim       PV        São Paulo                386
+CD01O060E 004589 RODRIGO GARCIA                          Obstrução DEM       São Paulo                388
+CD01O060E 004589 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CD01O060E 004589 TIRIRICA                                Sim       PR        São Paulo                392
+CD01O060E 004589 VAZ DE LIMA                             Não       PSDB      São Paulo                394
+CD01O060E 004589 VICENTINHO                              Sim       PT        São Paulo                396
+CD01O060E 004589 WALTER IHOSHI                           Obstrução DEM       São Paulo                553
+CD01O060E 004589 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD01O060E 004589 HOMERO PEREIRA                          Sim       PR        Mato Grosso              402
+CD01O060E 004589 JÚLIO CAMPOS                            Obstrução DEM       Mato Grosso              399
+CD01O060E 004589 NERI GELLER                             Sim       PP        Mato Grosso              520
+CD01O060E 004589 ROBERTO DORNER                          Sim       PP        Mato Grosso              519
+CD01O060E 004589 SÁGUAS MORAES                           Sim       PT        Mato Grosso              405
+CD01O060E 004589 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD01O060E 004589 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD01O060E 004589 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD01O060E 004589 IZALCI                                  Sim       PR        Distrito Federal         408
+CD01O060E 004589 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD01O060E 004589 POLICARPO                               Sim       PT        Distrito Federal         539
+CD01O060E 004589 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD01O060E 004589 RICARDO QUIRINO                         Sim       PRB       Distrito Federal         551
+CD01O060E 004589 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD01O060E 004589 DELEGADO WALDIR                         Não       PSDB      Goiás                    559
+CD01O060E 004589 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD01O060E 004589 HEULER CRUVINEL                         Obstrução DEM       Goiás                    423
+CD01O060E 004589 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD01O060E 004589 JORGE PINHEIRO                          Sim       PRB       Goiás                    548
+CD01O060E 004589 JOVAIR ARANTES                          Sim       PTB       Goiás                    419
+CD01O060E 004589 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CD01O060E 004589 MARINA SANTANNA                         Sim       PT        Goiás                    564
+CD01O060E 004589 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD01O060E 004589 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD01O060E 004589 RONALDO CAIADO                          Obstrução DEM       Goiás                    429
+CD01O060E 004589 RUBENS OTONI                            Sim       PT        Goiás                    425
+CD01O060E 004589 VALDIVINO DE OLIVEIRA                   Não       PSDB      Goiás                    547
+CD01O060E 004589 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CD01O060E 004589 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD01O060E 004589 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD01O060E 004589 GIROTO                                  Sim       PR        Mato Grosso do Sul       434
+CD01O060E 004589 MANDETTA                                Obstrução DEM       Mato Grosso do Sul       436
+CD01O060E 004589 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD01O060E 004589 ALEX CANZIANI                           Sim       PTB       Paraná                   445
+CD01O060E 004589 ALFREDO KAEFER                          Obstrução PSDB      Paraná                   451
+CD01O060E 004589 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD01O060E 004589 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD01O060E 004589 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD01O060E 004589 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD01O060E 004589 DR. ROSINHA                             Sim       PT        Paraná                   449
+CD01O060E 004589 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD01O060E 004589 EDUARDO SCIARRA                         Obstrução DEM       Paraná                   461
+CD01O060E 004589 FERNANDO FRANCISCHINI                   Obstrução PSDB      Paraná                   450
+CD01O060E 004589 GIACOBO                                 Sim       PR        Paraná                   466
+CD01O060E 004589 HERMES PARCIANELLO                      Sim       PMDB      Paraná                   448
+CD01O060E 004589 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD01O060E 004589 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD01O060E 004589 LUIZ CARLOS SETIM                       Obstrução DEM       Paraná                   535
+CD01O060E 004589 LUIZ NISHIMORI                          Obstrução PSDB      Paraná                   542
+CD01O060E 004589 MOACIR MICHELETTO                       Sim       PMDB      Paraná                   462
+CD01O060E 004589 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD01O060E 004589 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD01O060E 004589 REINHOLD STEPHANES                      Sim       PMDB      Paraná                   467
+CD01O060E 004589 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD01O060E 004589 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD01O060E 004589 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O060E 004589 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD01O060E 004589 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CD01O060E 004589 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD01O060E 004589 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD01O060E 004589 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD01O060E 004589 ESPERIDIÃO AMIN                         Abstenção PP        Santa Catarina           471
+CD01O060E 004589 JORGE BOEIRA                            Sim       PT        Santa Catarina           474
+CD01O060E 004589 LUCI CHOINACKI                          Sim       PT        Santa Catarina           477
+CD01O060E 004589 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CD01O060E 004589 ONOFRE SANTO AGOSTINI                   Obstrução DEM       Santa Catarina           479
+CD01O060E 004589 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD01O060E 004589 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD01O060E 004589 ZONTA                                   Sim       PP        Santa Catarina           485
+CD01O060E 004589 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD01O060E 004589 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD01O060E 004589 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD01O060E 004589 DANRLEI DE DEUS HINTERHOLZ              Sim       PTB       Rio Grande do Sul        495
+CD01O060E 004589 DARCÍSIO PERONDI                        Abstenção PMDB      Rio Grande do Sul        491
+CD01O060E 004589 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD01O060E 004589 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD01O060E 004589 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD01O060E 004589 JOSE STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD01O060E 004589 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O060E 004589 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD01O060E 004589 MANUELA D`ÁVILA                         Sim       PCdoB     Rio Grande do Sul        494
+CD01O060E 004589 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O060E 004589 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CD01O060E 004589 MENDES RIBEIRO FILHO                    Sim       PMDB      Rio Grande do Sul        504
+CD01O060E 004589 ONYX LORENZONI                          Não       DEM       Rio Grande do Sul        510
+CD01O060E 004589 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD01O060E 004589 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CD01O060E 004589 PEPE VARGAS                             Sim       PT        Rio Grande do Sul        503
+CD01O060E 004589 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD01O060E 004589 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD01O060E 004589 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD01O060E 004589 SÉRGIO MORAES                           Sim       PTB       Rio Grande do Sul        512
+CD01O060E 004589 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD01O060E 004589 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O060E 004589 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD01O060E 004589 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O060E 004589 JOÃO LYRA                               <-------> PTB       Alagoas                  167
+CD01O060E 004589 ARTHUR LIRA                             <-------> PP        Alagoas                  162
+CD01O060E 004589 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O060E 004589 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD01O060E 004589 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD01O060E 004589 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD01O060E 004589 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD01O060E 004589 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD01O060E 004589 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD01O060E 004589 SÉRGIO BRITO                            <-------> PSC       Bahia                    213
+CD01O060E 004589 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD01O060E 004589 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD01O060E 004589 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD01O060E 004589 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD01O060E 004589 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O060E 004589 ARIOSTO HOLANDA                         <-------> PSB       Ceará                    92 
+CD01O060E 004589 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD01O060E 004589 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD01O060E 004589 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O060E 004589 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O060E 004589 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O060E 004589 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O060E 004589 HÉLIO SANTOS                            <-------> PSDB      Maranhão                 76 
+CD01O060E 004589 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD01O060E 004589 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O060E 004589 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O060E 004589 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O060E 004589 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O060E 004589 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O060E 004589 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O060E 004589 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O060E 004589 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD01O060E 004589 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O060E 004589 MARCOS MONTES                           <-------> DEM       Minas Gerais             257
+CD01O060E 004589 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O060E 004589 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD01O060E 004589 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O060E 004589 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD01O060E 004589 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O060E 004589 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O060E 004589 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O060E 004589 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O060E 004589 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD01O060E 004589 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD01O060E 004589 VILALBA                                 <-------> PRB       Pernambuco               555
+CD01O060E 004589 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O060E 004589 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O060E 004589 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD01O060E 004589 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O060E 004589 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O060E 004589 ANA ARRAES                              <-------> PSB       Pernambuco               140
+CD01O060E 004589 JESUS RODRIGUES                         <-------> PT        Piauí                    115
+CD01O060E 004589 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD01O060E 004589 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O060E 004589 ASSIS DO COUTO                          <-------> PT        Paraná                   443
+CD01O060E 004589 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD01O060E 004589 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O060E 004589 NELSON MEURER                           <-------> PP        Paraná                   458
+CD01O060E 004589 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD01O060E 004589 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD01O060E 004589 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD01O060E 004589 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD01O060E 004589 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O060E 004589 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O060E 004589 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD01O060E 004589 NEILTON MULIM                           <-------> PR        Rio de Janeiro           315
+CD01O060E 004589 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O060E 004589 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O060E 004589 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O060E 004589 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O060E 004589 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD01O060E 004589 RAUL LIMA                               <-------> PP        Roraima                  7  
+CD01O060E 004589 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O060E 004589 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD01O060E 004589 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O060E 004589 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O060E 004589 GIOVANI CHERINI                         <-------> PDT       Rio Grande do Sul        502
+CD01O060E 004589 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD01O060E 004589 BOHN GASS                               <-------> PT        Rio Grande do Sul        499
+CD01O060E 004589 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O060E 004589 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O060E 004589 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD01O060E 004589 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD01O060E 004589 JEFFERSON CAMPOS                        <-------> PSB       São Paulo                349
+CD01O060E 004589 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD01O060E 004589 GUILHERME CAMPOS                        <-------> DEM       São Paulo                357
+CD01O060E 004589 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O060E 004589 JOÃO DADO                               <-------> PDT       São Paulo                362
+CD01O060E 004589 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD01O060E 004589 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD01O060E 004589 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O060E 004589 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O060E 004589 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O060E 004589 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD01O060E 004589 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O060E 004589 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 

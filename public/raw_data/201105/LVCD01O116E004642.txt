@@ -1,0 +1,513 @@
+CD01O116E 004642 BERINHO BANTIM                          Obstrução PSDB      Roraima                  1
+CD01O116E 004642 DR. FRANCISCO ARAÚJO                    Não       PSL       Roraima                  570
+CD01O116E 004642 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD01O116E 004642 PAULO CESAR QUARTIERO                   Obstrução DEM       Roraima                  6  
+CD01O116E 004642 RAUL LIMA                               Não       PP        Roraima                  7  
+CD01O116E 004642 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD01O116E 004642 FÁTIMA PELAES                           Não       PMDB      Amapá                    12 
+CD01O116E 004642 PROFESSORA MARCIVANIA                   Não       PT        Amapá                    15 
+CD01O116E 004642 SEBASTIÃO BALA ROCHA                    Obstrução PDT       Amapá                    17 
+CD01O116E 004642 BETO FARO                               Não       PT        Pará                     19 
+CD01O116E 004642 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD01O116E 004642 DUDIMAR PAXIÚBA                         Obstrução PSDB      Pará                     518
+CD01O116E 004642 GIOVANNI QUEIROZ                        Não       PDT       Pará                     27 
+CD01O116E 004642 LIRA MAIA                               Obstrução DEM       Pará                     28 
+CD01O116E 004642 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O116E 004642 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O116E 004642 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD01O116E 004642 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD01O116E 004642 CARLOS SOUZA                            Não       PP        Amazonas                 37 
+CD01O116E 004642 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD01O116E 004642 REBECCA GARCIA                          Não       PP        Amazonas                 42 
+CD01O116E 004642 SABINO CASTELO BRANCO                   Não       PTB       Amazonas                 43 
+CD01O116E 004642 SILAS CÂMARA                            Não       PSC       Amazonas                 39 
+CD01O116E 004642 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD01O116E 004642 NILTON CAPIXABA                         Não       PTB       Rondonia                 47 
+CD01O116E 004642 PADRE TON                               Não       PT        Rondonia                 48 
+CD01O116E 004642 ANTÔNIA LÚCIA                           Não       PSC       Acre                     53 
+CD01O116E 004642 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD01O116E 004642 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD01O116E 004642 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD01O116E 004642 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD01O116E 004642 CÉSAR HALUM                             Não       PPS       Tocantins                64 
+CD01O116E 004642 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD01O116E 004642 LAUREZ MOREIRA                          Não       PSB       Tocantins                62 
+CD01O116E 004642 LÁZARO BOTELHO                          Não       PP        Tocantins                63 
+CD01O116E 004642 PROFESSORA DORINHA SEABRA REZEN         Obstrução DEM       Tocantins                67 
+CD01O116E 004642 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O116E 004642 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD01O116E 004642 FRANCISCO ESCÓRCIO                      Não       PMDB      Maranhão                 567
+CD01O116E 004642 GASTÃO VIEIRA                           Não       PMDB      Maranhão                 75 
+CD01O116E 004642 HÉLIO SANTOS                            Obstrução PSDB      Maranhão                 76 
+CD01O116E 004642 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O116E 004642 LUCIANO MOREIRA                         Não       PMDB      Maranhão                 83 
+CD01O116E 004642 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD01O116E 004642 RIBAMAR ALVES                           Não       PSB       Maranhão                 74 
+CD01O116E 004642 SARNEY FILHO                            Não       PV        Maranhão                 85 
+CD01O116E 004642 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD01O116E 004642 ZÉ VIEIRA                               Não       PR        Maranhão                 86 
+CD01O116E 004642 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O116E 004642 ANÍBAL GOMES                            Não       PMDB      Ceará                    87 
+CD01O116E 004642 ANTONIO BALHMANN                        Não       PSB       Ceará                    93 
+CD01O116E 004642 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD01O116E 004642 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD01O116E 004642 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD01O116E 004642 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD01O116E 004642 DOMINGOS NETO                           Não       PSB       Ceará                    97 
+CD01O116E 004642 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD01O116E 004642 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD01O116E 004642 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O116E 004642 MAURO BENEVIDES                         Não       PMDB      Ceará                    105
+CD01O116E 004642 RAIMUNDÃO                               Não       PMDB      Ceará                    108
+CD01O116E 004642 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD01O116E 004642 HUGO NAPOLEÃO                           Obstrução DEM       Piauí                    112
+CD01O116E 004642 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O116E 004642 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD01O116E 004642 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD01O116E 004642 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD01O116E 004642 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD01O116E 004642 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD01O116E 004642 PAES LANDIM                             Não       PTB       Piauí                    118
+CD01O116E 004642 FÁTIMA BEZERRA                          Não       PT        Rio Grande do Norte      121
+CD01O116E 004642 ROGÉRIO MARINHO                         Obstrução PSDB      Rio Grande do Norte      540
+CD01O116E 004642 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD01O116E 004642 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD01O116E 004642 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O116E 004642 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD01O116E 004642 ANA ARRAES                              Não       PSB       Pernambuco               140
+CD01O116E 004642 AUGUSTO COUTINHO                        Obstrução DEM       Pernambuco               144
+CD01O116E 004642 BRUNO ARAÚJO                            Obstrução PSDB      Pernambuco               146
+CD01O116E 004642 CARLOS EDUARDO CADOCA                   Não       PSC       Pernambuco               152
+CD01O116E 004642 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD01O116E 004642 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD01O116E 004642 GONZAGA PATRIOTA                        Não       PSB       Pernambuco               143
+CD01O116E 004642 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD01O116E 004642 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD01O116E 004642 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD01O116E 004642 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD01O116E 004642 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD01O116E 004642 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD01O116E 004642 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD01O116E 004642 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD01O116E 004642 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD01O116E 004642 VILALBA                                 Não       PRB       Pernambuco               555
+CD01O116E 004642 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD01O116E 004642 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD01O116E 004642 GIVALDO CARIMBÃO                        Não       PSB       Alagoas                  166
+CD01O116E 004642 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD01O116E 004642 MAURÍCIO QUINTELLA LESSA                Não       PR        Alagoas                  168
+CD01O116E 004642 HELENO SILVA                            Não       PRB       Sergipe                  175
+CD01O116E 004642 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD01O116E 004642 ROGERIO CARVALHO                        Não       PT        Sergipe                  178
+CD01O116E 004642 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD01O116E 004642 ACELINO POPÓ                            Não       PRB       Bahia                    522
+CD01O116E 004642 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD01O116E 004642 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O116E 004642 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD01O116E 004642 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD01O116E 004642 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD01O116E 004642 EMILIANO JOSÉ                           Não       PT        Bahia                    523
+CD01O116E 004642 FÁBIO SOUTO                             Não       DEM       Bahia                    190
+CD01O116E 004642 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD01O116E 004642 FERNANDO TORRES                         Não       DEM       Bahia                    196
+CD01O116E 004642 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O116E 004642 JÂNIO NATAL                             Não       PRP       Bahia                    198
+CD01O116E 004642 JOÃO CARLOS BACELAR                     Não       PR        Bahia                    187
+CD01O116E 004642 JOSÉ CARLOS ARAÚJO                      Não       PDT       Bahia                    197
+CD01O116E 004642 JOSÉ ROCHA                              Não       PR        Bahia                    203
+CD01O116E 004642 JOSEPH BANDEIRA                         Não       PT        Bahia                    565
+CD01O116E 004642 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD01O116E 004642 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD01O116E 004642 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD01O116E 004642 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD01O116E 004642 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD01O116E 004642 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD01O116E 004642 PAULO MAGALHÃES                         Não       DEM       Bahia                    214
+CD01O116E 004642 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O116E 004642 RUI COSTA                               Não       PT        Bahia                    216
+CD01O116E 004642 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O116E 004642 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD01O116E 004642 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O116E 004642 ADEMIR CAMILO                           Não       PDT       Minas Gerais             220
+CD01O116E 004642 ANTÔNIO ANDRADE                         Obstrução PMDB      Minas Gerais             227
+CD01O116E 004642 ANTÔNIO ROBERTO                         Não       PV        Minas Gerais             229
+CD01O116E 004642 ARACELY DE PAULA                        Não       PR        Minas Gerais             223
+CD01O116E 004642 BERNARDO SANTANA DE VASCONCELLO         Não       PR        Minas Gerais             221
+CD01O116E 004642 DIEGO ANDRADE                           Não       PR        Minas Gerais             228
+CD01O116E 004642 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O116E 004642 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD01O116E 004642 EDUARDO AZEREDO                         Obstrução PSDB      Minas Gerais             237
+CD01O116E 004642 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD01O116E 004642 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD01O116E 004642 GEORGE HILTON                           Não       PRB       Minas Gerais             241
+CD01O116E 004642 GERALDO THADEU                          Não       PPS       Minas Gerais             236
+CD01O116E 004642 GILMAR MACHADO                          Não       PT        Minas Gerais             234
+CD01O116E 004642 JAIME MARTINS                           Não       PR        Minas Gerais             240
+CD01O116E 004642 JAIRO ATAIDE                            Obstrução DEM       Minas Gerais             533
+CD01O116E 004642 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD01O116E 004642 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD01O116E 004642 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O116E 004642 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD01O116E 004642 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD01O116E 004642 LUIS TIBÉ                               Não       PTdoB     Minas Gerais             251
+CD01O116E 004642 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD01O116E 004642 MIGUEL CORRÊA                           Não       PT        Minas Gerais             261
+CD01O116E 004642 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O116E 004642 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD01O116E 004642 PAULO PIAU                              Não       PMDB      Minas Gerais             266
+CD01O116E 004642 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD01O116E 004642 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD01O116E 004642 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD01O116E 004642 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O116E 004642 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD01O116E 004642 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O116E 004642 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD01O116E 004642 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD01O116E 004642 LAURIETE                                Não       PSC       Espírito Santo           279
+CD01O116E 004642 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O116E 004642 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD01O116E 004642 ROSE DE FREITAS                         Art. 17   PMDB      Espírito Santo           282
+CD01O116E 004642 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD01O116E 004642 ADRIAN                                  Não       PMDB      Rio de Janeiro           286
+CD01O116E 004642 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD01O116E 004642 ALFREDO SIRKIS                          Abstenção PV        Rio de Janeiro           321
+CD01O116E 004642 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD01O116E 004642 CHICO ALENCAR                           Não       PSOL      Rio de Janeiro           295
+CD01O116E 004642 CRISTIANO                               Não       PTdoB     Rio de Janeiro           292
+CD01O116E 004642 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD01O116E 004642 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CD01O116E 004642 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O116E 004642 DR. PAULO CÉSAR                         Não       PR        Rio de Janeiro           296
+CD01O116E 004642 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD01O116E 004642 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD01O116E 004642 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD01O116E 004642 FELIPE BORNIER                          Não       PHS       Rio de Janeiro           301
+CD01O116E 004642 FERNANDO JORDÃO                         Não       PMDB      Rio de Janeiro           557
+CD01O116E 004642 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD01O116E 004642 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD01O116E 004642 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD01O116E 004642 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD01O116E 004642 JEAN WYLLYS                             Não       PSOL      Rio de Janeiro           307
+CD01O116E 004642 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD01O116E 004642 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD01O116E 004642 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O116E 004642 NELSON BORNIER                          Não       PMDB      Rio de Janeiro           549
+CD01O116E 004642 OTAVIO LEITE                            Obstrução PSDB      Rio de Janeiro           316
+CD01O116E 004642 RODRIGO MAIA                            Obstrução DEM       Rio de Janeiro           322
+CD01O116E 004642 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD01O116E 004642 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD01O116E 004642 SOLANGE ALMEIDA                         Não       PMDB      Rio de Janeiro           563
+CD01O116E 004642 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O116E 004642 WALNEY ROCHA                            Obstrução PTB       Rio de Janeiro           325
+CD01O116E 004642 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD01O116E 004642 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD01O116E 004642 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD01O116E 004642 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD01O116E 004642 ARNALDO JARDIM                          Não       PPS       São Paulo                339
+CD01O116E 004642 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD01O116E 004642 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD01O116E 004642 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD01O116E 004642 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD01O116E 004642 DIMAS RAMALHO                           Obstrução PPS       São Paulo                346
+CD01O116E 004642 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD01O116E 004642 ELEUSES PAIVA                           Obstrução DEM       São Paulo                537
+CD01O116E 004642 GABRIEL CHALITA                         Não       PSB       São Paulo                347
+CD01O116E 004642 GUILHERME CAMPOS                        Obstrução DEM       São Paulo                357
+CD01O116E 004642 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD01O116E 004642 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD01O116E 004642 JOÃO DADO                               Não       PDT       São Paulo                362
+CD01O116E 004642 JOÃO PAULO CUNHA                        Não       PT        São Paulo                361
+CD01O116E 004642 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD01O116E 004642 JOSÉ DE FILIPPI                         Não       PT        São Paulo                354
+CD01O116E 004642 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD01O116E 004642 JUNJI ABE                               Não       DEM       São Paulo                355
+CD01O116E 004642 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O116E 004642 LUIZ FERNANDO MACHADO                   Obstrução PSDB      São Paulo                365
+CD01O116E 004642 LUIZA ERUNDINA                          Abstenção PSB       São Paulo                371
+CD01O116E 004642 MARA GABRILLI                           Obstrução PSDB      São Paulo                366
+CD01O116E 004642 MARCELO AGUIAR                          Não       PSC       São Paulo                370
+CD01O116E 004642 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD01O116E 004642 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD01O116E 004642 NEWTON LIMA                             Não       PT        São Paulo                377
+CD01O116E 004642 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O116E 004642 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD01O116E 004642 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O116E 004642 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD01O116E 004642 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD01O116E 004642 RICARDO IZAR                            Não       PV        São Paulo                383
+CD01O116E 004642 RICARDO TRIPOLI                         Obstrução PSDB      São Paulo                384
+CD01O116E 004642 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD01O116E 004642 ROBERTO SANTIAGO                        Não       PV        São Paulo                386
+CD01O116E 004642 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD01O116E 004642 TIRIRICA                                Não       PR        São Paulo                392
+CD01O116E 004642 VANDERLEI MACRIS                        Obstrução PSDB      São Paulo                521
+CD01O116E 004642 VAZ DE LIMA                             Obstrução PSDB      São Paulo                394
+CD01O116E 004642 VICENTINHO                              Não       PT        São Paulo                396
+CD01O116E 004642 HOMERO PEREIRA                          Não       PR        Mato Grosso              402
+CD01O116E 004642 NERI GELLER                             Não       PP        Mato Grosso              520
+CD01O116E 004642 ROBERTO DORNER                          Obstrução PP        Mato Grosso              519
+CD01O116E 004642 SÁGUAS MORAES                           Não       PT        Mato Grosso              405
+CD01O116E 004642 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD01O116E 004642 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O116E 004642 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD01O116E 004642 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O116E 004642 POLICARPO                               Não       PT        Distrito Federal         539
+CD01O116E 004642 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O116E 004642 RICARDO QUIRINO                         Não       PRB       Distrito Federal         551
+CD01O116E 004642 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O116E 004642 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD01O116E 004642 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O116E 004642 JORGE PINHEIRO                          Não       PRB       Goiás                    548
+CD01O116E 004642 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD01O116E 004642 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD01O116E 004642 RUBENS OTONI                            Não       PT        Goiás                    425
+CD01O116E 004642 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD01O116E 004642 GERALDO RESENDE                         Abstenção PMDB      Mato Grosso do Sul       435
+CD01O116E 004642 GIROTO                                  Não       PR        Mato Grosso do Sul       434
+CD01O116E 004642 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O116E 004642 ALEX CANZIANI                           Não       PTB       Paraná                   445
+CD01O116E 004642 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD01O116E 004642 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD01O116E 004642 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O116E 004642 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD01O116E 004642 EDUARDO SCIARRA                         Obstrução DEM       Paraná                   461
+CD01O116E 004642 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O116E 004642 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O116E 004642 LUIZ CARLOS SETIM                       Obstrução DEM       Paraná                   535
+CD01O116E 004642 LUIZ NISHIMORI                          Obstrução PSDB      Paraná                   542
+CD01O116E 004642 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD01O116E 004642 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD01O116E 004642 REINHOLD STEPHANES                      Sim       PMDB      Paraná                   467
+CD01O116E 004642 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD01O116E 004642 RUBENS BUENO                            Obstrução PPS       Paraná                   460
+CD01O116E 004642 SANDRO ALEX                             Obstrução PPS       Paraná                   465
+CD01O116E 004642 TAKAYAMA                                Não       PSC       Paraná                   469
+CD01O116E 004642 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD01O116E 004642 CARMEN ZANOTTO                          Obstrução PPS       Santa Catarina           561
+CD01O116E 004642 CELSO MALDANER                          Obstrução PMDB      Santa Catarina           472
+CD01O116E 004642 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD01O116E 004642 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD01O116E 004642 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD01O116E 004642 GEAN LOUREIRO                           Não       PMDB      Santa Catarina           568
+CD01O116E 004642 JORGE BOEIRA                            Não       PT        Santa Catarina           474
+CD01O116E 004642 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CD01O116E 004642 ONOFRE SANTO AGOSTINI                   Obstrução DEM       Santa Catarina           479
+CD01O116E 004642 PEDRO UCZAI                             Não       PT        Santa Catarina           481
+CD01O116E 004642 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD01O116E 004642 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD01O116E 004642 ZONTA                                   Não       PP        Santa Catarina           485
+CD01O116E 004642 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD01O116E 004642 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD01O116E 004642 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD01O116E 004642 DANRLEI DE DEUS HINTERHOLZ              Não       PTB       Rio Grande do Sul        495
+CD01O116E 004642 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD01O116E 004642 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD01O116E 004642 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD01O116E 004642 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD01O116E 004642 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O116E 004642 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD01O116E 004642 MANUELA D`ÁVILA                         Não       PCdoB     Rio Grande do Sul        494
+CD01O116E 004642 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD01O116E 004642 ONYX LORENZONI                          Obstrução DEM       Rio Grande do Sul        510
+CD01O116E 004642 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD01O116E 004642 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD01O116E 004642 PEPE VARGAS                             Não       PT        Rio Grande do Sul        503
+CD01O116E 004642 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD01O116E 004642 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O116E 004642 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD01O116E 004642 SÉRGIO MORAES                           Não       PTB       Rio Grande do Sul        512
+CD01O116E 004642 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD01O116E 004642 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD01O116E 004642 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O116E 004642 TAUMATURGO LIMA                         <-------> PT        Acre                     59 
+CD01O116E 004642 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD01O116E 004642 RUI PALMEIRA                            <-------> PSDB      Alagoas                  171
+CD01O116E 004642 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O116E 004642 JOÃO LYRA                               <-------> PTB       Alagoas                  167
+CD01O116E 004642 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD01O116E 004642 CELIA ROCHA                             <-------> PTB       Alagoas                  165
+CD01O116E 004642 PAUDERNEY AVELINO                       <-------> DEM       Amazonas                 40 
+CD01O116E 004642 ÁTILA LINS                              <-------> PMDB      Amazonas                 38 
+CD01O116E 004642 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD01O116E 004642 VINICIUS GURGEL                         <-------> PRTB      Amapá                    16 
+CD01O116E 004642 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O116E 004642 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD01O116E 004642 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD01O116E 004642 ANTONIO CARLOS MAGALHÃES NETO           <-------> DEM       Bahia                    181
+CD01O116E 004642 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD01O116E 004642 ANTONIO IMBASSAHY                       <-------> PSDB      Bahia                    191
+CD01O116E 004642 EDSON PIMENTA                           <-------> PCdoB     Bahia                    193
+CD01O116E 004642 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD01O116E 004642 SÉRGIO BRITO                            <-------> PSC       Bahia                    213
+CD01O116E 004642 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD01O116E 004642 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD01O116E 004642 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O116E 004642 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD01O116E 004642 JOSÉ NUNES                              <-------> DEM       Bahia                    201
+CD01O116E 004642 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD01O116E 004642 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD01O116E 004642 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD01O116E 004642 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O116E 004642 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O116E 004642 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD01O116E 004642 MANOEL SALVIANO                         <-------> PSDB      Ceará                    104
+CD01O116E 004642 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD01O116E 004642 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O116E 004642 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD01O116E 004642 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD01O116E 004642 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD01O116E 004642 DELEGADO WALDIR                         <-------> PSDB      Goiás                    559
+CD01O116E 004642 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD01O116E 004642 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O116E 004642 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O116E 004642 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O116E 004642 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O116E 004642 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O116E 004642 VALDIVINO DE OLIVEIRA                   <-------> PSDB      Goiás                    547
+CD01O116E 004642 PEDRO CHAVES                            <-------> PMDB      Goiás                    428
+CD01O116E 004642 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD01O116E 004642 HEULER CRUVINEL                         <-------> DEM       Goiás                    423
+CD01O116E 004642 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD01O116E 004642 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O116E 004642 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O116E 004642 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O116E 004642 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD01O116E 004642 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD01O116E 004642 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O116E 004642 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD01O116E 004642 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD01O116E 004642 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O116E 004642 MARCOS MONTES                           <-------> DEM       Minas Gerais             257
+CD01O116E 004642 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O116E 004642 STEFANO AGUIAR                          <-------> PSC       Minas Gerais             558
+CD01O116E 004642 WALTER TOSTA                            <-------> PMN       Minas Gerais             267
+CD01O116E 004642 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O116E 004642 ZÉ SILVA                                <-------> PDT       Minas Gerais             271
+CD01O116E 004642 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O116E 004642 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD01O116E 004642 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD01O116E 004642 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O116E 004642 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD01O116E 004642 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O116E 004642 CARLAILE PEDROSA                        <-------> PSDB      Minas Gerais             222
+CD01O116E 004642 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD01O116E 004642 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O116E 004642 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD01O116E 004642 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD01O116E 004642 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD01O116E 004642 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O116E 004642 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD01O116E 004642 ANTÔNIO CARLOS BIFFI                    <-------> PT        Mato Grosso do Sul       432
+CD01O116E 004642 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD01O116E 004642 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD01O116E 004642 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O116E 004642 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O116E 004642 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O116E 004642 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O116E 004642 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD01O116E 004642 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O116E 004642 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O116E 004642 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD01O116E 004642 LUIZ OTÁVIO                             <-------> PMDB      Pará                     526
+CD01O116E 004642 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O116E 004642 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD01O116E 004642 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD01O116E 004642 ROMERO RODRIGUES                        <-------> PSDB      Paraíba                  135
+CD01O116E 004642 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD01O116E 004642 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O116E 004642 AGUINALDO RIBEIRO                       <-------> PP        Paraíba                  129
+CD01O116E 004642 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD01O116E 004642 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD01O116E 004642 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD01O116E 004642 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD01O116E 004642 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD01O116E 004642 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O116E 004642 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD01O116E 004642 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O116E 004642 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O116E 004642 JÚLIO CESAR                             <-------> DEM       Piauí                    114
+CD01O116E 004642 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O116E 004642 ANDRÉ VARGAS                            <-------> PT        Paraná                   452
+CD01O116E 004642 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O116E 004642 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O116E 004642 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O116E 004642 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD01O116E 004642 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O116E 004642 NELSON MEURER                           <-------> PP        Paraná                   458
+CD01O116E 004642 MOACIR MICHELETTO                       <-------> PMDB      Paraná                   462
+CD01O116E 004642 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD01O116E 004642 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD01O116E 004642 FERNANDO FRANCISCHINI                   <-------> PSDB      Paraná                   450
+CD01O116E 004642 LILIAM SÁ                               <-------> PR        Rio de Janeiro           309
+CD01O116E 004642 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD01O116E 004642 CHICO D`ANGELO                          <-------> PT        Rio de Janeiro           527
+CD01O116E 004642 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O116E 004642 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD01O116E 004642 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD01O116E 004642 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD01O116E 004642 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD01O116E 004642 ANTHONY GAROTINHO                       <-------> PR        Rio de Janeiro           289
+CD01O116E 004642 AROLDE DE OLIVEIRA                      <-------> DEM       Rio de Janeiro           288
+CD01O116E 004642 ELIANE ROLIM                            <-------> PT        Rio de Janeiro           538
+CD01O116E 004642 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O116E 004642 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O116E 004642 FELIPE MAIA                             <-------> DEM       Rio Grande do Norte      120
+CD01O116E 004642 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O116E 004642 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD01O116E 004642 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O116E 004642 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O116E 004642 LINDOMAR GARÇON                         <-------> PV        Rondonia                 45 
+CD01O116E 004642 MAURO NAZIF                             <-------> PSB       Rondonia                 46 
+CD01O116E 004642 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD01O116E 004642 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD01O116E 004642 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O116E 004642 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD01O116E 004642 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD01O116E 004642 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD01O116E 004642 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD01O116E 004642 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD01O116E 004642 JOSÉ STÉDILE                            <-------> PSB       Rio Grande do Sul        506
+CD01O116E 004642 FERNANDO MARRONI                        <-------> PT        Rio Grande do Sul        525
+CD01O116E 004642 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O116E 004642 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O116E 004642 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O116E 004642 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD01O116E 004642 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD01O116E 004642 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O116E 004642 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD01O116E 004642 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD01O116E 004642 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O116E 004642 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD01O116E 004642 ALMEIDA LIMA                            <-------> PMDB      Sergipe                  173
+CD01O116E 004642 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O116E 004642 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD01O116E 004642 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD01O116E 004642 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O116E 004642 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O116E 004642 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O116E 004642 ALDO REBELO                             <-------> PCdoB     São Paulo                331
+CD01O116E 004642 WALTER IHOSHI                           <-------> DEM       São Paulo                553
+CD01O116E 004642 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD01O116E 004642 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O116E 004642 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD01O116E 004642 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O116E 004642 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O116E 004642 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O116E 004642 GUILHERME MUSSI                         <-------> PV        São Paulo                348
+CD01O116E 004642 JEFFERSON CAMPOS                        <-------> PSB       São Paulo                349
+CD01O116E 004642 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD01O116E 004642 JILMAR TATTO                            <-------> PT        São Paulo                360
+CD01O116E 004642 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD01O116E 004642 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD01O116E 004642 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD01O116E 004642 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O116E 004642 PENNA                                   <-------> PV        São Paulo                382
+CD01O116E 004642 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD01O116E 004642 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O116E 004642 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O116E 004642 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD01O116E 004642 DR. UBIALI                              <-------> PSB       São Paulo                541
+CD01O116E 004642 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD01O116E 004642 ALEXANDRE LEITE                         <-------> DEM       São Paulo                334
+CD01O116E 004642 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O116E 004642 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 

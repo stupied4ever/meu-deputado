@@ -1,0 +1,81 @@
+SF02O026E 005170 ANGELA PORTELA                          Sim       PT        Roraima                  815
+SF02O026E 005170 JOÃO CAPIBERIBE                         Sim       PSB       Amapá                    937
+SF02O026E 005170 RANDOLPH RODRIGUES                      Sim       PSOL      Amapá                    827
+SF02O026E 005170 FLEXA RIBEIRO                           Sim       PSDB      Pará                     935
+SF02O026E 005170 MÁRIO COUTO                             Sim       PSDB      Pará                     809
+SF02O026E 005170 ALFREDO NASCIMENTO                      Sim       PR        Amazonas                 803
+SF02O026E 005170 EDUARDO  BRAGA                          Sim       PMDB      Amazonas                 802
+SF02O026E 005170 VANESSA  GRAZZIOTIN                     Sim       PCdoB     Amazonas                 801
+SF02O026E 005170 ACIR GURGACZ                            Sim       PDT       Rondonia                 916
+SF02O026E 005170 IVO CASSOL                              Sim       PP        Rondonia                 867
+SF02O026E 005170 VALDIR RAUPP                            Sim       PMDB      Rondonia                 868
+SF02O026E 005170 ANIBAL DINIZ                            Sim       PT        Acre                     904
+SF02O026E 005170 JORGE VIANA                             Sim       PT        Acre                     849
+SF02O026E 005170 SÉRGIO PETECÃO                          Sim       PSD       Acre                     850
+SF02O026E 005170 JOÃO COSTA                              Sim       PPL       Tocantins                920
+SF02O026E 005170 JOÃO RIBEIRO                            Sim       PR        Tocantins                872
+SF02O026E 005170 EPITÁCIO CAFETEIRA                      Sim       PTB       Maranhão                 807
+SF02O026E 005170 JOÃO ALBERTO SOUZA                      Sim       PMDB      Maranhão                 808
+SF02O026E 005170 LOBÃO FILHO                             Sim       PMDB      Maranhão                 913
+SF02O026E 005170 EUNÍCIO OLIVEIRA                        Sim       PMDB      Ceará                    826
+SF02O026E 005170 INÁCIO ARRUDA                           Sim       PCdoB     Ceará                    812
+SF02O026E 005170 JOSÉ PIMENTEL                           Sim       PT        Ceará                    825
+SF02O026E 005170 CIRO NOGUEIRA                           Sim       PP        Piauí                    811
+SF02O026E 005170 JOÃO VICENTE CLAUDINO                   Sim       PTB       Piauí                    810
+SF02O026E 005170 WELLINGTON DIAS                         Sim       PT        Piauí                    813
+SF02O026E 005170 JOSÉ AGRIPINO                           Sim       DEM       Rio Grande do Norte      818
+SF02O026E 005170 PAULO DAVIM                             Sim       PV        Rio Grande do Norte      948
+SF02O026E 005170 CÁSSIO CUNHA LIMA                       Sim       PSDB      Paraíba                  938
+SF02O026E 005170 CÍCERO LUCENA                           Sim       PSDB      Paraíba                  819
+SF02O026E 005170 VITAL DO RÊGO                           Sim       PMDB      Paraíba                  820
+SF02O026E 005170 ARMANDO MONTEIRO                        Sim       PTB       Pernambuco               823
+SF02O026E 005170 HUMBERTO COSTA                          Sim       PT        Pernambuco               824
+SF02O026E 005170 JARBAS VASCONCELOS                      Sim       PMDB      Pernambuco               822
+SF02O026E 005170 RENAN CALHEIROS                         Sim       PMDB      Alagoas                  875
+SF02O026E 005170 ANTONIO CARLOS VALADARES                Sim       PSB       Sergipe                  829
+SF02O026E 005170 EDUARDO AMORIM                          Sim       PSC       Sergipe                  830
+SF02O026E 005170 JOÃO DURVAL                             Sim       PDT       Bahia                    831
+SF02O026E 005170 LÍDICE DA MATA                          Sim       PSB       Bahia                    832
+SF02O026E 005170 WALTER PINHEIRO                         Sim       PT        Bahia                    833
+SF02O026E 005170 CLÉSIO ANDRADE                          Sim       PMDB      Minas Gerais             898
+SF02O026E 005170 ZEZÉ PERRELLA                           Sim       PDT       Minas Gerais             943
+SF02O026E 005170 ANA RITA                                Não       PT        Espírito Santo           901
+SF02O026E 005170 MAGNO MALTA                             Não       PR        Espírito Santo           862
+SF02O026E 005170 EDUARDO LOPES                           Não       PRB       Rio de Janeiro           930
+SF02O026E 005170 FRANCISCO DORNELLES                     Não       PP        Rio de Janeiro           840
+SF02O026E 005170 LINDBERG FARIAS                         Não       PT        Rio de Janeiro           839
+SF02O026E 005170 ALOYSIO NUNES FERREIRA                  Não       PSDB      São Paulo                847
+SF02O026E 005170 ANTÔNIO CARLOS RODRIGUES                Sim       PR        São Paulo                923
+SF02O026E 005170 EDUARDO SUPLICY                         Não       PT        São Paulo                846
+SF02O026E 005170 CIDINHO SANTOS                          Sim       PR        Mato Grosso              924
+SF02O026E 005170 JAYME CAMPOS                            Sim       DEM       Mato Grosso              837
+SF02O026E 005170 PEDRO TAQUES                            Sim       PDT       Mato Grosso              842
+SF02O026E 005170 CRISTOVAM BUARQUE                       Sim       PDT       Distrito Federal         851
+SF02O026E 005170 GIM ARGELLO                             Sim       PTB       Distrito Federal         947
+SF02O026E 005170 RODRIGO ROLLEMBERG                      Sim       PSB       Distrito Federal         852
+SF02O026E 005170 CYRO MIRANDA                            Sim       PSDB      Goiás                    906
+SF02O026E 005170 LÚCIA VÂNIA                             Sim       PSDB      Goiás                    864
+SF02O026E 005170 WILDER MORAIS                           Sim       DEM       Goiás                    926
+SF02O026E 005170 DELCIDIO AMARAL                         Sim       PT        Mato Grosso do Sul       853
+SF02O026E 005170 WALDEMIR MOKA                           Sim       PMDB      Mato Grosso do Sul       854
+SF02O026E 005170 ÁLVARO DIAS                             Sim       PSDB      Paraná                   855
+SF02O026E 005170 ROBERTO REQUIÃO                         Sim       PMDB      Paraná                   857
+SF02O026E 005170 SÉRGIO SOUZA                            Sim       PMDB      Paraná                   950
+SF02O026E 005170 CASILDO MALDANER                        Sim       PMDB      Santa Catarina           928
+SF02O026E 005170 PAULO BAUER                             Sim       PSDB      Santa Catarina           884
+SF02O026E 005170 ANA AMÉLIA LEMOS                        Sim       PP        Rio Grande do Sul        860
+SF02O026E 005170 PAULO PAIM                              Sim       PT        Rio Grande do Sul        859
+SF02O026E 005170 PEDRO SIMON                             Sim       PMDB      Rio Grande do Sul        861
+SF02O026E 005170 FERNANDO COLLOR                         <-------> PTB       Alagoas                  927
+SF02O026E 005170 BENEDITO DE LIRA                        <-------> PP        Alagoas                  874
+SF02O026E 005170 JOSÉ SARNEY                             <-------> PMDB      Amapá                    834
+SF02O026E 005170 RICARDO FERRAÇO                         <-------> PMDB      Espírito Santo           835
+SF02O026E 005170 AÉCIO NEVES                             <-------> PSDB      Minas Gerais             843
+SF02O026E 005170 ANTONIO RUSSO                           <-------> PR        Mato Grosso do Sul       946
+SF02O026E 005170 JADER BARBALHO                          <-------> PMDB      Pará                     932
+SF02O026E 005170 GARIBALDI  ALVES                        <-------> PMDB      Rio Grande do Norte      903
+SF02O026E 005170 ROMERO JUCÁ                             <-------> PMDB      Roraima                  881
+SF02O026E 005170 MOZARILDO CAVALCANTI                    <-------> PTB       Roraima                  814
+SF02O026E 005170 LUIZ HENRIQUE                           <-------> PMDB      Santa Catarina           882
+SF02O026E 005170 MARIA DO CARMO ALVES                    <-------> DEM       Sergipe                  828
+SF02O026E 005170 MARCO ANTÔNIO COSTA                     <-------> PSD       Tocantins                922

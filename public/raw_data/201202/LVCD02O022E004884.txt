@@ -1,0 +1,513 @@
+CD02O022E 004884 BERINHO BANTIM                          Sim       PSDB      Roraima                  1
+CD02O022E 004884 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD02O022E 004884 FRANCISCO ARAÚJO                        Não       PSD       Roraima                  570
+CD02O022E 004884 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD02O022E 004884 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD02O022E 004884 RAUL LIMA                               Não       PSD       Roraima                  7  
+CD02O022E 004884 TERESA SURITA                           Não       PMDB      Roraima                  8  
+CD02O022E 004884 DAVI ALCOLUMBRE                         Sim       DEM       Amapá                    10 
+CD02O022E 004884 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD02O022E 004884 FÁTIMA PELAES                           Não       PMDB      Amapá                    12 
+CD02O022E 004884 JANETE CAPIBERIBE                       Não       PSB       Amapá                    572
+CD02O022E 004884 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD02O022E 004884 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD02O022E 004884 VINICIUS GURGEL                         Não       PR        Amapá                    16 
+CD02O022E 004884 ASDRUBAL BENTES                         Não       PMDB      Pará                     20 
+CD02O022E 004884 BETO FARO                               Não       PT        Pará                     19 
+CD02O022E 004884 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD02O022E 004884 ELCIONE BARBALHO                        Não       PMDB      Pará                     21 
+CD02O022E 004884 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD02O022E 004884 JOSÉ PRIANTE                            Não       PMDB      Pará                     26 
+CD02O022E 004884 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD02O022E 004884 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD02O022E 004884 LÚCIO VALE                              Não       PR        Pará                     29 
+CD02O022E 004884 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD02O022E 004884 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD02O022E 004884 ZENALDO COUTINHO                        Sim       PSDB      Pará                     34 
+CD02O022E 004884 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD02O022E 004884 ÁTILA LINS                              Não       PSD       Amazonas                 38 
+CD02O022E 004884 CARLOS SOUZA                            Não       PSD       Amazonas                 37 
+CD02O022E 004884 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD02O022E 004884 HENRIQUE OLIVEIRA                       Não       PR        Amazonas                 36 
+CD02O022E 004884 PAUDERNEY AVELINO                       Sim       DEM       Amazonas                 40 
+CD02O022E 004884 REBECCA GARCIA                          Não       PP        Amazonas                 42 
+CD02O022E 004884 SILAS CÂMARA                            Não       PSD       Amazonas                 39 
+CD02O022E 004884 CARLOS MAGNO                            Não       PP        Rondonia                 44 
+CD02O022E 004884 MARCOS ROGÉRIO                          Sim       PDT       Rondonia                 583
+CD02O022E 004884 MAURO NAZIF                             Sim       PSB       Rondonia                 46 
+CD02O022E 004884 MOREIRA MENDES                          Não       PSD       Rondonia                 49 
+CD02O022E 004884 NATAN DONADON                           Não       PMDB      Rondonia                 51 
+CD02O022E 004884 PADRE TON                               Não       PT        Rondonia                 48 
+CD02O022E 004884 FLAVIANO MELO                           Não       PMDB      Acre                     54 
+CD02O022E 004884 GLADSON CAMELI                          Não       PP        Acre                     55 
+CD02O022E 004884 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD02O022E 004884 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD02O022E 004884 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD02O022E 004884 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD02O022E 004884 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD02O022E 004884 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD02O022E 004884 CÉSAR HALUM                             Não       PSD       Tocantins                64 
+CD02O022E 004884 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD02O022E 004884 LAUREZ MOREIRA                          Não       PSB       Tocantins                62 
+CD02O022E 004884 LÁZARO BOTELHO                          Não       PP        Tocantins                63 
+CD02O022E 004884 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD02O022E 004884 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD02O022E 004884 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD02O022E 004884 COSTA FERREIRA                          Não       PSC       Maranhão                 571
+CD02O022E 004884 EDIVALDO HOLANDA JUNIOR                 Não       PTC       Maranhão                 73 
+CD02O022E 004884 FRANCISCO ESCÓRCIO                      Não       PMDB      Maranhão                 567
+CD02O022E 004884 HÉLIO SANTOS                            Não       PSD       Maranhão                 76 
+CD02O022E 004884 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD02O022E 004884 PEDRO NOVAIS                            Não       PMDB      Maranhão                 82 
+CD02O022E 004884 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD02O022E 004884 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD02O022E 004884 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD02O022E 004884 ANTONIO BALHMANN                        Não       PSB       Ceará                    93 
+CD02O022E 004884 ARNON BEZERRA                           Não       PTB       Ceará                    90 
+CD02O022E 004884 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD02O022E 004884 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD02O022E 004884 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD02O022E 004884 DOMINGOS NETO                           Não       PSB       Ceará                    97 
+CD02O022E 004884 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD02O022E 004884 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD02O022E 004884 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD02O022E 004884 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD02O022E 004884 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD02O022E 004884 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD02O022E 004884 JOSÉ LINHARES                           Não       PP        Ceará                    96 
+CD02O022E 004884 MÁRIO FEITOZA                           Não       PMDB      Ceará                    590
+CD02O022E 004884 MAURO BENEVIDES                         Não       PMDB      Ceará                    105
+CD02O022E 004884 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD02O022E 004884 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD02O022E 004884 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD02O022E 004884 HUGO NAPOLEÃO                           Não       PSD       Piauí                    112
+CD02O022E 004884 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD02O022E 004884 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD02O022E 004884 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD02O022E 004884 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD02O022E 004884 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD02O022E 004884 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD02O022E 004884 PAES LANDIM                             Não       PTB       Piauí                    118
+CD02O022E 004884 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD02O022E 004884 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD02O022E 004884 HENRIQUE EDUARDO ALVES                  Não       PMDB      Rio Grande do Norte      123
+CD02O022E 004884 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD02O022E 004884 ARMANDO ABÍLIO                          Não       PTB       Paraíba                  589
+CD02O022E 004884 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD02O022E 004884 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD02O022E 004884 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD02O022E 004884 LEONARDO GADELHA                        Não       PSC       Paraíba                  586
+CD02O022E 004884 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD02O022E 004884 ROMERO RODRIGUES                        Sim       PSDB      Paraíba                  135
+CD02O022E 004884 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD02O022E 004884 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD02O022E 004884 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD02O022E 004884 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CD02O022E 004884 CARLOS EDUARDO CADOCA                   Não       PSC       Pernambuco               152
+CD02O022E 004884 EDUARDO DA FONTE                        Não       PP        Pernambuco               156
+CD02O022E 004884 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD02O022E 004884 GONZAGA PATRIOTA                        Não       PSB       Pernambuco               143
+CD02O022E 004884 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD02O022E 004884 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD02O022E 004884 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD02O022E 004884 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD02O022E 004884 JOSÉ CHAVES                             Não       PTB       Pernambuco               147
+CD02O022E 004884 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD02O022E 004884 PAULO RUBEM SANTIAGO                    Sim       PDT       Pernambuco               554
+CD02O022E 004884 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD02O022E 004884 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD02O022E 004884 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD02O022E 004884 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD02O022E 004884 VILALBA                                 Não       PRB       Pernambuco               555
+CD02O022E 004884 WOLNEY QUEIROZ                          Sim       PDT       Pernambuco               164
+CD02O022E 004884 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD02O022E 004884 GIVALDO CARIMBÃO                        Não       PSB       Alagoas                  166
+CD02O022E 004884 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD02O022E 004884 MAURÍCIO QUINTELLA LESSA                Não       PR        Alagoas                  168
+CD02O022E 004884 RENAN FILHO                             Não       PMDB      Alagoas                  169
+CD02O022E 004884 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD02O022E 004884 ALMEIDA LIMA                            Sim       PPS       Sergipe                  173
+CD02O022E 004884 ANDRE MOURA                             Não       PSC       Sergipe                  174
+CD02O022E 004884 HELENO SILVA                            Não       PRB       Sergipe                  175
+CD02O022E 004884 LAERCIO OLIVEIRA                        Não       PR        Sergipe                  176
+CD02O022E 004884 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD02O022E 004884 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD02O022E 004884 ROGÉRIO CARVALHO                        Não       PT        Sergipe                  178
+CD02O022E 004884 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD02O022E 004884 ACELINO POPÓ                            Não       PRB       Bahia                    522
+CD02O022E 004884 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD02O022E 004884 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD02O022E 004884 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD02O022E 004884 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD02O022E 004884 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD02O022E 004884 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD02O022E 004884 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD02O022E 004884 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD02O022E 004884 EDSON PIMENTA                           Não       PSD       Bahia                    193
+CD02O022E 004884 EMILIANO JOSÉ                           Não       PT        Bahia                    523
+CD02O022E 004884 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD02O022E 004884 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD02O022E 004884 FERNANDO TORRES                         Não       PSD       Bahia                    196
+CD02O022E 004884 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD02O022E 004884 JOSÉ CARLOS ARAÚJO                      Não       PSD       Bahia                    197
+CD02O022E 004884 JOSÉ NUNES                              Não       PSD       Bahia                    201
+CD02O022E 004884 JOSÉ ROCHA                              Não       PR        Bahia                    203
+CD02O022E 004884 JOSEPH BANDEIRA                         Não       PT        Bahia                    565
+CD02O022E 004884 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD02O022E 004884 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD02O022E 004884 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD02O022E 004884 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD02O022E 004884 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD02O022E 004884 MÁRIO NEGROMONTE                        Não       PP        Bahia                    210
+CD02O022E 004884 MAURÍCIO TRINDADE                       Não       PR        Bahia                    208
+CD02O022E 004884 NELSON PELLEGRINO                       Não       PT        Bahia                    209
+CD02O022E 004884 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD02O022E 004884 PAULO MAGALHÃES                         Não       PSD       Bahia                    214
+CD02O022E 004884 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD02O022E 004884 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD02O022E 004884 SÉRGIO BRITO                            Não       PSD       Bahia                    213
+CD02O022E 004884 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD02O022E 004884 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD02O022E 004884 ADEMIR CAMILO                           Não       PSD       Minas Gerais             220
+CD02O022E 004884 ANTÔNIO ANDRADE                         Não       PMDB      Minas Gerais             227
+CD02O022E 004884 ARACELY DE PAULA                        Não       PR        Minas Gerais             223
+CD02O022E 004884 DIEGO ANDRADE                           Não       PSD       Minas Gerais             228
+CD02O022E 004884 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD02O022E 004884 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD02O022E 004884 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD02O022E 004884 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD02O022E 004884 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD02O022E 004884 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD02O022E 004884 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD02O022E 004884 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD02O022E 004884 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD02O022E 004884 LAEL VARELLA                            Não       DEM       Minas Gerais             245
+CD02O022E 004884 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD02O022E 004884 LEONARDO QUINTÃO                        Não       PMDB      Minas Gerais             255
+CD02O022E 004884 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD02O022E 004884 LUIS TIBÉ                               Não       PTdoB     Minas Gerais             251
+CD02O022E 004884 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD02O022E 004884 MARCOS MONTES                           Obstrução PSD       Minas Gerais             257
+CD02O022E 004884 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD02O022E 004884 NEWTON CARDOSO                          Sim       PMDB      Minas Gerais             258
+CD02O022E 004884 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD02O022E 004884 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD02O022E 004884 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD02O022E 004884 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD02O022E 004884 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD02O022E 004884 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD02O022E 004884 WALTER TOSTA                            Não       PSD       Minas Gerais             267
+CD02O022E 004884 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD02O022E 004884 ZÉ SILVA                                Sim       PDT       Minas Gerais             271
+CD02O022E 004884 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD02O022E 004884 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD02O022E 004884 IRINY LOPES                             Não       PT        Espírito Santo           273
+CD02O022E 004884 LAURIETE                                Não       PSC       Espírito Santo           279
+CD02O022E 004884 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD02O022E 004884 MANATO                                  Sim       PDT       Espírito Santo           275
+CD02O022E 004884 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD02O022E 004884 ROSE DE FREITAS                         Não       PMDB      Espírito Santo           282
+CD02O022E 004884 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD02O022E 004884 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CD02O022E 004884 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD02O022E 004884 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD02O022E 004884 AROLDE DE OLIVEIRA                      Abstenção PSD       Rio de Janeiro           288
+CD02O022E 004884 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD02O022E 004884 BRIZOLA NETO                            Sim       PDT       Rio de Janeiro           566
+CD02O022E 004884 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD02O022E 004884 DELEY                                   Abstenção PSC       Rio de Janeiro           562
+CD02O022E 004884 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD02O022E 004884 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD02O022E 004884 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD02O022E 004884 DR. PAULO CÉSAR                         Não       PSD       Rio de Janeiro           296
+CD02O022E 004884 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD02O022E 004884 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD02O022E 004884 FELIPE BORNIER                          Sim       PSD       Rio de Janeiro           301
+CD02O022E 004884 FRANCISCO FLORIANO                      Não       PR        Rio de Janeiro           297
+CD02O022E 004884 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD02O022E 004884 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD02O022E 004884 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD02O022E 004884 LEONARDO PICCIANI                       Não       PMDB      Rio de Janeiro           312
+CD02O022E 004884 LILIAM SÁ                               Sim       PSD       Rio de Janeiro           309
+CD02O022E 004884 MARCELO MATOS                           Sim       PDT       Rio de Janeiro           311
+CD02O022E 004884 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD02O022E 004884 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD02O022E 004884 NELSON BORNIER                          Não       PMDB      Rio de Janeiro           549
+CD02O022E 004884 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD02O022E 004884 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CD02O022E 004884 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD02O022E 004884 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD02O022E 004884 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD02O022E 004884 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD02O022E 004884 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD02O022E 004884 WALNEY ROCHA                            Não       PTB       Rio de Janeiro           325
+CD02O022E 004884 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD02O022E 004884 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD02O022E 004884 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD02O022E 004884 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD02O022E 004884 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD02O022E 004884 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD02O022E 004884 BETO MANSUR                             Não       PP        São Paulo                340
+CD02O022E 004884 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CD02O022E 004884 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD02O022E 004884 CARLOS SAMPAIO                          Sim       PSDB      São Paulo                338
+CD02O022E 004884 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD02O022E 004884 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD02O022E 004884 DIMAS RAMALHO                           Sim       PPS       São Paulo                346
+CD02O022E 004884 DR. UBIALI                              Não       PSB       São Paulo                541
+CD02O022E 004884 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD02O022E 004884 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD02O022E 004884 ELEUSES PAIVA                           Obstrução PSD       São Paulo                537
+CD02O022E 004884 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD02O022E 004884 EMANUEL FERNANDES                       Sim       PSDB      São Paulo                352
+CD02O022E 004884 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD02O022E 004884 GUILHERME CAMPOS                        Não       PSD       São Paulo                357
+CD02O022E 004884 GUILHERME MUSSI                         Não       PSD       São Paulo                348
+CD02O022E 004884 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD02O022E 004884 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD02O022E 004884 JEFFERSON CAMPOS                        Não       PSD       São Paulo                349
+CD02O022E 004884 JOÃO PAULO CUNHA                        Não       PT        São Paulo                361
+CD02O022E 004884 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD02O022E 004884 JOSÉ DE FILIPPI                         Não       PT        São Paulo                354
+CD02O022E 004884 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD02O022E 004884 JUNJI ABE                               Não       PSD       São Paulo                355
+CD02O022E 004884 KEIKO OTA                               Não       PSB       São Paulo                356
+CD02O022E 004884 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD02O022E 004884 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD02O022E 004884 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD02O022E 004884 MARCELO AGUIAR                          Não       PSD       São Paulo                370
+CD02O022E 004884 MILTON MONTI                            Não       PR        São Paulo                374
+CD02O022E 004884 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD02O022E 004884 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD02O022E 004884 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD02O022E 004884 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD02O022E 004884 PAULO MALUF                             Não       PP        São Paulo                373
+CD02O022E 004884 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD02O022E 004884 RICARDO IZAR                            Não       PSD       São Paulo                383
+CD02O022E 004884 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD02O022E 004884 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CD02O022E 004884 ROBERTO SANTIAGO                        Não       PSD       São Paulo                386
+CD02O022E 004884 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CD02O022E 004884 TIRIRICA                                Não       PR        São Paulo                392
+CD02O022E 004884 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD02O022E 004884 VANDERLEI SIRAQUE                       Não       PT        São Paulo                581
+CD02O022E 004884 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD02O022E 004884 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CD02O022E 004884 WALTER FELDMAN                          Sim       PSDB      São Paulo                550
+CD02O022E 004884 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD02O022E 004884 CABO JULIANO RABELO                     Não       PSB       Mato Grosso              584
+CD02O022E 004884 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD02O022E 004884 ELIENE LIMA                             Não       PSD       Mato Grosso              401
+CD02O022E 004884 HOMERO PEREIRA                          Não       PSD       Mato Grosso              402
+CD02O022E 004884 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD02O022E 004884 NILSON LEITÃO                           Sim       PSDB      Mato Grosso              573
+CD02O022E 004884 PEDRO HENRY                             Não       PP        Mato Grosso              403
+CD02O022E 004884 WELLINGTON FAGUNDES                     Não       PR        Mato Grosso              406
+CD02O022E 004884 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD02O022E 004884 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD02O022E 004884 IZALCI                                  Sim       PR        Distrito Federal         408
+CD02O022E 004884 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD02O022E 004884 LUIZ PITIMAN                            Não       PMDB      Distrito Federal         410
+CD02O022E 004884 POLICARPO                               Sim       PT        Distrito Federal         539
+CD02O022E 004884 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD02O022E 004884 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD02O022E 004884 ARMANDO VERGÍLIO                        Não       PSD       Goiás                    416
+CD02O022E 004884 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD02O022E 004884 HEULER CRUVINEL                         Não       PSD       Goiás                    423
+CD02O022E 004884 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD02O022E 004884 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD02O022E 004884 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD02O022E 004884 MAGDA MOFATTO                           Não       PTB       Goiás                    575
+CD02O022E 004884 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD02O022E 004884 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD02O022E 004884 RUBENS OTONI                            Não       PT        Goiás                    425
+CD02O022E 004884 SANDES JÚNIOR                           Não       PP        Goiás                    426
+CD02O022E 004884 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD02O022E 004884 ANTÔNIO CARLOS BIFFI                    Não       PT        Mato Grosso do Sul       432
+CD02O022E 004884 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD02O022E 004884 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD02O022E 004884 GIROTO                                  Não       PMDB      Mato Grosso do Sul       434
+CD02O022E 004884 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD02O022E 004884 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD02O022E 004884 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD02O022E 004884 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD02O022E 004884 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD02O022E 004884 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD02O022E 004884 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD02O022E 004884 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD02O022E 004884 ANGELO VANHONI                          Não       PT        Paraná                   453
+CD02O022E 004884 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD02O022E 004884 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD02O022E 004884 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD02O022E 004884 DR. ROSINHA                             Não       PT        Paraná                   449
+CD02O022E 004884 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD02O022E 004884 EDUARDO SCIARRA                         Não       PSD       Paraná                   461
+CD02O022E 004884 FERNANDO FRANCISCHINI                   Sim       PSDB      Paraná                   450
+CD02O022E 004884 GIACOBO                                 Não       PR        Paraná                   466
+CD02O022E 004884 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD02O022E 004884 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD02O022E 004884 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD02O022E 004884 NELSON MEURER                           Não       PP        Paraná                   458
+CD02O022E 004884 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD02O022E 004884 ODÍLIO BALBINOTTI                       Não       PMDB      Paraná                   588
+CD02O022E 004884 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD02O022E 004884 REINHOLD STEPHANES                      Não       PSD       Paraná                   467
+CD02O022E 004884 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD02O022E 004884 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD02O022E 004884 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD02O022E 004884 TAKAYAMA                                Não       PSC       Paraná                   469
+CD02O022E 004884 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD02O022E 004884 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD02O022E 004884 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD02O022E 004884 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD02O022E 004884 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD02O022E 004884 JOÃO PIZZOLATTI                         Não       PP        Santa Catarina           574
+CD02O022E 004884 JORGE BOEIRA                            Sim       PSD       Santa Catarina           474
+CD02O022E 004884 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD02O022E 004884 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD02O022E 004884 PEDRO UCZAI                             Não       PT        Santa Catarina           481
+CD02O022E 004884 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD02O022E 004884 ROMANNA REMOR                           Não       PMDB      Santa Catarina           582
+CD02O022E 004884 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD02O022E 004884 VALDIR COLATTO                          Não       PMDB      Santa Catarina           560
+CD02O022E 004884 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD02O022E 004884 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD02O022E 004884 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD02O022E 004884 DANRLEI DE DEUS HINTERHOLZ              Não       PSD       Rio Grande do Sul        495
+CD02O022E 004884 DARCÍSIO PERONDI                        Não       PMDB      Rio Grande do Sul        491
+CD02O022E 004884 ELISEU PADILHA                          Não       PMDB      Rio Grande do Sul        578
+CD02O022E 004884 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD02O022E 004884 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD02O022E 004884 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD02O022E 004884 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD02O022E 004884 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD02O022E 004884 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD02O022E 004884 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD02O022E 004884 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD02O022E 004884 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD02O022E 004884 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD02O022E 004884 SÉRGIO MORAES                           Não       PTB       Rio Grande do Sul        512
+CD02O022E 004884 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD02O022E 004884 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD02O022E 004884 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD02O022E 004884 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD02O022E 004884 CELIA ROCHA                             <-------> PTB       Alagoas                  165
+CD02O022E 004884 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD02O022E 004884 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD02O022E 004884 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD02O022E 004884 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD02O022E 004884 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD02O022E 004884 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD02O022E 004884 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD02O022E 004884 LUIZ ALBERTO                            <-------> PT        Bahia                    204
+CD02O022E 004884 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD02O022E 004884 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD02O022E 004884 ARIOSTO HOLANDA                         <-------> PSB       Ceará                    92 
+CD02O022E 004884 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD02O022E 004884 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD02O022E 004884 AUDIFAX                                 <-------> PSB       Espírito Santo           274
+CD02O022E 004884 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD02O022E 004884 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD02O022E 004884 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD02O022E 004884 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD02O022E 004884 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD02O022E 004884 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD02O022E 004884 PROFESSOR SETIMO                        <-------> PMDB      Maranhão                 81 
+CD02O022E 004884 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD02O022E 004884 SIMPLÍCIO ARAÚJO                        <-------> PPS       Maranhão                 585
+CD02O022E 004884 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD02O022E 004884 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD02O022E 004884 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD02O022E 004884 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD02O022E 004884 EROS BIONDINI                           <-------> PTB       Minas Gerais             242
+CD02O022E 004884 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD02O022E 004884 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD02O022E 004884 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD02O022E 004884 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD02O022E 004884 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD02O022E 004884 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD02O022E 004884 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD02O022E 004884 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD02O022E 004884 GERALDO THADEU                          <-------> PSD       Minas Gerais             236
+CD02O022E 004884 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD02O022E 004884 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD02O022E 004884 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CD02O022E 004884 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD02O022E 004884 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD02O022E 004884 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD02O022E 004884 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD02O022E 004884 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD02O022E 004884 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD02O022E 004884 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD02O022E 004884 CARLAILE PEDROSA                        <-------> PSDB      Minas Gerais             222
+CD02O022E 004884 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD02O022E 004884 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD02O022E 004884 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD02O022E 004884 DUDIMAR PAXIÚBA                         <-------> PSDB      Pará                     518
+CD02O022E 004884 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD02O022E 004884 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD02O022E 004884 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD02O022E 004884 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD02O022E 004884 FERNANDO FERRO                          <-------> PT        Pernambuco               141
+CD02O022E 004884 SEVERINO NINHO                          <-------> PSB       Pernambuco               580
+CD02O022E 004884 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD02O022E 004884 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD02O022E 004884 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD02O022E 004884 JÚLIO CESAR                             <-------> PSD       Piauí                    114
+CD02O022E 004884 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD02O022E 004884 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD02O022E 004884 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD02O022E 004884 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD02O022E 004884 ELIANE ROLIM                            <-------> PT        Rio de Janeiro           538
+CD02O022E 004884 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD02O022E 004884 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD02O022E 004884 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD02O022E 004884 EDUARDO CUNHA                           <-------> PMDB      Rio de Janeiro           300
+CD02O022E 004884 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD02O022E 004884 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CD02O022E 004884 ZOINHO                                  <-------> PR        Rio de Janeiro           328
+CD02O022E 004884 CHICO D`ANGELO                          <-------> PT        Rio de Janeiro           527
+CD02O022E 004884 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD02O022E 004884 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD02O022E 004884 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD02O022E 004884 FÁBIO FARIA                             <-------> PSD       Rio Grande do Norte      119
+CD02O022E 004884 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD02O022E 004884 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD02O022E 004884 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD02O022E 004884 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD02O022E 004884 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD02O022E 004884 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD02O022E 004884 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD02O022E 004884 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD02O022E 004884 GIOVANI CHERINI                         <-------> PDT       Rio Grande do Sul        502
+CD02O022E 004884 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD02O022E 004884 LUIS CARLOS HEINZE                      <-------> PP        Rio Grande do Sul        500
+CD02O022E 004884 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD02O022E 004884 PEPE VARGAS                             <-------> PT        Rio Grande do Sul        503
+CD02O022E 004884 JOSÉ STÉDILE                            <-------> PSB       Rio Grande do Sul        506
+CD02O022E 004884 BOHN GASS                               <-------> PT        Rio Grande do Sul        499
+CD02O022E 004884 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD02O022E 004884 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD02O022E 004884 CARMEN ZANOTTO                          <-------> PPS       Santa Catarina           561
+CD02O022E 004884 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD02O022E 004884 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD02O022E 004884 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD02O022E 004884 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD02O022E 004884 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD02O022E 004884 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD02O022E 004884 PENNA                                   <-------> PV        São Paulo                382
+CD02O022E 004884 JOÃO DADO                               <-------> PDT       São Paulo                362
+CD02O022E 004884 JILMAR TATTO                            <-------> PT        São Paulo                360
+CD02O022E 004884 JONAS DONIZETTE                         <-------> PSB       São Paulo                353
+CD02O022E 004884 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD02O022E 004884 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD02O022E 004884 VICENTINHO                              <-------> PT        São Paulo                396
+CD02O022E 004884 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD02O022E 004884 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD02O022E 004884 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD02O022E 004884 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD02O022E 004884 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD02O022E 004884 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD02O022E 004884 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CD02O022E 004884 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD02O022E 004884 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 

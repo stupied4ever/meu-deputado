@@ -1,0 +1,513 @@
+CD01O168E 004695 BERINHO BANTIM                          Sim       PSDB      Roraima                  1
+CD01O168E 004695 DR. FRANCISCO ARAÚJO                    Sim       PSL       Roraima                  570
+CD01O168E 004695 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD01O168E 004695 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD01O168E 004695 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD01O168E 004695 TERESA SURITA                           Sim       PMDB      Roraima                  8  
+CD01O168E 004695 DALVA FIGUEIREDO                        Sim       PT        Amapá                    9  
+CD01O168E 004695 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD01O168E 004695 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD01O168E 004695 PROFESSORA MARCIVANIA                   Sim       PT        Amapá                    15 
+CD01O168E 004695 SEBASTIÃO BALA ROCHA                    Obstrução PDT       Amapá                    17 
+CD01O168E 004695 BETO FARO                               Sim       PT        Pará                     19 
+CD01O168E 004695 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD01O168E 004695 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD01O168E 004695 ELCIONE BARBALHO                        Sim       PMDB      Pará                     21 
+CD01O168E 004695 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CD01O168E 004695 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD01O168E 004695 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD01O168E 004695 LUIZ OTÁVIO                             Sim       PMDB      Pará                     526
+CD01O168E 004695 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD01O168E 004695 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CD01O168E 004695 ZEQUINHA MARINHO                        Sim       PSC       Pará                     33 
+CD01O168E 004695 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD01O168E 004695 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD01O168E 004695 PAUDERNEY AVELINO                       Não       DEM       Amazonas                 40 
+CD01O168E 004695 REBECCA GARCIA                          Sim       PP        Amazonas                 42 
+CD01O168E 004695 SABINO CASTELO BRANCO                   Sim       PTB       Amazonas                 43 
+CD01O168E 004695 MAURO NAZIF                             Sim       PSB       Rondonia                 46 
+CD01O168E 004695 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD01O168E 004695 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD01O168E 004695 PADRE TON                               Sim       PT        Rondonia                 48 
+CD01O168E 004695 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD01O168E 004695 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD01O168E 004695 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD01O168E 004695 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD01O168E 004695 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD01O168E 004695 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD01O168E 004695 CÉSAR HALUM                             Sim       PPS       Tocantins                64 
+CD01O168E 004695 IRAJÁ ABREU                             Sim       DEM       Tocantins                65 
+CD01O168E 004695 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD01O168E 004695 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD01O168E 004695 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD01O168E 004695 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD01O168E 004695 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD01O168E 004695 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CD01O168E 004695 DOMINGOS DUTRA                          Abstenção PT        Maranhão                 72 
+CD01O168E 004695 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD01O168E 004695 GASTÃO VIEIRA                           Sim       PMDB      Maranhão                 75 
+CD01O168E 004695 HÉLIO SANTOS                            Sim       PSDB      Maranhão                 76 
+CD01O168E 004695 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD01O168E 004695 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD01O168E 004695 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD01O168E 004695 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD01O168E 004695 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CD01O168E 004695 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD01O168E 004695 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD01O168E 004695 DOMINGOS NETO                           Sim       PSB       Ceará                    97 
+CD01O168E 004695 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD01O168E 004695 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD01O168E 004695 JOSÉ AIRTON                             Sim       PT        Ceará                    101
+CD01O168E 004695 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD01O168E 004695 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD01O168E 004695 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD01O168E 004695 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD01O168E 004695 HUGO NAPOLEÃO                           Sim       DEM       Piauí                    112
+CD01O168E 004695 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD01O168E 004695 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD01O168E 004695 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD01O168E 004695 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD01O168E 004695 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD01O168E 004695 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD01O168E 004695 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD01O168E 004695 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD01O168E 004695 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CD01O168E 004695 AGUINALDO RIBEIRO                       Sim       PP        Paraíba                  129
+CD01O168E 004695 BENJAMIN MARANHÃO                       Sim       PMDB      Paraíba                  131
+CD01O168E 004695 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CD01O168E 004695 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD01O168E 004695 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD01O168E 004695 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD01O168E 004695 NILDA GONDIM                            Sim       PMDB      Paraíba                  134
+CD01O168E 004695 ANA ARRAES                              Sim       PSB       Pernambuco               140
+CD01O168E 004695 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD01O168E 004695 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD01O168E 004695 EDUARDO DA FONTE                        Sim       PP        Pernambuco               156
+CD01O168E 004695 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD01O168E 004695 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD01O168E 004695 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD01O168E 004695 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD01O168E 004695 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD01O168E 004695 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD01O168E 004695 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD01O168E 004695 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD01O168E 004695 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD01O168E 004695 PAULO RUBEM SANTIAGO                    Sim       PDT       Pernambuco               554
+CD01O168E 004695 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD01O168E 004695 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD01O168E 004695 VILALBA                                 Sim       PRB       Pernambuco               555
+CD01O168E 004695 WOLNEY QUEIROZ                          Sim       PDT       Pernambuco               164
+CD01O168E 004695 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD01O168E 004695 GIVALDO CARIMBÃO                        Sim       PSB       Alagoas                  166
+CD01O168E 004695 JOÃO LYRA                               Sim       PTB       Alagoas                  167
+CD01O168E 004695 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD01O168E 004695 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD01O168E 004695 ALMEIDA LIMA                            Sim       PMDB      Sergipe                  173
+CD01O168E 004695 HELENO SILVA                            Sim       PRB       Sergipe                  175
+CD01O168E 004695 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD01O168E 004695 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD01O168E 004695 ROGÉRIO CARVALHO                        Sim       PT        Sergipe                  178
+CD01O168E 004695 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD01O168E 004695 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD01O168E 004695 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD01O168E 004695 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD01O168E 004695 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O168E 004695 ARTHUR OLIVEIRA MAIA                    Sim       PMDB      Bahia                    192
+CD01O168E 004695 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD01O168E 004695 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD01O168E 004695 EDSON PIMENTA                           Sim       PCdoB     Bahia                    193
+CD01O168E 004695 EMILIANO JOSÉ                           Sim       PT        Bahia                    523
+CD01O168E 004695 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD01O168E 004695 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD01O168E 004695 FERNANDO TORRES                         Sim       DEM       Bahia                    196
+CD01O168E 004695 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD01O168E 004695 JOSÉ CARLOS ARAÚJO                      Sim       PDT       Bahia                    197
+CD01O168E 004695 JOSÉ NUNES                              Sim       DEM       Bahia                    201
+CD01O168E 004695 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CD01O168E 004695 JOSEPH BANDEIRA                         Sim       PT        Bahia                    565
+CD01O168E 004695 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD01O168E 004695 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O168E 004695 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD01O168E 004695 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD01O168E 004695 LUIZ ARGÔLO                             Sim       PP        Bahia                    207
+CD01O168E 004695 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD01O168E 004695 MAURÍCIO TRINDADE                       Sim       PR        Bahia                    208
+CD01O168E 004695 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD01O168E 004695 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD01O168E 004695 PAULO MAGALHÃES                         Sim       DEM       Bahia                    214
+CD01O168E 004695 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD01O168E 004695 RUI COSTA                               Sim       PT        Bahia                    216
+CD01O168E 004695 SÉRGIO BARRADAS CARNEIRO                Sim       PT        Bahia                    524
+CD01O168E 004695 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD01O168E 004695 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD01O168E 004695 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD01O168E 004695 ARACELY DE PAULA                        Sim       PR        Minas Gerais             223
+CD01O168E 004695 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CD01O168E 004695 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD01O168E 004695 DIEGO ANDRADE                           Sim       PR        Minas Gerais             228
+CD01O168E 004695 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD01O168E 004695 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD01O168E 004695 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD01O168E 004695 EROS BIONDINI                           Sim       PTB       Minas Gerais             242
+CD01O168E 004695 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD01O168E 004695 GERALDO THADEU                          Sim       PPS       Minas Gerais             236
+CD01O168E 004695 GILMAR MACHADO                          Sim       PT        Minas Gerais             234
+CD01O168E 004695 JAIME MARTINS                           Sim       PR        Minas Gerais             240
+CD01O168E 004695 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD01O168E 004695 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD01O168E 004695 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD01O168E 004695 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD01O168E 004695 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CD01O168E 004695 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD01O168E 004695 MARCOS MONTES                           Sim       DEM       Minas Gerais             257
+CD01O168E 004695 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD01O168E 004695 MAURO LOPES                             Sim       PMDB      Minas Gerais             252
+CD01O168E 004695 NEWTON CARDOSO                          Sim       PMDB      Minas Gerais             258
+CD01O168E 004695 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CD01O168E 004695 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD01O168E 004695 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD01O168E 004695 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CD01O168E 004695 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD01O168E 004695 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD01O168E 004695 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD01O168E 004695 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD01O168E 004695 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD01O168E 004695 AUDIFAX                                 Sim       PSB       Espírito Santo           274
+CD01O168E 004695 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD01O168E 004695 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD01O168E 004695 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD01O168E 004695 MANATO                                  Sim       PDT       Espírito Santo           275
+CD01O168E 004695 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD01O168E 004695 SUELI VIDIGAL                           Sim       PDT       Espírito Santo           281
+CD01O168E 004695 ADRIAN                                  Sim       PMDB      Rio de Janeiro           286
+CD01O168E 004695 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD01O168E 004695 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD01O168E 004695 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD01O168E 004695 AROLDE DE OLIVEIRA                      Sim       DEM       Rio de Janeiro           288
+CD01O168E 004695 AUREO                                   Sim       PRTB      Rio de Janeiro           290
+CD01O168E 004695 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD01O168E 004695 BRIZOLA NETO                            Obstrução PDT       Rio de Janeiro           566
+CD01O168E 004695 CHICO ALENCAR                           Não       PSOL      Rio de Janeiro           295
+CD01O168E 004695 CHICO D`ANGELO                          Sim       PT        Rio de Janeiro           527
+CD01O168E 004695 DELEY                                   Sim       PSC       Rio de Janeiro           562
+CD01O168E 004695 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD01O168E 004695 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD01O168E 004695 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD01O168E 004695 DR. PAULO CÉSAR                         Sim       PR        Rio de Janeiro           296
+CD01O168E 004695 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD01O168E 004695 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD01O168E 004695 ELIANE ROLIM                            Sim       PT        Rio de Janeiro           538
+CD01O168E 004695 FELIPE BORNIER                          Sim       PHS       Rio de Janeiro           301
+CD01O168E 004695 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD01O168E 004695 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD01O168E 004695 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD01O168E 004695 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD01O168E 004695 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD01O168E 004695 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD01O168E 004695 LILIAM SÁ                               Sim       PR        Rio de Janeiro           309
+CD01O168E 004695 MARCELO MATOS                           Sim       PDT       Rio de Janeiro           311
+CD01O168E 004695 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD01O168E 004695 NEILTON MULIM                           Sim       PR        Rio de Janeiro           315
+CD01O168E 004695 NELSON BORNIER                          Sim       PMDB      Rio de Janeiro           549
+CD01O168E 004695 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD01O168E 004695 ROMÁRIO                                 Sim       PSB       Rio de Janeiro           319
+CD01O168E 004695 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD01O168E 004695 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD01O168E 004695 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD01O168E 004695 ABELARDO CAMARINHA                      Abstenção PSB       São Paulo                329
+CD01O168E 004695 ALBERTO MOURÃO                          Sim       PSDB      São Paulo                552
+CD01O168E 004695 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD01O168E 004695 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD01O168E 004695 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD01O168E 004695 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CD01O168E 004695 CÂNDIDO VACCAREZZA                      Sim       PT        São Paulo                389
+CD01O168E 004695 CARLINHOS ALMEIDA                       Sim       PT        São Paulo                341
+CD01O168E 004695 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD01O168E 004695 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD01O168E 004695 DIMAS RAMALHO                           Sim       PPS       São Paulo                346
+CD01O168E 004695 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD01O168E 004695 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O168E 004695 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD01O168E 004695 ELEUSES PAIVA                           Sim       DEM       São Paulo                537
+CD01O168E 004695 GUILHERME CAMPOS                        Sim       DEM       São Paulo                357
+CD01O168E 004695 GUILHERME MUSSI                         Sim       PV        São Paulo                348
+CD01O168E 004695 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD01O168E 004695 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD01O168E 004695 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD01O168E 004695 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD01O168E 004695 JOÃO PAULO CUNHA                        Sim       PT        São Paulo                361
+CD01O168E 004695 JONAS DONIZETTE                         Sim       PSB       São Paulo                353
+CD01O168E 004695 JOSÉ DE FILIPPI                         Sim       PT        São Paulo                354
+CD01O168E 004695 JOSÉ MENTOR                             Sim       PT        São Paulo                367
+CD01O168E 004695 JUNJI ABE                               Sim       DEM       São Paulo                355
+CD01O168E 004695 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD01O168E 004695 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD01O168E 004695 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD01O168E 004695 MILTON MONTI                            Sim       PR        São Paulo                374
+CD01O168E 004695 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD01O168E 004695 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD01O168E 004695 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD01O168E 004695 PAULO FREIRE                            Sim       PR        São Paulo                380
+CD01O168E 004695 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CD01O168E 004695 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD01O168E 004695 PENNA                                   Sim       PV        São Paulo                382
+CD01O168E 004695 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD01O168E 004695 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O168E 004695 ROBERTO SANTIAGO                        Sim       PV        São Paulo                386
+CD01O168E 004695 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CD01O168E 004695 TIRIRICA                                Sim       PR        São Paulo                392
+CD01O168E 004695 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD01O168E 004695 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD01O168E 004695 VICENTINHO                              Sim       PT        São Paulo                396
+CD01O168E 004695 WALTER IHOSHI                           Sim       DEM       São Paulo                553
+CD01O168E 004695 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD01O168E 004695 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD01O168E 004695 HOMERO PEREIRA                          Sim       PR        Mato Grosso              402
+CD01O168E 004695 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD01O168E 004695 NERI GELLER                             Sim       PP        Mato Grosso              520
+CD01O168E 004695 ROBERTO DORNER                          Sim       PP        Mato Grosso              519
+CD01O168E 004695 SÁGUAS MORAES                           Sim       PT        Mato Grosso              405
+CD01O168E 004695 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD01O168E 004695 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD01O168E 004695 IZALCI                                  Sim       PR        Distrito Federal         408
+CD01O168E 004695 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD01O168E 004695 POLICARPO                               Sim       PT        Distrito Federal         539
+CD01O168E 004695 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD01O168E 004695 RICARDO QUIRINO                         Sim       PRB       Distrito Federal         551
+CD01O168E 004695 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD01O168E 004695 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD01O168E 004695 HEULER CRUVINEL                         Sim       DEM       Goiás                    423
+CD01O168E 004695 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD01O168E 004695 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD01O168E 004695 JORGE PINHEIRO                          Sim       PRB       Goiás                    548
+CD01O168E 004695 MARINA SANTANNA                         Sim       PT        Goiás                    564
+CD01O168E 004695 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD01O168E 004695 RUBENS OTONI                            Sim       PT        Goiás                    425
+CD01O168E 004695 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD01O168E 004695 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CD01O168E 004695 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD01O168E 004695 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD01O168E 004695 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD01O168E 004695 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD01O168E 004695 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD01O168E 004695 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD01O168E 004695 ALEX CANZIANI                           Sim       PTB       Paraná                   445
+CD01O168E 004695 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD01O168E 004695 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD01O168E 004695 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD01O168E 004695 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD01O168E 004695 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD01O168E 004695 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD01O168E 004695 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD01O168E 004695 EDUARDO SCIARRA                         Sim       DEM       Paraná                   461
+CD01O168E 004695 FERNANDO FRANCISCHINI                   Sim       PSDB      Paraná                   450
+CD01O168E 004695 HERMES PARCIANELLO                      Sim       PMDB      Paraná                   448
+CD01O168E 004695 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD01O168E 004695 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD01O168E 004695 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD01O168E 004695 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD01O168E 004695 MOACIR MICHELETTO                       Sim       PMDB      Paraná                   462
+CD01O168E 004695 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD01O168E 004695 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD01O168E 004695 RATINHO JUNIOR                          Sim       PSC       Paraná                   464
+CD01O168E 004695 REINHOLD STEPHANES                      Sim       PMDB      Paraná                   467
+CD01O168E 004695 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD01O168E 004695 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD01O168E 004695 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O168E 004695 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD01O168E 004695 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CD01O168E 004695 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD01O168E 004695 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD01O168E 004695 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CD01O168E 004695 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD01O168E 004695 GEAN LOUREIRO                           Sim       PMDB      Santa Catarina           568
+CD01O168E 004695 JORGE BOEIRA                            Sim       PT        Santa Catarina           474
+CD01O168E 004695 LUCI CHOINACKI                          Sim       PT        Santa Catarina           477
+CD01O168E 004695 ONOFRE SANTO AGOSTINI                   Não       DEM       Santa Catarina           479
+CD01O168E 004695 PEDRO UCZAI                             Abstenção PT        Santa Catarina           481
+CD01O168E 004695 ZONTA                                   Sim       PP        Santa Catarina           485
+CD01O168E 004695 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD01O168E 004695 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD01O168E 004695 DANRLEI DE DEUS HINTERHOLZ              Sim       PTB       Rio Grande do Sul        495
+CD01O168E 004695 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD01O168E 004695 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD01O168E 004695 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD01O168E 004695 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD01O168E 004695 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD01O168E 004695 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD01O168E 004695 MANUELA D`ÁVILA                         Sim       PCdoB     Rio Grande do Sul        494
+CD01O168E 004695 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O168E 004695 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CD01O168E 004695 MENDES RIBEIRO FILHO                    Sim       PMDB      Rio Grande do Sul        504
+CD01O168E 004695 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD01O168E 004695 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CD01O168E 004695 PEPE VARGAS                             Sim       PT        Rio Grande do Sul        503
+CD01O168E 004695 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD01O168E 004695 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD01O168E 004695 SÉRGIO MORAES                           Sim       PTB       Rio Grande do Sul        512
+CD01O168E 004695 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD01O168E 004695 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O168E 004695 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O168E 004695 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD01O168E 004695 RUI PALMEIRA                            <-------> PSDB      Alagoas                  171
+CD01O168E 004695 JOAQUIM BELTRÃO                         <-------> PMDB      Alagoas                  172
+CD01O168E 004695 CELIA ROCHA                             <-------> PTB       Alagoas                  165
+CD01O168E 004695 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O168E 004695 SILAS CÂMARA                            <-------> PSC       Amazonas                 39 
+CD01O168E 004695 CARLOS SOUZA                            <-------> PP        Amazonas                 37 
+CD01O168E 004695 ÁTILA LINS                              <-------> PMDB      Amazonas                 38 
+CD01O168E 004695 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD01O168E 004695 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O168E 004695 VINICIUS GURGEL                         <-------> PRTB      Amapá                    16 
+CD01O168E 004695 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD01O168E 004695 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O168E 004695 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD01O168E 004695 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD01O168E 004695 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD01O168E 004695 SÉRGIO BRITO                            <-------> PSC       Bahia                    213
+CD01O168E 004695 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD01O168E 004695 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD01O168E 004695 CHICO LOPES                             <-------> PCdoB     Ceará                    88 
+CD01O168E 004695 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD01O168E 004695 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD01O168E 004695 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD01O168E 004695 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O168E 004695 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O168E 004695 MANOEL SALVIANO                         <-------> PSDB      Ceará                    104
+CD01O168E 004695 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD01O168E 004695 RAIMUNDÃO                               <-------> PMDB      Ceará                    108
+CD01O168E 004695 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O168E 004695 ERIKA KOKAY                             <-------> PT        Distrito Federal         407
+CD01O168E 004695 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD01O168E 004695 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD01O168E 004695 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD01O168E 004695 DELEGADO WALDIR                         <-------> PSDB      Goiás                    559
+CD01O168E 004695 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O168E 004695 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O168E 004695 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O168E 004695 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O168E 004695 PEDRO CHAVES                            <-------> PMDB      Goiás                    428
+CD01O168E 004695 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD01O168E 004695 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD01O168E 004695 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O168E 004695 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD01O168E 004695 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O168E 004695 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O168E 004695 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O168E 004695 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O168E 004695 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD01O168E 004695 ALBERTO FILHO                           <-------> PMDB      Maranhão                 71 
+CD01O168E 004695 MÁRCIO REINALDO MOREIRA                 <-------> PP        Minas Gerais             247
+CD01O168E 004695 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O168E 004695 STEFANO AGUIAR                          <-------> PSC       Minas Gerais             558
+CD01O168E 004695 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O168E 004695 WALTER TOSTA                            <-------> PMN       Minas Gerais             267
+CD01O168E 004695 ZÉ SILVA                                <-------> PDT       Minas Gerais             271
+CD01O168E 004695 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O168E 004695 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O168E 004695 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD01O168E 004695 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD01O168E 004695 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD01O168E 004695 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD01O168E 004695 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O168E 004695 ANTÔNIO ANDRADE                         <-------> PMDB      Minas Gerais             227
+CD01O168E 004695 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O168E 004695 ADEMIR CAMILO                           <-------> PDT       Minas Gerais             220
+CD01O168E 004695 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O168E 004695 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O168E 004695 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD01O168E 004695 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD01O168E 004695 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD01O168E 004695 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD01O168E 004695 GIROTO                                  <-------> PR        Mato Grosso do Sul       434
+CD01O168E 004695 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O168E 004695 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O168E 004695 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O168E 004695 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O168E 004695 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD01O168E 004695 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O168E 004695 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O168E 004695 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O168E 004695 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD01O168E 004695 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD01O168E 004695 ROMERO RODRIGUES                        <-------> PSDB      Paraíba                  135
+CD01O168E 004695 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD01O168E 004695 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD01O168E 004695 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD01O168E 004695 RAUL HENRY                              <-------> PMDB      Pernambuco               163
+CD01O168E 004695 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O168E 004695 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O168E 004695 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O168E 004695 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD01O168E 004695 JÚLIO CESAR                             <-------> DEM       Piauí                    114
+CD01O168E 004695 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD01O168E 004695 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD01O168E 004695 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O168E 004695 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O168E 004695 NELSON MEURER                           <-------> PP        Paraná                   458
+CD01O168E 004695 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O168E 004695 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD01O168E 004695 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD01O168E 004695 SOLANGE ALMEIDA                         <-------> PMDB      Rio de Janeiro           563
+CD01O168E 004695 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD01O168E 004695 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD01O168E 004695 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD01O168E 004695 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O168E 004695 CRISTIANO                               <-------> PTdoB     Rio de Janeiro           292
+CD01O168E 004695 EDSON EZEQUIEL                          <-------> PMDB      Rio de Janeiro           298
+CD01O168E 004695 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CD01O168E 004695 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD01O168E 004695 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O168E 004695 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O168E 004695 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD01O168E 004695 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O168E 004695 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD01O168E 004695 LINDOMAR GARÇON                         <-------> PV        Rondonia                 45 
+CD01O168E 004695 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O168E 004695 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD01O168E 004695 RAUL LIMA                               <-------> PP        Roraima                  7  
+CD01O168E 004695 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD01O168E 004695 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O168E 004695 JOSÉ STÉDILE                            <-------> PSB       Rio Grande do Sul        506
+CD01O168E 004695 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD01O168E 004695 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O168E 004695 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD01O168E 004695 ASSIS MELO                              <-------> PCdoB     Rio Grande do Sul        492
+CD01O168E 004695 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O168E 004695 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD01O168E 004695 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD01O168E 004695 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD01O168E 004695 RONALDO ZULKE                           <-------> PT        Rio Grande do Sul        515
+CD01O168E 004695 EDINHO BEZ                              <-------> PMDB      Santa Catarina           470
+CD01O168E 004695 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD01O168E 004695 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O168E 004695 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD01O168E 004695 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD01O168E 004695 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O168E 004695 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD01O168E 004695 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O168E 004695 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O168E 004695 MARCELO AGUIAR                          <-------> PSC       São Paulo                370
+CD01O168E 004695 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD01O168E 004695 RICARDO IZAR                            <-------> PV        São Paulo                383
+CD01O168E 004695 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD01O168E 004695 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD01O168E 004695 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O168E 004695 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O168E 004695 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O168E 004695 ALDO REBELO                             <-------> PCdoB     São Paulo                331
+CD01O168E 004695 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD01O168E 004695 ARNALDO FARIA DE SÁ                     <-------> PTB       São Paulo                337
+CD01O168E 004695 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD01O168E 004695 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O168E 004695 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O168E 004695 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O168E 004695 JEFFERSON CAMPOS                        <-------> PSB       São Paulo                349
+CD01O168E 004695 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD01O168E 004695 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CD01O168E 004695 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD01O168E 004695 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD01O168E 004695 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD01O168E 004695 OTONIEL LIMA                            <-------> PRB       São Paulo                378
+CD01O168E 004695 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD01O168E 004695 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 

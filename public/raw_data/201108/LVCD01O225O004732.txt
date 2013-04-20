@@ -1,0 +1,513 @@
+CD01O225O 004732 BERINHO BANTIM                          Presente  PSDB      Roraima                  1
+CD01O225O 004732 EDIO LOPES                              Presente  PMDB      Roraima                  2  
+CD01O225O 004732 FRANCISCO ARAÚJO                        Presente  PSL       Roraima                  570
+CD01O225O 004732 LUCIANO CASTRO                          Presente  PR        Roraima                  4  
+CD01O225O 004732 PAULO CESAR QUARTIERO                   Presente  DEM       Roraima                  6  
+CD01O225O 004732 RAUL LIMA                               Presente  PP        Roraima                  7  
+CD01O225O 004732 TERESA SURITA                           Presente  PMDB      Roraima                  8  
+CD01O225O 004732 DALVA FIGUEIREDO                        Presente  PT        Amapá                    9  
+CD01O225O 004732 DAVI ALCOLUMBRE                         Presente  DEM       Amapá                    10 
+CD01O225O 004732 EVANDRO MILHOMEN                        Presente  PCdoB     Amapá                    11 
+CD01O225O 004732 JANETE CAPIBERIBE                       Presente  PSB       Amapá                    572
+CD01O225O 004732 LUIZ CARLOS                             Presente  PSDB      Amapá                    14 
+CD01O225O 004732 SEBASTIÃO BALA ROCHA                    Presente  PDT       Amapá                    17 
+CD01O225O 004732 VINICIUS GURGEL                         Presente  S.Part.   Amapá                    16 
+CD01O225O 004732 ANDRÉ DIAS                              Presente  PSDB      Pará                     517
+CD01O225O 004732 ARNALDO JORDY                           Presente  PPS       Pará                     18 
+CD01O225O 004732 ASDRUBAL BENTES                         Presente  PMDB      Pará                     20 
+CD01O225O 004732 CLÁUDIO PUTY                            Presente  PT        Pará                     22 
+CD01O225O 004732 DUDIMAR PAXIÚBA                         Presente  PSDB      Pará                     518
+CD01O225O 004732 ELCIONE BARBALHO                        Presente  PMDB      Pará                     21 
+CD01O225O 004732 GIOVANNI QUEIROZ                        Presente  PDT       Pará                     27 
+CD01O225O 004732 JOSUÉ BENGTSON                          Presente  PTB       Pará                     30 
+CD01O225O 004732 LÚCIO VALE                              Presente  PR        Pará                     29 
+CD01O225O 004732 MIRIQUINHO BATISTA                      Presente  PT        Pará                     35 
+CD01O225O 004732 WLADIMIR COSTA                          Presente  PMDB      Pará                     23 
+CD01O225O 004732 ZÉ GERALDO                              Presente  PT        Pará                     25 
+CD01O225O 004732 ÁTILA LINS                              Presente  PMDB      Amazonas                 38 
+CD01O225O 004732 CARLOS SOUZA                            Presente  PP        Amazonas                 37 
+CD01O225O 004732 FRANCISCO PRACIANO                      Presente  PT        Amazonas                 41 
+CD01O225O 004732 HENRIQUE OLIVEIRA                       Presente  PR        Amazonas                 36 
+CD01O225O 004732 PAUDERNEY AVELINO                       Presente  DEM       Amazonas                 40 
+CD01O225O 004732 SABINO CASTELO BRANCO                   Presente  PTB       Amazonas                 43 
+CD01O225O 004732 SILAS CÂMARA                            Presente  PSC       Amazonas                 39 
+CD01O225O 004732 CARLOS MAGNO                            Presente  PP        Rondonia                 44 
+CD01O225O 004732 MARINHA RAUPP                           Presente  PMDB      Rondonia                 50 
+CD01O225O 004732 MAURO NAZIF                             Presente  PSB       Rondonia                 46 
+CD01O225O 004732 NATAN DONADON                           Presente  PMDB      Rondonia                 51 
+CD01O225O 004732 NILTON CAPIXABA                         Presente  PTB       Rondonia                 47 
+CD01O225O 004732 PADRE TON                               Presente  PT        Rondonia                 48 
+CD01O225O 004732 ANTÔNIA LÚCIA                           Presente  PSC       Acre                     53 
+CD01O225O 004732 FLAVIANO MELO                           Presente  PMDB      Acre                     54 
+CD01O225O 004732 GLADSON CAMELI                          Presente  PP        Acre                     55 
+CD01O225O 004732 MARCIO BITTAR                           Presente  PSDB      Acre                     57 
+CD01O225O 004732 SIBÁ MACHADO                            Presente  PT        Acre                     58 
+CD01O225O 004732 TAUMATURGO LIMA                         Presente  PT        Acre                     59 
+CD01O225O 004732 ÂNGELO AGNOLIN                          Presente  PDT       Tocantins                61 
+CD01O225O 004732 CÉSAR HALUM                             Presente  PPS       Tocantins                64 
+CD01O225O 004732 EDUARDO GOMES                           Presente  PSDB      Tocantins                60 
+CD01O225O 004732 JÚNIOR COIMBRA                          Presente  PMDB      Tocantins                66 
+CD01O225O 004732 LAUREZ MOREIRA                          Presente  PSB       Tocantins                62 
+CD01O225O 004732 LÁZARO BOTELHO                          Presente  PP        Tocantins                63 
+CD01O225O 004732 PROFESSORA DORINHA SEABRA REZEN         Presente  DEM       Tocantins                67 
+CD01O225O 004732 ALBERTO FILHO                           Presente  PMDB      Maranhão                 71 
+CD01O225O 004732 CARLOS BRANDÃO                          Presente  PSDB      Maranhão                 68 
+CD01O225O 004732 CLEBER VERDE                            Presente  PRB       Maranhão                 70 
+CD01O225O 004732 COSTA FERREIRA                          Presente  PSC       Maranhão                 571
+CD01O225O 004732 DAVI ALVES SILVA JÚNIOR                 Presente  PR        Maranhão                 528
+CD01O225O 004732 DOMINGOS DUTRA                          Presente  PT        Maranhão                 72 
+CD01O225O 004732 EDIVALDO HOLANDA JUNIOR                 Presente  PTC       Maranhão                 73 
+CD01O225O 004732 FRANCISCO ESCÓRCIO                      Presente  PMDB      Maranhão                 567
+CD01O225O 004732 GASTÃO VIEIRA                           Presente  PMDB      Maranhão                 75 
+CD01O225O 004732 HÉLIO SANTOS                            Presente  PSDB      Maranhão                 76 
+CD01O225O 004732 LOURIVAL MENDES                         Presente  PTdoB     Maranhão                 77 
+CD01O225O 004732 PINTO ITAMARATY                         Presente  PSDB      Maranhão                 79 
+CD01O225O 004732 PROFESSOR SETIMO                        Presente  PMDB      Maranhão                 81 
+CD01O225O 004732 RIBAMAR ALVES                           Presente  PSB       Maranhão                 74 
+CD01O225O 004732 SARNEY FILHO                            Presente  PV        Maranhão                 85 
+CD01O225O 004732 WALDIR MARANHÃO                         Presente  PP        Maranhão                 84 
+CD01O225O 004732 ZÉ VIEIRA                               Presente  PR        Maranhão                 86 
+CD01O225O 004732 ANDRÉ FIGUEIREDO                        Presente  PDT       Ceará                    89 
+CD01O225O 004732 ANÍBAL GOMES                            Presente  PMDB      Ceará                    87 
+CD01O225O 004732 ANTONIO BALHMANN                        Presente  PSB       Ceará                    93 
+CD01O225O 004732 ARIOSTO HOLANDA                         Presente  PSB       Ceará                    92 
+CD01O225O 004732 ARNON BEZERRA                           Presente  PTB       Ceará                    90 
+CD01O225O 004732 ARTUR BRUNO                             Presente  PT        Ceará                    94 
+CD01O225O 004732 CHICO LOPES                             Presente  PCdoB     Ceará                    88 
+CD01O225O 004732 DANILO FORTE                            Presente  PMDB      Ceará                    95 
+CD01O225O 004732 DOMINGOS NETO                           Presente  PSB       Ceará                    97 
+CD01O225O 004732 EDSON SILVA                             Presente  PSB       Ceará                    98 
+CD01O225O 004732 EUDES XAVIER                            Presente  PT        Ceará                    91 
+CD01O225O 004732 GENECIAS NORONHA                        Presente  PMDB      Ceará                    99 
+CD01O225O 004732 GORETE PEREIRA                          Presente  PR        Ceará                    100
+CD01O225O 004732 JOÃO ANANIAS                            Presente  PCdoB     Ceará                    106
+CD01O225O 004732 JOSÉ GUIMARÃES                          Presente  PT        Ceará                    103
+CD01O225O 004732 JOSÉ LINHARES                           Presente  PP        Ceará                    96 
+CD01O225O 004732 MANOEL SALVIANO                         Presente  PSDB      Ceará                    104
+CD01O225O 004732 MAURO BENEVIDES                         Presente  PMDB      Ceará                    105
+CD01O225O 004732 RAIMUNDÃO                               Presente  PMDB      Ceará                    108
+CD01O225O 004732 RAIMUNDO GOMES DE MATOS                 Presente  PSDB      Ceará                    102
+CD01O225O 004732 VICENTE ARRUDA                          Presente  PR        Ceará                    107
+CD01O225O 004732 ASSIS CARVALHO                          Presente  PT        Piauí                    111
+CD01O225O 004732 HUGO NAPOLEÃO                           Presente  DEM       Piauí                    112
+CD01O225O 004732 IRACEMA PORTELLA                        Presente  PP        Piauí                    113
+CD01O225O 004732 JESUS RODRIGUES                         Presente  PT        Piauí                    115
+CD01O225O 004732 JÚLIO CESAR                             Presente  DEM       Piauí                    114
+CD01O225O 004732 MARCELO CASTRO                          Presente  PMDB      Piauí                    110
+CD01O225O 004732 MARLLOS SAMPAIO                         Presente  PMDB      Piauí                    117
+CD01O225O 004732 NAZARENO FONTELES                       Presente  PT        Piauí                    530
+CD01O225O 004732 OSMAR JÚNIOR                            Presente  PCdoB     Piauí                    116
+CD01O225O 004732 PAES LANDIM                             Presente  PTB       Piauí                    118
+CD01O225O 004732 FÁBIO FARIA                             Presente  PMN       Rio Grande do Norte      119
+CD01O225O 004732 FELIPE MAIA                             Presente  DEM       Rio Grande do Norte      120
+CD01O225O 004732 HENRIQUE EDUARDO ALVES                  Presente  PMDB      Rio Grande do Norte      123
+CD01O225O 004732 JOÃO MAIA                               Presente  PR        Rio Grande do Norte      124
+CD01O225O 004732 ROGÉRIO MARINHO                         Presente  PSDB      Rio Grande do Norte      540
+CD01O225O 004732 SANDRA ROSADO                           Presente  PSB       Rio Grande do Norte      125
+CD01O225O 004732 AGUINALDO RIBEIRO                       Presente  PP        Paraíba                  129
+CD01O225O 004732 BENJAMIN MARANHÃO                       Presente  PMDB      Paraíba                  131
+CD01O225O 004732 DAMIÃO FELICIANO                        Presente  PDT       Paraíba                  127
+CD01O225O 004732 EFRAIM FILHO                            Presente  DEM       Paraíba                  128
+CD01O225O 004732 HUGO MOTTA                              Presente  PMDB      Paraíba                  132
+CD01O225O 004732 LUIZ COUTO                              Presente  PT        Paraíba                  133
+CD01O225O 004732 MANOEL JUNIOR                           Presente  PMDB      Paraíba                  130
+CD01O225O 004732 NILDA GONDIM                            Presente  PMDB      Paraíba                  134
+CD01O225O 004732 ROMERO RODRIGUES                        Presente  PSDB      Paraíba                  135
+CD01O225O 004732 RUY CARNEIRO                            Presente  PSDB      Paraíba                  137
+CD01O225O 004732 WILSON FILHO                            Presente  PMDB      Paraíba                  139
+CD01O225O 004732 ANA ARRAES                              Presente  PSB       Pernambuco               140
+CD01O225O 004732 ANDERSON FERREIRA                       Presente  PR        Pernambuco               142
+CD01O225O 004732 AUGUSTO COUTINHO                        Presente  DEM       Pernambuco               144
+CD01O225O 004732 BRUNO ARAÚJO                            Presente  PSDB      Pernambuco               146
+CD01O225O 004732 CARLOS EDUARDO CADOCA                   Presente  PSC       Pernambuco               152
+CD01O225O 004732 FERNANDO COELHO FILHO                   Presente  PSB       Pernambuco               158
+CD01O225O 004732 JORGE CORTE REAL                        Presente  PTB       Pernambuco               150
+CD01O225O 004732 JOSÉ AUGUSTO MAIA                       Presente  PTB       Pernambuco               151
+CD01O225O 004732 JOSÉ CHAVES                             Presente  PTB       Pernambuco               147
+CD01O225O 004732 MENDONÇA FILHO                          Presente  DEM       Pernambuco               154
+CD01O225O 004732 PASTOR EURICO                           Presente  PSB       Pernambuco               155
+CD01O225O 004732 PEDRO EUGÊNIO                           Presente  PT        Pernambuco               161
+CD01O225O 004732 RAUL HENRY                              Presente  PMDB      Pernambuco               163
+CD01O225O 004732 ROBERTO TEIXEIRA                        Presente  PP        Pernambuco               157
+CD01O225O 004732 SERGIO GUERRA                           Presente  PSDB      Pernambuco               159
+CD01O225O 004732 SILVIO COSTA                            Presente  PTB       Pernambuco               160
+CD01O225O 004732 VILALBA                                 Presente  PRB       Pernambuco               555
+CD01O225O 004732 ARTHUR LIRA                             Presente  PP        Alagoas                  162
+CD01O225O 004732 CELIA ROCHA                             Presente  PTB       Alagoas                  165
+CD01O225O 004732 GIVALDO CARIMBÃO                        Presente  PSB       Alagoas                  166
+CD01O225O 004732 JOAQUIM BELTRÃO                         Presente  PMDB      Alagoas                  172
+CD01O225O 004732 MAURÍCIO QUINTELLA LESSA                Presente  PR        Alagoas                  168
+CD01O225O 004732 RENAN FILHO                             Presente  PMDB      Alagoas                  169
+CD01O225O 004732 RUI PALMEIRA                            Presente  PSDB      Alagoas                  171
+CD01O225O 004732 ALMEIDA LIMA                            Presente  PMDB      Sergipe                  173
+CD01O225O 004732 ANDRE MOURA                             Presente  PSC       Sergipe                  174
+CD01O225O 004732 HELENO SILVA                            Presente  PRB       Sergipe                  175
+CD01O225O 004732 LAERCIO OLIVEIRA                        Presente  PR        Sergipe                  176
+CD01O225O 004732 MENDONÇA PRADO                          Presente  DEM       Sergipe                  179
+CD01O225O 004732 ROGÉRIO CARVALHO                        Presente  PT        Sergipe                  178
+CD01O225O 004732 VALADARES FILHO                         Presente  PSB       Sergipe                  183
+CD01O225O 004732 ACELINO POPÓ                            Presente  PRB       Bahia                    522
+CD01O225O 004732 ALICE PORTUGAL                          Presente  PCdoB     Bahia                    180
+CD01O225O 004732 AMAURI TEIXEIRA                         Presente  PT        Bahia                    184
+CD01O225O 004732 ANTONIO BRITO                           Presente  PTB       Bahia                    189
+CD01O225O 004732 ANTONIO CARLOS MAGALHÃES NETO           Presente  DEM       Bahia                    181
+CD01O225O 004732 ANTONIO IMBASSAHY                       Presente  PSDB      Bahia                    191
+CD01O225O 004732 CLAUDIO CAJADO                          Presente  DEM       Bahia                    186
+CD01O225O 004732 DANIEL ALMEIDA                          Presente  PCdoB     Bahia                    188
+CD01O225O 004732 EDSON PIMENTA                           Presente  PCdoB     Bahia                    193
+CD01O225O 004732 EMILIANO JOSÉ                           Presente  PT        Bahia                    523
+CD01O225O 004732 ERIVELTON SANTANA                       Presente  PSC       Bahia                    194
+CD01O225O 004732 FÁBIO SOUTO                             Presente  DEM       Bahia                    190
+CD01O225O 004732 FELIX MENDONÇA JÚNIOR                   Presente  PDT       Bahia                    195
+CD01O225O 004732 FERNANDO TORRES                         Presente  DEM       Bahia                    196
+CD01O225O 004732 GERALDO SIMÕES                          Presente  PT        Bahia                    185
+CD01O225O 004732 JÂNIO NATAL                             Presente  PRP       Bahia                    198
+CD01O225O 004732 JOÃO CARLOS BACELAR                     Presente  PR        Bahia                    187
+CD01O225O 004732 JOSÉ CARLOS ARAÚJO                      Presente  PDT       Bahia                    197
+CD01O225O 004732 JOSÉ NUNES                              Presente  DEM       Bahia                    201
+CD01O225O 004732 JOSÉ ROCHA                              Presente  PR        Bahia                    203
+CD01O225O 004732 JOSEPH BANDEIRA                         Presente  PT        Bahia                    565
+CD01O225O 004732 JOSIAS GOMES                            Presente  PT        Bahia                    202
+CD01O225O 004732 JUTAHY JUNIOR                           Presente  PSDB      Bahia                    206
+CD01O225O 004732 LUCIO VIEIRA LIMA                       Presente  PMDB      Bahia                    205
+CD01O225O 004732 LUIZ ALBERTO                            Presente  PT        Bahia                    204
+CD01O225O 004732 LUIZ ARGÔLO                             Presente  PP        Bahia                    207
+CD01O225O 004732 MÁRCIO MARINHO                          Presente  PRB       Bahia                    212
+CD01O225O 004732 MARCOS MEDRADO                          Presente  PDT       Bahia                    200
+CD01O225O 004732 MAURÍCIO TRINDADE                       Presente  PR        Bahia                    208
+CD01O225O 004732 PAULO MAGALHÃES                         Presente  DEM       Bahia                    214
+CD01O225O 004732 ROBERTO BRITTO                          Presente  PP        Bahia                    211
+CD01O225O 004732 RUI COSTA                               Presente  PT        Bahia                    216
+CD01O225O 004732 SÉRGIO BARRADAS CARNEIRO                Presente  PT        Bahia                    524
+CD01O225O 004732 SÉRGIO BRITO                            Presente  PSC       Bahia                    213
+CD01O225O 004732 VALMIR ASSUNÇÃO                         Presente  PT        Bahia                    218
+CD01O225O 004732 WALDENOR PEREIRA                        Presente  PT        Bahia                    219
+CD01O225O 004732 ADEMIR CAMILO                           Presente  PDT       Minas Gerais             220
+CD01O225O 004732 AELTON FREITAS                          Presente  PR        Minas Gerais             224
+CD01O225O 004732 ANTÔNIO ANDRADE                         Presente  PMDB      Minas Gerais             227
+CD01O225O 004732 ANTÔNIO ROBERTO                         Presente  PV        Minas Gerais             229
+CD01O225O 004732 BERNARDO SANTANA DE VASCONCELLO         Presente  PR        Minas Gerais             221
+CD01O225O 004732 BONIFÁCIO DE ANDRADA                    Presente  PSDB      Minas Gerais             534
+CD01O225O 004732 CARLAILE PEDROSA                        Presente  PSDB      Minas Gerais             222
+CD01O225O 004732 DIEGO ANDRADE                           Presente  PR        Minas Gerais             228
+CD01O225O 004732 DIMAS FABIANO                           Presente  PP        Minas Gerais             231
+CD01O225O 004732 DOMINGOS SÁVIO                          Presente  PSDB      Minas Gerais             233
+CD01O225O 004732 DR. GRILO                               Presente  PSL       Minas Gerais             235
+CD01O225O 004732 EDUARDO AZEREDO                         Presente  PSDB      Minas Gerais             237
+CD01O225O 004732 EDUARDO BARBOSA                         Presente  PSDB      Minas Gerais             230
+CD01O225O 004732 EROS BIONDINI                           Presente  PTB       Minas Gerais             242
+CD01O225O 004732 FÁBIO RAMALHO                           Presente  PV        Minas Gerais             238
+CD01O225O 004732 GEORGE HILTON                           Presente  PRB       Minas Gerais             241
+CD01O225O 004732 GERALDO THADEU                          Presente  PPS       Minas Gerais             236
+CD01O225O 004732 JAIME MARTINS                           Presente  PR        Minas Gerais             240
+CD01O225O 004732 JAIRO ATAIDE                            Presente  DEM       Minas Gerais             533
+CD01O225O 004732 JÔ MORAES                               Presente  PCdoB     Minas Gerais             246
+CD01O225O 004732 JOÃO MAGALHÃES                          Presente  PMDB      Minas Gerais             239
+CD01O225O 004732 JOSÉ HUMBERTO                           Presente  PHS       Minas Gerais             249
+CD01O225O 004732 JÚLIO DELGADO                           Presente  PSB       Minas Gerais             250
+CD01O225O 004732 LAEL VARELLA                            Presente  DEM       Minas Gerais             245
+CD01O225O 004732 LEONARDO MONTEIRO                       Presente  PT        Minas Gerais             253
+CD01O225O 004732 LEONARDO QUINTÃO                        Presente  PMDB      Minas Gerais             255
+CD01O225O 004732 LINCOLN PORTELA                         Presente  PR        Minas Gerais             243
+CD01O225O 004732 LUIS TIBÉ                               Presente  PTdoB     Minas Gerais             251
+CD01O225O 004732 LUIZ FERNANDO FARIA                     Presente  PP        Minas Gerais             256
+CD01O225O 004732 MÁRCIO REINALDO MOREIRA                 Presente  PP        Minas Gerais             247
+CD01O225O 004732 MARCOS MONTES                           Presente  DEM       Minas Gerais             257
+CD01O225O 004732 MARCUS PESTANA                          Presente  PSDB      Minas Gerais             254
+CD01O225O 004732 MAURO LOPES                             Presente  PMDB      Minas Gerais             252
+CD01O225O 004732 MIGUEL CORRÊA                           Presente  PT        Minas Gerais             261
+CD01O225O 004732 ODAIR CUNHA                             Presente  PT        Minas Gerais             269
+CD01O225O 004732 PADRE JOÃO                              Presente  PT        Minas Gerais             259
+CD01O225O 004732 PAULO ABI-ACKEL                         Presente  PSDB      Minas Gerais             263
+CD01O225O 004732 PAULO PIAU                              Presente  PMDB      Minas Gerais             266
+CD01O225O 004732 REGINALDO LOPES                         Presente  PT        Minas Gerais             272
+CD01O225O 004732 RODRIGO DE CASTRO                       Presente  PSDB      Minas Gerais             268
+CD01O225O 004732 SARAIVA FELIPE                          Presente  PMDB      Minas Gerais             265
+CD01O225O 004732 TONINHO PINHEIRO                        Presente  PP        Minas Gerais             264
+CD01O225O 004732 WALTER TOSTA                            Presente  PMN       Minas Gerais             267
+CD01O225O 004732 WELITON PRADO                           Presente  PT        Minas Gerais             270
+CD01O225O 004732 AUDIFAX                                 Presente  PSB       Espírito Santo           274
+CD01O225O 004732 CAMILO COLA                             Presente  PMDB      Espírito Santo           543
+CD01O225O 004732 CESAR COLNAGO                           Presente  PSDB      Espírito Santo           276
+CD01O225O 004732 DR. JORGE SILVA                         Presente  PDT       Espírito Santo           278
+CD01O225O 004732 LAURIETE                                Presente  PSC       Espírito Santo           279
+CD01O225O 004732 LELO COIMBRA                            Presente  PMDB      Espírito Santo           277
+CD01O225O 004732 MANATO                                  Presente  PDT       Espírito Santo           275
+CD01O225O 004732 PAULO FOLETTO                           Presente  PSB       Espírito Santo           280
+CD01O225O 004732 ROSE DE FREITAS                         Presente  PMDB      Espírito Santo           282
+CD01O225O 004732 ALESSANDRO MOLON                        Presente  PT        Rio de Janeiro           287
+CD01O225O 004732 ALFREDO SIRKIS                          Presente  PV        Rio de Janeiro           321
+CD01O225O 004732 ANDREIA ZITO                            Presente  PSDB      Rio de Janeiro           283
+CD01O225O 004732 ANTHONY GAROTINHO                       Presente  PR        Rio de Janeiro           289
+CD01O225O 004732 AROLDE DE OLIVEIRA                      Presente  DEM       Rio de Janeiro           288
+CD01O225O 004732 AUREO                                   Presente  PRTB      Rio de Janeiro           290
+CD01O225O 004732 BENEDITA DA SILVA                       Presente  PT        Rio de Janeiro           291
+CD01O225O 004732 CHICO ALENCAR                           Presente  PSOL      Rio de Janeiro           295
+CD01O225O 004732 CHICO D`ANGELO                          Presente  PT        Rio de Janeiro           527
+CD01O225O 004732 DELEY                                   Presente  PSC       Rio de Janeiro           562
+CD01O225O 004732 DR. ADILSON SOARES                      Presente  PR        Rio de Janeiro           293
+CD01O225O 004732 DR. ALUIZIO                             Presente  PV        Rio de Janeiro           294
+CD01O225O 004732 DR. CARLOS ALBERTO                      Presente  PMN       Rio de Janeiro           529
+CD01O225O 004732 DR. PAULO CÉSAR                         Presente  PR        Rio de Janeiro           296
+CD01O225O 004732 EDSON EZEQUIEL                          Presente  PMDB      Rio de Janeiro           298
+CD01O225O 004732 EDSON SANTOS                            Presente  PT        Rio de Janeiro           299
+CD01O225O 004732 EDUARDO CUNHA                           Presente  PMDB      Rio de Janeiro           300
+CD01O225O 004732 FERNANDO JORDÃO                         Presente  PMDB      Rio de Janeiro           557
+CD01O225O 004732 FILIPE PEREIRA                          Presente  PSC       Rio de Janeiro           303
+CD01O225O 004732 FRANCISCO FLORIANO                      Presente  PR        Rio de Janeiro           297
+CD01O225O 004732 GLAUBER BRAGA                           Presente  PSB       Rio de Janeiro           304
+CD01O225O 004732 HUGO LEAL                               Presente  PSC       Rio de Janeiro           306
+CD01O225O 004732 JAIR BOLSONARO                          Presente  PP        Rio de Janeiro           302
+CD01O225O 004732 JANDIRA FEGHALI                         Presente  PCdoB     Rio de Janeiro           305
+CD01O225O 004732 JEAN WYLLYS                             Presente  PSOL      Rio de Janeiro           307
+CD01O225O 004732 LILIAM SÁ                               Presente  PR        Rio de Janeiro           309
+CD01O225O 004732 MARCELO MATOS                           Presente  PDT       Rio de Janeiro           311
+CD01O225O 004732 MIRO TEIXEIRA                           Presente  PDT       Rio de Janeiro           317
+CD01O225O 004732 NEILTON MULIM                           Presente  PR        Rio de Janeiro           315
+CD01O225O 004732 NELSON BORNIER                          Presente  PMDB      Rio de Janeiro           549
+CD01O225O 004732 OTAVIO LEITE                            Presente  PSDB      Rio de Janeiro           316
+CD01O225O 004732 PAULO FEIJÓ                             Presente  PR        Rio de Janeiro           577
+CD01O225O 004732 RODRIGO MAIA                            Presente  DEM       Rio de Janeiro           322
+CD01O225O 004732 ROMÁRIO                                 Presente  PSB       Rio de Janeiro           319
+CD01O225O 004732 SIMÃO SESSIM                            Presente  PP        Rio de Janeiro           327
+CD01O225O 004732 SOLANGE ALMEIDA                         Presente  PMDB      Rio de Janeiro           563
+CD01O225O 004732 STEPAN NERCESSIAN                       Presente  PPS       Rio de Janeiro           323
+CD01O225O 004732 VITOR PAULO                             Presente  PRB       Rio de Janeiro           324
+CD01O225O 004732 WALNEY ROCHA                            Presente  PTB       Rio de Janeiro           325
+CD01O225O 004732 WASHINGTON REIS                         Presente  PMDB      Rio de Janeiro           326
+CD01O225O 004732 ZOINHO                                  Presente  PR        Rio de Janeiro           328
+CD01O225O 004732 ALDO REBELO                             Presente  PCdoB     São Paulo                331
+CD01O225O 004732 ALEXANDRE LEITE                         Presente  DEM       São Paulo                334
+CD01O225O 004732 ALINE CORRÊA                            Presente  PP        São Paulo                330
+CD01O225O 004732 ANTONIO BULHÕES                         Presente  PRB       São Paulo                333
+CD01O225O 004732 ANTONIO CARLOS MENDES THAME             Presente  PSDB      São Paulo                332
+CD01O225O 004732 ARLINDO CHINAGLIA                       Presente  PT        São Paulo                336
+CD01O225O 004732 ARNALDO FARIA DE SÁ                     Presente  PTB       São Paulo                337
+CD01O225O 004732 ARNALDO JARDIM                          Presente  PPS       São Paulo                339
+CD01O225O 004732 BETO MANSUR                             Presente  PP        São Paulo                340
+CD01O225O 004732 BRUNA FURLAN                            Presente  PSDB      São Paulo                335
+CD01O225O 004732 CÂNDIDO VACCAREZZA                      Presente  PT        São Paulo                389
+CD01O225O 004732 CARLINHOS ALMEIDA                       Presente  PT        São Paulo                341
+CD01O225O 004732 CARLOS ROBERTO                          Presente  PSDB      São Paulo                569
+CD01O225O 004732 CARLOS SAMPAIO                          Presente  PSDB      São Paulo                338
+CD01O225O 004732 CARLOS ZARATTINI                        Presente  PT        São Paulo                398
+CD01O225O 004732 DELEGADO PROTÓGENES                     Presente  PCdoB     São Paulo                343
+CD01O225O 004732 DEVANIR RIBEIRO                         Presente  PT        São Paulo                342
+CD01O225O 004732 DIMAS RAMALHO                           Presente  PPS       São Paulo                346
+CD01O225O 004732 DR. UBIALI                              Presente  PSB       São Paulo                541
+CD01O225O 004732 DRA.ELAINE ABISSAMRA                    Presente  PSB       São Paulo                576
+CD01O225O 004732 DUARTE NOGUEIRA                         Presente  PSDB      São Paulo                350
+CD01O225O 004732 EDINHO ARAÚJO                           Presente  PMDB      São Paulo                344
+CD01O225O 004732 ELEUSES PAIVA                           Presente  DEM       São Paulo                537
+CD01O225O 004732 ELI CORREA FILHO                        Presente  DEM       São Paulo                345
+CD01O225O 004732 GABRIEL CHALITA                         Presente  PMDB      São Paulo                347
+CD01O225O 004732 GUILHERME CAMPOS                        Presente  DEM       São Paulo                357
+CD01O225O 004732 GUILHERME MUSSI                         Presente  PV        São Paulo                348
+CD01O225O 004732 IVAN VALENTE                            Presente  PSOL      São Paulo                359
+CD01O225O 004732 JANETE ROCHA PIETÁ                      Presente  PT        São Paulo                358
+CD01O225O 004732 JILMAR TATTO                            Presente  PT        São Paulo                360
+CD01O225O 004732 JOÃO DADO                               Presente  PDT       São Paulo                362
+CD01O225O 004732 JONAS DONIZETTE                         Presente  PSB       São Paulo                353
+CD01O225O 004732 JORGE TADEU MUDALEN                     Presente  DEM       São Paulo                363
+CD01O225O 004732 JOSÉ DE FILIPPI                         Presente  PT        São Paulo                354
+CD01O225O 004732 JOSÉ MENTOR                             Presente  PT        São Paulo                367
+CD01O225O 004732 JUNJI ABE                               Presente  DEM       São Paulo                355
+CD01O225O 004732 KEIKO OTA                               Presente  PSB       São Paulo                356
+CD01O225O 004732 LUIZ FERNANDO MACHADO                   Presente  PSDB      São Paulo                365
+CD01O225O 004732 LUIZA ERUNDINA                          Presente  PSB       São Paulo                371
+CD01O225O 004732 MARA GABRILLI                           Presente  PSDB      São Paulo                366
+CD01O225O 004732 MARCELO AGUIAR                          Presente  PSC       São Paulo                370
+CD01O225O 004732 MILTON MONTI                            Presente  PR        São Paulo                374
+CD01O225O 004732 MISSIONÁRIO JOSÉ OLIMPIO                Presente  PP        São Paulo                375
+CD01O225O 004732 OTONIEL LIMA                            Presente  PRB       São Paulo                378
+CD01O225O 004732 PASTOR MARCO FELICIANO                  Presente  PSC       São Paulo                379
+CD01O225O 004732 PAULO FREIRE                            Presente  PR        São Paulo                380
+CD01O225O 004732 PAULO MALUF                             Presente  PP        São Paulo                373
+CD01O225O 004732 PAULO PEREIRA DA SILVA                  Presente  PDT       São Paulo                372
+CD01O225O 004732 PAULO TEIXEIRA                          Presente  PT        São Paulo                376
+CD01O225O 004732 PENNA                                   Presente  PV        São Paulo                382
+CD01O225O 004732 RICARDO BERZOINI                        Presente  PT        São Paulo                390
+CD01O225O 004732 RICARDO IZAR                            Presente  PV        São Paulo                383
+CD01O225O 004732 RICARDO TRIPOLI                         Presente  PSDB      São Paulo                384
+CD01O225O 004732 ROBERTO DE LUCENA                       Presente  PV        São Paulo                385
+CD01O225O 004732 ROBERTO FREIRE                          Presente  PPS       São Paulo                387
+CD01O225O 004732 ROBERTO SANTIAGO                        Presente  PV        São Paulo                386
+CD01O225O 004732 SALVADOR ZIMBALDI                       Presente  PDT       São Paulo                391
+CD01O225O 004732 TIRIRICA                                Presente  PR        São Paulo                392
+CD01O225O 004732 VALDEMAR COSTA NETO                     Presente  PR        São Paulo                393
+CD01O225O 004732 VANDERLEI MACRIS                        Presente  PSDB      São Paulo                521
+CD01O225O 004732 VAZ DE LIMA                             Presente  PSDB      São Paulo                394
+CD01O225O 004732 VICENTE CANDIDO                         Presente  PT        São Paulo                395
+CD01O225O 004732 VICENTINHO                              Presente  PT        São Paulo                396
+CD01O225O 004732 WALTER IHOSHI                           Presente  DEM       São Paulo                553
+CD01O225O 004732 WILLIAM DIB                             Presente  PSDB      São Paulo                397
+CD01O225O 004732 CARLOS BEZERRA                          Presente  PMDB      Mato Grosso              400
+CD01O225O 004732 HOMERO PEREIRA                          Presente  PR        Mato Grosso              402
+CD01O225O 004732 JÚLIO CAMPOS                            Presente  DEM       Mato Grosso              399
+CD01O225O 004732 NERI GELLER                             Presente  PP        Mato Grosso              520
+CD01O225O 004732 NILSON LEITÃO                           Presente  PSDB      Mato Grosso              573
+CD01O225O 004732 ROBERTO DORNER                          Presente  PP        Mato Grosso              519
+CD01O225O 004732 VALTENIR PEREIRA                        Presente  PSB       Mato Grosso              404
+CD01O225O 004732 WELLINGTON FAGUNDES                     Presente  PR        Mato Grosso              406
+CD01O225O 004732 AUGUSTO CARVALHO                        Presente  PPS       Distrito Federal         545
+CD01O225O 004732 ERIKA KOKAY                             Presente  PT        Distrito Federal         407
+CD01O225O 004732 IZALCI                                  Presente  PR        Distrito Federal         408
+CD01O225O 004732 LUIZ PITIMAN                            Presente  PMDB      Distrito Federal         410
+CD01O225O 004732 POLICARPO                               Presente  PT        Distrito Federal         539
+CD01O225O 004732 REGUFFE                                 Presente  PDT       Distrito Federal         413
+CD01O225O 004732 RONALDO FONSECA                         Presente  PR        Distrito Federal         414
+CD01O225O 004732 ARMANDO VERGÍLIO                        Presente  PMN       Goiás                    416
+CD01O225O 004732 CARLOS ALBERTO LERÉIA                   Presente  PSDB      Goiás                    415
+CD01O225O 004732 FLÁVIA MORAIS                           Presente  PDT       Goiás                    422
+CD01O225O 004732 HEULER CRUVINEL                         Presente  DEM       Goiás                    423
+CD01O225O 004732 ÍRIS DE ARAÚJO                          Presente  PMDB      Goiás                    417
+CD01O225O 004732 JOVAIR ARANTES                          Presente  PTB       Goiás                    419
+CD01O225O 004732 LEANDRO VILELA                          Presente  PMDB      Goiás                    420
+CD01O225O 004732 MAGDA MOFATTO                           Presente  PTB       Goiás                    575
+CD01O225O 004732 MARINA SANTANNA                         Presente  PT        Goiás                    564
+CD01O225O 004732 PEDRO CHAVES                            Presente  PMDB      Goiás                    428
+CD01O225O 004732 ROBERTO BALESTRA                        Presente  PP        Goiás                    427
+CD01O225O 004732 RONALDO CAIADO                          Presente  DEM       Goiás                    429
+CD01O225O 004732 SANDES JÚNIOR                           Presente  PP        Goiás                    426
+CD01O225O 004732 SANDRO MABEL                            Presente  PR        Goiás                    431
+CD01O225O 004732 VALDIVINO DE OLIVEIRA                   Presente  PSDB      Goiás                    547
+CD01O225O 004732 ANTÔNIO CARLOS BIFFI                    Presente  PT        Mato Grosso do Sul       432
+CD01O225O 004732 FABIO TRAD                              Presente  PMDB      Mato Grosso do Sul       433
+CD01O225O 004732 GERALDO RESENDE                         Presente  PMDB      Mato Grosso do Sul       435
+CD01O225O 004732 GIROTO                                  Presente  PR        Mato Grosso do Sul       434
+CD01O225O 004732 MANDETTA                                Presente  DEM       Mato Grosso do Sul       436
+CD01O225O 004732 MARÇAL FILHO                            Presente  PMDB      Mato Grosso do Sul       437
+CD01O225O 004732 REINALDO AZAMBUJA                       Presente  PSDB      Mato Grosso do Sul       439
+CD01O225O 004732 ABELARDO LUPION                         Presente  DEM       Paraná                   440
+CD01O225O 004732 ALEX CANZIANI                           Presente  PTB       Paraná                   445
+CD01O225O 004732 ALFREDO KAEFER                          Presente  PSDB      Paraná                   451
+CD01O225O 004732 ANDRÉ ZACHAROW                          Presente  PMDB      Paraná                   441
+CD01O225O 004732 ANGELO VANHONI                          Presente  PT        Paraná                   453
+CD01O225O 004732 ASSIS DO COUTO                          Presente  PT        Paraná                   443
+CD01O225O 004732 CIDA BORGHETTI                          Presente  PP        Paraná                   442
+CD01O225O 004732 DILCEU SPERAFICO                        Presente  PP        Paraná                   444
+CD01O225O 004732 DR. ROSINHA                             Presente  PT        Paraná                   449
+CD01O225O 004732 EDUARDO SCIARRA                         Presente  DEM       Paraná                   461
+CD01O225O 004732 FERNANDO FRANCISCHINI                   Presente  PSDB      Paraná                   450
+CD01O225O 004732 GIACOBO                                 Presente  PR        Paraná                   466
+CD01O225O 004732 HERMES PARCIANELLO                      Presente  PMDB      Paraná                   448
+CD01O225O 004732 JOÃO ARRUDA                             Presente  PMDB      Paraná                   455
+CD01O225O 004732 LEOPOLDO MEYER                          Presente  PSB       Paraná                   456
+CD01O225O 004732 LUIZ CARLOS SETIM                       Presente  DEM       Paraná                   535
+CD01O225O 004732 LUIZ NISHIMORI                          Presente  PSDB      Paraná                   542
+CD01O225O 004732 MOACIR MICHELETTO                       Presente  PMDB      Paraná                   462
+CD01O225O 004732 NELSON MEURER                           Presente  PP        Paraná                   458
+CD01O225O 004732 NELSON PADOVANI                         Presente  PSC       Paraná                   457
+CD01O225O 004732 OSMAR SERRAGLIO                         Presente  PMDB      Paraná                   463
+CD01O225O 004732 RATINHO JUNIOR                          Presente  PSC       Paraná                   464
+CD01O225O 004732 REINHOLD STEPHANES                      Presente  PMDB      Paraná                   467
+CD01O225O 004732 ROSANE FERREIRA                         Presente  PV        Paraná                   459
+CD01O225O 004732 RUBENS BUENO                            Presente  PPS       Paraná                   460
+CD01O225O 004732 SANDRO ALEX                             Presente  PPS       Paraná                   465
+CD01O225O 004732 TAKAYAMA                                Presente  PSC       Paraná                   469
+CD01O225O 004732 ZECA DIRCEU                             Presente  PT        Paraná                   468
+CD01O225O 004732 CARMEN ZANOTTO                          Presente  PPS       Santa Catarina           561
+CD01O225O 004732 CELSO MALDANER                          Presente  PMDB      Santa Catarina           472
+CD01O225O 004732 DÉCIO LIMA                              Presente  PT        Santa Catarina           475
+CD01O225O 004732 EDINHO BEZ                              Presente  PMDB      Santa Catarina           470
+CD01O225O 004732 ESPERIDIÃO AMIN                         Presente  PP        Santa Catarina           471
+CD01O225O 004732 GEAN LOUREIRO                           Presente  PMDB      Santa Catarina           568
+CD01O225O 004732 JOÃO PIZZOLATTI                         Presente  PP        Santa Catarina           574
+CD01O225O 004732 JORGE BOEIRA                            Presente  PT        Santa Catarina           474
+CD01O225O 004732 JORGINHO MELLO                          Presente  PSDB      Santa Catarina           476
+CD01O225O 004732 LUCI CHOINACKI                          Presente  PT        Santa Catarina           477
+CD01O225O 004732 MAURO MARIANI                           Presente  PMDB      Santa Catarina           480
+CD01O225O 004732 ONOFRE SANTO AGOSTINI                   Presente  DEM       Santa Catarina           479
+CD01O225O 004732 ROGÉRIO PENINHA MENDONÇA                Presente  PMDB      Santa Catarina           483
+CD01O225O 004732 RONALDO BENEDET                         Presente  PMDB      Santa Catarina           484
+CD01O225O 004732 VALDIR COLATTO                          Presente  PMDB      Santa Catarina           560
+CD01O225O 004732 ALCEU MOREIRA                           Presente  PMDB      Rio Grande do Sul        486
+CD01O225O 004732 ASSIS MELO                              Presente  PCdoB     Rio Grande do Sul        492
+CD01O225O 004732 BOHN GASS                               Presente  PT        Rio Grande do Sul        499
+CD01O225O 004732 DANRLEI DE DEUS HINTERHOLZ              Presente  PTB       Rio Grande do Sul        495
+CD01O225O 004732 DARCÍSIO PERONDI                        Presente  PMDB      Rio Grande do Sul        491
+CD01O225O 004732 ELISEU PADILHA                          Presente  PMDB      Rio Grande do Sul        578
+CD01O225O 004732 ENIO BACCI                              Presente  PDT       Rio Grande do Sul        493
+CD01O225O 004732 FERNANDO MARRONI                        Presente  PT        Rio Grande do Sul        525
+CD01O225O 004732 GIOVANI CHERINI                         Presente  PDT       Rio Grande do Sul        502
+CD01O225O 004732 HENRIQUE FONTANA                        Presente  PT        Rio Grande do Sul        498
+CD01O225O 004732 JERONIMO GOERGEN                        Presente  PP        Rio Grande do Sul        505
+CD01O225O 004732 JOSÉ OTÁVIO GERMANO                     Presente  PP        Rio Grande do Sul        501
+CD01O225O 004732 JOSÉ STÉDILE                            Presente  PSB       Rio Grande do Sul        506
+CD01O225O 004732 LUIS CARLOS HEINZE                      Presente  PP        Rio Grande do Sul        500
+CD01O225O 004732 LUIZ NOÉ                                Presente  PSB       Rio Grande do Sul        536
+CD01O225O 004732 MANUELA D`ÁVILA                         Presente  PCdoB     Rio Grande do Sul        494
+CD01O225O 004732 MARCO MAIA                              Presente  PT        Rio Grande do Sul        496
+CD01O225O 004732 MARCON                                  Presente  PT        Rio Grande do Sul        507
+CD01O225O 004732 NELSON MARCHEZAN JUNIOR                 Presente  PSDB      Rio Grande do Sul        509
+CD01O225O 004732 ONYX LORENZONI                          Presente  DEM       Rio Grande do Sul        510
+CD01O225O 004732 OSMAR TERRA                             Presente  PMDB      Rio Grande do Sul        497
+CD01O225O 004732 PAULO PIMENTA                           Presente  PT        Rio Grande do Sul        513
+CD01O225O 004732 PEPE VARGAS                             Presente  PT        Rio Grande do Sul        503
+CD01O225O 004732 RENATO MOLLING                          Presente  PP        Rio Grande do Sul        511
+CD01O225O 004732 RONALDO NOGUEIRA                        Presente  PTB       Rio Grande do Sul        556
+CD01O225O 004732 RONALDO ZULKE                           Presente  PT        Rio Grande do Sul        515
+CD01O225O 004732 SÉRGIO MORAES                           Presente  PTB       Rio Grande do Sul        512
+CD01O225O 004732 VIEIRA DA CUNHA                         Presente  PDT       Rio Grande do Sul        514
+CD01O225O 004732 VILSON COVATTI                          Presente  PP        Rio Grande do Sul        516
+CD01O225O 004732 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD01O225O 004732 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD01O225O 004732 JOÃO LYRA                               <-------> PTB       Alagoas                  167
+CD01O225O 004732 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O225O 004732 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD01O225O 004732 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O225O 004732 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD01O225O 004732 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD01O225O 004732 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O225O 004732 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O225O 004732 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD01O225O 004732 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD01O225O 004732 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O225O 004732 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O225O 004732 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O225O 004732 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD01O225O 004732 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD01O225O 004732 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O225O 004732 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O225O 004732 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CD01O225O 004732 ZÉ SILVA                                <-------> PDT       Minas Gerais             271
+CD01O225O 004732 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD01O225O 004732 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O225O 004732 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD01O225O 004732 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O225O 004732 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O225O 004732 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O225O 004732 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O225O 004732 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O225O 004732 BETO FARO                               <-------> PT        Pará                     19 
+CD01O225O 004732 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD01O225O 004732 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD01O225O 004732 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD01O225O 004732 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O225O 004732 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD01O225O 004732 JOÃO PAULO  LIMA                        <-------> PT        Pernambuco               149
+CD01O225O 004732 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O225O 004732 FERNANDO FERRO                          <-------> PT        Pernambuco               141
+CD01O225O 004732 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD01O225O 004732 EDMAR ARRUDA                            <-------> PSC       Paraná                   446
+CD01O225O 004732 ANDRÉ VARGAS                            <-------> PT        Paraná                   452
+CD01O225O 004732 FELIPE BORNIER                          <-------> PHS       Rio de Janeiro           301
+CD01O225O 004732 ELIANE ROLIM                            <-------> PT        Rio de Janeiro           538
+CD01O225O 004732 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O225O 004732 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O225O 004732 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O225O 004732 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD01O225O 004732 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD01O225O 004732 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O225O 004732 LINDOMAR GARÇON                         <-------> PV        Rondonia                 45 
+CD01O225O 004732 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD01O225O 004732 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O225O 004732 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O225O 004732 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD01O225O 004732 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CD01O225O 004732 JEFFERSON CAMPOS                        <-------> PSB       São Paulo                349
+CD01O225O 004732 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O225O 004732 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O225O 004732 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD01O225O 004732 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD01O225O 004732 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 

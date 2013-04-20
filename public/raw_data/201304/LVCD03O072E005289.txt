@@ -1,0 +1,513 @@
+CD03O072E 005289 CHICO DAS VERDURAS                      Não       PRP       Roraima                  3
+CD03O072E 005289 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD03O072E 005289 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD03O072E 005289 PAULO CESAR QUARTIERO                   Não       DEM       Roraima                  6  
+CD03O072E 005289 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD03O072E 005289 DAVI ALCOLUMBRE                         Não       DEM       Amapá                    10 
+CD03O072E 005289 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD03O072E 005289 FÁTIMA PELAES                           Não       PMDB      Amapá                    12 
+CD03O072E 005289 VINICIUS GURGEL                         Não       PR        Amapá                    16 
+CD03O072E 005289 ASDRUBAL BENTES                         Não       PMDB      Pará                     20 
+CD03O072E 005289 BETO FARO                               Não       PT        Pará                     19 
+CD03O072E 005289 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD03O072E 005289 DUDIMAR PAXIÚBA                         Obstrução PSDB      Pará                     518
+CD03O072E 005289 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD03O072E 005289 LIRA MAIA                               Não       DEM       Pará                     28 
+CD03O072E 005289 LÚCIO VALE                              Não       PR        Pará                     29 
+CD03O072E 005289 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD03O072E 005289 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD03O072E 005289 ÁTILA LINS                              Não       PSD       Amazonas                 38 
+CD03O072E 005289 CARLOS SOUZA                            Não       PSD       Amazonas                 37 
+CD03O072E 005289 DR. LUIZ FERNANDO                       Não       PSD       Amazonas                 605
+CD03O072E 005289 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD03O072E 005289 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD03O072E 005289 PLÍNIO VALÉRIO                          Obstrução PSDB      Amazonas                 633
+CD03O072E 005289 SILAS CÂMARA                            Não       PSD       Amazonas                 39 
+CD03O072E 005289 ANSELMO DE JESUS                        Não       PT        Rondonia                 615
+CD03O072E 005289 CARLOS MAGNO                            Não       PP        Rondonia                 44 
+CD03O072E 005289 NATAN DONADON                           Não       PMDB      Rondonia                 51 
+CD03O072E 005289 NILTON CAPIXABA                         Não       PTB       Rondonia                 47 
+CD03O072E 005289 PADRE TON                               Não       PT        Rondonia                 48 
+CD03O072E 005289 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD03O072E 005289 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD03O072E 005289 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD03O072E 005289 LEOMAR QUINTANILHA                      Não       PMDB      Tocantins                628
+CD03O072E 005289 OSVALDO REIS                            Não       PMDB      Tocantins                620
+CD03O072E 005289 COSTA FERREIRA                          Não       PSC       Maranhão                 571
+CD03O072E 005289 FRANCISCO ESCÓRCIO                      Não       PMDB      Maranhão                 567
+CD03O072E 005289 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD03O072E 005289 SIMPLÍCIO ARAÚJO                        Abstenção PPS       Maranhão                 585
+CD03O072E 005289 WALDIR MARANHÃO                         Obstrução PP        Maranhão                 84 
+CD03O072E 005289 WEVERTON ROCHA                          Não       PDT       Maranhão                 579
+CD03O072E 005289 ZÉ VIEIRA                               Não       PR        Maranhão                 86 
+CD03O072E 005289 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD03O072E 005289 ARIOSTO HOLANDA                         Obstrução PSB       Ceará                    92 
+CD03O072E 005289 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD03O072E 005289 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD03O072E 005289 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD03O072E 005289 GENECIAS NORONHA                        Não       PMDB      Ceará                    99 
+CD03O072E 005289 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD03O072E 005289 ILÁRIO MARQUES                          Não       PT        Ceará                    637
+CD03O072E 005289 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD03O072E 005289 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD03O072E 005289 JOSÉ LINHARES                           Não       PP        Ceará                    96 
+CD03O072E 005289 MANOEL SALVIANO                         Não       PSD       Ceará                    104
+CD03O072E 005289 MÁRIO FEITOZA                           Não       PMDB      Ceará                    590
+CD03O072E 005289 MAURO BENEVIDES                         Não       PMDB      Ceará                    105
+CD03O072E 005289 RAIMUNDO GOMES DE MATOS                 Obstrução PSDB      Ceará                    102
+CD03O072E 005289 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD03O072E 005289 HUGO NAPOLEÃO                           Não       PSD       Piauí                    112
+CD03O072E 005289 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD03O072E 005289 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD03O072E 005289 JÚLIO CESAR                             Não       PSD       Piauí                    114
+CD03O072E 005289 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD03O072E 005289 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD03O072E 005289 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD03O072E 005289 FÁTIMA BEZERRA                          Não       PT        Rio Grande do Norte      121
+CD03O072E 005289 PAULO WAGNER                            Obstrução PV        Rio Grande do Norte      126
+CD03O072E 005289 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD03O072E 005289 LEONARDO GADELHA                        Não       PSC       Paraíba                  586
+CD03O072E 005289 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD03O072E 005289 MAJOR FÁBIO                             Sim       DEM       Paraíba                  599
+CD03O072E 005289 MANOEL JUNIOR                           Não       PMDB      Paraíba                  130
+CD03O072E 005289 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD03O072E 005289 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD03O072E 005289 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD03O072E 005289 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD03O072E 005289 CARLOS EDUARDO CADOCA                   Obstrução PSC       Pernambuco               152
+CD03O072E 005289 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD03O072E 005289 GONZAGA PATRIOTA                        Obstrução PSB       Pernambuco               143
+CD03O072E 005289 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD03O072E 005289 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD03O072E 005289 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD03O072E 005289 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD03O072E 005289 PASTOR EURICO                           Obstrução PSB       Pernambuco               155
+CD03O072E 005289 PAULO RUBEM SANTIAGO                    Abstenção PDT       Pernambuco               554
+CD03O072E 005289 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD03O072E 005289 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD03O072E 005289 SEVERINO NINHO                          Obstrução PSB       Pernambuco               580
+CD03O072E 005289 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD03O072E 005289 VILALBA                                 Não       PRB       Pernambuco               555
+CD03O072E 005289 ALEXANDRE TOLEDO                        Obstrução PSDB      Alagoas                  596
+CD03O072E 005289 MAURÍCIO QUINTELLA LESSA                Não       PR        Alagoas                  168
+CD03O072E 005289 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD03O072E 005289 ALMEIDA LIMA                            Obstrução PPS       Sergipe                  173
+CD03O072E 005289 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD03O072E 005289 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD03O072E 005289 MENDONÇA PRADO                          Não       DEM       Sergipe                  179
+CD03O072E 005289 ROGÉRIO CARVALHO                        Não       PT        Sergipe                  178
+CD03O072E 005289 VALADARES FILHO                         Obstrução PSB       Sergipe                  183
+CD03O072E 005289 AFONSO FLORENCE                         Não       PT        Bahia                    182
+CD03O072E 005289 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD03O072E 005289 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD03O072E 005289 ANTONIO IMBASSAHY                       Obstrução PSDB      Bahia                    191
+CD03O072E 005289 CLAUDIO CAJADO                          Não       DEM       Bahia                    186
+CD03O072E 005289 COLBERT MARTINS                         Não       PMDB      Bahia                    622
+CD03O072E 005289 ERIVELTON SANTANA                       Não       PSC       Bahia                    194
+CD03O072E 005289 FÁBIO SOUTO                             Não       DEM       Bahia                    190
+CD03O072E 005289 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD03O072E 005289 JOSÉ CARLOS ARAÚJO                      Não       PSD       Bahia                    197
+CD03O072E 005289 JOSÉ ROCHA                              Não       PR        Bahia                    203
+CD03O072E 005289 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD03O072E 005289 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD03O072E 005289 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD03O072E 005289 MARCELO GUIMARÃES FILHO                 Não       PMDB      Bahia                    627
+CD03O072E 005289 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD03O072E 005289 NELSON PELLEGRINO                       Não       PT        Bahia                    209
+CD03O072E 005289 PAULO MAGALHÃES                         Não       PSD       Bahia                    214
+CD03O072E 005289 SÉRGIO BRITO                            Não       PSD       Bahia                    213
+CD03O072E 005289 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD03O072E 005289 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD03O072E 005289 AELTON FREITAS                          Não       PR        Minas Gerais             224
+CD03O072E 005289 ANTÔNIO ROBERTO                         Não       PV        Minas Gerais             229
+CD03O072E 005289 ARACELY DE PAULA                        Sim       PR        Minas Gerais             223
+CD03O072E 005289 DIEGO ANDRADE                           Não       PSD       Minas Gerais             228
+CD03O072E 005289 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD03O072E 005289 DOMINGOS SÁVIO                          Obstrução PSDB      Minas Gerais             233
+CD03O072E 005289 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD03O072E 005289 EDUARDO AZEREDO                         Obstrução PSDB      Minas Gerais             237
+CD03O072E 005289 GERALDO THADEU                          Não       PSD       Minas Gerais             236
+CD03O072E 005289 JAIRO ATAIDE                            Não       DEM       Minas Gerais             533
+CD03O072E 005289 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD03O072E 005289 JOÃO BITTAR                             Não       DEM       Minas Gerais             531
+CD03O072E 005289 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD03O072E 005289 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD03O072E 005289 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD03O072E 005289 LEONARDO QUINTÃO                        Não       PMDB      Minas Gerais             255
+CD03O072E 005289 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD03O072E 005289 LUIS TIBÉ                               Não       PTdoB     Minas Gerais             251
+CD03O072E 005289 MARCOS MONTES                           Não       PSD       Minas Gerais             257
+CD03O072E 005289 MARGARIDA SALOMÃO                       Não       PT        Minas Gerais             610
+CD03O072E 005289 MAURO LOPES                             Não       PMDB      Minas Gerais             252
+CD03O072E 005289 NILMÁRIO MIRANDA                        Não       PT        Minas Gerais             611
+CD03O072E 005289 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD03O072E 005289 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD03O072E 005289 PAULO ABI-ACKEL                         Obstrução PSDB      Minas Gerais             263
+CD03O072E 005289 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD03O072E 005289 RENATO ANDRADE                          Não       PP        Minas Gerais             612
+CD03O072E 005289 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD03O072E 005289 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD03O072E 005289 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD03O072E 005289 VITOR PENIDO                            Não       DEM       Minas Gerais             532
+CD03O072E 005289 WALTER TOSTA                            Não       PSD       Minas Gerais             267
+CD03O072E 005289 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD03O072E 005289 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD03O072E 005289 IRINY LOPES                             Não       PT        Espírito Santo           273
+CD03O072E 005289 LAURIETE                                Não       PSC       Espírito Santo           279
+CD03O072E 005289 MANATO                                  Não       PDT       Espírito Santo           275
+CD03O072E 005289 PAULO FOLETTO                           Obstrução PSB       Espírito Santo           280
+CD03O072E 005289 ROSE DE FREITAS                         Não       PMDB      Espírito Santo           282
+CD03O072E 005289 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD03O072E 005289 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CD03O072E 005289 ALFREDO SIRKIS                          Obstrução PV        Rio de Janeiro           321
+CD03O072E 005289 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD03O072E 005289 AROLDE DE OLIVEIRA                      Não       PSD       Rio de Janeiro           288
+CD03O072E 005289 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD03O072E 005289 CELSO JACOB                             Não       PMDB      Rio de Janeiro           632
+CD03O072E 005289 CHICO ALENCAR                           Obstrução PSOL      Rio de Janeiro           295
+CD03O072E 005289 DELEY                                   Obstrução PSC       Rio de Janeiro           562
+CD03O072E 005289 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD03O072E 005289 DR. CARLOS ALBERTO                      Obstrução PMN       Rio de Janeiro           529
+CD03O072E 005289 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD03O072E 005289 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD03O072E 005289 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD03O072E 005289 EURICO JÚNIOR                           Obstrução PV        Rio de Janeiro           613
+CD03O072E 005289 FELIPE BORNIER                          Não       PSD       Rio de Janeiro           301
+CD03O072E 005289 FERNANDO LOPES                          Não       PMDB      Rio de Janeiro           623
+CD03O072E 005289 FRANCISCO FLORIANO                      Não       PR        Rio de Janeiro           297
+CD03O072E 005289 GLAUBER BRAGA                           Obstrução PSB       Rio de Janeiro           304
+CD03O072E 005289 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD03O072E 005289 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD03O072E 005289 JORGE BITTAR                            Não       PT        Rio de Janeiro           310
+CD03O072E 005289 LEONARDO PICCIANI                       Não       PMDB      Rio de Janeiro           312
+CD03O072E 005289 LILIAM SÁ                               Não       PSD       Rio de Janeiro           309
+CD03O072E 005289 LUIZ SÉRGIO                             Não       PT        Rio de Janeiro           313
+CD03O072E 005289 MANUEL ROSA NECA                        Não       PR        Rio de Janeiro           614
+CD03O072E 005289 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD03O072E 005289 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CD03O072E 005289 SERGIO ZVEITER                          Não       PSD       Rio de Janeiro           320
+CD03O072E 005289 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD03O072E 005289 ALEXANDRE LEITE                         Não       DEM       São Paulo                334
+CD03O072E 005289 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD03O072E 005289 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD03O072E 005289 DELEGADO PROTÓGENES                     Não       PCdoB     São Paulo                343
+CD03O072E 005289 DR. UBIALI                              Obstrução PSB       São Paulo                541
+CD03O072E 005289 DUARTE NOGUEIRA                         Obstrução PSDB      São Paulo                350
+CD03O072E 005289 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD03O072E 005289 ELI CORREA FILHO                        Não       DEM       São Paulo                345
+CD03O072E 005289 EMANUEL FERNANDES                       Obstrução PSDB      São Paulo                352
+CD03O072E 005289 FRANCISCO CHAGAS                        Não       PT        São Paulo                626
+CD03O072E 005289 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD03O072E 005289 GUILHERME CAMPOS                        Não       PSD       São Paulo                357
+CD03O072E 005289 IARA BERNARDI                           Não       PT        São Paulo                618
+CD03O072E 005289 IVAN VALENTE                            Obstrução PSOL      São Paulo                359
+CD03O072E 005289 JOÃO DADO                               Obstrução PDT       São Paulo                362
+CD03O072E 005289 JOSÉ GENOÍNO                            Não       PT        São Paulo                617
+CD03O072E 005289 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD03O072E 005289 JUNJI ABE                               Não       PSD       São Paulo                355
+CD03O072E 005289 LUIZA ERUNDINA                          Obstrução PSB       São Paulo                371
+CD03O072E 005289 MARCELO AGUIAR                          Não       PSD       São Paulo                370
+CD03O072E 005289 NEWTON LIMA                             Não       PT        São Paulo                377
+CD03O072E 005289 OTONIEL LIMA                            Obstrução PRB       São Paulo                378
+CD03O072E 005289 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD03O072E 005289 PAULO FREIRE                            Não       PR        São Paulo                380
+CD03O072E 005289 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CD03O072E 005289 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD03O072E 005289 RICARDO IZAR                            Não       PSD       São Paulo                383
+CD03O072E 005289 ROBERTO DE LUCENA                       Obstrução PV        São Paulo                385
+CD03O072E 005289 ROBERTO SANTIAGO                        Não       PSD       São Paulo                386
+CD03O072E 005289 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD03O072E 005289 TIRIRICA                                Não       PR        São Paulo                392
+CD03O072E 005289 VALDEMAR COSTA NETO                     Não       PR        São Paulo                393
+CD03O072E 005289 VANDERLEI MACRIS                        Obstrução PSDB      São Paulo                521
+CD03O072E 005289 VANDERLEI SIRAQUE                       Não       PT        São Paulo                581
+CD03O072E 005289 VICENTINHO                              Não       PT        São Paulo                396
+CD03O072E 005289 WALTER FELDMAN                          Obstrução PSDB      São Paulo                550
+CD03O072E 005289 WALTER IHOSHI                           Não       PSD       São Paulo                553
+CD03O072E 005289 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD03O072E 005289 ELIENE LIMA                             Não       PSD       Mato Grosso              401
+CD03O072E 005289 WELLINGTON FAGUNDES                     Não       PR        Mato Grosso              406
+CD03O072E 005289 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD03O072E 005289 MAGELA                                  Não       PT        Distrito Federal         411
+CD03O072E 005289 POLICARPO                               Não       PT        Distrito Federal         539
+CD03O072E 005289 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD03O072E 005289 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD03O072E 005289 ARMANDO VERGÍLIO                        Não       PSD       Goiás                    416
+CD03O072E 005289 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD03O072E 005289 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD03O072E 005289 JOÃO CAMPOS                             Obstrução PSDB      Goiás                    418
+CD03O072E 005289 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD03O072E 005289 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD03O072E 005289 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD03O072E 005289 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD03O072E 005289 RONALDO CAIADO                          Não       DEM       Goiás                    429
+CD03O072E 005289 RUBENS OTONI                            Não       PT        Goiás                    425
+CD03O072E 005289 SANDRO MABEL                            Não       PMDB      Goiás                    431
+CD03O072E 005289 AKIRA OTSUBO                            Não       PMDB      Mato Grosso do Sul       638
+CD03O072E 005289 BIFFI                                   Não       PT        Mato Grosso do Sul       432
+CD03O072E 005289 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD03O072E 005289 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD03O072E 005289 MANDETTA                                Não       DEM       Mato Grosso do Sul       436
+CD03O072E 005289 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD03O072E 005289 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD03O072E 005289 ABELARDO LUPION                         Não       DEM       Paraná                   440
+CD03O072E 005289 ANDRÉ VARGAS                            Art. 17   PT        Paraná                   452
+CD03O072E 005289 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD03O072E 005289 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD03O072E 005289 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD03O072E 005289 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD03O072E 005289 DR. ROSINHA                             Não       PT        Paraná                   449
+CD03O072E 005289 HERMES PARCIANELLO                      Não       PMDB      Paraná                   448
+CD03O072E 005289 LEOPOLDO MEYER                          Obstrução PSB       Paraná                   456
+CD03O072E 005289 MARCELO ALMEIDA                         Sim       PMDB      Paraná                   631
+CD03O072E 005289 NELSON MEURER                           Não       PP        Paraná                   458
+CD03O072E 005289 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD03O072E 005289 OLIVEIRA FILHO                          Obstrução PRB       Paraná                   621
+CD03O072E 005289 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD03O072E 005289 PROFESSOR SÉRGIO DE OLIVEIRA            Sim       PSC       Paraná                   603
+CD03O072E 005289 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD03O072E 005289 RUBENS BUENO                            Obstrução PPS       Paraná                   460
+CD03O072E 005289 TAKAYAMA                                Não       PSC       Paraná                   469
+CD03O072E 005289 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD03O072E 005289 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD03O072E 005289 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD03O072E 005289 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD03O072E 005289 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD03O072E 005289 JOÃO PIZZOLATTI                         Não       PP        Santa Catarina           574
+CD03O072E 005289 JORGINHO MELLO                          Não       PR        Santa Catarina           476
+CD03O072E 005289 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD03O072E 005289 MARCO TEBALDI                           Obstrução PSDB      Santa Catarina           478
+CD03O072E 005289 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD03O072E 005289 ONOFRE SANTO AGOSTINI                   Não       PSD       Santa Catarina           479
+CD03O072E 005289 PEDRO UCZAI                             Não       PT        Santa Catarina           481
+CD03O072E 005289 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD03O072E 005289 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD03O072E 005289 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD03O072E 005289 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD03O072E 005289 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD03O072E 005289 BETO ALBUQUERQUE                        Obstrução PSB       Rio Grande do Sul        490
+CD03O072E 005289 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD03O072E 005289 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD03O072E 005289 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD03O072E 005289 JOSÉ STÉDILE                            Obstrução PSB       Rio Grande do Sul        506
+CD03O072E 005289 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD03O072E 005289 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD03O072E 005289 PAULO FERREIRA                          Não       PT        Rio Grande do Sul        591
+CD03O072E 005289 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD03O072E 005289 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD03O072E 005289 SÉRGIO MORAES                           Sim       PTB       Rio Grande do Sul        512
+CD03O072E 005289 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD03O072E 005289 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD03O072E 005289 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD03O072E 005289 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD03O072E 005289 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD03O072E 005289 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD03O072E 005289 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD03O072E 005289 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD03O072E 005289 FRANCISCO TENÓRIO                       <-------> PMN       Alagoas                  607
+CD03O072E 005289 PAULÃO                                  <-------> PT        Alagoas                  608
+CD03O072E 005289 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD03O072E 005289 ARTHUR LIRA                             <-------> PP        Alagoas                  162
+CD03O072E 005289 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD03O072E 005289 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD03O072E 005289 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD03O072E 005289 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD03O072E 005289 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD03O072E 005289 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD03O072E 005289 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD03O072E 005289 JOÃO LEÃO                               <-------> PP        Bahia                    199
+CD03O072E 005289 LUIZ DE DEUS                            <-------> DEM       Bahia                    609
+CD03O072E 005289 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD03O072E 005289 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD03O072E 005289 ROBERTO BRITTO                          <-------> PP        Bahia                    211
+CD03O072E 005289 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD03O072E 005289 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD03O072E 005289 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD03O072E 005289 JOSÉ NUNES                              <-------> PSD       Bahia                    201
+CD03O072E 005289 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD03O072E 005289 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD03O072E 005289 MÁRIO NEGROMONTE                        <-------> PP        Bahia                    210
+CD03O072E 005289 EDSON PIMENTA                           <-------> PSD       Bahia                    193
+CD03O072E 005289 FELIX MENDONÇA JÚNIOR                   <-------> PDT       Bahia                    195
+CD03O072E 005289 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD03O072E 005289 ZEZÉU RIBEIRO                           <-------> PT        Bahia                    217
+CD03O072E 005289 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD03O072E 005289 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD03O072E 005289 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD03O072E 005289 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD03O072E 005289 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD03O072E 005289 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD03O072E 005289 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD03O072E 005289 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD03O072E 005289 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD03O072E 005289 LUIZ PITIMAN                            <-------> PMDB      Distrito Federal         410
+CD03O072E 005289 IZALCI                                  <-------> PSDB      Distrito Federal         408
+CD03O072E 005289 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD03O072E 005289 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD03O072E 005289 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD03O072E 005289 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD03O072E 005289 VALDIVINO DE OLIVEIRA                   <-------> PSDB      Goiás                    547
+CD03O072E 005289 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD03O072E 005289 MAGDA MOFATTO                           <-------> PTB       Goiás                    575
+CD03O072E 005289 HEULER CRUVINEL                         <-------> PSD       Goiás                    423
+CD03O072E 005289 ALBERTO FILHO                           <-------> PMDB      Maranhão                 71 
+CD03O072E 005289 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD03O072E 005289 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD03O072E 005289 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD03O072E 005289 PEDRO NOVAIS                            <-------> PMDB      Maranhão                 82 
+CD03O072E 005289 HÉLIO SANTOS                            <-------> PSD       Maranhão                 76 
+CD03O072E 005289 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD03O072E 005289 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD03O072E 005289 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD03O072E 005289 PROFESSOR SETIMO                        <-------> PMDB      Maranhão                 81 
+CD03O072E 005289 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD03O072E 005289 SILAS BRASILEIRO                        <-------> PMDB      Minas Gerais             636
+CD03O072E 005289 HUMBERTO SOUTO                          <-------> PPS       Minas Gerais             606
+CD03O072E 005289 ADEMIR CAMILO                           <-------> PSD       Minas Gerais             220
+CD03O072E 005289 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD03O072E 005289 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD03O072E 005289 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD03O072E 005289 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD03O072E 005289 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD03O072E 005289 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD03O072E 005289 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD03O072E 005289 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD03O072E 005289 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD03O072E 005289 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD03O072E 005289 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD03O072E 005289 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD03O072E 005289 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD03O072E 005289 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD03O072E 005289 STEFANO AGUIAR                          <-------> PSC       Minas Gerais             558
+CD03O072E 005289 MÁRIO HERINGER                          <-------> PDT       Minas Gerais             629
+CD03O072E 005289 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD03O072E 005289 ISAIAS SILVESTRE                        <-------> PSB       Minas Gerais             604
+CD03O072E 005289 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD03O072E 005289 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD03O072E 005289 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD03O072E 005289 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD03O072E 005289 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD03O072E 005289 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD03O072E 005289 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD03O072E 005289 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD03O072E 005289 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD03O072E 005289 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD03O072E 005289 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD03O072E 005289 NILSON PINTO                            <-------> PSDB      Pará                     31 
+CD03O072E 005289 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD03O072E 005289 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD03O072E 005289 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD03O072E 005289 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD03O072E 005289 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD03O072E 005289 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD03O072E 005289 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD03O072E 005289 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD03O072E 005289 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD03O072E 005289 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD03O072E 005289 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD03O072E 005289 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD03O072E 005289 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD03O072E 005289 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD03O072E 005289 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD03O072E 005289 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD03O072E 005289 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD03O072E 005289 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD03O072E 005289 FERNANDO FRANCISCHINI                   <-------> PEN       Paraná                   450
+CD03O072E 005289 ODÍLIO BALBINOTTI                       <-------> PMDB      Paraná                   588
+CD03O072E 005289 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD03O072E 005289 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD03O072E 005289 JOÃO ARRUDA                             <-------> PMDB      Paraná                   455
+CD03O072E 005289 SANDRO ALEX                             <-------> PPS       Paraná                   465
+CD03O072E 005289 GIACOBO                                 <-------> PR        Paraná                   466
+CD03O072E 005289 EDUARDO SCIARRA                         <-------> PSD       Paraná                   461
+CD03O072E 005289 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD03O072E 005289 RICARDO ARRUDA                          <-------> PSC       Paraná                   635
+CD03O072E 005289 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD03O072E 005289 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD03O072E 005289 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD03O072E 005289 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD03O072E 005289 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD03O072E 005289 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD03O072E 005289 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CD03O072E 005289 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD03O072E 005289 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD03O072E 005289 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD03O072E 005289 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD03O072E 005289 VITOR PAULO                             <-------> PRB       Rio de Janeiro           324
+CD03O072E 005289 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD03O072E 005289 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD03O072E 005289 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD03O072E 005289 DR. PAULO CÉSAR                         <-------> PSD       Rio de Janeiro           296
+CD03O072E 005289 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD03O072E 005289 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD03O072E 005289 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD03O072E 005289 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD03O072E 005289 FELIPE MAIA                             <-------> DEM       Rio Grande do Norte      120
+CD03O072E 005289 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD03O072E 005289 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD03O072E 005289 FÁBIO FARIA                             <-------> PSD       Rio Grande do Norte      119
+CD03O072E 005289 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD03O072E 005289 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD03O072E 005289 MARCOS ROGÉRIO                          <-------> PDT       Rondonia                 583
+CD03O072E 005289 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD03O072E 005289 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD03O072E 005289 MARCIO JUNQUEIRA                        <-------> DEM       Roraima                  625
+CD03O072E 005289 URZENI ROCHA                            <-------> PSDB      Roraima                  616
+CD03O072E 005289 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD03O072E 005289 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD03O072E 005289 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD03O072E 005289 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD03O072E 005289 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD03O072E 005289 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD03O072E 005289 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD03O072E 005289 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD03O072E 005289 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD03O072E 005289 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD03O072E 005289 DANRLEI DE DEUS HINTERHOLZ              <-------> PSD       Rio Grande do Sul        495
+CD03O072E 005289 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD03O072E 005289 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD03O072E 005289 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD03O072E 005289 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD03O072E 005289 CARMEN ZANOTTO                          <-------> PPS       Santa Catarina           561
+CD03O072E 005289 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD03O072E 005289 JORGE BOEIRA                            <-------> PSD       Santa Catarina           474
+CD03O072E 005289 FABIO REIS                              <-------> PMDB      Sergipe                  619
+CD03O072E 005289 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD03O072E 005289 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD03O072E 005289 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD03O072E 005289 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD03O072E 005289 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD03O072E 005289 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD03O072E 005289 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD03O072E 005289 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD03O072E 005289 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD03O072E 005289 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD03O072E 005289 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD03O072E 005289 MÁRCIO FRANÇA                           <-------> PSB       São Paulo                368
+CD03O072E 005289 BETO MANSUR                             <-------> PP        São Paulo                340
+CD03O072E 005289 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD03O072E 005289 KEIKO OTA                               <-------> PSB       São Paulo                356
+CD03O072E 005289 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD03O072E 005289 ELEUSES PAIVA                           <-------> PSD       São Paulo                537
+CD03O072E 005289 ARNALDO FARIA DE SÁ                     <-------> PTB       São Paulo                337
+CD03O072E 005289 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD03O072E 005289 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD03O072E 005289 JEFFERSON CAMPOS                        <-------> PSD       São Paulo                349
+CD03O072E 005289 JANETE ROCHA PIETÁ                      <-------> PT        São Paulo                358
+CD03O072E 005289 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD03O072E 005289 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD03O072E 005289 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD03O072E 005289 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD03O072E 005289 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD03O072E 005289 PENNA                                   <-------> PV        São Paulo                382
+CD03O072E 005289 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD03O072E 005289 MILTON MONTI                            <-------> PR        São Paulo                374
+CD03O072E 005289 PAULO MALUF                             <-------> PP        São Paulo                373
+CD03O072E 005289 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD03O072E 005289 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD03O072E 005289 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD03O072E 005289 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD03O072E 005289 ÂNGELO AGNOLIN                          <-------> PDT       Tocantins                61 
+CD03O072E 005289 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CD03O072E 005289 CÉSAR HALUM                             <-------> PSD       Tocantins                64 
+CD03O072E 005289 NILMAR RUIZ                             <-------> PEN       Tocantins                634

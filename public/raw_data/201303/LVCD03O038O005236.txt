@@ -1,0 +1,513 @@
+CD03O038O 005236 CHICO DAS VERDURAS                      Não       PRP       Roraima                  3
+CD03O038O 005236 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD03O038O 005236 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD03O038O 005236 MARCIO JUNQUEIRA                        Sim       DEM       Roraima                  625
+CD03O038O 005236 PAULO CESAR QUARTIERO                   Obstrução DEM       Roraima                  6  
+CD03O038O 005236 RAUL LIMA                               Não       PSD       Roraima                  7  
+CD03O038O 005236 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD03O038O 005236 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD03O038O 005236 FÁTIMA PELAES                           Não       PMDB      Amapá                    12 
+CD03O038O 005236 LUIZ CARLOS                             Não       PSDB      Amapá                    14 
+CD03O038O 005236 VINICIUS GURGEL                         Abstenção PR        Amapá                    16 
+CD03O038O 005236 ARNALDO JORDY                           Não       PPS       Pará                     18 
+CD03O038O 005236 ASDRUBAL BENTES                         Não       PMDB      Pará                     20 
+CD03O038O 005236 BETO FARO                               Não       PT        Pará                     19 
+CD03O038O 005236 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD03O038O 005236 DUDIMAR PAXIÚBA                         Não       PSDB      Pará                     518
+CD03O038O 005236 GIOVANNI QUEIROZ                        Não       PDT       Pará                     27 
+CD03O038O 005236 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD03O038O 005236 LÚCIO VALE                              Não       PR        Pará                     29 
+CD03O038O 005236 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD03O038O 005236 NILSON PINTO                            Não       PSDB      Pará                     31 
+CD03O038O 005236 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD03O038O 005236 ÁTILA LINS                              Não       PSD       Amazonas                 38 
+CD03O038O 005236 CARLOS SOUZA                            Não       PSD       Amazonas                 37 
+CD03O038O 005236 DR. LUIZ FERNANDO                       Não       PSD       Amazonas                 605
+CD03O038O 005236 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD03O038O 005236 PLÍNIO VALÉRIO                          Não       PSDB      Amazonas                 633
+CD03O038O 005236 ANSELMO DE JESUS                        Não       PT        Rondonia                 615
+CD03O038O 005236 MARCOS ROGÉRIO                          Não       PDT       Rondonia                 583
+CD03O038O 005236 MARINHA RAUPP                           Não       PMDB      Rondonia                 50 
+CD03O038O 005236 MOREIRA MENDES                          Não       PSD       Rondonia                 49 
+CD03O038O 005236 PADRE TON                               Não       PT        Rondonia                 48 
+CD03O038O 005236 ANTÔNIA LÚCIA                           Não       PSC       Acre                     53 
+CD03O038O 005236 FLAVIANO MELO                           Não       PMDB      Acre                     54 
+CD03O038O 005236 GLADSON CAMELI                          Não       PP        Acre                     55 
+CD03O038O 005236 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD03O038O 005236 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD03O038O 005236 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD03O038O 005236 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD03O038O 005236 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD03O038O 005236 IRAJÁ ABREU                             Não       PSD       Tocantins                65 
+CD03O038O 005236 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD03O038O 005236 NILMAR RUIZ                             Não       PEN       Tocantins                634
+CD03O038O 005236 OSVALDO REIS                            Não       PMDB      Tocantins                620
+CD03O038O 005236 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD03O038O 005236 COSTA FERREIRA                          Não       PSC       Maranhão                 571
+CD03O038O 005236 DAVI ALVES SILVA JÚNIOR                 Não       PR        Maranhão                 528
+CD03O038O 005236 HÉLIO SANTOS                            Não       PSD       Maranhão                 76 
+CD03O038O 005236 LOURIVAL MENDES                         Abstenção PTdoB     Maranhão                 77 
+CD03O038O 005236 NICE LOBÃO                              Não       PSD       Maranhão                 78 
+CD03O038O 005236 PINTO ITAMARATY                         Não       PSDB      Maranhão                 79 
+CD03O038O 005236 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD03O038O 005236 SIMPLÍCIO ARAÚJO                        Sim       PPS       Maranhão                 585
+CD03O038O 005236 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD03O038O 005236 WEVERTON ROCHA                          Não       PDT       Maranhão                 579
+CD03O038O 005236 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD03O038O 005236 ANÍBAL GOMES                            Não       PMDB      Ceará                    87 
+CD03O038O 005236 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD03O038O 005236 ARNON BEZERRA                           Não       PTB       Ceará                    90 
+CD03O038O 005236 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD03O038O 005236 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD03O038O 005236 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD03O038O 005236 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD03O038O 005236 GERA ARRUDA                             Não       PMDB      Ceará                    592
+CD03O038O 005236 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD03O038O 005236 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD03O038O 005236 MANOEL SALVIANO                         Não       PSD       Ceará                    104
+CD03O038O 005236 MÁRIO FEITOZA                           Não       PMDB      Ceará                    590
+CD03O038O 005236 RAIMUNDO GOMES DE MATOS                 Não       PSDB      Ceará                    102
+CD03O038O 005236 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD03O038O 005236 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD03O038O 005236 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD03O038O 005236 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD03O038O 005236 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD03O038O 005236 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD03O038O 005236 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD03O038O 005236 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD03O038O 005236 FÁBIO FARIA                             Não       PSD       Rio Grande do Norte      119
+CD03O038O 005236 JOÃO MAIA                               Não       PR        Rio Grande do Norte      124
+CD03O038O 005236 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD03O038O 005236 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD03O038O 005236 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD03O038O 005236 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD03O038O 005236 MANOEL JUNIOR                           Não       PMDB      Paraíba                  130
+CD03O038O 005236 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD03O038O 005236 RUY CARNEIRO                            Não       PSDB      Paraíba                  137
+CD03O038O 005236 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD03O038O 005236 BRUNO ARAÚJO                            Não       PSDB      Pernambuco               146
+CD03O038O 005236 EDUARDO DA FONTE                        Não       PP        Pernambuco               156
+CD03O038O 005236 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD03O038O 005236 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD03O038O 005236 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD03O038O 005236 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD03O038O 005236 MENDONÇA FILHO                          Obstrução DEM       Pernambuco               154
+CD03O038O 005236 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD03O038O 005236 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD03O038O 005236 SERGIO GUERRA                           Não       PSDB      Pernambuco               159
+CD03O038O 005236 VILALBA                                 Não       PRB       Pernambuco               555
+CD03O038O 005236 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD03O038O 005236 GIVALDO CARIMBÃO                        Não       PSB       Alagoas                  166
+CD03O038O 005236 JOÃO LYRA                               Não       PSD       Alagoas                  167
+CD03O038O 005236 PAULÃO                                  Não       PT        Alagoas                  608
+CD03O038O 005236 ROSINHA DA ADEFAL                       Não       PTdoB     Alagoas                  170
+CD03O038O 005236 ALMEIDA LIMA                            Não       PPS       Sergipe                  173
+CD03O038O 005236 FABIO REIS                              Não       PMDB      Sergipe                  619
+CD03O038O 005236 LAERCIO OLIVEIRA                        Não       PR        Sergipe                  176
+CD03O038O 005236 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD03O038O 005236 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD03O038O 005236 ANTONIO IMBASSAHY                       Não       PSDB      Bahia                    191
+CD03O038O 005236 COLBERT MARTINS                         Sim       PMDB      Bahia                    622
+CD03O038O 005236 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD03O038O 005236 EDSON PIMENTA                           Não       PSD       Bahia                    193
+CD03O038O 005236 FÁBIO SOUTO                             Obstrução DEM       Bahia                    190
+CD03O038O 005236 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD03O038O 005236 FERNANDO TORRES                         Não       PSD       Bahia                    196
+CD03O038O 005236 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD03O038O 005236 JÂNIO NATAL                             Não       PRP       Bahia                    198
+CD03O038O 005236 JOÃO LEÃO                               Não       PP        Bahia                    199
+CD03O038O 005236 JOSÉ CARLOS ARAÚJO                      Não       PSD       Bahia                    197
+CD03O038O 005236 JOSÉ NUNES                              Não       PSD       Bahia                    201
+CD03O038O 005236 JOSÉ ROCHA                              Não       PR        Bahia                    203
+CD03O038O 005236 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD03O038O 005236 JUTAHY JUNIOR                           Não       PSDB      Bahia                    206
+CD03O038O 005236 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD03O038O 005236 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD03O038O 005236 LUIZ DE DEUS                            Sim       DEM       Bahia                    609
+CD03O038O 005236 MARCELO GUIMARÃES FILHO                 Não       PMDB      Bahia                    627
+CD03O038O 005236 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD03O038O 005236 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD03O038O 005236 MÁRIO NEGROMONTE                        Não       PP        Bahia                    210
+CD03O038O 005236 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD03O038O 005236 PAULO MAGALHÃES                         Não       PSD       Bahia                    214
+CD03O038O 005236 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD03O038O 005236 SÉRGIO BRITO                            Não       PSD       Bahia                    213
+CD03O038O 005236 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD03O038O 005236 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD03O038O 005236 ZEZÉU RIBEIRO                           Não       PT        Bahia                    217
+CD03O038O 005236 ADEMIR CAMILO                           Não       PSD       Minas Gerais             220
+CD03O038O 005236 ANTÔNIO ROBERTO                         Não       PV        Minas Gerais             229
+CD03O038O 005236 DIEGO ANDRADE                           Não       PSD       Minas Gerais             228
+CD03O038O 005236 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD03O038O 005236 DOMINGOS SÁVIO                          Não       PSDB      Minas Gerais             233
+CD03O038O 005236 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD03O038O 005236 EDUARDO AZEREDO                         Não       PSDB      Minas Gerais             237
+CD03O038O 005236 EDUARDO BARBOSA                         Não       PSDB      Minas Gerais             230
+CD03O038O 005236 FÁBIO RAMALHO                           Não       PV        Minas Gerais             238
+CD03O038O 005236 GERALDO THADEU                          Não       PSD       Minas Gerais             236
+CD03O038O 005236 HUMBERTO SOUTO                          Não       PPS       Minas Gerais             606
+CD03O038O 005236 JAIME MARTINS                           Não       PR        Minas Gerais             240
+CD03O038O 005236 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD03O038O 005236 JOÃO BITTAR                             Obstrução DEM       Minas Gerais             531
+CD03O038O 005236 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD03O038O 005236 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD03O038O 005236 LEONARDO QUINTÃO                        Não       PMDB      Minas Gerais             255
+CD03O038O 005236 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD03O038O 005236 LUIS TIBÉ                               Não       PTdoB     Minas Gerais             251
+CD03O038O 005236 LUIZ FERNANDO FARIA                     Não       PP        Minas Gerais             256
+CD03O038O 005236 MARCOS MONTES                           Não       PSD       Minas Gerais             257
+CD03O038O 005236 MARCUS PESTANA                          Não       PSDB      Minas Gerais             254
+CD03O038O 005236 MÁRIO HERINGER                          Não       PDT       Minas Gerais             629
+CD03O038O 005236 PAULO ABI-ACKEL                         Não       PSDB      Minas Gerais             263
+CD03O038O 005236 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD03O038O 005236 SILAS BRASILEIRO                        Não       PMDB      Minas Gerais             636
+CD03O038O 005236 STEFANO AGUIAR                          Não       PSC       Minas Gerais             558
+CD03O038O 005236 VITOR PENIDO                            Obstrução DEM       Minas Gerais             532
+CD03O038O 005236 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD03O038O 005236 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD03O038O 005236 IRINY LOPES                             Não       PT        Espírito Santo           273
+CD03O038O 005236 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD03O038O 005236 MANATO                                  Não       PDT       Espírito Santo           275
+CD03O038O 005236 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD03O038O 005236 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD03O038O 005236 ADRIAN                                  Não       PMDB      Rio de Janeiro           286
+CD03O038O 005236 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD03O038O 005236 ANDREIA ZITO                            Não       PSDB      Rio de Janeiro           283
+CD03O038O 005236 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD03O038O 005236 AROLDE DE OLIVEIRA                      Não       PSD       Rio de Janeiro           288
+CD03O038O 005236 AUREO                                   Não       PRTB      Rio de Janeiro           290
+CD03O038O 005236 CHICO ALENCAR                           Obstrução PSOL      Rio de Janeiro           295
+CD03O038O 005236 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD03O038O 005236 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD03O038O 005236 DR. PAULO CÉSAR                         Não       PSD       Rio de Janeiro           296
+CD03O038O 005236 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD03O038O 005236 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD03O038O 005236 EURICO JÚNIOR                           Não       PV        Rio de Janeiro           613
+CD03O038O 005236 FELIPE BORNIER                          Não       PSD       Rio de Janeiro           301
+CD03O038O 005236 FERNANDO JORDÃO                         Não       PMDB      Rio de Janeiro           557
+CD03O038O 005236 FERNANDO LOPES                          Não       PMDB      Rio de Janeiro           623
+CD03O038O 005236 FRANCISCO FLORIANO                      Não       PR        Rio de Janeiro           297
+CD03O038O 005236 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD03O038O 005236 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD03O038O 005236 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD03O038O 005236 JORGE BITTAR                            Não       PT        Rio de Janeiro           310
+CD03O038O 005236 LEONARDO PICCIANI                       Não       PMDB      Rio de Janeiro           312
+CD03O038O 005236 LUIZ SÉRGIO                             Não       PT        Rio de Janeiro           313
+CD03O038O 005236 MANUEL ROSA NECA                        Não       PR        Rio de Janeiro           614
+CD03O038O 005236 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD03O038O 005236 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CD03O038O 005236 RODRIGO MAIA                            Obstrução DEM       Rio de Janeiro           322
+CD03O038O 005236 SERGIO ZVEITER                          Não       PSD       Rio de Janeiro           320
+CD03O038O 005236 SIMÃO SESSIM                            Art. 17   PP        Rio de Janeiro           327
+CD03O038O 005236 STEPAN NERCESSIAN                       Não       PPS       Rio de Janeiro           323
+CD03O038O 005236 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD03O038O 005236 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD03O038O 005236 ALINE CORRÊA                            Não       PP        São Paulo                330
+CD03O038O 005236 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD03O038O 005236 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD03O038O 005236 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD03O038O 005236 CARLOS ROBERTO                          Não       PSDB      São Paulo                569
+CD03O038O 005236 CARLOS SAMPAIO                          Não       PSDB      São Paulo                338
+CD03O038O 005236 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD03O038O 005236 DELEGADO PROTÓGENES                     Não       PCdoB     São Paulo                343
+CD03O038O 005236 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD03O038O 005236 ELEUSES PAIVA                           Não       PSD       São Paulo                537
+CD03O038O 005236 EMANUEL FERNANDES                       Não       PSDB      São Paulo                352
+CD03O038O 005236 FRANCISCO CHAGAS                        Não       PT        São Paulo                626
+CD03O038O 005236 GUILHERME CAMPOS                        Não       PSD       São Paulo                357
+CD03O038O 005236 GUILHERME MUSSI                         Não       PSD       São Paulo                348
+CD03O038O 005236 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD03O038O 005236 JEFFERSON CAMPOS                        Não       PSD       São Paulo                349
+CD03O038O 005236 JOÃO DADO                               Não       PDT       São Paulo                362
+CD03O038O 005236 JOÃO PAULO CUNHA                        Não       PT        São Paulo                361
+CD03O038O 005236 JOSÉ GENOÍNO                            Não       PT        São Paulo                617
+CD03O038O 005236 JUNJI ABE                               Não       PSD       São Paulo                355
+CD03O038O 005236 KEIKO OTA                               Não       PSB       São Paulo                356
+CD03O038O 005236 LUIZ FERNANDO MACHADO                   Não       PSDB      São Paulo                365
+CD03O038O 005236 MARCELO AGUIAR                          Não       PSD       São Paulo                370
+CD03O038O 005236 MÁRCIO FRANÇA                           Não       PSB       São Paulo                368
+CD03O038O 005236 MILTON MONTI                            Não       PR        São Paulo                374
+CD03O038O 005236 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD03O038O 005236 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD03O038O 005236 PENNA                                   Não       PV        São Paulo                382
+CD03O038O 005236 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD03O038O 005236 RICARDO IZAR                            Não       PSD       São Paulo                383
+CD03O038O 005236 RICARDO TRIPOLI                         Não       PSDB      São Paulo                384
+CD03O038O 005236 ROBERTO FREIRE                          Não       PPS       São Paulo                387
+CD03O038O 005236 ROBERTO SANTIAGO                        Não       PSD       São Paulo                386
+CD03O038O 005236 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD03O038O 005236 TIRIRICA                                Não       PR        São Paulo                392
+CD03O038O 005236 VALDEMAR COSTA NETO                     Não       PR        São Paulo                393
+CD03O038O 005236 VANDERLEI MACRIS                        Não       PSDB      São Paulo                521
+CD03O038O 005236 VANDERLEI SIRAQUE                       Não       PT        São Paulo                581
+CD03O038O 005236 VAZ DE LIMA                             Não       PSDB      São Paulo                394
+CD03O038O 005236 VICENTINHO                              Não       PT        São Paulo                396
+CD03O038O 005236 WALTER FELDMAN                          Sim       PSDB      São Paulo                550
+CD03O038O 005236 WILLIAM DIB                             Não       PSDB      São Paulo                397
+CD03O038O 005236 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD03O038O 005236 ELIENE LIMA                             Não       PSD       Mato Grosso              401
+CD03O038O 005236 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD03O038O 005236 PEDRO HENRY                             Não       PP        Mato Grosso              403
+CD03O038O 005236 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD03O038O 005236 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD03O038O 005236 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD03O038O 005236 IZALCI                                  Não       PSDB      Distrito Federal         408
+CD03O038O 005236 JAQUELINE RORIZ                         Não       PMN       Distrito Federal         409
+CD03O038O 005236 LUIZ PITIMAN                            Não       PMDB      Distrito Federal         410
+CD03O038O 005236 POLICARPO                               Não       PT        Distrito Federal         539
+CD03O038O 005236 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD03O038O 005236 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD03O038O 005236 ARMANDO VERGÍLIO                        Não       PSD       Goiás                    416
+CD03O038O 005236 CARLOS ALBERTO LERÉIA                   Não       PSDB      Goiás                    415
+CD03O038O 005236 HEULER CRUVINEL                         Não       PSD       Goiás                    423
+CD03O038O 005236 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD03O038O 005236 JOÃO CAMPOS                             Não       PSDB      Goiás                    418
+CD03O038O 005236 JOVAIR ARANTES                          Não       PTB       Goiás                    419
+CD03O038O 005236 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD03O038O 005236 MAGDA MOFATTO                           Não       PTB       Goiás                    575
+CD03O038O 005236 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD03O038O 005236 RONALDO CAIADO                          Não       DEM       Goiás                    429
+CD03O038O 005236 SANDRO MABEL                            Não       PMDB      Goiás                    431
+CD03O038O 005236 VALDIVINO DE OLIVEIRA                   Não       PSDB      Goiás                    547
+CD03O038O 005236 BIFFI                                   Não       PT        Mato Grosso do Sul       432
+CD03O038O 005236 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD03O038O 005236 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD03O038O 005236 GIROTO                                  Não       PMDB      Mato Grosso do Sul       434
+CD03O038O 005236 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD03O038O 005236 REINALDO AZAMBUJA                       Não       PSDB      Mato Grosso do Sul       439
+CD03O038O 005236 ALEX CANZIANI                           Não       PTB       Paraná                   445
+CD03O038O 005236 ALFREDO KAEFER                          Abstenção PSDB      Paraná                   451
+CD03O038O 005236 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD03O038O 005236 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD03O038O 005236 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD03O038O 005236 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD03O038O 005236 DR. ROSINHA                             Não       PT        Paraná                   449
+CD03O038O 005236 EDUARDO SCIARRA                         Não       PSD       Paraná                   461
+CD03O038O 005236 FERNANDO FRANCISCHINI                   Não       PEN       Paraná                   450
+CD03O038O 005236 GIACOBO                                 Não       PR        Paraná                   466
+CD03O038O 005236 HERMES PARCIANELLO                      Não       PMDB      Paraná                   448
+CD03O038O 005236 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD03O038O 005236 LUIZ NISHIMORI                          Não       PSDB      Paraná                   542
+CD03O038O 005236 MARCELO ALMEIDA                         Não       PMDB      Paraná                   631
+CD03O038O 005236 NELSON MEURER                           Não       PP        Paraná                   458
+CD03O038O 005236 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD03O038O 005236 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD03O038O 005236 PROFESSOR SÉRGIO DE OLIVEIRA            Não       PSC       Paraná                   603
+CD03O038O 005236 RICARDO ARRUDA                          Não       PSC       Paraná                   635
+CD03O038O 005236 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD03O038O 005236 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD03O038O 005236 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD03O038O 005236 TAKAYAMA                                Não       PSC       Paraná                   469
+CD03O038O 005236 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD03O038O 005236 CARMEN ZANOTTO                          Não       PPS       Santa Catarina           561
+CD03O038O 005236 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD03O038O 005236 ESPERIDIÃO AMIN                         Abstenção PP        Santa Catarina           471
+CD03O038O 005236 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD03O038O 005236 ONOFRE SANTO AGOSTINI                   Não       PSD       Santa Catarina           479
+CD03O038O 005236 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD03O038O 005236 ALEXANDRE ROSO                          Não       PSB       Rio Grande do Sul        489
+CD03O038O 005236 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD03O038O 005236 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD03O038O 005236 DANRLEI DE DEUS HINTERHOLZ              Não       PSD       Rio Grande do Sul        495
+CD03O038O 005236 DARCÍSIO PERONDI                        Não       PMDB      Rio Grande do Sul        491
+CD03O038O 005236 ENIO BACCI                              Não       PDT       Rio Grande do Sul        493
+CD03O038O 005236 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD03O038O 005236 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD03O038O 005236 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD03O038O 005236 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD03O038O 005236 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD03O038O 005236 NELSON MARCHEZAN JUNIOR                 Não       PSDB      Rio Grande do Sul        509
+CD03O038O 005236 ONYX LORENZONI                          Obstrução DEM       Rio Grande do Sul        510
+CD03O038O 005236 PAULO FERREIRA                          Não       PT        Rio Grande do Sul        591
+CD03O038O 005236 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD03O038O 005236 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD03O038O 005236 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD03O038O 005236 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD03O038O 005236 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD03O038O 005236 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD03O038O 005236 ARTHUR LIRA                             <-------> PP        Alagoas                  162
+CD03O038O 005236 FRANCISCO TENÓRIO                       <-------> PMN       Alagoas                  607
+CD03O038O 005236 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD03O038O 005236 ALEXANDRE TOLEDO                        <-------> PSDB      Alagoas                  596
+CD03O038O 005236 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD03O038O 005236 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD03O038O 005236 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD03O038O 005236 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD03O038O 005236 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD03O038O 005236 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD03O038O 005236 ANTONIO BRITO                           <-------> PTB       Bahia                    189
+CD03O038O 005236 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD03O038O 005236 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD03O038O 005236 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD03O038O 005236 AFONSO FLORENCE                         <-------> PT        Bahia                    182
+CD03O038O 005236 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD03O038O 005236 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD03O038O 005236 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD03O038O 005236 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD03O038O 005236 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD03O038O 005236 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD03O038O 005236 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD03O038O 005236 JOSÉ GUIMARÃES                          <-------> PT        Ceará                    103
+CD03O038O 005236 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD03O038O 005236 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD03O038O 005236 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD03O038O 005236 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD03O038O 005236 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD03O038O 005236 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD03O038O 005236 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD03O038O 005236 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD03O038O 005236 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD03O038O 005236 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD03O038O 005236 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD03O038O 005236 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD03O038O 005236 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD03O038O 005236 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD03O038O 005236 PEDRO NOVAIS                            <-------> PMDB      Maranhão                 82 
+CD03O038O 005236 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD03O038O 005236 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD03O038O 005236 TONINHO PINHEIRO                        <-------> PP        Minas Gerais             264
+CD03O038O 005236 SARAIVA FELIPE                          <-------> PMDB      Minas Gerais             265
+CD03O038O 005236 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD03O038O 005236 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD03O038O 005236 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD03O038O 005236 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD03O038O 005236 RENATO ANDRADE                          <-------> PP        Minas Gerais             612
+CD03O038O 005236 NILMÁRIO MIRANDA                        <-------> PT        Minas Gerais             611
+CD03O038O 005236 MARGARIDA SALOMÃO                       <-------> PT        Minas Gerais             610
+CD03O038O 005236 JOSÉ HUMBERTO                           <-------> PHS       Minas Gerais             249
+CD03O038O 005236 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD03O038O 005236 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD03O038O 005236 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD03O038O 005236 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD03O038O 005236 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD03O038O 005236 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD03O038O 005236 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD03O038O 005236 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD03O038O 005236 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD03O038O 005236 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD03O038O 005236 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD03O038O 005236 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD03O038O 005236 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD03O038O 005236 ISAIAS SILVESTRE                        <-------> PSB       Minas Gerais             604
+CD03O038O 005236 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD03O038O 005236 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD03O038O 005236 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD03O038O 005236 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD03O038O 005236 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD03O038O 005236 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD03O038O 005236 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD03O038O 005236 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD03O038O 005236 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD03O038O 005236 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD03O038O 005236 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD03O038O 005236 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD03O038O 005236 MAJOR FÁBIO                             <-------> DEM       Paraíba                  599
+CD03O038O 005236 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD03O038O 005236 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD03O038O 005236 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD03O038O 005236 LEONARDO GADELHA                        <-------> PSC       Paraíba                  586
+CD03O038O 005236 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD03O038O 005236 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD03O038O 005236 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD03O038O 005236 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD03O038O 005236 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD03O038O 005236 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD03O038O 005236 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD03O038O 005236 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD03O038O 005236 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD03O038O 005236 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD03O038O 005236 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD03O038O 005236 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD03O038O 005236 SEVERINO NINHO                          <-------> PSB       Pernambuco               580
+CD03O038O 005236 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD03O038O 005236 HUGO NAPOLEÃO                           <-------> PSD       Piauí                    112
+CD03O038O 005236 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD03O038O 005236 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD03O038O 005236 OLIVEIRA FILHO                          <-------> PRB       Paraná                   621
+CD03O038O 005236 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD03O038O 005236 ODÍLIO BALBINOTTI                       <-------> PMDB      Paraná                   588
+CD03O038O 005236 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD03O038O 005236 JOÃO ARRUDA                             <-------> PMDB      Paraná                   455
+CD03O038O 005236 CELSO JACOB                             <-------> PMDB      Rio de Janeiro           632
+CD03O038O 005236 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD03O038O 005236 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD03O038O 005236 VITOR PAULO                             <-------> PRB       Rio de Janeiro           324
+CD03O038O 005236 LILIAM SÁ                               <-------> PSD       Rio de Janeiro           309
+CD03O038O 005236 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD03O038O 005236 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD03O038O 005236 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD03O038O 005236 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD03O038O 005236 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD03O038O 005236 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD03O038O 005236 BENEDITA DA SILVA                       <-------> PT        Rio de Janeiro           291
+CD03O038O 005236 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD03O038O 005236 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CD03O038O 005236 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD03O038O 005236 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD03O038O 005236 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD03O038O 005236 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD03O038O 005236 FELIPE MAIA                             <-------> DEM       Rio Grande do Norte      120
+CD03O038O 005236 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD03O038O 005236 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD03O038O 005236 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD03O038O 005236 URZENI ROCHA                            <-------> PSDB      Roraima                  616
+CD03O038O 005236 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD03O038O 005236 BETO ALBUQUERQUE                        <-------> PSB       Rio Grande do Sul        490
+CD03O038O 005236 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD03O038O 005236 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD03O038O 005236 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD03O038O 005236 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD03O038O 005236 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD03O038O 005236 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD03O038O 005236 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD03O038O 005236 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD03O038O 005236 RONALDO NOGUEIRA                        <-------> PTB       Rio Grande do Sul        556
+CD03O038O 005236 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD03O038O 005236 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD03O038O 005236 LUIS CARLOS HEINZE                      <-------> PP        Rio Grande do Sul        500
+CD03O038O 005236 JORGINHO MELLO                          <-------> PR        Santa Catarina           476
+CD03O038O 005236 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD03O038O 005236 MARCO TEBALDI                           <-------> PSDB      Santa Catarina           478
+CD03O038O 005236 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD03O038O 005236 JORGE BOEIRA                            <-------> PSD       Santa Catarina           474
+CD03O038O 005236 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD03O038O 005236 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD03O038O 005236 CELSO MALDANER                          <-------> PMDB      Santa Catarina           472
+CD03O038O 005236 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD03O038O 005236 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD03O038O 005236 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD03O038O 005236 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD03O038O 005236 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD03O038O 005236 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CD03O038O 005236 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD03O038O 005236 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD03O038O 005236 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD03O038O 005236 BETO MANSUR                             <-------> PP        São Paulo                340
+CD03O038O 005236 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD03O038O 005236 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD03O038O 005236 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD03O038O 005236 IVAN VALENTE                            <-------> PSOL      São Paulo                359
+CD03O038O 005236 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CD03O038O 005236 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD03O038O 005236 PASTOR MARCO FELICIANO                  <-------> PSC       São Paulo                379
+CD03O038O 005236 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD03O038O 005236 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD03O038O 005236 DR. UBIALI                              <-------> PSB       São Paulo                541
+CD03O038O 005236 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD03O038O 005236 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD03O038O 005236 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD03O038O 005236 ROBERTO DE LUCENA                       <-------> PV        São Paulo                385
+CD03O038O 005236 WALTER IHOSHI                           <-------> PSD       São Paulo                553
+CD03O038O 005236 IARA BERNARDI                           <-------> PT        São Paulo                618
+CD03O038O 005236 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD03O038O 005236 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD03O038O 005236 PAULO MALUF                             <-------> PP        São Paulo                373
+CD03O038O 005236 LUIZA ERUNDINA                          <-------> PSB       São Paulo                371
+CD03O038O 005236 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD03O038O 005236 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD03O038O 005236 ALEXANDRE LEITE                         <-------> DEM       São Paulo                334
+CD03O038O 005236 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD03O038O 005236 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD03O038O 005236 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD03O038O 005236 CÉSAR HALUM                             <-------> PSD       Tocantins                64 
+CD03O038O 005236 LEOMAR QUINTANILHA                      <-------> PMDB      Tocantins                628

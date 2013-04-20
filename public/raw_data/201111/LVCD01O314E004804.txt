@@ -1,0 +1,513 @@
+CD01O314E 004804 BERINHO BANTIM                          Obstrução PSDB      Roraima                  1
+CD01O314E 004804 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD01O314E 004804 FRANCISCO ARAÚJO                        Sim       PSD       Roraima                  570
+CD01O314E 004804 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CD01O314E 004804 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD01O314E 004804 PAULO CESAR QUARTIERO                   Obstrução DEM       Roraima                  6  
+CD01O314E 004804 DALVA FIGUEIREDO                        Sim       PT        Amapá                    9  
+CD01O314E 004804 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD01O314E 004804 FÁTIMA PELAES                           Sim       PMDB      Amapá                    12 
+CD01O314E 004804 JANETE CAPIBERIBE                       Sim       PSB       Amapá                    572
+CD01O314E 004804 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD01O314E 004804 VINICIUS GURGEL                         Sim       PR        Amapá                    16 
+CD01O314E 004804 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD01O314E 004804 BETO FARO                               Sim       PT        Pará                     19 
+CD01O314E 004804 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD01O314E 004804 ELCIONE BARBALHO                        Sim       PMDB      Pará                     21 
+CD01O314E 004804 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD01O314E 004804 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD01O314E 004804 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD01O314E 004804 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD01O314E 004804 WANDENKOLK GONÇALVES                    Obstrução PSDB      Pará                     32 
+CD01O314E 004804 WLADIMIR COSTA                          Sim       PMDB      Pará                     23 
+CD01O314E 004804 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CD01O314E 004804 ZEQUINHA MARINHO                        Sim       PSC       Pará                     33 
+CD01O314E 004804 ÁTILA LINS                              Sim       PSD       Amazonas                 38 
+CD01O314E 004804 CARLOS SOUZA                            Sim       PSD       Amazonas                 37 
+CD01O314E 004804 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD01O314E 004804 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD01O314E 004804 PAUDERNEY AVELINO                       Obstrução DEM       Amazonas                 40 
+CD01O314E 004804 REBECCA GARCIA                          Sim       PP        Amazonas                 42 
+CD01O314E 004804 SABINO CASTELO BRANCO                   Não       PTB       Amazonas                 43 
+CD01O314E 004804 SILAS CÂMARA                            Sim       PSD       Amazonas                 39 
+CD01O314E 004804 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD01O314E 004804 LINDOMAR GARÇON                         Sim       PV        Rondonia                 45 
+CD01O314E 004804 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD01O314E 004804 MAURO NAZIF                             Sim       PSB       Rondonia                 46 
+CD01O314E 004804 MOREIRA MENDES                          Sim       PSD       Rondonia                 49 
+CD01O314E 004804 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD01O314E 004804 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD01O314E 004804 PADRE TON                               Sim       PT        Rondonia                 48 
+CD01O314E 004804 ANTÔNIA LÚCIA                           Sim       PSC       Acre                     53 
+CD01O314E 004804 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD01O314E 004804 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD01O314E 004804 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD01O314E 004804 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD01O314E 004804 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD01O314E 004804 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD01O314E 004804 CÉSAR HALUM                             Sim       PSD       Tocantins                64 
+CD01O314E 004804 IRAJÁ ABREU                             Sim       PSD       Tocantins                65 
+CD01O314E 004804 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD01O314E 004804 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD01O314E 004804 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD01O314E 004804 PROFESSORA DORINHA SEABRA REZEN         Obstrução DEM       Tocantins                67 
+CD01O314E 004804 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD01O314E 004804 CLEBER VERDE                            Sim       PRB       Maranhão                 70 
+CD01O314E 004804 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD01O314E 004804 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD01O314E 004804 EDIVALDO HOLANDA JUNIOR                 Sim       PTC       Maranhão                 73 
+CD01O314E 004804 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD01O314E 004804 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CD01O314E 004804 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD01O314E 004804 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD01O314E 004804 SARNEY FILHO                            Sim       PV        Maranhão                 85 
+CD01O314E 004804 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD01O314E 004804 WEVERTON ROCHA                          Sim       PDT       Maranhão                 579
+CD01O314E 004804 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD01O314E 004804 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CD01O314E 004804 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD01O314E 004804 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD01O314E 004804 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD01O314E 004804 DOMINGOS NETO                           Sim       PSB       Ceará                    97 
+CD01O314E 004804 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CD01O314E 004804 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD01O314E 004804 GENECIAS NORONHA                        Sim       PMDB      Ceará                    99 
+CD01O314E 004804 GORETE PEREIRA                          Sim       PR        Ceará                    100
+CD01O314E 004804 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD01O314E 004804 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD01O314E 004804 JOSÉ LINHARES                           Sim       PP        Ceará                    96 
+CD01O314E 004804 MANOEL SALVIANO                         Sim       PSD       Ceará                    104
+CD01O314E 004804 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD01O314E 004804 RAIMUNDÃO                               Sim       PMDB      Ceará                    108
+CD01O314E 004804 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD01O314E 004804 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD01O314E 004804 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CD01O314E 004804 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD01O314E 004804 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD01O314E 004804 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD01O314E 004804 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD01O314E 004804 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CD01O314E 004804 PAES LANDIM                             Sim       PTB       Piauí                    118
+CD01O314E 004804 FÁBIO FARIA                             Sim       PSD       Rio Grande do Norte      119
+CD01O314E 004804 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD01O314E 004804 FELIPE MAIA                             Obstrução DEM       Rio Grande do Norte      120
+CD01O314E 004804 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD01O314E 004804 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD01O314E 004804 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CD01O314E 004804 AGUINALDO RIBEIRO                       Sim       PP        Paraíba                  129
+CD01O314E 004804 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD01O314E 004804 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD01O314E 004804 NILDA GONDIM                            Sim       PMDB      Paraíba                  134
+CD01O314E 004804 ROMERO RODRIGUES                        Obstrução PSDB      Paraíba                  135
+CD01O314E 004804 WELLINGTON ROBERTO                      Sim       PR        Paraíba                  136
+CD01O314E 004804 WILSON FILHO                            Sim       PMDB      Paraíba                  139
+CD01O314E 004804 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD01O314E 004804 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD01O314E 004804 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD01O314E 004804 GONZAGA PATRIOTA                        Sim       PSB       Pernambuco               143
+CD01O314E 004804 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD01O314E 004804 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD01O314E 004804 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD01O314E 004804 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD01O314E 004804 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD01O314E 004804 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD01O314E 004804 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD01O314E 004804 PAULO RUBEM SANTIAGO                    Sim       PDT       Pernambuco               554
+CD01O314E 004804 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD01O314E 004804 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD01O314E 004804 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD01O314E 004804 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CD01O314E 004804 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD01O314E 004804 VILALBA                                 Sim       PRB       Pernambuco               555
+CD01O314E 004804 WOLNEY QUEIROZ                          Sim       PDT       Pernambuco               164
+CD01O314E 004804 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD01O314E 004804 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD01O314E 004804 GIVALDO CARIMBÃO                        Sim       PSB       Alagoas                  166
+CD01O314E 004804 JOAQUIM BELTRÃO                         Sim       PMDB      Alagoas                  172
+CD01O314E 004804 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD01O314E 004804 HELENO SILVA                            Sim       PRB       Sergipe                  175
+CD01O314E 004804 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD01O314E 004804 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD01O314E 004804 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD01O314E 004804 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD01O314E 004804 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD01O314E 004804 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD01O314E 004804 ANTONIO CARLOS MAGALHÃES NETO           Obstrução DEM       Bahia                    181
+CD01O314E 004804 ANTONIO IMBASSAHY                       Não       PSDB      Bahia                    191
+CD01O314E 004804 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD01O314E 004804 EDSON PIMENTA                           Sim       PSD       Bahia                    193
+CD01O314E 004804 EMILIANO JOSÉ                           Sim       PT        Bahia                    523
+CD01O314E 004804 FÁBIO SOUTO                             Obstrução DEM       Bahia                    190
+CD01O314E 004804 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD01O314E 004804 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD01O314E 004804 JÂNIO NATAL                             Sim       PRP       Bahia                    198
+CD01O314E 004804 JOÃO CARLOS BACELAR                     Sim       PR        Bahia                    187
+CD01O314E 004804 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CD01O314E 004804 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD01O314E 004804 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CD01O314E 004804 JOSEPH BANDEIRA                         Sim       PT        Bahia                    565
+CD01O314E 004804 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD01O314E 004804 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD01O314E 004804 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD01O314E 004804 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD01O314E 004804 MAURÍCIO TRINDADE                       Sim       PR        Bahia                    208
+CD01O314E 004804 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD01O314E 004804 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD01O314E 004804 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CD01O314E 004804 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD01O314E 004804 RUI COSTA                               Sim       PT        Bahia                    216
+CD01O314E 004804 SÉRGIO BARRADAS CARNEIRO                Sim       PT        Bahia                    524
+CD01O314E 004804 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD01O314E 004804 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD01O314E 004804 ADEMIR CAMILO                           Sim       PSD       Minas Gerais             220
+CD01O314E 004804 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CD01O314E 004804 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD01O314E 004804 ARACELY DE PAULA                        Sim       PR        Minas Gerais             223
+CD01O314E 004804 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD01O314E 004804 CARLAILE PEDROSA                        Obstrução PSDB      Minas Gerais             222
+CD01O314E 004804 DIEGO ANDRADE                           Sim       PSD       Minas Gerais             228
+CD01O314E 004804 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD01O314E 004804 EDUARDO AZEREDO                         Não       PSDB      Minas Gerais             237
+CD01O314E 004804 EROS BIONDINI                           Sim       PTB       Minas Gerais             242
+CD01O314E 004804 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD01O314E 004804 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD01O314E 004804 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CD01O314E 004804 GILMAR MACHADO                          Sim       PT        Minas Gerais             234
+CD01O314E 004804 JAIME MARTINS                           Sim       PR        Minas Gerais             240
+CD01O314E 004804 JAIRO ATAIDE                            Obstrução DEM       Minas Gerais             533
+CD01O314E 004804 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD01O314E 004804 JOÃO BITTAR                             Obstrução DEM       Minas Gerais             531
+CD01O314E 004804 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD01O314E 004804 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD01O314E 004804 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD01O314E 004804 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CD01O314E 004804 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD01O314E 004804 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD01O314E 004804 MÁRIO DE OLIVEIRA                       Sim       PSC       Minas Gerais             260
+CD01O314E 004804 MAURO LOPES                             Sim       PMDB      Minas Gerais             252
+CD01O314E 004804 MIGUEL CORRÊA                           Sim       PT        Minas Gerais             261
+CD01O314E 004804 NEWTON CARDOSO                          Não       PMDB      Minas Gerais             258
+CD01O314E 004804 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CD01O314E 004804 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD01O314E 004804 PAULO ABI-ACKEL                         Obstrução PSDB      Minas Gerais             263
+CD01O314E 004804 PAULO PIAU                              Sim       PMDB      Minas Gerais             266
+CD01O314E 004804 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CD01O314E 004804 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD01O314E 004804 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD01O314E 004804 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD01O314E 004804 VITOR PENIDO                            Não       DEM       Minas Gerais             532
+CD01O314E 004804 WALTER TOSTA                            Sim       PSD       Minas Gerais             267
+CD01O314E 004804 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD01O314E 004804 ZÉ SILVA                                Sim       PDT       Minas Gerais             271
+CD01O314E 004804 AUDIFAX                                 Sim       PSB       Espírito Santo           274
+CD01O314E 004804 CAMILO COLA                             Sim       PMDB      Espírito Santo           543
+CD01O314E 004804 CESAR COLNAGO                           Obstrução PSDB      Espírito Santo           276
+CD01O314E 004804 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD01O314E 004804 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD01O314E 004804 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD01O314E 004804 MANATO                                  Sim       PDT       Espírito Santo           275
+CD01O314E 004804 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD01O314E 004804 SUELI VIDIGAL                           Sim       PDT       Espírito Santo           281
+CD01O314E 004804 ADRIAN                                  Sim       PMDB      Rio de Janeiro           286
+CD01O314E 004804 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD01O314E 004804 ALEXANDRE SANTOS                        Sim       PMDB      Rio de Janeiro           285
+CD01O314E 004804 ANTHONY GAROTINHO                       Obstrução PR        Rio de Janeiro           289
+CD01O314E 004804 AROLDE DE OLIVEIRA                      Sim       PSD       Rio de Janeiro           288
+CD01O314E 004804 AUREO                                   Sim       PRTB      Rio de Janeiro           290
+CD01O314E 004804 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD01O314E 004804 BRIZOLA NETO                            Sim       PDT       Rio de Janeiro           566
+CD01O314E 004804 CHICO ALENCAR                           Não       PSOL      Rio de Janeiro           295
+CD01O314E 004804 CHICO D`ANGELO                          Sim       PT        Rio de Janeiro           527
+CD01O314E 004804 DELEY                                   Sim       PSC       Rio de Janeiro           562
+CD01O314E 004804 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD01O314E 004804 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD01O314E 004804 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD01O314E 004804 DR. PAULO CÉSAR                         Sim       PSD       Rio de Janeiro           296
+CD01O314E 004804 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD01O314E 004804 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD01O314E 004804 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD01O314E 004804 ELIANE ROLIM                            Sim       PT        Rio de Janeiro           538
+CD01O314E 004804 FELIPE BORNIER                          Sim       PSD       Rio de Janeiro           301
+CD01O314E 004804 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD01O314E 004804 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD01O314E 004804 FRANCISCO FLORIANO                      Obstrução PR        Rio de Janeiro           297
+CD01O314E 004804 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD01O314E 004804 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD01O314E 004804 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD01O314E 004804 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD01O314E 004804 JEAN WYLLYS                             Não       PSOL      Rio de Janeiro           307
+CD01O314E 004804 LEONARDO PICCIANI                       Sim       PMDB      Rio de Janeiro           312
+CD01O314E 004804 LILIAM SÁ                               Sim       PSD       Rio de Janeiro           309
+CD01O314E 004804 MARCELO MATOS                           Sim       PDT       Rio de Janeiro           311
+CD01O314E 004804 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD01O314E 004804 NEILTON MULIM                           Sim       PR        Rio de Janeiro           315
+CD01O314E 004804 NELSON BORNIER                          Sim       PMDB      Rio de Janeiro           549
+CD01O314E 004804 PAULO FEIJÓ                             Obstrução PR        Rio de Janeiro           577
+CD01O314E 004804 ROMÁRIO                                 Sim       PSB       Rio de Janeiro           319
+CD01O314E 004804 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD01O314E 004804 STEPAN NERCESSIAN                       Obstrução PPS       Rio de Janeiro           323
+CD01O314E 004804 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD01O314E 004804 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD01O314E 004804 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD01O314E 004804 ZOINHO                                  Obstrução PR        Rio de Janeiro           328
+CD01O314E 004804 ALBERTO MOURÃO                          Abstenção PSDB      São Paulo                552
+CD01O314E 004804 ALEXANDRE LEITE                         Obstrução DEM       São Paulo                334
+CD01O314E 004804 ALINE CORRÊA                            Sim       PP        São Paulo                330
+CD01O314E 004804 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD01O314E 004804 ANTONIO CARLOS MENDES THAME             Obstrução PSDB      São Paulo                332
+CD01O314E 004804 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD01O314E 004804 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD01O314E 004804 BETO MANSUR                             Sim       PP        São Paulo                340
+CD01O314E 004804 BRUNA FURLAN                            Obstrução PSDB      São Paulo                335
+CD01O314E 004804 CÂNDIDO VACCAREZZA                      Sim       PT        São Paulo                389
+CD01O314E 004804 CARLINHOS ALMEIDA                       Sim       PT        São Paulo                341
+CD01O314E 004804 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD01O314E 004804 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD01O314E 004804 DRA.ELAINE ABISSAMRA                    Sim       PSB       São Paulo                576
+CD01O314E 004804 DUARTE NOGUEIRA                         Não       PSDB      São Paulo                350
+CD01O314E 004804 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD01O314E 004804 ELEUSES PAIVA                           Sim       PSD       São Paulo                537
+CD01O314E 004804 GABRIEL CHALITA                         Sim       PMDB      São Paulo                347
+CD01O314E 004804 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD01O314E 004804 GUILHERME MUSSI                         Sim       PSD       São Paulo                348
+CD01O314E 004804 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD01O314E 004804 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD01O314E 004804 JEFFERSON CAMPOS                        Sim       PSD       São Paulo                349
+CD01O314E 004804 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD01O314E 004804 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD01O314E 004804 JOÃO PAULO CUNHA                        Sim       PT        São Paulo                361
+CD01O314E 004804 JONAS DONIZETTE                         Sim       PSB       São Paulo                353
+CD01O314E 004804 JORGE TADEU MUDALEN                     Obstrução DEM       São Paulo                363
+CD01O314E 004804 JOSÉ MENTOR                             Sim       PT        São Paulo                367
+CD01O314E 004804 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD01O314E 004804 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD01O314E 004804 LUIZ FERNANDO MACHADO                   Obstrução PSDB      São Paulo                365
+CD01O314E 004804 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD01O314E 004804 MARCELO AGUIAR                          Sim       PSD       São Paulo                370
+CD01O314E 004804 MILTON MONTI                            Sim       PR        São Paulo                374
+CD01O314E 004804 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD01O314E 004804 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD01O314E 004804 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD01O314E 004804 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD01O314E 004804 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD01O314E 004804 PAULO FREIRE                            Sim       PR        São Paulo                380
+CD01O314E 004804 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD01O314E 004804 PENNA                                   Sim       PV        São Paulo                382
+CD01O314E 004804 RICARDO BERZOINI                        Sim       PT        São Paulo                390
+CD01O314E 004804 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CD01O314E 004804 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O314E 004804 ROBERTO FREIRE                          Obstrução PPS       São Paulo                387
+CD01O314E 004804 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CD01O314E 004804 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD01O314E 004804 TIRIRICA                                Sim       PR        São Paulo                392
+CD01O314E 004804 VALDEMAR COSTA NETO                     Sim       PR        São Paulo                393
+CD01O314E 004804 VANDERLEI MACRIS                        Obstrução PSDB      São Paulo                521
+CD01O314E 004804 VANDERLEI SIRAQUE                       Sim       PT        São Paulo                581
+CD01O314E 004804 VICENTE CANDIDO                         Sim       PT        São Paulo                395
+CD01O314E 004804 VICENTINHO                              Sim       PT        São Paulo                396
+CD01O314E 004804 WALTER IHOSHI                           Sim       PSD       São Paulo                553
+CD01O314E 004804 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD01O314E 004804 HOMERO PEREIRA                          Sim       PSD       Mato Grosso              402
+CD01O314E 004804 JÚLIO CAMPOS                            Obstrução DEM       Mato Grosso              399
+CD01O314E 004804 NILSON LEITÃO                           Obstrução PSDB      Mato Grosso              573
+CD01O314E 004804 ROBERTO DORNER                          Sim       PSD       Mato Grosso              519
+CD01O314E 004804 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD01O314E 004804 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD01O314E 004804 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD01O314E 004804 IZALCI                                  Sim       PR        Distrito Federal         408
+CD01O314E 004804 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD01O314E 004804 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD01O314E 004804 POLICARPO                               Sim       PT        Distrito Federal         539
+CD01O314E 004804 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD01O314E 004804 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD01O314E 004804 ARMANDO VERGÍLIO                        Sim       PSD       Goiás                    416
+CD01O314E 004804 CARLOS ALBERTO LERÉIA                   Obstrução PSDB      Goiás                    415
+CD01O314E 004804 HEULER CRUVINEL                         Sim       PSD       Goiás                    423
+CD01O314E 004804 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD01O314E 004804 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CD01O314E 004804 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CD01O314E 004804 MARINA SANTANNA                         Sim       PT        Goiás                    564
+CD01O314E 004804 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD01O314E 004804 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD01O314E 004804 RUBENS OTONI                            Sim       PT        Goiás                    425
+CD01O314E 004804 SANDES JÚNIOR                           Sim       PP        Goiás                    426
+CD01O314E 004804 SANDRO MABEL                            Sim       PMDB      Goiás                    431
+CD01O314E 004804 VALDIVINO DE OLIVEIRA                   Obstrução PSDB      Goiás                    547
+CD01O314E 004804 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CD01O314E 004804 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD01O314E 004804 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD01O314E 004804 GIROTO                                  Sim       PMDB      Mato Grosso do Sul       434
+CD01O314E 004804 MANDETTA                                Obstrução DEM       Mato Grosso do Sul       436
+CD01O314E 004804 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD01O314E 004804 REINALDO AZAMBUJA                       Obstrução PSDB      Mato Grosso do Sul       439
+CD01O314E 004804 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD01O314E 004804 ALEX CANZIANI                           Sim       PTB       Paraná                   445
+CD01O314E 004804 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD01O314E 004804 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD01O314E 004804 ANGELO VANHONI                          Sim       PT        Paraná                   453
+CD01O314E 004804 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD01O314E 004804 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD01O314E 004804 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD01O314E 004804 DR. ROSINHA                             Sim       PT        Paraná                   449
+CD01O314E 004804 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD01O314E 004804 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD01O314E 004804 FERNANDO FRANCISCHINI                   Obstrução PSDB      Paraná                   450
+CD01O314E 004804 GIACOBO                                 Sim       PR        Paraná                   466
+CD01O314E 004804 HERMES PARCIANELLO                      Sim       PMDB      Paraná                   448
+CD01O314E 004804 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD01O314E 004804 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD01O314E 004804 MOACIR MICHELETTO                       Sim       PMDB      Paraná                   462
+CD01O314E 004804 NELSON MEURER                           Sim       PP        Paraná                   458
+CD01O314E 004804 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD01O314E 004804 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD01O314E 004804 RATINHO JUNIOR                          Sim       PSC       Paraná                   464
+CD01O314E 004804 REINHOLD STEPHANES                      Sim       PSD       Paraná                   467
+CD01O314E 004804 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD01O314E 004804 RUBENS BUENO                            Obstrução PPS       Paraná                   460
+CD01O314E 004804 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O314E 004804 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD01O314E 004804 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CD01O314E 004804 CARMEN ZANOTTO                          Obstrução PPS       Santa Catarina           561
+CD01O314E 004804 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD01O314E 004804 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CD01O314E 004804 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD01O314E 004804 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD01O314E 004804 JORGE BOEIRA                            Sim       PT        Santa Catarina           474
+CD01O314E 004804 LUCI CHOINACKI                          Sim       PT        Santa Catarina           477
+CD01O314E 004804 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CD01O314E 004804 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD01O314E 004804 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CD01O314E 004804 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD01O314E 004804 ROMANNA REMOR                           Sim       PMDB      Santa Catarina           582
+CD01O314E 004804 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD01O314E 004804 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD01O314E 004804 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD01O314E 004804 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD01O314E 004804 ALEXANDRE ROSO                          Sim       PSB       Rio Grande do Sul        489
+CD01O314E 004804 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD01O314E 004804 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD01O314E 004804 DANRLEI DE DEUS HINTERHOLZ              Sim       PSD       Rio Grande do Sul        495
+CD01O314E 004804 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD01O314E 004804 ELISEU PADILHA                          Sim       PMDB      Rio Grande do Sul        578
+CD01O314E 004804 ENIO BACCI                              Sim       PDT       Rio Grande do Sul        493
+CD01O314E 004804 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD01O314E 004804 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD01O314E 004804 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD01O314E 004804 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD01O314E 004804 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD01O314E 004804 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD01O314E 004804 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD01O314E 004804 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O314E 004804 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CD01O314E 004804 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD01O314E 004804 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CD01O314E 004804 PEPE VARGAS                             Sim       PT        Rio Grande do Sul        503
+CD01O314E 004804 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD01O314E 004804 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD01O314E 004804 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD01O314E 004804 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD01O314E 004804 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O314E 004804 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD01O314E 004804 RUI PALMEIRA                            <-------> PSDB      Alagoas                  171
+CD01O314E 004804 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD01O314E 004804 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O314E 004804 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O314E 004804 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O314E 004804 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD01O314E 004804 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD01O314E 004804 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD01O314E 004804 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD01O314E 004804 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD01O314E 004804 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD01O314E 004804 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD01O314E 004804 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD01O314E 004804 SÉRGIO BRITO                            <-------> PSD       Bahia                    213
+CD01O314E 004804 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD01O314E 004804 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD01O314E 004804 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD01O314E 004804 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD01O314E 004804 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD01O314E 004804 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O314E 004804 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD01O314E 004804 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O314E 004804 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD01O314E 004804 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O314E 004804 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD01O314E 004804 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O314E 004804 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O314E 004804 PEDRO NOVAIS                            <-------> PMDB      Maranhão                 82 
+CD01O314E 004804 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O314E 004804 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O314E 004804 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD01O314E 004804 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD01O314E 004804 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD01O314E 004804 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O314E 004804 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD01O314E 004804 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD01O314E 004804 MÁRCIO REINALDO MOREIRA                 <-------> PP        Minas Gerais             247
+CD01O314E 004804 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD01O314E 004804 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD01O314E 004804 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O314E 004804 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O314E 004804 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD01O314E 004804 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O314E 004804 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O314E 004804 ELIENE LIMA                             <-------> PSD       Mato Grosso              401
+CD01O314E 004804 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O314E 004804 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O314E 004804 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O314E 004804 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CD01O314E 004804 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O314E 004804 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O314E 004804 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD01O314E 004804 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD01O314E 004804 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O314E 004804 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD01O314E 004804 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD01O314E 004804 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O314E 004804 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD01O314E 004804 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD01O314E 004804 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O314E 004804 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD01O314E 004804 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O314E 004804 MARLLOS SAMPAIO                         <-------> PMDB      Piauí                    117
+CD01O314E 004804 NAZARENO FONTELES                       <-------> PT        Piauí                    530
+CD01O314E 004804 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O314E 004804 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD01O314E 004804 LUIZ CARLOS SETIM                       <-------> DEM       Paraná                   535
+CD01O314E 004804 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD01O314E 004804 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD01O314E 004804 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O314E 004804 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD01O314E 004804 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD01O314E 004804 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O314E 004804 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O314E 004804 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD01O314E 004804 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD01O314E 004804 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O314E 004804 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD01O314E 004804 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O314E 004804 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD01O314E 004804 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O314E 004804 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O314E 004804 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O314E 004804 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD01O314E 004804 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD01O314E 004804 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O314E 004804 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD01O314E 004804 ALMEIDA LIMA                            <-------> PPS       Sergipe                  173
+CD01O314E 004804 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD01O314E 004804 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O314E 004804 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O314E 004804 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD01O314E 004804 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD01O314E 004804 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD01O314E 004804 DR. UBIALI                              <-------> PSB       São Paulo                541
+CD01O314E 004804 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O314E 004804 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD01O314E 004804 JOSÉ DE FILIPPI                         <-------> PT        São Paulo                354
+CD01O314E 004804 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD01O314E 004804 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD01O314E 004804 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD01O314E 004804 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O314E 004804 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 

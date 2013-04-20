@@ -1,0 +1,513 @@
+CD02O239E 000000 BERINHO BANTIM                          Presente PSDB      Roraima                  1
+CD02O239E 000000 EDIO LOPES                              Presente PMDB      Roraima                  2  
+CD02O239E 000000 FRANCISCO ARAÚJO                        Presente PSD       Roraima                  570
+CD02O239E 000000 JHONATAN DE JESUS                       Presente PRB       Roraima                  5  
+CD02O239E 000000 LUCIANO CASTRO                          Presente PR        Roraima                  4  
+CD02O239E 000000 PAULO CESAR QUARTIERO                   Presente DEM       Roraima                  6  
+CD02O239E 000000 TERESA SURITA                           Presente PMDB      Roraima                  8  
+CD02O239E 000000 FÁTIMA PELAES                           Presente PMDB      Amapá                    12 
+CD02O239E 000000 LUIZ CARLOS                             Presente PSDB      Amapá                    14 
+CD02O239E 000000 SEBASTIÃO BALA ROCHA                    Presente PDT       Amapá                    17 
+CD02O239E 000000 VINICIUS GURGEL                         Presente PR        Amapá                    16 
+CD02O239E 000000 ASDRUBAL BENTES                         Presente PMDB      Pará                     20 
+CD02O239E 000000 BETO FARO                               Presente PT        Pará                     19 
+CD02O239E 000000 DUDIMAR PAXIÚBA                         Presente PSDB      Pará                     518
+CD02O239E 000000 GIOVANNI QUEIROZ                        Presente PDT       Pará                     27 
+CD02O239E 000000 LÚCIO VALE                              Presente PR        Pará                     29 
+CD02O239E 000000 MIRIQUINHO BATISTA                      Presente PT        Pará                     35 
+CD02O239E 000000 VALRY MORAIS                            Presente PRP       Pará                     598
+CD02O239E 000000 WANDENKOLK GONÇALVES                    Presente PSDB      Pará                     32 
+CD02O239E 000000 WLADIMIR COSTA                          Presente PMDB      Pará                     23 
+CD02O239E 000000 ZÉ GERALDO                              Presente PT        Pará                     25 
+CD02O239E 000000 FRANCISCO PRACIANO                      Presente PT        Amazonas                 41 
+CD02O239E 000000 HENRIQUE OLIVEIRA                       Presente PR        Amazonas                 36 
+CD02O239E 000000 PAUDERNEY AVELINO                       Presente DEM       Amazonas                 40 
+CD02O239E 000000 REBECCA GARCIA                          Presente PP        Amazonas                 42 
+CD02O239E 000000 SABINO CASTELO BRANCO                   Presente PTB       Amazonas                 43 
+CD02O239E 000000 CARLOS MAGNO                            Presente PP        Rondonia                 44 
+CD02O239E 000000 MARCOS ROGÉRIO                          Presente PDT       Rondonia                 583
+CD02O239E 000000 MAURO NAZIF                             Presente PSB       Rondonia                 46 
+CD02O239E 000000 NILTON CAPIXABA                         Presente PTB       Rondonia                 47 
+CD02O239E 000000 PADRE TON                               Presente PT        Rondonia                 48 
+CD02O239E 000000 FLAVIANO MELO                           Presente PMDB      Acre                     54 
+CD02O239E 000000 HENRIQUE AFONSO                         Presente PV        Acre                     52 
+CD02O239E 000000 PERPÉTUA ALMEIDA                        Presente PCdoB     Acre                     56 
+CD02O239E 000000 SIBÁ MACHADO                            Presente PT        Acre                     58 
+CD02O239E 000000 ÂNGELO AGNOLIN                          Presente PDT       Tocantins                61 
+CD02O239E 000000 IRAJÁ ABREU                             Presente PSD       Tocantins                65 
+CD02O239E 000000 CARLOS BRANDÃO                          Presente PSDB      Maranhão                 68 
+CD02O239E 000000 COSTA FERREIRA                          Presente PSC       Maranhão                 571
+CD02O239E 000000 DOMINGOS DUTRA                          Presente PT        Maranhão                 72 
+CD02O239E 000000 HÉLIO SANTOS                            Presente PSD       Maranhão                 76 
+CD02O239E 000000 LOURIVAL MENDES                         Presente PTdoB     Maranhão                 77 
+CD02O239E 000000 PEDRO NOVAIS                            Presente PMDB      Maranhão                 82 
+CD02O239E 000000 PROFESSOR SETIMO                        Presente PMDB      Maranhão                 81 
+CD02O239E 000000 RICARDO ARCHER                          Presente PMDB      Maranhão                 593
+CD02O239E 000000 WEVERTON ROCHA                          Presente PDT       Maranhão                 579
+CD02O239E 000000 ANDRÉ FIGUEIREDO                        Presente PDT       Ceará                    89 
+CD02O239E 000000 ANÍBAL GOMES                            Presente PMDB      Ceará                    87 
+CD02O239E 000000 ARIOSTO HOLANDA                         Presente PSB       Ceará                    92 
+CD02O239E 000000 EUDES XAVIER                            Presente PT        Ceará                    91 
+CD02O239E 000000 GENECIAS NORONHA                        Presente PMDB      Ceará                    99 
+CD02O239E 000000 JOÃO ANANIAS                            Presente PCdoB     Ceará                    106
+CD02O239E 000000 JOSÉ GUIMARÃES                          Presente PT        Ceará                    103
+CD02O239E 000000 MAURO BENEVIDES                         Presente PMDB      Ceará                    105
+CD02O239E 000000 RAIMUNDO GOMES DE MATOS                 Presente PSDB      Ceará                    102
+CD02O239E 000000 VICENTE ARRUDA                          Presente PR        Ceará                    107
+CD02O239E 000000 ASSIS CARVALHO                          Presente PT        Piauí                    111
+CD02O239E 000000 HUGO NAPOLEÃO                           Presente PSD       Piauí                    112
+CD02O239E 000000 IRACEMA PORTELLA                        Presente PP        Piauí                    113
+CD02O239E 000000 JESUS RODRIGUES                         Presente PT        Piauí                    115
+CD02O239E 000000 JÚLIO CESAR                             Presente PSD       Piauí                    114
+CD02O239E 000000 MARCELO CASTRO                          Presente PMDB      Piauí                    110
+CD02O239E 000000 NAZARENO FONTELES                       Presente PT        Piauí                    530
+CD02O239E 000000 PAES LANDIM                             Presente PTB       Piauí                    118
+CD02O239E 000000 FÁBIO FARIA                             Presente PSD       Rio Grande do Norte      119
+CD02O239E 000000 FÁTIMA BEZERRA                          Presente PT        Rio Grande do Norte      121
+CD02O239E 000000 FELIPE MAIA                             Presente DEM       Rio Grande do Norte      120
+CD02O239E 000000 HENRIQUE EDUARDO ALVES                  Presente PMDB      Rio Grande do Norte      123
+CD02O239E 000000 PAULO WAGNER                            Presente PV        Rio Grande do Norte      126
+CD02O239E 000000 ROGÉRIO MARINHO                         Presente PSDB      Rio Grande do Norte      540
+CD02O239E 000000 SANDRA ROSADO                           Presente PSB       Rio Grande do Norte      125
+CD02O239E 000000 ARMANDO ABÍLIO                          Presente PTB       Paraíba                  589
+CD02O239E 000000 DAMIÃO FELICIANO                        Presente PDT       Paraíba                  127
+CD02O239E 000000 HUGO MOTTA                              Presente PMDB      Paraíba                  132
+CD02O239E 000000 LEONARDO GADELHA                        Presente PSC       Paraíba                  586
+CD02O239E 000000 LUIZ COUTO                              Presente PT        Paraíba                  133
+CD02O239E 000000 MAJOR FÁBIO                             Presente DEM       Paraíba                  599
+CD02O239E 000000 MANOEL JUNIOR                           Presente PMDB      Paraíba                  130
+CD02O239E 000000 NILDA GONDIM                            Presente PMDB      Paraíba                  134
+CD02O239E 000000 RUY CARNEIRO                            Presente PSDB      Paraíba                  137
+CD02O239E 000000 WELLINGTON ROBERTO                      Presente PR        Paraíba                  136
+CD02O239E 000000 AUGUSTO COUTINHO                        Presente DEM       Pernambuco               144
+CD02O239E 000000 BRUNO ARAÚJO                            Presente PSDB      Pernambuco               146
+CD02O239E 000000 EDUARDO DA FONTE                        Presente PP        Pernambuco               156
+CD02O239E 000000 FERNANDO FERRO                          Presente PT        Pernambuco               141
+CD02O239E 000000 GONZAGA PATRIOTA                        Presente PSB       Pernambuco               143
+CD02O239E 000000 INOCÊNCIO OLIVEIRA                      Presente PR        Pernambuco               145
+CD02O239E 000000 JOÃO PAULO  LIMA                        Presente PT        Pernambuco               149
+CD02O239E 000000 JOSÉ CHAVES                             Presente PTB       Pernambuco               147
+CD02O239E 000000 LUCIANA SANTOS                          Presente PCdoB     Pernambuco               153
+CD02O239E 000000 MENDONÇA FILHO                          Presente DEM       Pernambuco               154
+CD02O239E 000000 PASTOR EURICO                           Presente PSB       Pernambuco               155
+CD02O239E 000000 PAULO RUBEM SANTIAGO                    Presente PDT       Pernambuco               554
+CD02O239E 000000 ROBERTO TEIXEIRA                        Presente PP        Pernambuco               157
+CD02O239E 000000 SILVIO COSTA                            Presente PTB       Pernambuco               160
+CD02O239E 000000 VILALBA                                 Presente PRB       Pernambuco               555
+CD02O239E 000000 ARTHUR LIRA                             Presente PP        Alagoas                  162
+CD02O239E 000000 GIVALDO CARIMBÃO                        Presente PSB       Alagoas                  166
+CD02O239E 000000 JOÃO CALDAS                             Presente PEN       Alagoas                  597
+CD02O239E 000000 JOAQUIM BELTRÃO                         Presente PMDB      Alagoas                  172
+CD02O239E 000000 MAURÍCIO QUINTELLA LESSA                Presente PR        Alagoas                  168
+CD02O239E 000000 RENAN FILHO                             Presente PMDB      Alagoas                  169
+CD02O239E 000000 ROSINHA DA ADEFAL                       Presente PTdoB     Alagoas                  170
+CD02O239E 000000 ANDRE MOURA                             Presente PSC       Sergipe                  174
+CD02O239E 000000 LAERCIO OLIVEIRA                        Presente PR        Sergipe                  176
+CD02O239E 000000 MÁRCIO MACÊDO                           Presente PT        Sergipe                  177
+CD02O239E 000000 MENDONÇA PRADO                          Presente DEM       Sergipe                  179
+CD02O239E 000000 ROGÉRIO CARVALHO                        Presente PT        Sergipe                  178
+CD02O239E 000000 ACELINO POPÓ                            Presente PRB       Bahia                    522
+CD02O239E 000000 AFONSO FLORENCE                         Presente PT        Bahia                    182
+CD02O239E 000000 AMAURI TEIXEIRA                         Presente PT        Bahia                    184
+CD02O239E 000000 ANTONIO BRITO                           Presente PTB       Bahia                    189
+CD02O239E 000000 ANTONIO CARLOS MAGALHÃES NETO           Presente DEM       Bahia                    181
+CD02O239E 000000 ANTONIO IMBASSAHY                       Presente PSDB      Bahia                    191
+CD02O239E 000000 ARTHUR OLIVEIRA MAIA                    Presente PMDB      Bahia                    192
+CD02O239E 000000 CLAUDIO CAJADO                          Presente DEM       Bahia                    186
+CD02O239E 000000 DANIEL ALMEIDA                          Presente PCdoB     Bahia                    188
+CD02O239E 000000 EDSON PIMENTA                           Presente PSD       Bahia                    193
+CD02O239E 000000 EMILIANO JOSÉ                           Presente PT        Bahia                    523
+CD02O239E 000000 FÁBIO SOUTO                             Presente DEM       Bahia                    190
+CD02O239E 000000 FELIX MENDONÇA JÚNIOR                   Presente PDT       Bahia                    195
+CD02O239E 000000 JOÃO CARLOS BACELAR                     Presente PR        Bahia                    187
+CD02O239E 000000 JOÃO LEÃO                               Presente PP        Bahia                    199
+CD02O239E 000000 JOSÉ CARLOS ARAÚJO                      Presente PSD       Bahia                    197
+CD02O239E 000000 JOSÉ NUNES                              Presente PSD       Bahia                    201
+CD02O239E 000000 JOSÉ ROCHA                              Presente PR        Bahia                    203
+CD02O239E 000000 JOSIAS GOMES                            Presente PT        Bahia                    202
+CD02O239E 000000 JUTAHY JUNIOR                           Presente PSDB      Bahia                    206
+CD02O239E 000000 LUCIO VIEIRA LIMA                       Presente PMDB      Bahia                    205
+CD02O239E 000000 LUIZ ALBERTO                            Presente PT        Bahia                    204
+CD02O239E 000000 MÁRCIO MARINHO                          Presente PRB       Bahia                    212
+CD02O239E 000000 MÁRIO NEGROMONTE                        Presente PP        Bahia                    210
+CD02O239E 000000 MAURÍCIO TRINDADE                       Presente PR        Bahia                    208
+CD02O239E 000000 OZIEL OLIVEIRA                          Presente PDT       Bahia                    215
+CD02O239E 000000 PAULO MAGALHÃES                         Presente PSD       Bahia                    214
+CD02O239E 000000 ROBERTO BRITTO                          Presente PP        Bahia                    211
+CD02O239E 000000 SÉRGIO BARRADAS CARNEIRO                Presente PT        Bahia                    524
+CD02O239E 000000 SÉRGIO BRITO                            Presente PSD       Bahia                    213
+CD02O239E 000000 VALMIR ASSUNÇÃO                         Presente PT        Bahia                    218
+CD02O239E 000000 WALDENOR PEREIRA                        Presente PT        Bahia                    219
+CD02O239E 000000 ZEZÉU RIBEIRO                           Presente PT        Bahia                    217
+CD02O239E 000000 ADEMIR CAMILO                           Presente PSD       Minas Gerais             220
+CD02O239E 000000 BERNARDO SANTANA DE VASCONCELLO         Presente PR        Minas Gerais             221
+CD02O239E 000000 BONIFÁCIO DE ANDRADA                    Presente PSDB      Minas Gerais             534
+CD02O239E 000000 DIEGO ANDRADE                           Presente PSD       Minas Gerais             228
+CD02O239E 000000 DR. GRILO                               Presente PSL       Minas Gerais             235
+CD02O239E 000000 EDUARDO BARBOSA                         Presente PSDB      Minas Gerais             230
+CD02O239E 000000 FÁBIO RAMALHO                           Presente PV        Minas Gerais             238
+CD02O239E 000000 GABRIEL GUIMARÃES                       Presente PT        Minas Gerais             244
+CD02O239E 000000 GEORGE HILTON                           Presente PRB       Minas Gerais             241
+CD02O239E 000000 GERALDO THADEU                          Presente PSD       Minas Gerais             236
+CD02O239E 000000 GILMAR MACHADO                          Presente PT        Minas Gerais             234
+CD02O239E 000000 JAIME MARTINS                           Presente PR        Minas Gerais             240
+CD02O239E 000000 JAIRO ATAIDE                            Presente DEM       Minas Gerais             533
+CD02O239E 000000 JÔ MORAES                               Presente PCdoB     Minas Gerais             246
+CD02O239E 000000 JOÃO MAGALHÃES                          Presente PMDB      Minas Gerais             239
+CD02O239E 000000 JOSÉ HUMBERTO                           Presente PHS       Minas Gerais             249
+CD02O239E 000000 JÚLIO DELGADO                           Presente PSB       Minas Gerais             250
+CD02O239E 000000 LEONARDO QUINTÃO                        Presente PMDB      Minas Gerais             255
+CD02O239E 000000 LINCOLN PORTELA                         Presente PR        Minas Gerais             243
+CD02O239E 000000 LUIS TIBÉ                               Presente PTdoB     Minas Gerais             251
+CD02O239E 000000 MARCOS MONTES                           Presente PSD       Minas Gerais             257
+CD02O239E 000000 MARCUS PESTANA                          Presente PSDB      Minas Gerais             254
+CD02O239E 000000 MAURO LOPES                             Presente PMDB      Minas Gerais             252
+CD02O239E 000000 MIGUEL CORRÊA                           Presente PT        Minas Gerais             261
+CD02O239E 000000 PADRE JOÃO                              Presente PT        Minas Gerais             259
+CD02O239E 000000 PAULO ABI-ACKEL                         Presente PSDB      Minas Gerais             263
+CD02O239E 000000 REGINALDO LOPES                         Presente PT        Minas Gerais             272
+CD02O239E 000000 SARAIVA FELIPE                          Presente PMDB      Minas Gerais             265
+CD02O239E 000000 WELITON PRADO                           Presente PT        Minas Gerais             270
+CD02O239E 000000 ZÉ SILVA                                Presente PDT       Minas Gerais             271
+CD02O239E 000000 CAMILO COLA                             Presente PMDB      Espírito Santo           543
+CD02O239E 000000 CESAR COLNAGO                           Presente PSDB      Espírito Santo           276
+CD02O239E 000000 DR. JORGE SILVA                         Presente PDT       Espírito Santo           278
+CD02O239E 000000 LAURIETE                                Presente PSC       Espírito Santo           279
+CD02O239E 000000 MANATO                                  Presente PDT       Espírito Santo           275
+CD02O239E 000000 PAULO FOLETTO                           Presente PSB       Espírito Santo           280
+CD02O239E 000000 ADRIAN                                  Presente PMDB      Rio de Janeiro           286
+CD02O239E 000000 ALESSANDRO MOLON                        Presente PT        Rio de Janeiro           287
+CD02O239E 000000 ALEXANDRE CARDOSO                       Presente PSB       Rio de Janeiro           284
+CD02O239E 000000 ALFREDO SIRKIS                          Presente PV        Rio de Janeiro           321
+CD02O239E 000000 ANDREIA ZITO                            Presente PSDB      Rio de Janeiro           283
+CD02O239E 000000 AROLDE DE OLIVEIRA                      Presente PSD       Rio de Janeiro           288
+CD02O239E 000000 BENEDITA DA SILVA                       Presente PT        Rio de Janeiro           291
+CD02O239E 000000 CHICO ALENCAR                           Presente PSOL      Rio de Janeiro           295
+CD02O239E 000000 CHICO D`ANGELO                          Presente PT        Rio de Janeiro           527
+CD02O239E 000000 DR. ADILSON SOARES                      Presente PR        Rio de Janeiro           293
+CD02O239E 000000 DR. DILSON DRUMOND                      Presente PDT       Rio de Janeiro           602
+CD02O239E 000000 DR. PAULO CÉSAR                         Presente PSD       Rio de Janeiro           296
+CD02O239E 000000 EDSON EZEQUIEL                          Presente PMDB      Rio de Janeiro           298
+CD02O239E 000000 EDUARDO CUNHA                           Presente PMDB      Rio de Janeiro           300
+CD02O239E 000000 FELIPE BORNIER                          Presente PSD       Rio de Janeiro           301
+CD02O239E 000000 FILIPE PEREIRA                          Presente PSC       Rio de Janeiro           303
+CD02O239E 000000 HUGO LEAL                               Presente PSC       Rio de Janeiro           306
+CD02O239E 000000 JAIR BOLSONARO                          Presente PP        Rio de Janeiro           302
+CD02O239E 000000 JANDIRA FEGHALI                         Presente PCdoB     Rio de Janeiro           305
+CD02O239E 000000 LEONARDO PICCIANI                       Presente PMDB      Rio de Janeiro           312
+CD02O239E 000000 MIRO TEIXEIRA                           Presente PDT       Rio de Janeiro           317
+CD02O239E 000000 NEILTON MULIM                           Presente PR        Rio de Janeiro           315
+CD02O239E 000000 PAULO FEIJÓ                             Presente PR        Rio de Janeiro           577
+CD02O239E 000000 ROMÁRIO                                 Presente PSB       Rio de Janeiro           319
+CD02O239E 000000 SIMÃO SESSIM                            Presente PP        Rio de Janeiro           327
+CD02O239E 000000 STEPAN NERCESSIAN                       Presente PPS       Rio de Janeiro           323
+CD02O239E 000000 VITOR PAULO                             Presente PRB       Rio de Janeiro           324
+CD02O239E 000000 ZOINHO                                  Presente PR        Rio de Janeiro           328
+CD02O239E 000000 ALBERTO MOURÃO                          Presente PSDB      São Paulo                552
+CD02O239E 000000 ALEXANDRE LEITE                         Presente DEM       São Paulo                334
+CD02O239E 000000 ALINE CORRÊA                            Presente PP        São Paulo                330
+CD02O239E 000000 ANTONIO BULHÕES                         Presente PRB       São Paulo                333
+CD02O239E 000000 ANTONIO CARLOS MENDES THAME             Presente PSDB      São Paulo                332
+CD02O239E 000000 ARLINDO CHINAGLIA                       Presente PT        São Paulo                336
+CD02O239E 000000 ARNALDO JARDIM                          Presente PPS       São Paulo                339
+CD02O239E 000000 BETO MANSUR                             Presente PP        São Paulo                340
+CD02O239E 000000 BRUNA FURLAN                            Presente PSDB      São Paulo                335
+CD02O239E 000000 CÂNDIDO VACCAREZZA                      Presente PT        São Paulo                389
+CD02O239E 000000 CARLINHOS ALMEIDA                       Presente PT        São Paulo                341
+CD02O239E 000000 CARLOS ZARATTINI                        Presente PT        São Paulo                398
+CD02O239E 000000 DEVANIR RIBEIRO                         Presente PT        São Paulo                342
+CD02O239E 000000 DUARTE NOGUEIRA                         Presente PSDB      São Paulo                350
+CD02O239E 000000 EDINHO ARAÚJO                           Presente PMDB      São Paulo                344
+CD02O239E 000000 ELEUSES PAIVA                           Presente PSD       São Paulo                537
+CD02O239E 000000 EMANUEL FERNANDES                       Presente PSDB      São Paulo                352
+CD02O239E 000000 IVAN VALENTE                            Presente PSOL      São Paulo                359
+CD02O239E 000000 JANETE ROCHA PIETÁ                      Presente PT        São Paulo                358
+CD02O239E 000000 JILMAR TATTO                            Presente PT        São Paulo                360
+CD02O239E 000000 JOÃO DADO                               Presente PDT       São Paulo                362
+CD02O239E 000000 JOSÉ DE FILIPPI                         Presente PT        São Paulo                354
+CD02O239E 000000 JOSÉ MENTOR                             Presente PT        São Paulo                367
+CD02O239E 000000 JUNJI ABE                               Presente PSD       São Paulo                355
+CD02O239E 000000 KEIKO OTA                               Presente PSB       São Paulo                356
+CD02O239E 000000 LUIZA ERUNDINA                          Presente PSB       São Paulo                371
+CD02O239E 000000 MÁRCIO FRANÇA                           Presente PSB       São Paulo                368
+CD02O239E 000000 MISSIONÁRIO JOSÉ OLIMPIO                Presente PP        São Paulo                375
+CD02O239E 000000 NELSON MARQUEZELLI                      Presente PTB       São Paulo                381
+CD02O239E 000000 NEWTON LIMA                             Presente PT        São Paulo                377
+CD02O239E 000000 OTONIEL LIMA                            Presente PRB       São Paulo                378
+CD02O239E 000000 PAULO PEREIRA DA SILVA                  Presente PDT       São Paulo                372
+CD02O239E 000000 PAULO TEIXEIRA                          Presente PT        São Paulo                376
+CD02O239E 000000 PENNA                                   Presente PV        São Paulo                382
+CD02O239E 000000 RICARDO BERZOINI                        Presente PT        São Paulo                390
+CD02O239E 000000 RICARDO IZAR                            Presente PSD       São Paulo                383
+CD02O239E 000000 RICARDO TRIPOLI                         Presente PSDB      São Paulo                384
+CD02O239E 000000 ROBERTO DE LUCENA                       Presente PV        São Paulo                385
+CD02O239E 000000 ROBERTO FREIRE                          Presente PPS       São Paulo                387
+CD02O239E 000000 ROBERTO SANTIAGO                        Presente PSD       São Paulo                386
+CD02O239E 000000 SALVADOR ZIMBALDI                       Presente PDT       São Paulo                391
+CD02O239E 000000 TIRIRICA                                Presente PR        São Paulo                392
+CD02O239E 000000 VALDEMAR COSTA NETO                     Presente PR        São Paulo                393
+CD02O239E 000000 VANDERLEI MACRIS                        Presente PSDB      São Paulo                521
+CD02O239E 000000 VANDERLEI SIRAQUE                       Presente PT        São Paulo                581
+CD02O239E 000000 VAZ DE LIMA                             Presente PSDB      São Paulo                394
+CD02O239E 000000 VICENTE CANDIDO                         Presente PT        São Paulo                395
+CD02O239E 000000 VICENTINHO                              Presente PT        São Paulo                396
+CD02O239E 000000 WALTER FELDMAN                          Presente PSDB      São Paulo                550
+CD02O239E 000000 WILLIAM DIB                             Presente PSDB      São Paulo                397
+CD02O239E 000000 ELIENE LIMA                             Presente PSD       Mato Grosso              401
+CD02O239E 000000 HOMERO PEREIRA                          Presente PSD       Mato Grosso              402
+CD02O239E 000000 NILSON LEITÃO                           Presente PSDB      Mato Grosso              573
+CD02O239E 000000 PEDRO HENRY                             Presente PP        Mato Grosso              403
+CD02O239E 000000 PROFESSOR VICTORIO GALLI                Presente PMDB      Mato Grosso              601
+CD02O239E 000000 VALTENIR PEREIRA                        Presente PSB       Mato Grosso              404
+CD02O239E 000000 WELLINGTON FAGUNDES                     Presente PR        Mato Grosso              406
+CD02O239E 000000 ERIKA KOKAY                             Presente PT        Distrito Federal         407
+CD02O239E 000000 IZALCI                                  Presente PR        Distrito Federal         408
+CD02O239E 000000 JAQUELINE RORIZ                         Presente PMN       Distrito Federal         409
+CD02O239E 000000 LUIZ PITIMAN                            Presente PMDB      Distrito Federal         410
+CD02O239E 000000 PAULO TADEU                             Presente PT        Distrito Federal         412
+CD02O239E 000000 POLICARPO                               Presente PT        Distrito Federal         539
+CD02O239E 000000 REGUFFE                                 Presente PDT       Distrito Federal         413
+CD02O239E 000000 RONALDO FONSECA                         Presente PR        Distrito Federal         414
+CD02O239E 000000 ARMANDO VERGÍLIO                        Presente PSD       Goiás                    416
+CD02O239E 000000 FLÁVIA MORAIS                           Presente PDT       Goiás                    422
+CD02O239E 000000 HEULER CRUVINEL                         Presente PSD       Goiás                    423
+CD02O239E 000000 ÍRIS DE ARAÚJO                          Presente PMDB      Goiás                    417
+CD02O239E 000000 JOÃO CAMPOS                             Presente PSDB      Goiás                    418
+CD02O239E 000000 LEANDRO VILELA                          Presente PMDB      Goiás                    420
+CD02O239E 000000 LEONARDO VILELA                         Presente PSDB      Goiás                    421
+CD02O239E 000000 MAGDA MOFATTO                           Presente PTB       Goiás                    575
+CD02O239E 000000 MARINA SANTANNA                         Presente PT        Goiás                    564
+CD02O239E 000000 PEDRO CHAVES                            Presente PMDB      Goiás                    428
+CD02O239E 000000 ROBERTO BALESTRA                        Presente PP        Goiás                    427
+CD02O239E 000000 RONALDO CAIADO                          Presente DEM       Goiás                    429
+CD02O239E 000000 RUBENS OTONI                            Presente PT        Goiás                    425
+CD02O239E 000000 SANDES JÚNIOR                           Presente PP        Goiás                    426
+CD02O239E 000000 SANDRO MABEL                            Presente PMDB      Goiás                    431
+CD02O239E 000000 ANTÔNIO CARLOS BIFFI                    Presente PT        Mato Grosso do Sul       432
+CD02O239E 000000 FABIO TRAD                              Presente PMDB      Mato Grosso do Sul       433
+CD02O239E 000000 GERALDO RESENDE                         Presente PMDB      Mato Grosso do Sul       435
+CD02O239E 000000 GIROTO                                  Presente PMDB      Mato Grosso do Sul       434
+CD02O239E 000000 MANDETTA                                Presente DEM       Mato Grosso do Sul       436
+CD02O239E 000000 MARÇAL FILHO                            Presente PMDB      Mato Grosso do Sul       437
+CD02O239E 000000 VANDER LOUBET                           Presente PT        Mato Grosso do Sul       438
+CD02O239E 000000 ABELARDO LUPION                         Presente DEM       Paraná                   440
+CD02O239E 000000 ALEX CANZIANI                           Presente PTB       Paraná                   445
+CD02O239E 000000 ALFREDO KAEFER                          Presente PSDB      Paraná                   451
+CD02O239E 000000 ANDRÉ VARGAS                            Presente PT        Paraná                   452
+CD02O239E 000000 ANDRÉ ZACHAROW                          Presente PMDB      Paraná                   441
+CD02O239E 000000 ANGELO VANHONI                          Presente PT        Paraná                   453
+CD02O239E 000000 ASSIS DO COUTO                          Presente PT        Paraná                   443
+CD02O239E 000000 DILCEU SPERAFICO                        Presente PP        Paraná                   444
+CD02O239E 000000 EDMAR ARRUDA                            Presente PSC       Paraná                   446
+CD02O239E 000000 EDUARDO SCIARRA                         Presente PSD       Paraná                   461
+CD02O239E 000000 FERNANDO FRANCISCHINI                   Presente PEN       Paraná                   450
+CD02O239E 000000 GIACOBO                                 Presente PR        Paraná                   466
+CD02O239E 000000 HERMES PARCIANELLO                      Presente PMDB      Paraná                   448
+CD02O239E 000000 JOÃO ARRUDA                             Presente PMDB      Paraná                   455
+CD02O239E 000000 LEOPOLDO MEYER                          Presente PSB       Paraná                   456
+CD02O239E 000000 LUIZ NISHIMORI                          Presente PSDB      Paraná                   542
+CD02O239E 000000 NELSON MEURER                           Presente PP        Paraná                   458
+CD02O239E 000000 NELSON PADOVANI                         Presente PSC       Paraná                   457
+CD02O239E 000000 ODÍLIO BALBINOTTI                       Presente PMDB      Paraná                   588
+CD02O239E 000000 OSMAR SERRAGLIO                         Presente PMDB      Paraná                   463
+CD02O239E 000000 PROFESSOR SÉRGIO DE OLIVEIRA            Presente PSC       Paraná                   603
+CD02O239E 000000 ROSANE FERREIRA                         Presente PV        Paraná                   459
+CD02O239E 000000 RUBENS BUENO                            Presente PPS       Paraná                   460
+CD02O239E 000000 SANDRO ALEX                             Presente PPS       Paraná                   465
+CD02O239E 000000 CARMEN ZANOTTO                          Presente PPS       Santa Catarina           561
+CD02O239E 000000 CELSO MALDANER                          Presente PMDB      Santa Catarina           472
+CD02O239E 000000 DÉCIO LIMA                              Presente PT        Santa Catarina           475
+CD02O239E 000000 EDINHO BEZ                              Presente PMDB      Santa Catarina           470
+CD02O239E 000000 ESPERIDIÃO AMIN                         Presente PP        Santa Catarina           471
+CD02O239E 000000 JORGE BOEIRA                            Presente PSD       Santa Catarina           474
+CD02O239E 000000 JORGINHO MELLO                          Presente PSDB      Santa Catarina           476
+CD02O239E 000000 MARCO TEBALDI                           Presente PSDB      Santa Catarina           478
+CD02O239E 000000 MAURO MARIANI                           Presente PMDB      Santa Catarina           480
+CD02O239E 000000 ONOFRE SANTO AGOSTINI                   Presente PSD       Santa Catarina           479
+CD02O239E 000000 PEDRO UCZAI                             Presente PT        Santa Catarina           481
+CD02O239E 000000 ROGÉRIO PENINHA MENDONÇA                Presente PMDB      Santa Catarina           483
+CD02O239E 000000 RONALDO BENEDET                         Presente PMDB      Santa Catarina           484
+CD02O239E 000000 VALDIR COLATTO                          Presente PMDB      Santa Catarina           560
+CD02O239E 000000 AFONSO HAMM                             Presente PP        Rio Grande do Sul        487
+CD02O239E 000000 ALEXANDRE ROSO                          Presente PSB       Rio Grande do Sul        489
+CD02O239E 000000 ASSIS MELO                              Presente PCdoB     Rio Grande do Sul        492
+CD02O239E 000000 BOHN GASS                               Presente PT        Rio Grande do Sul        499
+CD02O239E 000000 DANRLEI DE DEUS HINTERHOLZ              Presente PSD       Rio Grande do Sul        495
+CD02O239E 000000 DARCÍSIO PERONDI                        Presente PMDB      Rio Grande do Sul        491
+CD02O239E 000000 ELISEU PADILHA                          Presente PMDB      Rio Grande do Sul        578
+CD02O239E 000000 ENIO BACCI                              Presente PDT       Rio Grande do Sul        493
+CD02O239E 000000 FERNANDO MARRONI                        Presente PT        Rio Grande do Sul        525
+CD02O239E 000000 GIOVANI CHERINI                         Presente PDT       Rio Grande do Sul        502
+CD02O239E 000000 HENRIQUE FONTANA                        Presente PT        Rio Grande do Sul        498
+CD02O239E 000000 JERONIMO GOERGEN                        Presente PP        Rio Grande do Sul        505
+CD02O239E 000000 JOSÉ STÉDILE                            Presente PSB       Rio Grande do Sul        506
+CD02O239E 000000 LUIS CARLOS HEINZE                      Presente PP        Rio Grande do Sul        500
+CD02O239E 000000 LUIZ NOÉ                                Presente PSB       Rio Grande do Sul        536
+CD02O239E 000000 MARCO MAIA                              Presente PT        Rio Grande do Sul        496
+CD02O239E 000000 NELSON MARCHEZAN JUNIOR                 Presente PSDB      Rio Grande do Sul        509
+CD02O239E 000000 OSMAR TERRA                             Presente PMDB      Rio Grande do Sul        497
+CD02O239E 000000 PAULO FERREIRA                          Presente PT        Rio Grande do Sul        591
+CD02O239E 000000 PAULO PIMENTA                           Presente PT        Rio Grande do Sul        513
+CD02O239E 000000 VICENTE SELISTRE                        Presente PSB       Rio Grande do Sul        600
+CD02O239E 000000 VIEIRA DA CUNHA                         Presente PDT       Rio Grande do Sul        514
+CD02O239E 000000 VILSON COVATTI                          Presente PP        Rio Grande do Sul        516
+CD02O239E 000000 RAUL LIMA                               <------> PSD       Roraima                  7  
+CD02O239E 000000 DALVA FIGUEIREDO                        <------> PT        Amapá                    9  
+CD02O239E 000000 DAVI ALCOLUMBRE                         <------> DEM       Amapá                    10 
+CD02O239E 000000 EVANDRO MILHOMEN                        <------> PCdoB     Amapá                    11 
+CD02O239E 000000 JANETE CAPIBERIBE                       <------> PSB       Amapá                    572
+CD02O239E 000000 ARNALDO JORDY                           <------> PPS       Pará                     18 
+CD02O239E 000000 CLÁUDIO PUTY                            <------> PT        Pará                     22 
+CD02O239E 000000 ELCIONE BARBALHO                        <------> PMDB      Pará                     21 
+CD02O239E 000000 JOSÉ PRIANTE                            <------> PMDB      Pará                     26 
+CD02O239E 000000 JOSUÉ BENGTSON                          <------> PTB       Pará                     30 
+CD02O239E 000000 LIRA MAIA                               <------> DEM       Pará                     28 
+CD02O239E 000000 ZEQUINHA MARINHO                        <------> PSC       Pará                     33 
+CD02O239E 000000 ÁTILA LINS                              <------> PSD       Amazonas                 38 
+CD02O239E 000000 CARLOS SOUZA                            <------> PSD       Amazonas                 37 
+CD02O239E 000000 SILAS CÂMARA                            <------> PSD       Amazonas                 39 
+CD02O239E 000000 MARINHA RAUPP                           <------> PMDB      Rondonia                 50 
+CD02O239E 000000 MOREIRA MENDES                          <------> PSD       Rondonia                 49 
+CD02O239E 000000 NATAN DONADON                           <------> PMDB      Rondonia                 51 
+CD02O239E 000000 ANTÔNIA LÚCIA                           <------> PSC       Acre                     53 
+CD02O239E 000000 GLADSON CAMELI                          <------> PP        Acre                     55 
+CD02O239E 000000 MARCIO BITTAR                           <------> PSDB      Acre                     57 
+CD02O239E 000000 TAUMATURGO LIMA                         <------> PT        Acre                     59 
+CD02O239E 000000 CÉSAR HALUM                             <------> PSD       Tocantins                64 
+CD02O239E 000000 EDUARDO GOMES                           <------> PSDB      Tocantins                60 
+CD02O239E 000000 JÚNIOR COIMBRA                          <------> PMDB      Tocantins                66 
+CD02O239E 000000 LAUREZ MOREIRA                          <------> PSB       Tocantins                62 
+CD02O239E 000000 LÁZARO BOTELHO                          <------> PP        Tocantins                63 
+CD02O239E 000000 PROFESSORA DORINHA SEABRA REZEN         <------> DEM       Tocantins                67 
+CD02O239E 000000 DAVI ALVES SILVA JÚNIOR                 <------> PR        Maranhão                 528
+CD02O239E 000000 EDIVALDO HOLANDA JUNIOR                 <------> PTC       Maranhão                 73 
+CD02O239E 000000 FRANCISCO ESCÓRCIO                      <------> PMDB      Maranhão                 567
+CD02O239E 000000 NICE LOBÃO                              <------> PSD       Maranhão                 78 
+CD02O239E 000000 PAULO MARINHO JÚNIOR                    <------> PMDB      Maranhão                 594
+CD02O239E 000000 RIBAMAR ALVES                           <------> PSB       Maranhão                 74 
+CD02O239E 000000 SARNEY FILHO                            <------> PV        Maranhão                 85 
+CD02O239E 000000 WALDIR MARANHÃO                         <------> PP        Maranhão                 84 
+CD02O239E 000000 ZÉ VIEIRA                               <------> PR        Maranhão                 86 
+CD02O239E 000000 ANTONIO BALHMANN                        <------> PSB       Ceará                    93 
+CD02O239E 000000 ARNON BEZERRA                           <------> PTB       Ceará                    90 
+CD02O239E 000000 ARTUR BRUNO                             <------> PT        Ceará                    94 
+CD02O239E 000000 CHICO LOPES                             <------> PCdoB     Ceará                    88 
+CD02O239E 000000 DANILO FORTE                            <------> PMDB      Ceará                    95 
+CD02O239E 000000 DOMINGOS NETO                           <------> PSB       Ceará                    97 
+CD02O239E 000000 EDSON SILVA                             <------> PSB       Ceará                    98 
+CD02O239E 000000 GORETE PEREIRA                          <------> PR        Ceará                    100
+CD02O239E 000000 JOSÉ AIRTON                             <------> PT        Ceará                    101
+CD02O239E 000000 JOSÉ LINHARES                           <------> PP        Ceará                    96 
+CD02O239E 000000 MANOEL SALVIANO                         <------> PSD       Ceará                    104
+CD02O239E 000000 RAIMUNDÃO                               <------> PMDB      Ceará                    108
+CD02O239E 000000 MARLLOS SAMPAIO                         <------> PMDB      Piauí                    117
+CD02O239E 000000 OSMAR JÚNIOR                            <------> PCdoB     Piauí                    116
+CD02O239E 000000 JOÃO MAIA                               <------> PR        Rio Grande do Norte      124
+CD02O239E 000000 EFRAIM FILHO                            <------> DEM       Paraíba                  128
+CD02O239E 000000 WILSON FILHO                            <------> PMDB      Paraíba                  139
+CD02O239E 000000 ANDERSON FERREIRA                       <------> PR        Pernambuco               142
+CD02O239E 000000 CARLOS EDUARDO CADOCA                   <------> PSC       Pernambuco               152
+CD02O239E 000000 FERNANDO COELHO FILHO                   <------> PSB       Pernambuco               158
+CD02O239E 000000 JORGE CORTE REAL                        <------> PTB       Pernambuco               150
+CD02O239E 000000 JOSÉ AUGUSTO MAIA                       <------> PTB       Pernambuco               151
+CD02O239E 000000 PEDRO EUGÊNIO                           <------> PT        Pernambuco               161
+CD02O239E 000000 RAUL HENRY                              <------> PMDB      Pernambuco               163
+CD02O239E 000000 SERGIO GUERRA                           <------> PSDB      Pernambuco               159
+CD02O239E 000000 SEVERINO NINHO                          <------> PSB       Pernambuco               580
+CD02O239E 000000 WOLNEY QUEIROZ                          <------> PDT       Pernambuco               164
+CD02O239E 000000 CELIA ROCHA                             <------> PTB       Alagoas                  165
+CD02O239E 000000 JOÃO LYRA                               <------> PSD       Alagoas                  167
+CD02O239E 000000 ALMEIDA LIMA                            <------> PPS       Sergipe                  173
+CD02O239E 000000 HELENO SILVA                            <------> PRB       Sergipe                  175
+CD02O239E 000000 VALADARES FILHO                         <------> PSB       Sergipe                  183
+CD02O239E 000000 ALICE PORTUGAL                          <------> PCdoB     Bahia                    180
+CD02O239E 000000 ERIVELTON SANTANA                       <------> PSC       Bahia                    194
+CD02O239E 000000 FERNANDO TORRES                         <------> PSD       Bahia                    196
+CD02O239E 000000 GERALDO SIMÕES                          <------> PT        Bahia                    185
+CD02O239E 000000 JÂNIO NATAL                             <------> PRP       Bahia                    198
+CD02O239E 000000 LUIZ ARGÔLO                             <------> PP        Bahia                    207
+CD02O239E 000000 AELTON FREITAS                          <------> PR        Minas Gerais             224
+CD02O239E 000000 ANTÔNIO ANDRADE                         <------> PMDB      Minas Gerais             227
+CD02O239E 000000 ANTÔNIO ROBERTO                         <------> PV        Minas Gerais             229
+CD02O239E 000000 ARACELY DE PAULA                        <------> PR        Minas Gerais             223
+CD02O239E 000000 CARLAILE PEDROSA                        <------> PSDB      Minas Gerais             222
+CD02O239E 000000 DIMAS FABIANO                           <------> PP        Minas Gerais             231
+CD02O239E 000000 DOMINGOS SÁVIO                          <------> PSDB      Minas Gerais             233
+CD02O239E 000000 EDUARDO AZEREDO                         <------> PSDB      Minas Gerais             237
+CD02O239E 000000 EROS BIONDINI                           <------> PTB       Minas Gerais             242
+CD02O239E 000000 JOÃO BITTAR                             <------> DEM       Minas Gerais             531
+CD02O239E 000000 LAEL VARELLA                            <------> DEM       Minas Gerais             245
+CD02O239E 000000 LEONARDO MONTEIRO                       <------> PT        Minas Gerais             253
+CD02O239E 000000 LUIZ FERNANDO FARIA                     <------> PP        Minas Gerais             256
+CD02O239E 000000 MÁRCIO REINALDO MOREIRA                 <------> PP        Minas Gerais             247
+CD02O239E 000000 MÁRIO DE OLIVEIRA                       <------> PSC       Minas Gerais             260
+CD02O239E 000000 NEWTON CARDOSO                          <------> PMDB      Minas Gerais             258
+CD02O239E 000000 ODAIR CUNHA                             <------> PT        Minas Gerais             269
+CD02O239E 000000 PAULO PIAU                              <------> PMDB      Minas Gerais             266
+CD02O239E 000000 RENZO BRAZ                              <------> PP        Minas Gerais             262
+CD02O239E 000000 RODRIGO DE CASTRO                       <------> PSDB      Minas Gerais             268
+CD02O239E 000000 TONINHO PINHEIRO                        <------> PP        Minas Gerais             264
+CD02O239E 000000 VITOR PENIDO                            <------> DEM       Minas Gerais             532
+CD02O239E 000000 WALTER TOSTA                            <------> PSD       Minas Gerais             267
+CD02O239E 000000 IRINY LOPES                             <------> PT        Espírito Santo           273
+CD02O239E 000000 LELO COIMBRA                            <------> PMDB      Espírito Santo           277
+CD02O239E 000000 ROSE DE FREITAS                         <------> PMDB      Espírito Santo           282
+CD02O239E 000000 SUELI VIDIGAL                           <------> PDT       Espírito Santo           281
+CD02O239E 000000 ALEXANDRE SANTOS                        <------> PMDB      Rio de Janeiro           285
+CD02O239E 000000 ANTHONY GAROTINHO                       <------> PR        Rio de Janeiro           289
+CD02O239E 000000 AUREO                                   <------> PRTB      Rio de Janeiro           290
+CD02O239E 000000 DR. ALUIZIO                             <------> PV        Rio de Janeiro           294
+CD02O239E 000000 EDSON SANTOS                            <------> PT        Rio de Janeiro           299
+CD02O239E 000000 FRANCISCO FLORIANO                      <------> PR        Rio de Janeiro           297
+CD02O239E 000000 GLAUBER BRAGA                           <------> PSB       Rio de Janeiro           304
+CD02O239E 000000 JEAN WYLLYS                             <------> PSOL      Rio de Janeiro           307
+CD02O239E 000000 LILIAM SÁ                               <------> PSD       Rio de Janeiro           309
+CD02O239E 000000 LUIZ SÉRGIO                             <------> PT        Rio de Janeiro           313
+CD02O239E 000000 MARCELO MATOS                           <------> PDT       Rio de Janeiro           311
+CD02O239E 000000 NELSON BORNIER                          <------> PMDB      Rio de Janeiro           549
+CD02O239E 000000 OTAVIO LEITE                            <------> PSDB      Rio de Janeiro           316
+CD02O239E 000000 PEDRO PAULO                             <------> PMDB      Rio de Janeiro           314
+CD02O239E 000000 RODRIGO BETHLEM                         <------> PMDB      Rio de Janeiro           318
+CD02O239E 000000 RODRIGO MAIA                            <------> DEM       Rio de Janeiro           322
+CD02O239E 000000 WALNEY ROCHA                            <------> PTB       Rio de Janeiro           325
+CD02O239E 000000 WASHINGTON REIS                         <------> PMDB      Rio de Janeiro           326
+CD02O239E 000000 ABELARDO CAMARINHA                      <------> PSB       São Paulo                329
+CD02O239E 000000 ARNALDO FARIA DE SÁ                     <------> PTB       São Paulo                337
+CD02O239E 000000 CARLOS SAMPAIO                          <------> PSDB      São Paulo                338
+CD02O239E 000000 DELEGADO PROTÓGENES                     <------> PCdoB     São Paulo                343
+CD02O239E 000000 EDSON APARECIDO                         <------> PSDB      São Paulo                351
+CD02O239E 000000 ELI CORREA FILHO                        <------> DEM       São Paulo                345
+CD02O239E 000000 GABRIEL CHALITA                         <------> PMDB      São Paulo                347
+CD02O239E 000000 GUILHERME CAMPOS                        <------> PSD       São Paulo                357
+CD02O239E 000000 GUILHERME MUSSI                         <------> PSD       São Paulo                348
+CD02O239E 000000 JEFFERSON CAMPOS                        <------> PSD       São Paulo                349
+CD02O239E 000000 JOÃO PAULO CUNHA                        <------> PT        São Paulo                361
+CD02O239E 000000 JONAS DONIZETTE                         <------> PSB       São Paulo                353
+CD02O239E 000000 JORGE TADEU MUDALEN                     <------> DEM       São Paulo                363
+CD02O239E 000000 LUIZ FERNANDO MACHADO                   <------> PSDB      São Paulo                365
+CD02O239E 000000 MARA GABRILLI                           <------> PSDB      São Paulo                366
+CD02O239E 000000 MARCELO AGUIAR                          <------> PSD       São Paulo                370
+CD02O239E 000000 MILTON MONTI                            <------> PR        São Paulo                374
+CD02O239E 000000 PASTOR MARCO FELICIANO                  <------> PSC       São Paulo                379
+CD02O239E 000000 PAULO FREIRE                            <------> PR        São Paulo                380
+CD02O239E 000000 PAULO MALUF                             <------> PP        São Paulo                373
+CD02O239E 000000 JÚLIO CAMPOS                            <------> DEM       Mato Grosso              399
+CD02O239E 000000 CARLOS ALBERTO LERÉIA                   <------> PSDB      Goiás                    415
+CD02O239E 000000 JOVAIR ARANTES                          <------> PTB       Goiás                    419
+CD02O239E 000000 REINALDO AZAMBUJA                       <------> PSDB      Mato Grosso do Sul       439
+CD02O239E 000000 CIDA BORGHETTI                          <------> PP        Paraná                   442
+CD02O239E 000000 DR. ROSINHA                             <------> PT        Paraná                   449
+CD02O239E 000000 LUIZ CARLOS SETIM                       <------> DEM       Paraná                   535
+CD02O239E 000000 REINHOLD STEPHANES                      <------> PSD       Paraná                   467
+CD02O239E 000000 TAKAYAMA                                <------> PSC       Paraná                   469
+CD02O239E 000000 ZECA DIRCEU                             <------> PT        Paraná                   468
+CD02O239E 000000 JOÃO PIZZOLATTI                         <------> PP        Santa Catarina           574
+CD02O239E 000000 LUCI CHOINACKI                          <------> PT        Santa Catarina           477
+CD02O239E 000000 ALCEU MOREIRA                           <------> PMDB      Rio Grande do Sul        486
+CD02O239E 000000 JOSÉ OTÁVIO GERMANO                     <------> PP        Rio Grande do Sul        501
+CD02O239E 000000 MARCON                                  <------> PT        Rio Grande do Sul        507
+CD02O239E 000000 ONYX LORENZONI                          <------> DEM       Rio Grande do Sul        510
+CD02O239E 000000 RENATO MOLLING                          <------> PP        Rio Grande do Sul        511
+CD02O239E 000000 RONALDO NOGUEIRA                        <------> PTB       Rio Grande do Sul        556
+CD02O239E 000000 RONALDO ZULKE                           <------> PT        Rio Grande do Sul        515
+CD02O239E 000000 SÉRGIO MORAES                           <------> PTB       Rio Grande do Sul        512

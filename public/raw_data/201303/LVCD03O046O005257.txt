@@ -1,0 +1,513 @@
+CD03O046O 005257 CHICO DAS VERDURAS                      Sim       PRP       Roraima                  3
+CD03O046O 005257 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD03O046O 005257 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CD03O046O 005257 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD03O046O 005257 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD03O046O 005257 RAUL LIMA                               Sim       PSD       Roraima                  7  
+CD03O046O 005257 DALVA FIGUEIREDO                        Sim       PT        Amapá                    9  
+CD03O046O 005257 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD03O046O 005257 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD03O046O 005257 VINICIUS GURGEL                         Sim       PR        Amapá                    16 
+CD03O046O 005257 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD03O046O 005257 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD03O046O 005257 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD03O046O 005257 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD03O046O 005257 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD03O046O 005257 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CD03O046O 005257 ÁTILA LINS                              Sim       PSD       Amazonas                 38 
+CD03O046O 005257 CARLOS SOUZA                            Sim       PSD       Amazonas                 37 
+CD03O046O 005257 DR. LUIZ FERNANDO                       Sim       PSD       Amazonas                 605
+CD03O046O 005257 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD03O046O 005257 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD03O046O 005257 PLÍNIO VALÉRIO                          Sim       PSDB      Amazonas                 633
+CD03O046O 005257 ANSELMO DE JESUS                        Sim       PT        Rondonia                 615
+CD03O046O 005257 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD03O046O 005257 MARCOS ROGÉRIO                          Sim       PDT       Rondonia                 583
+CD03O046O 005257 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD03O046O 005257 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD03O046O 005257 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD03O046O 005257 PADRE TON                               Sim       PT        Rondonia                 48 
+CD03O046O 005257 ANTÔNIA LÚCIA                           Sim       PSC       Acre                     53 
+CD03O046O 005257 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD03O046O 005257 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD03O046O 005257 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD03O046O 005257 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD03O046O 005257 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD03O046O 005257 CÉSAR HALUM                             Sim       PSD       Tocantins                64 
+CD03O046O 005257 IRAJÁ ABREU                             Sim       PSD       Tocantins                65 
+CD03O046O 005257 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD03O046O 005257 LEOMAR QUINTANILHA                      Sim       PMDB      Tocantins                628
+CD03O046O 005257 OSVALDO REIS                            Sim       PMDB      Tocantins                620
+CD03O046O 005257 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD03O046O 005257 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD03O046O 005257 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD03O046O 005257 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CD03O046O 005257 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD03O046O 005257 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD03O046O 005257 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CD03O046O 005257 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD03O046O 005257 PEDRO NOVAIS                            Sim       PMDB      Maranhão                 82 
+CD03O046O 005257 SIMPLÍCIO ARAÚJO                        Sim       PPS       Maranhão                 585
+CD03O046O 005257 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD03O046O 005257 WEVERTON ROCHA                          Sim       PDT       Maranhão                 579
+CD03O046O 005257 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CD03O046O 005257 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD03O046O 005257 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD03O046O 005257 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD03O046O 005257 GENECIAS NORONHA                        Sim       PMDB      Ceará                    99 
+CD03O046O 005257 GERA ARRUDA                             Sim       PMDB      Ceará                    592
+CD03O046O 005257 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD03O046O 005257 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD03O046O 005257 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD03O046O 005257 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD03O046O 005257 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD03O046O 005257 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD03O046O 005257 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD03O046O 005257 JÚLIO CESAR                             Obstrução PSD       Piauí                    114
+CD03O046O 005257 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD03O046O 005257 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD03O046O 005257 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD03O046O 005257 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CD03O046O 005257 PAES LANDIM                             Sim       PTB       Piauí                    118
+CD03O046O 005257 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD03O046O 005257 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD03O046O 005257 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CD03O046O 005257 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CD03O046O 005257 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD03O046O 005257 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD03O046O 005257 LEONARDO GADELHA                        Sim       PSC       Paraíba                  586
+CD03O046O 005257 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD03O046O 005257 MAJOR FÁBIO                             Sim       DEM       Paraíba                  599
+CD03O046O 005257 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD03O046O 005257 NILDA GONDIM                            Sim       PMDB      Paraíba                  134
+CD03O046O 005257 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD03O046O 005257 WELLINGTON ROBERTO                      Sim       PR        Paraíba                  136
+CD03O046O 005257 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD03O046O 005257 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD03O046O 005257 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD03O046O 005257 EDUARDO DA FONTE                        Sim       PP        Pernambuco               156
+CD03O046O 005257 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD03O046O 005257 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD03O046O 005257 INOCÊNCIO OLIVEIRA                      Art. 17   PR        Pernambuco               145
+CD03O046O 005257 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD03O046O 005257 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD03O046O 005257 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD03O046O 005257 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD03O046O 005257 PAULO RUBEM SANTIAGO                    Sim       PDT       Pernambuco               554
+CD03O046O 005257 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD03O046O 005257 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD03O046O 005257 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD03O046O 005257 SERGIO GUERRA                           Sim       PSDB      Pernambuco               159
+CD03O046O 005257 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CD03O046O 005257 VILALBA                                 Sim       PRB       Pernambuco               555
+CD03O046O 005257 ALEXANDRE TOLEDO                        Sim       PSDB      Alagoas                  596
+CD03O046O 005257 FRANCISCO TENÓRIO                       Sim       PMN       Alagoas                  607
+CD03O046O 005257 GIVALDO CARIMBÃO                        Sim       PSB       Alagoas                  166
+CD03O046O 005257 PAULÃO                                  Sim       PT        Alagoas                  608
+CD03O046O 005257 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD03O046O 005257 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD03O046O 005257 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD03O046O 005257 AFONSO FLORENCE                         Sim       PT        Bahia                    182
+CD03O046O 005257 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD03O046O 005257 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD03O046O 005257 ARTHUR OLIVEIRA MAIA                    Sim       PMDB      Bahia                    192
+CD03O046O 005257 COLBERT MARTINS                         Sim       PMDB      Bahia                    622
+CD03O046O 005257 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD03O046O 005257 EDSON PIMENTA                           Sim       PSD       Bahia                    193
+CD03O046O 005257 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD03O046O 005257 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD03O046O 005257 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD03O046O 005257 FERNANDO TORRES                         Sim       PSD       Bahia                    196
+CD03O046O 005257 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD03O046O 005257 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD03O046O 005257 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CD03O046O 005257 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD03O046O 005257 LUIZ ARGÔLO                             Sim       PP        Bahia                    207
+CD03O046O 005257 LUIZ DE DEUS                            Sim       DEM       Bahia                    609
+CD03O046O 005257 MARCELO GUIMARÃES FILHO                 Sim       PMDB      Bahia                    627
+CD03O046O 005257 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD03O046O 005257 MÁRIO NEGROMONTE                        Sim       PP        Bahia                    210
+CD03O046O 005257 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD03O046O 005257 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD03O046O 005257 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CD03O046O 005257 SÉRGIO BRITO                            Sim       PSD       Bahia                    213
+CD03O046O 005257 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD03O046O 005257 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD03O046O 005257 ADEMIR CAMILO                           Sim       PSD       Minas Gerais             220
+CD03O046O 005257 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CD03O046O 005257 ANTÔNIO ROBERTO                         Obstrução PV        Minas Gerais             229
+CD03O046O 005257 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD03O046O 005257 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD03O046O 005257 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD03O046O 005257 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD03O046O 005257 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD03O046O 005257 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD03O046O 005257 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD03O046O 005257 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CD03O046O 005257 HUMBERTO SOUTO                          Sim       PPS       Minas Gerais             606
+CD03O046O 005257 ISAIAS SILVESTRE                        Sim       PSB       Minas Gerais             604
+CD03O046O 005257 JAIME MARTINS                           Sim       PR        Minas Gerais             240
+CD03O046O 005257 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CD03O046O 005257 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD03O046O 005257 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD03O046O 005257 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD03O046O 005257 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD03O046O 005257 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD03O046O 005257 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD03O046O 005257 MARGARIDA SALOMÃO                       Sim       PT        Minas Gerais             610
+CD03O046O 005257 MÁRIO HERINGER                          Sim       PDT       Minas Gerais             629
+CD03O046O 005257 MAURO LOPES                             Sim       PMDB      Minas Gerais             252
+CD03O046O 005257 MIGUEL CORRÊA                           Sim       PT        Minas Gerais             261
+CD03O046O 005257 NILMÁRIO MIRANDA                        Sim       PT        Minas Gerais             611
+CD03O046O 005257 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CD03O046O 005257 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD03O046O 005257 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CD03O046O 005257 RENATO ANDRADE                          Sim       PP        Minas Gerais             612
+CD03O046O 005257 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD03O046O 005257 SILAS BRASILEIRO                        Sim       PMDB      Minas Gerais             636
+CD03O046O 005257 STEFANO AGUIAR                          Sim       PSC       Minas Gerais             558
+CD03O046O 005257 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD03O046O 005257 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD03O046O 005257 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD03O046O 005257 IRINY LOPES                             Sim       PT        Espírito Santo           273
+CD03O046O 005257 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD03O046O 005257 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD03O046O 005257 MANATO                                  Sim       PDT       Espírito Santo           275
+CD03O046O 005257 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD03O046O 005257 SUELI VIDIGAL                           Sim       PDT       Espírito Santo           281
+CD03O046O 005257 ADRIAN                                  Sim       PMDB      Rio de Janeiro           286
+CD03O046O 005257 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD03O046O 005257 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD03O046O 005257 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD03O046O 005257 AROLDE DE OLIVEIRA                      Sim       PSD       Rio de Janeiro           288
+CD03O046O 005257 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD03O046O 005257 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD03O046O 005257 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD03O046O 005257 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD03O046O 005257 FELIPE BORNIER                          Sim       PSD       Rio de Janeiro           301
+CD03O046O 005257 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD03O046O 005257 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD03O046O 005257 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD03O046O 005257 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD03O046O 005257 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD03O046O 005257 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD03O046O 005257 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD03O046O 005257 JORGE BITTAR                            Sim       PT        Rio de Janeiro           310
+CD03O046O 005257 LEONARDO PICCIANI                       Sim       PMDB      Rio de Janeiro           312
+CD03O046O 005257 LUIZ SÉRGIO                             Sim       PT        Rio de Janeiro           313
+CD03O046O 005257 MANUEL ROSA NECA                        Sim       PR        Rio de Janeiro           614
+CD03O046O 005257 MARCELO MATOS                           Sim       PDT       Rio de Janeiro           311
+CD03O046O 005257 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD03O046O 005257 PAULO FEIJÓ                             Sim       PR        Rio de Janeiro           577
+CD03O046O 005257 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD03O046O 005257 ROMÁRIO                                 Sim       PSB       Rio de Janeiro           319
+CD03O046O 005257 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD03O046O 005257 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD03O046O 005257 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD03O046O 005257 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD03O046O 005257 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD03O046O 005257 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD03O046O 005257 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD03O046O 005257 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CD03O046O 005257 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD03O046O 005257 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD03O046O 005257 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD03O046O 005257 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD03O046O 005257 EMANUEL FERNANDES                       Sim       PSDB      São Paulo                352
+CD03O046O 005257 FRANCISCO CHAGAS                        Sim       PT        São Paulo                626
+CD03O046O 005257 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD03O046O 005257 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD03O046O 005257 JEFFERSON CAMPOS                        Sim       PSD       São Paulo                349
+CD03O046O 005257 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD03O046O 005257 JOÃO PAULO CUNHA                        Sim       PT        São Paulo                361
+CD03O046O 005257 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD03O046O 005257 JOSÉ GENOÍNO                            Sim       PT        São Paulo                617
+CD03O046O 005257 JOSÉ MENTOR                             Sim       PT        São Paulo                367
+CD03O046O 005257 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD03O046O 005257 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD03O046O 005257 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD03O046O 005257 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD03O046O 005257 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD03O046O 005257 MARCELO AGUIAR                          Sim       PSD       São Paulo                370
+CD03O046O 005257 MÁRCIO FRANÇA                           Sim       PSB       São Paulo                368
+CD03O046O 005257 MILTON MONTI                            Sim       PR        São Paulo                374
+CD03O046O 005257 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD03O046O 005257 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD03O046O 005257 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD03O046O 005257 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD03O046O 005257 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD03O046O 005257 PAULO FREIRE                            Sim       PR        São Paulo                380
+CD03O046O 005257 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD03O046O 005257 PENNA                                   Sim       PV        São Paulo                382
+CD03O046O 005257 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CD03O046O 005257 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CD03O046O 005257 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CD03O046O 005257 TIRIRICA                                Sim       PR        São Paulo                392
+CD03O046O 005257 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD03O046O 005257 VANDERLEI SIRAQUE                       Sim       PT        São Paulo                581
+CD03O046O 005257 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD03O046O 005257 VICENTE CANDIDO                         Sim       PT        São Paulo                395
+CD03O046O 005257 VICENTINHO                              Sim       PT        São Paulo                396
+CD03O046O 005257 WALTER FELDMAN                          Sim       PSDB      São Paulo                550
+CD03O046O 005257 ELIENE LIMA                             Sim       PSD       Mato Grosso              401
+CD03O046O 005257 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD03O046O 005257 WELLINGTON FAGUNDES                     Sim       PR        Mato Grosso              406
+CD03O046O 005257 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD03O046O 005257 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD03O046O 005257 IZALCI                                  Sim       PSDB      Distrito Federal         408
+CD03O046O 005257 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD03O046O 005257 POLICARPO                               Sim       PT        Distrito Federal         539
+CD03O046O 005257 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD03O046O 005257 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD03O046O 005257 ARMANDO VERGÍLIO                        Sim       PSD       Goiás                    416
+CD03O046O 005257 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD03O046O 005257 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD03O046O 005257 JOVAIR ARANTES                          Sim       PTB       Goiás                    419
+CD03O046O 005257 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CD03O046O 005257 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CD03O046O 005257 MARINA SANTANNA                         Sim       PT        Goiás                    564
+CD03O046O 005257 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD03O046O 005257 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD03O046O 005257 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD03O046O 005257 BIFFI                                   Sim       PT        Mato Grosso do Sul       432
+CD03O046O 005257 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD03O046O 005257 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD03O046O 005257 GIROTO                                  Sim       PMDB      Mato Grosso do Sul       434
+CD03O046O 005257 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD03O046O 005257 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD03O046O 005257 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD03O046O 005257 ALEX CANZIANI                           Sim       PTB       Paraná                   445
+CD03O046O 005257 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD03O046O 005257 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD03O046O 005257 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD03O046O 005257 DR. ROSINHA                             Sim       PT        Paraná                   449
+CD03O046O 005257 GIACOBO                                 Sim       PR        Paraná                   466
+CD03O046O 005257 HERMES PARCIANELLO                      Sim       PMDB      Paraná                   448
+CD03O046O 005257 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD03O046O 005257 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD03O046O 005257 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD03O046O 005257 MARCELO ALMEIDA                         Sim       PMDB      Paraná                   631
+CD03O046O 005257 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD03O046O 005257 PROFESSOR SÉRGIO DE OLIVEIRA            Sim       PSC       Paraná                   603
+CD03O046O 005257 RICARDO ARRUDA                          Sim       PSC       Paraná                   635
+CD03O046O 005257 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD03O046O 005257 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD03O046O 005257 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD03O046O 005257 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD03O046O 005257 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD03O046O 005257 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CD03O046O 005257 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD03O046O 005257 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD03O046O 005257 JORGE BOEIRA                            Sim       PSD       Santa Catarina           474
+CD03O046O 005257 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CD03O046O 005257 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD03O046O 005257 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CD03O046O 005257 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD03O046O 005257 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD03O046O 005257 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD03O046O 005257 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD03O046O 005257 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD03O046O 005257 ALEXANDRE ROSO                          Sim       PSB       Rio Grande do Sul        489
+CD03O046O 005257 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD03O046O 005257 BETO ALBUQUERQUE                        Sim       PSB       Rio Grande do Sul        490
+CD03O046O 005257 DANRLEI DE DEUS HINTERHOLZ              Sim       PSD       Rio Grande do Sul        495
+CD03O046O 005257 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD03O046O 005257 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD03O046O 005257 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD03O046O 005257 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD03O046O 005257 MARCO MAIA                              Sim       PT        Rio Grande do Sul        496
+CD03O046O 005257 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CD03O046O 005257 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD03O046O 005257 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CD03O046O 005257 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD03O046O 005257 PAULO FERREIRA                          Sim       PT        Rio Grande do Sul        591
+CD03O046O 005257 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CD03O046O 005257 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD03O046O 005257 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD03O046O 005257 SÉRGIO MORAES                           Sim       PTB       Rio Grande do Sul        512
+CD03O046O 005257 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD03O046O 005257 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD03O046O 005257 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD03O046O 005257 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD03O046O 005257 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD03O046O 005257 ARTHUR LIRA                             <-------> PP        Alagoas                  162
+CD03O046O 005257 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD03O046O 005257 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD03O046O 005257 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD03O046O 005257 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD03O046O 005257 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD03O046O 005257 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD03O046O 005257 EVANDRO MILHOMEN                        <-------> PCdoB     Amapá                    11 
+CD03O046O 005257 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD03O046O 005257 ANTONIO BRITO                           <-------> PTB       Bahia                    189
+CD03O046O 005257 ANTONIO IMBASSAHY                       <-------> PSDB      Bahia                    191
+CD03O046O 005257 LUIZ ALBERTO                            <-------> PT        Bahia                    204
+CD03O046O 005257 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD03O046O 005257 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD03O046O 005257 ROBERTO BRITTO                          <-------> PP        Bahia                    211
+CD03O046O 005257 JOSÉ CARLOS ARAÚJO                      <-------> PSD       Bahia                    197
+CD03O046O 005257 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD03O046O 005257 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD03O046O 005257 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD03O046O 005257 ZEZÉU RIBEIRO                           <-------> PT        Bahia                    217
+CD03O046O 005257 JOÃO LEÃO                               <-------> PP        Bahia                    199
+CD03O046O 005257 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD03O046O 005257 MÁRIO FEITOZA                           <-------> PMDB      Ceará                    590
+CD03O046O 005257 ARTUR BRUNO                             <-------> PT        Ceará                    94 
+CD03O046O 005257 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD03O046O 005257 ANDRÉ FIGUEIREDO                        <-------> PDT       Ceará                    89 
+CD03O046O 005257 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD03O046O 005257 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD03O046O 005257 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD03O046O 005257 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD03O046O 005257 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD03O046O 005257 JOSÉ GUIMARÃES                          <-------> PT        Ceará                    103
+CD03O046O 005257 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD03O046O 005257 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD03O046O 005257 LUIZ PITIMAN                            <-------> PMDB      Distrito Federal         410
+CD03O046O 005257 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD03O046O 005257 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD03O046O 005257 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD03O046O 005257 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD03O046O 005257 HEULER CRUVINEL                         <-------> PSD       Goiás                    423
+CD03O046O 005257 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD03O046O 005257 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD03O046O 005257 ÍRIS DE ARAÚJO                          <-------> PMDB      Goiás                    417
+CD03O046O 005257 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD03O046O 005257 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD03O046O 005257 ALBERTO FILHO                           <-------> PMDB      Maranhão                 71 
+CD03O046O 005257 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD03O046O 005257 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD03O046O 005257 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD03O046O 005257 PROFESSOR SETIMO                        <-------> PMDB      Maranhão                 81 
+CD03O046O 005257 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD03O046O 005257 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD03O046O 005257 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD03O046O 005257 TONINHO PINHEIRO                        <-------> PP        Minas Gerais             264
+CD03O046O 005257 SARAIVA FELIPE                          <-------> PMDB      Minas Gerais             265
+CD03O046O 005257 JOSÉ HUMBERTO                           <-------> PHS       Minas Gerais             249
+CD03O046O 005257 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD03O046O 005257 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD03O046O 005257 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD03O046O 005257 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD03O046O 005257 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD03O046O 005257 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD03O046O 005257 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD03O046O 005257 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD03O046O 005257 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD03O046O 005257 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD03O046O 005257 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD03O046O 005257 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD03O046O 005257 DIEGO ANDRADE                           <-------> PSD       Minas Gerais             228
+CD03O046O 005257 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD03O046O 005257 MARÇAL FILHO                            <-------> PMDB      Mato Grosso do Sul       437
+CD03O046O 005257 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD03O046O 005257 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD03O046O 005257 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD03O046O 005257 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD03O046O 005257 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD03O046O 005257 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD03O046O 005257 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD03O046O 005257 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD03O046O 005257 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD03O046O 005257 NILSON PINTO                            <-------> PSDB      Pará                     31 
+CD03O046O 005257 BETO FARO                               <-------> PT        Pará                     19 
+CD03O046O 005257 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD03O046O 005257 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD03O046O 005257 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD03O046O 005257 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD03O046O 005257 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD03O046O 005257 MIRIQUINHO BATISTA                      <-------> PT        Pará                     35 
+CD03O046O 005257 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD03O046O 005257 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD03O046O 005257 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD03O046O 005257 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD03O046O 005257 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD03O046O 005257 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD03O046O 005257 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD03O046O 005257 JOÃO PAULO  LIMA                        <-------> PT        Pernambuco               149
+CD03O046O 005257 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD03O046O 005257 HUGO NAPOLEÃO                           <-------> PSD       Piauí                    112
+CD03O046O 005257 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD03O046O 005257 OLIVEIRA FILHO                          <-------> PRB       Paraná                   621
+CD03O046O 005257 EDUARDO SCIARRA                         <-------> PSD       Paraná                   461
+CD03O046O 005257 RUBENS BUENO                            <-------> PPS       Paraná                   460
+CD03O046O 005257 FERNANDO FRANCISCHINI                   <-------> PEN       Paraná                   450
+CD03O046O 005257 ODÍLIO BALBINOTTI                       <-------> PMDB      Paraná                   588
+CD03O046O 005257 DILCEU SPERAFICO                        <-------> PP        Paraná                   444
+CD03O046O 005257 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD03O046O 005257 NELSON PADOVANI                         <-------> PSC       Paraná                   457
+CD03O046O 005257 NELSON MEURER                           <-------> PP        Paraná                   458
+CD03O046O 005257 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD03O046O 005257 ANDRÉ VARGAS                            <-------> PT        Paraná                   452
+CD03O046O 005257 FERNANDO LOPES                          <-------> PMDB      Rio de Janeiro           623
+CD03O046O 005257 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD03O046O 005257 DR. CARLOS ALBERTO                      <-------> PMN       Rio de Janeiro           529
+CD03O046O 005257 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD03O046O 005257 SERGIO ZVEITER                          <-------> PSD       Rio de Janeiro           320
+CD03O046O 005257 EDUARDO CUNHA                           <-------> PMDB      Rio de Janeiro           300
+CD03O046O 005257 LILIAM SÁ                               <-------> PSD       Rio de Janeiro           309
+CD03O046O 005257 DR. PAULO CÉSAR                         <-------> PSD       Rio de Janeiro           296
+CD03O046O 005257 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD03O046O 005257 ANTHONY GAROTINHO                       <-------> PR        Rio de Janeiro           289
+CD03O046O 005257 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD03O046O 005257 EDSON EZEQUIEL                          <-------> PMDB      Rio de Janeiro           298
+CD03O046O 005257 EURICO JÚNIOR                           <-------> PV        Rio de Janeiro           613
+CD03O046O 005257 CELSO JACOB                             <-------> PMDB      Rio de Janeiro           632
+CD03O046O 005257 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD03O046O 005257 VITOR PAULO                             <-------> PRB       Rio de Janeiro           324
+CD03O046O 005257 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD03O046O 005257 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD03O046O 005257 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD03O046O 005257 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD03O046O 005257 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD03O046O 005257 FÁBIO FARIA                             <-------> PSD       Rio Grande do Norte      119
+CD03O046O 005257 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD03O046O 005257 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD03O046O 005257 URZENI ROCHA                            <-------> PSDB      Roraima                  616
+CD03O046O 005257 MARCIO JUNQUEIRA                        <-------> DEM       Roraima                  625
+CD03O046O 005257 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD03O046O 005257 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD03O046O 005257 BOHN GASS                               <-------> PT        Rio Grande do Sul        499
+CD03O046O 005257 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD03O046O 005257 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD03O046O 005257 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD03O046O 005257 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD03O046O 005257 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD03O046O 005257 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD03O046O 005257 GIOVANI CHERINI                         <-------> PDT       Rio Grande do Sul        502
+CD03O046O 005257 JORGINHO MELLO                          <-------> PR        Santa Catarina           476
+CD03O046O 005257 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD03O046O 005257 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD03O046O 005257 MARCO TEBALDI                           <-------> PSDB      Santa Catarina           478
+CD03O046O 005257 FABIO REIS                              <-------> PMDB      Sergipe                  619
+CD03O046O 005257 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD03O046O 005257 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD03O046O 005257 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD03O046O 005257 ALMEIDA LIMA                            <-------> PPS       Sergipe                  173
+CD03O046O 005257 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD03O046O 005257 PAULO MALUF                             <-------> PP        São Paulo                373
+CD03O046O 005257 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD03O046O 005257 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD03O046O 005257 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD03O046O 005257 BETO MANSUR                             <-------> PP        São Paulo                340
+CD03O046O 005257 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD03O046O 005257 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD03O046O 005257 IVAN VALENTE                            <-------> PSOL      São Paulo                359
+CD03O046O 005257 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CD03O046O 005257 IARA BERNARDI                           <-------> PT        São Paulo                618
+CD03O046O 005257 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD03O046O 005257 ELEUSES PAIVA                           <-------> PSD       São Paulo                537
+CD03O046O 005257 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD03O046O 005257 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD03O046O 005257 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD03O046O 005257 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD03O046O 005257 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD03O046O 005257 ROBERTO DE LUCENA                       <-------> PV        São Paulo                385
+CD03O046O 005257 WALTER IHOSHI                           <-------> PSD       São Paulo                553
+CD03O046O 005257 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD03O046O 005257 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD03O046O 005257 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD03O046O 005257 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD03O046O 005257 NILMAR RUIZ                             <-------> PEN       Tocantins                634
+CD03O046O 005257 ÂNGELO AGNOLIN                          <-------> PDT       Tocantins                61 

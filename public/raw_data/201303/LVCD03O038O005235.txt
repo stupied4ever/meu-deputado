@@ -1,0 +1,513 @@
+CD03O038O 005235 CHICO DAS VERDURAS                      Abstenção PRP       Roraima                  3
+CD03O038O 005235 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD03O038O 005235 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CD03O038O 005235 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD03O038O 005235 MARCIO JUNQUEIRA                        Obstrução DEM       Roraima                  625
+CD03O038O 005235 PAULO CESAR QUARTIERO                   Obstrução DEM       Roraima                  6  
+CD03O038O 005235 RAUL LIMA                               Sim       PSD       Roraima                  7  
+CD03O038O 005235 DAVI ALCOLUMBRE                         Obstrução DEM       Amapá                    10 
+CD03O038O 005235 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD03O038O 005235 FÁTIMA PELAES                           Sim       PMDB      Amapá                    12 
+CD03O038O 005235 VINICIUS GURGEL                         Sim       PR        Amapá                    16 
+CD03O038O 005235 ARNALDO JORDY                           Sim       PPS       Pará                     18 
+CD03O038O 005235 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD03O038O 005235 BETO FARO                               Sim       PT        Pará                     19 
+CD03O038O 005235 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD03O038O 005235 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD03O038O 005235 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD03O038O 005235 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD03O038O 005235 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD03O038O 005235 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD03O038O 005235 NILSON PINTO                            Sim       PSDB      Pará                     31 
+CD03O038O 005235 WLADIMIR COSTA                          Sim       PMDB      Pará                     23 
+CD03O038O 005235 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CD03O038O 005235 ZEQUINHA MARINHO                        Sim       PSC       Pará                     33 
+CD03O038O 005235 ÁTILA LINS                              Sim       PSD       Amazonas                 38 
+CD03O038O 005235 CARLOS SOUZA                            Sim       PSD       Amazonas                 37 
+CD03O038O 005235 DR. LUIZ FERNANDO                       Sim       PSD       Amazonas                 605
+CD03O038O 005235 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD03O038O 005235 PLÍNIO VALÉRIO                          Sim       PSDB      Amazonas                 633
+CD03O038O 005235 ANSELMO DE JESUS                        Sim       PT        Rondonia                 615
+CD03O038O 005235 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD03O038O 005235 MARCOS ROGÉRIO                          Sim       PDT       Rondonia                 583
+CD03O038O 005235 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD03O038O 005235 MOREIRA MENDES                          Sim       PSD       Rondonia                 49 
+CD03O038O 005235 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD03O038O 005235 PADRE TON                               Sim       PT        Rondonia                 48 
+CD03O038O 005235 ANTÔNIA LÚCIA                           Sim       PSC       Acre                     53 
+CD03O038O 005235 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD03O038O 005235 GLADSON CAMELI                          Sim       PP        Acre                     55 
+CD03O038O 005235 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD03O038O 005235 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD03O038O 005235 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD03O038O 005235 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD03O038O 005235 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD03O038O 005235 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD03O038O 005235 LEOMAR QUINTANILHA                      Sim       PMDB      Tocantins                628
+CD03O038O 005235 NILMAR RUIZ                             Sim       PEN       Tocantins                634
+CD03O038O 005235 OSVALDO REIS                            Sim       PMDB      Tocantins                620
+CD03O038O 005235 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD03O038O 005235 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD03O038O 005235 CLEBER VERDE                            Sim       PRB       Maranhão                 70 
+CD03O038O 005235 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD03O038O 005235 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CD03O038O 005235 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD03O038O 005235 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD03O038O 005235 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CD03O038O 005235 NICE LOBÃO                              Sim       PSD       Maranhão                 78 
+CD03O038O 005235 PEDRO NOVAIS                            Sim       PMDB      Maranhão                 82 
+CD03O038O 005235 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD03O038O 005235 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD03O038O 005235 SARNEY FILHO                            Sim       PV        Maranhão                 85 
+CD03O038O 005235 SIMPLÍCIO ARAÚJO                        Não       PPS       Maranhão                 585
+CD03O038O 005235 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD03O038O 005235 WEVERTON ROCHA                          Sim       PDT       Maranhão                 579
+CD03O038O 005235 ZÉ VIEIRA                               Sim       PR        Maranhão                 86 
+CD03O038O 005235 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD03O038O 005235 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CD03O038O 005235 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD03O038O 005235 ARNON BEZERRA                           Sim       PTB       Ceará                    90 
+CD03O038O 005235 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD03O038O 005235 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD03O038O 005235 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CD03O038O 005235 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CD03O038O 005235 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD03O038O 005235 GERA ARRUDA                             Sim       PMDB      Ceará                    592
+CD03O038O 005235 GORETE PEREIRA                          Sim       PR        Ceará                    100
+CD03O038O 005235 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD03O038O 005235 JOSÉ AIRTON                             Sim       PT        Ceará                    101
+CD03O038O 005235 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD03O038O 005235 MANOEL SALVIANO                         Sim       PSD       Ceará                    104
+CD03O038O 005235 MÁRIO FEITOZA                           Sim       PMDB      Ceará                    590
+CD03O038O 005235 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD03O038O 005235 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD03O038O 005235 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD03O038O 005235 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CD03O038O 005235 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD03O038O 005235 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD03O038O 005235 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD03O038O 005235 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD03O038O 005235 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD03O038O 005235 PAES LANDIM                             Sim       PTB       Piauí                    118
+CD03O038O 005235 FÁBIO FARIA                             Sim       PSD       Rio Grande do Norte      119
+CD03O038O 005235 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD03O038O 005235 FELIPE MAIA                             Obstrução DEM       Rio Grande do Norte      120
+CD03O038O 005235 HENRIQUE EDUARDO ALVES                  Art. 17   PMDB      Rio Grande do Norte      123
+CD03O038O 005235 JOÃO MAIA                               Sim       PR        Rio Grande do Norte      124
+CD03O038O 005235 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD03O038O 005235 BENJAMIN MARANHÃO                       Sim       PMDB      Paraíba                  131
+CD03O038O 005235 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CD03O038O 005235 LEONARDO GADELHA                        Sim       PSC       Paraíba                  586
+CD03O038O 005235 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD03O038O 005235 MAJOR FÁBIO                             Obstrução DEM       Paraíba                  599
+CD03O038O 005235 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD03O038O 005235 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD03O038O 005235 WELLINGTON ROBERTO                      Sim       PR        Paraíba                  136
+CD03O038O 005235 WILSON FILHO                            Sim       PMDB      Paraíba                  139
+CD03O038O 005235 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD03O038O 005235 AUGUSTO COUTINHO                        Obstrução DEM       Pernambuco               144
+CD03O038O 005235 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD03O038O 005235 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD03O038O 005235 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD03O038O 005235 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD03O038O 005235 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD03O038O 005235 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD03O038O 005235 MENDONÇA FILHO                          Obstrução DEM       Pernambuco               154
+CD03O038O 005235 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD03O038O 005235 PAULO RUBEM SANTIAGO                    Sim       PDT       Pernambuco               554
+CD03O038O 005235 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD03O038O 005235 SERGIO GUERRA                           Sim       PSDB      Pernambuco               159
+CD03O038O 005235 SEVERINO NINHO                          Não       PSB       Pernambuco               580
+CD03O038O 005235 VILALBA                                 Sim       PRB       Pernambuco               555
+CD03O038O 005235 JOÃO LYRA                               Sim       PSD       Alagoas                  167
+CD03O038O 005235 PAULÃO                                  Sim       PT        Alagoas                  608
+CD03O038O 005235 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD03O038O 005235 ALMEIDA LIMA                            Sim       PPS       Sergipe                  173
+CD03O038O 005235 FABIO REIS                              Sim       PMDB      Sergipe                  619
+CD03O038O 005235 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD03O038O 005235 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD03O038O 005235 ROGÉRIO CARVALHO                        Sim       PT        Sergipe                  178
+CD03O038O 005235 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD03O038O 005235 AFONSO FLORENCE                         Sim       PT        Bahia                    182
+CD03O038O 005235 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD03O038O 005235 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD03O038O 005235 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD03O038O 005235 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD03O038O 005235 CLAUDIO CAJADO                          Abstenção DEM       Bahia                    186
+CD03O038O 005235 COLBERT MARTINS                         Sim       PMDB      Bahia                    622
+CD03O038O 005235 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD03O038O 005235 EDSON PIMENTA                           Sim       PSD       Bahia                    193
+CD03O038O 005235 FÁBIO SOUTO                             Obstrução DEM       Bahia                    190
+CD03O038O 005235 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD03O038O 005235 FERNANDO TORRES                         Sim       PSD       Bahia                    196
+CD03O038O 005235 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD03O038O 005235 JÂNIO NATAL                             Sim       PRP       Bahia                    198
+CD03O038O 005235 JOÃO LEÃO                               Sim       PP        Bahia                    199
+CD03O038O 005235 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CD03O038O 005235 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD03O038O 005235 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CD03O038O 005235 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD03O038O 005235 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD03O038O 005235 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD03O038O 005235 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD03O038O 005235 LUIZ DE DEUS                            Obstrução DEM       Bahia                    609
+CD03O038O 005235 MARCELO GUIMARÃES FILHO                 Sim       PMDB      Bahia                    627
+CD03O038O 005235 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD03O038O 005235 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD03O038O 005235 MÁRIO NEGROMONTE                        Sim       PP        Bahia                    210
+CD03O038O 005235 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD03O038O 005235 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CD03O038O 005235 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD03O038O 005235 SÉRGIO BRITO                            Sim       PSD       Bahia                    213
+CD03O038O 005235 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD03O038O 005235 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD03O038O 005235 ZEZÉU RIBEIRO                           Sim       PT        Bahia                    217
+CD03O038O 005235 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CD03O038O 005235 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD03O038O 005235 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CD03O038O 005235 DIEGO ANDRADE                           Sim       PSD       Minas Gerais             228
+CD03O038O 005235 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD03O038O 005235 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD03O038O 005235 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD03O038O 005235 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD03O038O 005235 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD03O038O 005235 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD03O038O 005235 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD03O038O 005235 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD03O038O 005235 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CD03O038O 005235 HUMBERTO SOUTO                          Sim       PPS       Minas Gerais             606
+CD03O038O 005235 ISAIAS SILVESTRE                        Não       PSB       Minas Gerais             604
+CD03O038O 005235 JAIME MARTINS                           Sim       PR        Minas Gerais             240
+CD03O038O 005235 JAIRO ATAIDE                            Obstrução DEM       Minas Gerais             533
+CD03O038O 005235 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD03O038O 005235 JOÃO BITTAR                             Obstrução DEM       Minas Gerais             531
+CD03O038O 005235 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD03O038O 005235 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD03O038O 005235 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD03O038O 005235 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CD03O038O 005235 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD03O038O 005235 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD03O038O 005235 LUIS TIBÉ                               Sim       PTdoB     Minas Gerais             251
+CD03O038O 005235 LUIZ FERNANDO FARIA                     Sim       PP        Minas Gerais             256
+CD03O038O 005235 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD03O038O 005235 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD03O038O 005235 MARGARIDA SALOMÃO                       Sim       PT        Minas Gerais             610
+CD03O038O 005235 MÁRIO HERINGER                          Sim       PDT       Minas Gerais             629
+CD03O038O 005235 NEWTON CARDOSO                          Sim       PMDB      Minas Gerais             258
+CD03O038O 005235 NILMÁRIO MIRANDA                        Sim       PT        Minas Gerais             611
+CD03O038O 005235 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD03O038O 005235 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CD03O038O 005235 RENATO ANDRADE                          Sim       PP        Minas Gerais             612
+CD03O038O 005235 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD03O038O 005235 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD03O038O 005235 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD03O038O 005235 SILAS BRASILEIRO                        Sim       PMDB      Minas Gerais             636
+CD03O038O 005235 STEFANO AGUIAR                          Sim       PSC       Minas Gerais             558
+CD03O038O 005235 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD03O038O 005235 WALTER TOSTA                            Sim       PSD       Minas Gerais             267
+CD03O038O 005235 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD03O038O 005235 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD03O038O 005235 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD03O038O 005235 IRINY LOPES                             Sim       PT        Espírito Santo           273
+CD03O038O 005235 MANATO                                  Sim       PDT       Espírito Santo           275
+CD03O038O 005235 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD03O038O 005235 SUELI VIDIGAL                           Sim       PDT       Espírito Santo           281
+CD03O038O 005235 ADRIAN                                  Sim       PMDB      Rio de Janeiro           286
+CD03O038O 005235 ALFREDO SIRKIS                          Não       PV        Rio de Janeiro           321
+CD03O038O 005235 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD03O038O 005235 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD03O038O 005235 AROLDE DE OLIVEIRA                      Sim       PSD       Rio de Janeiro           288
+CD03O038O 005235 AUREO                                   Sim       PRTB      Rio de Janeiro           290
+CD03O038O 005235 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD03O038O 005235 CELSO JACOB                             Sim       PMDB      Rio de Janeiro           632
+CD03O038O 005235 CHICO ALENCAR                           Não       PSOL      Rio de Janeiro           295
+CD03O038O 005235 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD03O038O 005235 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD03O038O 005235 DR. PAULO CÉSAR                         Sim       PSD       Rio de Janeiro           296
+CD03O038O 005235 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD03O038O 005235 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD03O038O 005235 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD03O038O 005235 EURICO JÚNIOR                           Sim       PV        Rio de Janeiro           613
+CD03O038O 005235 FELIPE BORNIER                          Sim       PSD       Rio de Janeiro           301
+CD03O038O 005235 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD03O038O 005235 FERNANDO LOPES                          Sim       PMDB      Rio de Janeiro           623
+CD03O038O 005235 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD03O038O 005235 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD03O038O 005235 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD03O038O 005235 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD03O038O 005235 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD03O038O 005235 JORGE BITTAR                            Sim       PT        Rio de Janeiro           310
+CD03O038O 005235 LEONARDO PICCIANI                       Sim       PMDB      Rio de Janeiro           312
+CD03O038O 005235 LUIZ SÉRGIO                             Sim       PT        Rio de Janeiro           313
+CD03O038O 005235 MANUEL ROSA NECA                        Sim       PR        Rio de Janeiro           614
+CD03O038O 005235 MARCELO MATOS                           Sim       PDT       Rio de Janeiro           311
+CD03O038O 005235 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD03O038O 005235 PAULO FEIJÓ                             Sim       PR        Rio de Janeiro           577
+CD03O038O 005235 ROMÁRIO                                 Sim       PSB       Rio de Janeiro           319
+CD03O038O 005235 SERGIO ZVEITER                          Sim       PSD       Rio de Janeiro           320
+CD03O038O 005235 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD03O038O 005235 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD03O038O 005235 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD03O038O 005235 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD03O038O 005235 ABELARDO CAMARINHA                      Sim       PSB       São Paulo                329
+CD03O038O 005235 ALEXANDRE LEITE                         Obstrução DEM       São Paulo                334
+CD03O038O 005235 ALINE CORRÊA                            Sim       PP        São Paulo                330
+CD03O038O 005235 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD03O038O 005235 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD03O038O 005235 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD03O038O 005235 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD03O038O 005235 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD03O038O 005235 BETO MANSUR                             Sim       PP        São Paulo                340
+CD03O038O 005235 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CD03O038O 005235 CÂNDIDO VACCAREZZA                      Sim       PT        São Paulo                389
+CD03O038O 005235 CARLOS ROBERTO                          Sim       PSDB      São Paulo                569
+CD03O038O 005235 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD03O038O 005235 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD03O038O 005235 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD03O038O 005235 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD03O038O 005235 ELEUSES PAIVA                           Sim       PSD       São Paulo                537
+CD03O038O 005235 EMANUEL FERNANDES                       Sim       PSDB      São Paulo                352
+CD03O038O 005235 FRANCISCO CHAGAS                        Sim       PT        São Paulo                626
+CD03O038O 005235 GABRIEL CHALITA                         Sim       PMDB      São Paulo                347
+CD03O038O 005235 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD03O038O 005235 GUILHERME MUSSI                         Sim       PSD       São Paulo                348
+CD03O038O 005235 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD03O038O 005235 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD03O038O 005235 JEFFERSON CAMPOS                        Sim       PSD       São Paulo                349
+CD03O038O 005235 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD03O038O 005235 JOÃO PAULO CUNHA                        Sim       PT        São Paulo                361
+CD03O038O 005235 JOSÉ GENOÍNO                            Sim       PT        São Paulo                617
+CD03O038O 005235 JOSÉ MENTOR                             Sim       PT        São Paulo                367
+CD03O038O 005235 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD03O038O 005235 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD03O038O 005235 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD03O038O 005235 MARCELO AGUIAR                          Sim       PSD       São Paulo                370
+CD03O038O 005235 MILTON MONTI                            Sim       PR        São Paulo                374
+CD03O038O 005235 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD03O038O 005235 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD03O038O 005235 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CD03O038O 005235 PENNA                                   Sim       PV        São Paulo                382
+CD03O038O 005235 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CD03O038O 005235 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD03O038O 005235 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CD03O038O 005235 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CD03O038O 005235 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CD03O038O 005235 TIRIRICA                                Sim       PR        São Paulo                392
+CD03O038O 005235 VALDEMAR COSTA NETO                     Sim       PR        São Paulo                393
+CD03O038O 005235 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD03O038O 005235 VANDERLEI SIRAQUE                       Sim       PT        São Paulo                581
+CD03O038O 005235 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD03O038O 005235 VICENTE CANDIDO                         Sim       PT        São Paulo                395
+CD03O038O 005235 VICENTINHO                              Sim       PT        São Paulo                396
+CD03O038O 005235 WALTER FELDMAN                          Sim       PSDB      São Paulo                550
+CD03O038O 005235 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD03O038O 005235 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD03O038O 005235 ELIENE LIMA                             Sim       PSD       Mato Grosso              401
+CD03O038O 005235 JÚLIO CAMPOS                            Obstrução DEM       Mato Grosso              399
+CD03O038O 005235 NILSON LEITÃO                           Sim       PSDB      Mato Grosso              573
+CD03O038O 005235 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD03O038O 005235 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD03O038O 005235 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD03O038O 005235 IZALCI                                  Sim       PSDB      Distrito Federal         408
+CD03O038O 005235 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD03O038O 005235 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD03O038O 005235 POLICARPO                               Sim       PT        Distrito Federal         539
+CD03O038O 005235 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD03O038O 005235 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD03O038O 005235 ARMANDO VERGÍLIO                        Sim       PSD       Goiás                    416
+CD03O038O 005235 CARLOS ALBERTO LERÉIA                   Sim       PSDB      Goiás                    415
+CD03O038O 005235 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD03O038O 005235 HEULER CRUVINEL                         Sim       PSD       Goiás                    423
+CD03O038O 005235 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD03O038O 005235 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD03O038O 005235 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CD03O038O 005235 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CD03O038O 005235 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD03O038O 005235 RONALDO CAIADO                          Obstrução DEM       Goiás                    429
+CD03O038O 005235 SANDES JÚNIOR                           Sim       PP        Goiás                    426
+CD03O038O 005235 SANDRO MABEL                            Sim       PMDB      Goiás                    431
+CD03O038O 005235 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD03O038O 005235 BIFFI                                   Sim       PT        Mato Grosso do Sul       432
+CD03O038O 005235 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD03O038O 005235 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD03O038O 005235 GIROTO                                  Sim       PMDB      Mato Grosso do Sul       434
+CD03O038O 005235 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD03O038O 005235 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD03O038O 005235 ABELARDO LUPION                         Obstrução DEM       Paraná                   440
+CD03O038O 005235 ALEX CANZIANI                           Sim       PTB       Paraná                   445
+CD03O038O 005235 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD03O038O 005235 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD03O038O 005235 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD03O038O 005235 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD03O038O 005235 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD03O038O 005235 DR. ROSINHA                             Sim       PT        Paraná                   449
+CD03O038O 005235 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD03O038O 005235 FERNANDO FRANCISCHINI                   Sim       PEN       Paraná                   450
+CD03O038O 005235 GIACOBO                                 Sim       PR        Paraná                   466
+CD03O038O 005235 HERMES PARCIANELLO                      Sim       PMDB      Paraná                   448
+CD03O038O 005235 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD03O038O 005235 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD03O038O 005235 MARCELO ALMEIDA                         Sim       PMDB      Paraná                   631
+CD03O038O 005235 NELSON MEURER                           Sim       PP        Paraná                   458
+CD03O038O 005235 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD03O038O 005235 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD03O038O 005235 PROFESSOR SÉRGIO DE OLIVEIRA            Sim       PSC       Paraná                   603
+CD03O038O 005235 RICARDO ARRUDA                          Sim       PSC       Paraná                   635
+CD03O038O 005235 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD03O038O 005235 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD03O038O 005235 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD03O038O 005235 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD03O038O 005235 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CD03O038O 005235 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD03O038O 005235 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD03O038O 005235 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CD03O038O 005235 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD03O038O 005235 ESPERIDIÃO AMIN                         Abstenção PP        Santa Catarina           471
+CD03O038O 005235 JORGE BOEIRA                            Não       PSD       Santa Catarina           474
+CD03O038O 005235 MARCO TEBALDI                           Sim       PSDB      Santa Catarina           478
+CD03O038O 005235 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD03O038O 005235 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD03O038O 005235 ALEXANDRE ROSO                          Sim       PSB       Rio Grande do Sul        489
+CD03O038O 005235 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD03O038O 005235 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD03O038O 005235 DANRLEI DE DEUS HINTERHOLZ              Sim       PSD       Rio Grande do Sul        495
+CD03O038O 005235 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD03O038O 005235 ENIO BACCI                              Abstenção PDT       Rio Grande do Sul        493
+CD03O038O 005235 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD03O038O 005235 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD03O038O 005235 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD03O038O 005235 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD03O038O 005235 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD03O038O 005235 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD03O038O 005235 MANUELA D`ÁVILA                         Sim       PCdoB     Rio Grande do Sul        494
+CD03O038O 005235 MARCO MAIA                              Sim       PT        Rio Grande do Sul        496
+CD03O038O 005235 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CD03O038O 005235 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD03O038O 005235 ONYX LORENZONI                          Obstrução DEM       Rio Grande do Sul        510
+CD03O038O 005235 PAULO FERREIRA                          Sim       PT        Rio Grande do Sul        591
+CD03O038O 005235 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD03O038O 005235 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD03O038O 005235 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD03O038O 005235 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD03O038O 005235 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD03O038O 005235 FRANCISCO TENÓRIO                       <-------> PMN       Alagoas                  607
+CD03O038O 005235 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD03O038O 005235 ALEXANDRE TOLEDO                        <-------> PSDB      Alagoas                  596
+CD03O038O 005235 ARTHUR LIRA                             <-------> PP        Alagoas                  162
+CD03O038O 005235 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD03O038O 005235 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD03O038O 005235 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD03O038O 005235 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD03O038O 005235 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD03O038O 005235 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD03O038O 005235 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD03O038O 005235 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD03O038O 005235 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD03O038O 005235 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD03O038O 005235 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD03O038O 005235 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD03O038O 005235 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD03O038O 005235 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD03O038O 005235 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD03O038O 005235 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD03O038O 005235 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD03O038O 005235 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD03O038O 005235 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD03O038O 005235 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD03O038O 005235 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD03O038O 005235 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD03O038O 005235 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD03O038O 005235 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD03O038O 005235 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD03O038O 005235 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD03O038O 005235 LOURIVAL MENDES                         <-------> PTdoB     Maranhão                 77 
+CD03O038O 005235 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD03O038O 005235 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD03O038O 005235 TONINHO PINHEIRO                        <-------> PP        Minas Gerais             264
+CD03O038O 005235 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD03O038O 005235 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD03O038O 005235 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD03O038O 005235 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD03O038O 005235 ADEMIR CAMILO                           <-------> PSD       Minas Gerais             220
+CD03O038O 005235 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD03O038O 005235 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD03O038O 005235 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD03O038O 005235 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD03O038O 005235 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD03O038O 005235 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD03O038O 005235 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD03O038O 005235 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD03O038O 005235 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD03O038O 005235 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD03O038O 005235 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD03O038O 005235 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD03O038O 005235 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD03O038O 005235 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD03O038O 005235 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD03O038O 005235 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD03O038O 005235 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD03O038O 005235 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD03O038O 005235 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD03O038O 005235 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD03O038O 005235 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD03O038O 005235 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD03O038O 005235 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD03O038O 005235 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD03O038O 005235 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD03O038O 005235 OLIVEIRA FILHO                          <-------> PRB       Paraná                   621
+CD03O038O 005235 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD03O038O 005235 ODÍLIO BALBINOTTI                       <-------> PMDB      Paraná                   588
+CD03O038O 005235 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD03O038O 005235 JOÃO ARRUDA                             <-------> PMDB      Paraná                   455
+CD03O038O 005235 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD03O038O 005235 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD03O038O 005235 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD03O038O 005235 LILIAM SÁ                               <-------> PSD       Rio de Janeiro           309
+CD03O038O 005235 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD03O038O 005235 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD03O038O 005235 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD03O038O 005235 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD03O038O 005235 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD03O038O 005235 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD03O038O 005235 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD03O038O 005235 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD03O038O 005235 URZENI ROCHA                            <-------> PSDB      Roraima                  616
+CD03O038O 005235 RONALDO NOGUEIRA                        <-------> PTB       Rio Grande do Sul        556
+CD03O038O 005235 BETO ALBUQUERQUE                        <-------> PSB       Rio Grande do Sul        490
+CD03O038O 005235 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD03O038O 005235 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD03O038O 005235 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD03O038O 005235 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD03O038O 005235 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD03O038O 005235 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD03O038O 005235 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD03O038O 005235 JORGINHO MELLO                          <-------> PR        Santa Catarina           476
+CD03O038O 005235 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD03O038O 005235 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD03O038O 005235 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD03O038O 005235 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD03O038O 005235 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD03O038O 005235 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD03O038O 005235 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD03O038O 005235 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD03O038O 005235 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD03O038O 005235 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD03O038O 005235 WALTER IHOSHI                           <-------> PSD       São Paulo                553
+CD03O038O 005235 ROBERTO DE LUCENA                       <-------> PV        São Paulo                385
+CD03O038O 005235 PASTOR MARCO FELICIANO                  <-------> PSC       São Paulo                379
+CD03O038O 005235 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD03O038O 005235 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD03O038O 005235 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD03O038O 005235 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD03O038O 005235 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD03O038O 005235 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD03O038O 005235 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD03O038O 005235 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD03O038O 005235 PAULO MALUF                             <-------> PP        São Paulo                373
+CD03O038O 005235 LUIZA ERUNDINA                          <-------> PSB       São Paulo                371
+CD03O038O 005235 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD03O038O 005235 IARA BERNARDI                           <-------> PT        São Paulo                618
+CD03O038O 005235 MÁRCIO FRANÇA                           <-------> PSB       São Paulo                368
+CD03O038O 005235 CÉSAR HALUM                             <-------> PSD       Tocantins                64 
+CD03O038O 005235 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD03O038O 005235 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 

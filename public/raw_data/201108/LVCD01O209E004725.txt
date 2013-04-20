@@ -1,0 +1,513 @@
+CD01O209E 004725 BERINHO BANTIM                          Não       PSDB      Roraima                  1
+CD01O209E 004725 EDIO LOPES                              Abstenção PMDB      Roraima                  2  
+CD01O209E 004725 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD01O209E 004725 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD01O209E 004725 PAULO CESAR QUARTIERO                   Não       DEM       Roraima                  6  
+CD01O209E 004725 DAVI ALCOLUMBRE                         Não       DEM       Amapá                    10 
+CD01O209E 004725 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD01O209E 004725 SEBASTIÃO BALA ROCHA                    Não       PDT       Amapá                    17 
+CD01O209E 004725 VINICIUS GURGEL                         Não       PRTB      Amapá                    16 
+CD01O209E 004725 BETO FARO                               Sim       PT        Pará                     19 
+CD01O209E 004725 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD01O209E 004725 DUDIMAR PAXIÚBA                         Não       PSDB      Pará                     518
+CD01O209E 004725 ELCIONE BARBALHO                        Não       PMDB      Pará                     21 
+CD01O209E 004725 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CD01O209E 004725 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD01O209E 004725 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O209E 004725 LUIZ OTÁVIO                             Sim       PMDB      Pará                     526
+CD01O209E 004725 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD01O209E 004725 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CD01O209E 004725 PAUDERNEY AVELINO                       Não       DEM       Amazonas                 40 
+CD01O209E 004725 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD01O209E 004725 LINDOMAR GARÇON                         Sim       PV        Rondonia                 45 
+CD01O209E 004725 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD01O209E 004725 MAURO NAZIF                             Não       PSB       Rondonia                 46 
+CD01O209E 004725 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD01O209E 004725 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD01O209E 004725 PADRE TON                               Sim       PT        Rondonia                 48 
+CD01O209E 004725 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD01O209E 004725 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD01O209E 004725 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD01O209E 004725 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD01O209E 004725 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD01O209E 004725 CÉSAR HALUM                             Sim       PPS       Tocantins                64 
+CD01O209E 004725 IRAJÁ ABREU                             Abstenção DEM       Tocantins                65 
+CD01O209E 004725 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD01O209E 004725 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD01O209E 004725 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD01O209E 004725 PROFESSORA DORINHA SEABRA REZEN         Não       DEM       Tocantins                67 
+CD01O209E 004725 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O209E 004725 CARLOS BRANDÃO                          Não       PSDB      Maranhão                 68 
+CD01O209E 004725 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD01O209E 004725 DAVI ALVES SILVA JÚNIOR                 Não       PR        Maranhão                 528
+CD01O209E 004725 DOMINGOS DUTRA                          Abstenção PT        Maranhão                 72 
+CD01O209E 004725 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD01O209E 004725 GASTÃO VIEIRA                           Sim       PMDB      Maranhão                 75 
+CD01O209E 004725 HÉLIO SANTOS                            Não       PSDB      Maranhão                 76 
+CD01O209E 004725 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O209E 004725 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD01O209E 004725 RIBAMAR ALVES                           Sim       PSB       Maranhão                 74 
+CD01O209E 004725 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD01O209E 004725 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O209E 004725 ANÍBAL GOMES                            Sim       PMDB      Ceará                    87 
+CD01O209E 004725 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD01O209E 004725 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD01O209E 004725 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD01O209E 004725 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD01O209E 004725 DOMINGOS NETO                           Sim       PSB       Ceará                    97 
+CD01O209E 004725 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CD01O209E 004725 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD01O209E 004725 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD01O209E 004725 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD01O209E 004725 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD01O209E 004725 RAIMUNDÃO                               Não       PMDB      Ceará                    108
+CD01O209E 004725 RAIMUNDO GOMES DE MATOS                 Não       PSDB      Ceará                    102
+CD01O209E 004725 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD01O209E 004725 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD01O209E 004725 HUGO NAPOLEÃO                           Não       DEM       Piauí                    112
+CD01O209E 004725 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD01O209E 004725 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD01O209E 004725 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD01O209E 004725 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD01O209E 004725 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD01O209E 004725 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CD01O209E 004725 PAES LANDIM                             Sim       PTB       Piauí                    118
+CD01O209E 004725 FÁBIO FARIA                             Sim       PMN       Rio Grande do Norte      119
+CD01O209E 004725 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD01O209E 004725 FELIPE MAIA                             Não       DEM       Rio Grande do Norte      120
+CD01O209E 004725 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD01O209E 004725 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD01O209E 004725 ROGÉRIO MARINHO                         Não       PSDB      Rio Grande do Norte      540
+CD01O209E 004725 AGUINALDO RIBEIRO                       Sim       PP        Paraíba                  129
+CD01O209E 004725 BENJAMIN MARANHÃO                       Sim       PMDB      Paraíba                  131
+CD01O209E 004725 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CD01O209E 004725 EFRAIM FILHO                            Não       DEM       Paraíba                  128
+CD01O209E 004725 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD01O209E 004725 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD01O209E 004725 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD01O209E 004725 NILDA GONDIM                            Sim       PMDB      Paraíba                  134
+CD01O209E 004725 ROMERO RODRIGUES                        Não       PSDB      Paraíba                  135
+CD01O209E 004725 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD01O209E 004725 AUGUSTO COUTINHO                        Não       DEM       Pernambuco               144
+CD01O209E 004725 BRUNO ARAÚJO                            Não       PSDB      Pernambuco               146
+CD01O209E 004725 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD01O209E 004725 EDUARDO DA FONTE                        Sim       PP        Pernambuco               156
+CD01O209E 004725 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD01O209E 004725 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD01O209E 004725 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD01O209E 004725 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD01O209E 004725 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD01O209E 004725 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD01O209E 004725 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD01O209E 004725 MENDONÇA FILHO                          Não       DEM       Pernambuco               154
+CD01O209E 004725 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD01O209E 004725 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD01O209E 004725 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD01O209E 004725 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD01O209E 004725 SERGIO GUERRA                           Não       PSDB      Pernambuco               159
+CD01O209E 004725 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD01O209E 004725 VILALBA                                 Não       PRB       Pernambuco               555
+CD01O209E 004725 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD01O209E 004725 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD01O209E 004725 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD01O209E 004725 JOÃO LYRA                               Sim       PTB       Alagoas                  167
+CD01O209E 004725 JOAQUIM BELTRÃO                         Sim       PMDB      Alagoas                  172
+CD01O209E 004725 MAURÍCIO QUINTELLA LESSA                Não       PR        Alagoas                  168
+CD01O209E 004725 ROSINHA DA ADEFAL                       Não       PTdoB     Alagoas                  170
+CD01O209E 004725 RUI PALMEIRA                            Não       PSDB      Alagoas                  171
+CD01O209E 004725 ALMEIDA LIMA                            Sim       PMDB      Sergipe                  173
+CD01O209E 004725 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD01O209E 004725 HELENO SILVA                            Não       PRB       Sergipe                  175
+CD01O209E 004725 LAERCIO OLIVEIRA                        Não       PR        Sergipe                  176
+CD01O209E 004725 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD01O209E 004725 MENDONÇA PRADO                          Não       DEM       Sergipe                  179
+CD01O209E 004725 ROGÉRIO CARVALHO                        Sim       PT        Sergipe                  178
+CD01O209E 004725 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD01O209E 004725 ACELINO POPÓ                            Não       PRB       Bahia                    522
+CD01O209E 004725 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD01O209E 004725 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD01O209E 004725 ANTONIO CARLOS MAGALHÃES NETO           Não       DEM       Bahia                    181
+CD01O209E 004725 ANTONIO IMBASSAHY                       Não       PSDB      Bahia                    191
+CD01O209E 004725 CLAUDIO CAJADO                          Não       DEM       Bahia                    186
+CD01O209E 004725 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD01O209E 004725 EDSON PIMENTA                           Sim       PCdoB     Bahia                    193
+CD01O209E 004725 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD01O209E 004725 FÁBIO SOUTO                             Não       DEM       Bahia                    190
+CD01O209E 004725 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD01O209E 004725 FERNANDO TORRES                         Sim       DEM       Bahia                    196
+CD01O209E 004725 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD01O209E 004725 JÂNIO NATAL                             Não       PRP       Bahia                    198
+CD01O209E 004725 JOSÉ NUNES                              Não       DEM       Bahia                    201
+CD01O209E 004725 JOSEPH BANDEIRA                         Sim       PT        Bahia                    565
+CD01O209E 004725 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD01O209E 004725 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD01O209E 004725 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD01O209E 004725 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD01O209E 004725 MAURÍCIO TRINDADE                       Não       PR        Bahia                    208
+CD01O209E 004725 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD01O209E 004725 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD01O209E 004725 PAULO MAGALHÃES                         Sim       DEM       Bahia                    214
+CD01O209E 004725 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD01O209E 004725 RUI COSTA                               Sim       PT        Bahia                    216
+CD01O209E 004725 SÉRGIO BARRADAS CARNEIRO                Sim       PT        Bahia                    524
+CD01O209E 004725 SÉRGIO BRITO                            Sim       PSC       Bahia                    213
+CD01O209E 004725 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD01O209E 004725 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD01O209E 004725 ADEMIR CAMILO                           Sim       PDT       Minas Gerais             220
+CD01O209E 004725 AELTON FREITAS                          Não       PR        Minas Gerais             224
+CD01O209E 004725 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD01O209E 004725 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD01O209E 004725 ARACELY DE PAULA                        Não       PR        Minas Gerais             223
+CD01O209E 004725 BERNARDO SANTANA DE VASCONCELLO         Não       PR        Minas Gerais             221
+CD01O209E 004725 BONIFÁCIO DE ANDRADA                    Não       PSDB      Minas Gerais             534
+CD01O209E 004725 CARLAILE PEDROSA                        Não       PSDB      Minas Gerais             222
+CD01O209E 004725 DIEGO ANDRADE                           Não       PR        Minas Gerais             228
+CD01O209E 004725 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD01O209E 004725 DOMINGOS SÁVIO                          Não       PSDB      Minas Gerais             233
+CD01O209E 004725 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD01O209E 004725 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD01O209E 004725 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD01O209E 004725 GEORGE HILTON                           Não       PRB       Minas Gerais             241
+CD01O209E 004725 GILMAR MACHADO                          Sim       PT        Minas Gerais             234
+CD01O209E 004725 JAIME MARTINS                           Não       PR        Minas Gerais             240
+CD01O209E 004725 JAIRO ATAIDE                            Não       DEM       Minas Gerais             533
+CD01O209E 004725 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD01O209E 004725 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O209E 004725 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD01O209E 004725 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD01O209E 004725 MÁRCIO REINALDO MOREIRA                 Sim       PP        Minas Gerais             247
+CD01O209E 004725 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CD01O209E 004725 PAULO PIAU                              Sim       PMDB      Minas Gerais             266
+CD01O209E 004725 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CD01O209E 004725 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD01O209E 004725 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD01O209E 004725 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD01O209E 004725 VITOR PENIDO                            Não       DEM       Minas Gerais             532
+CD01O209E 004725 WALTER TOSTA                            Sim       PMN       Minas Gerais             267
+CD01O209E 004725 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O209E 004725 CAMILO COLA                             Sim       PMDB      Espírito Santo           543
+CD01O209E 004725 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD01O209E 004725 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD01O209E 004725 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O209E 004725 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD01O209E 004725 ROSE DE FREITAS                         Abstenção PMDB      Espírito Santo           282
+CD01O209E 004725 SUELI VIDIGAL                           Sim       PDT       Espírito Santo           281
+CD01O209E 004725 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD01O209E 004725 ALEXANDRE SANTOS                        Sim       PMDB      Rio de Janeiro           285
+CD01O209E 004725 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD01O209E 004725 AROLDE DE OLIVEIRA                      Não       DEM       Rio de Janeiro           288
+CD01O209E 004725 AUREO                                   Sim       PRTB      Rio de Janeiro           290
+CD01O209E 004725 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD01O209E 004725 CHICO ALENCAR                           Não       PSOL      Rio de Janeiro           295
+CD01O209E 004725 CHICO D`ANGELO                          Sim       PT        Rio de Janeiro           527
+CD01O209E 004725 DELEY                                   Não       PSC       Rio de Janeiro           562
+CD01O209E 004725 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD01O209E 004725 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CD01O209E 004725 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O209E 004725 DR. PAULO CÉSAR                         Não       PR        Rio de Janeiro           296
+CD01O209E 004725 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD01O209E 004725 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD01O209E 004725 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD01O209E 004725 ELIANE ROLIM                            Sim       PT        Rio de Janeiro           538
+CD01O209E 004725 FELIPE BORNIER                          Não       PHS       Rio de Janeiro           301
+CD01O209E 004725 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD01O209E 004725 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD01O209E 004725 FRANCISCO FLORIANO                      Não       PR        Rio de Janeiro           297
+CD01O209E 004725 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD01O209E 004725 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD01O209E 004725 JEAN WYLLYS                             Não       PSOL      Rio de Janeiro           307
+CD01O209E 004725 LILIAM SÁ                               Não       PR        Rio de Janeiro           309
+CD01O209E 004725 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD01O209E 004725 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O209E 004725 OTAVIO LEITE                            Não       PSDB      Rio de Janeiro           316
+CD01O209E 004725 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CD01O209E 004725 ROMÁRIO                                 Sim       PSB       Rio de Janeiro           319
+CD01O209E 004725 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD01O209E 004725 SOLANGE ALMEIDA                         Sim       PMDB      Rio de Janeiro           563
+CD01O209E 004725 STEPAN NERCESSIAN                       Não       PPS       Rio de Janeiro           323
+CD01O209E 004725 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O209E 004725 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD01O209E 004725 ALINE CORRÊA                            Sim       PP        São Paulo                330
+CD01O209E 004725 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD01O209E 004725 ANTONIO CARLOS MENDES THAME             Não       PSDB      São Paulo                332
+CD01O209E 004725 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD01O209E 004725 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD01O209E 004725 BETO MANSUR                             Sim       PP        São Paulo                340
+CD01O209E 004725 BRUNA FURLAN                            Não       PSDB      São Paulo                335
+CD01O209E 004725 CÂNDIDO VACCAREZZA                      Sim       PT        São Paulo                389
+CD01O209E 004725 CARLINHOS ALMEIDA                       Sim       PT        São Paulo                341
+CD01O209E 004725 CARLOS SAMPAIO                          Não       PSDB      São Paulo                338
+CD01O209E 004725 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD01O209E 004725 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD01O209E 004725 DIMAS RAMALHO                           Não       PPS       São Paulo                346
+CD01O209E 004725 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD01O209E 004725 DRA.ELAINE ABISSAMRA                    Sim       PSB       São Paulo                576
+CD01O209E 004725 DUARTE NOGUEIRA                         Não       PSDB      São Paulo                350
+CD01O209E 004725 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD01O209E 004725 ELEUSES PAIVA                           Não       DEM       São Paulo                537
+CD01O209E 004725 GABRIEL CHALITA                         Sim       PMDB      São Paulo                347
+CD01O209E 004725 GUILHERME CAMPOS                        Não       DEM       São Paulo                357
+CD01O209E 004725 GUILHERME MUSSI                         Sim       PV        São Paulo                348
+CD01O209E 004725 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD01O209E 004725 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD01O209E 004725 JEFFERSON CAMPOS                        Sim       PSB       São Paulo                349
+CD01O209E 004725 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD01O209E 004725 JOÃO PAULO CUNHA                        Sim       PT        São Paulo                361
+CD01O209E 004725 JONAS DONIZETTE                         Sim       PSB       São Paulo                353
+CD01O209E 004725 JOSÉ DE FILIPPI                         Sim       PT        São Paulo                354
+CD01O209E 004725 JUNJI ABE                               Sim       DEM       São Paulo                355
+CD01O209E 004725 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD01O209E 004725 LUIZ FERNANDO MACHADO                   Não       PSDB      São Paulo                365
+CD01O209E 004725 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O209E 004725 MARA GABRILLI                           Não       PSDB      São Paulo                366
+CD01O209E 004725 MARCELO AGUIAR                          Sim       PSC       São Paulo                370
+CD01O209E 004725 MILTON MONTI                            Não       PR        São Paulo                374
+CD01O209E 004725 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD01O209E 004725 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD01O209E 004725 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O209E 004725 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD01O209E 004725 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O209E 004725 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD01O209E 004725 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD01O209E 004725 RICARDO BERZOINI                        Sim       PT        São Paulo                390
+CD01O209E 004725 RICARDO IZAR                            Sim       PV        São Paulo                383
+CD01O209E 004725 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O209E 004725 ROBERTO FREIRE                          Não       PPS       São Paulo                387
+CD01O209E 004725 ROBERTO SANTIAGO                        Sim       PV        São Paulo                386
+CD01O209E 004725 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD01O209E 004725 TIRIRICA                                Não       PR        São Paulo                392
+CD01O209E 004725 VANDERLEI MACRIS                        Não       PSDB      São Paulo                521
+CD01O209E 004725 VAZ DE LIMA                             Não       PSDB      São Paulo                394
+CD01O209E 004725 VICENTE CANDIDO                         Sim       PT        São Paulo                395
+CD01O209E 004725 VICENTINHO                              Sim       PT        São Paulo                396
+CD01O209E 004725 WALTER IHOSHI                           Não       DEM       São Paulo                553
+CD01O209E 004725 WILLIAM DIB                             Não       PSDB      São Paulo                397
+CD01O209E 004725 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD01O209E 004725 HOMERO PEREIRA                          Não       PR        Mato Grosso              402
+CD01O209E 004725 JÚLIO CAMPOS                            Não       DEM       Mato Grosso              399
+CD01O209E 004725 NERI GELLER                             Sim       PP        Mato Grosso              520
+CD01O209E 004725 NILSON LEITÃO                           Não       PSDB      Mato Grosso              573
+CD01O209E 004725 ROBERTO DORNER                          Sim       PP        Mato Grosso              519
+CD01O209E 004725 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD01O209E 004725 WELLINGTON FAGUNDES                     Abstenção PR        Mato Grosso              406
+CD01O209E 004725 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD01O209E 004725 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD01O209E 004725 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O209E 004725 JAQUELINE RORIZ                         Não       PMN       Distrito Federal         409
+CD01O209E 004725 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD01O209E 004725 POLICARPO                               Sim       PT        Distrito Federal         539
+CD01O209E 004725 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD01O209E 004725 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O209E 004725 CARLOS ALBERTO LERÉIA                   Não       PSDB      Goiás                    415
+CD01O209E 004725 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD01O209E 004725 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O209E 004725 JOÃO CAMPOS                             Não       PSDB      Goiás                    418
+CD01O209E 004725 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CD01O209E 004725 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CD01O209E 004725 MARINA SANTANNA                         Sim       PT        Goiás                    564
+CD01O209E 004725 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD01O209E 004725 RONALDO CAIADO                          Não       DEM       Goiás                    429
+CD01O209E 004725 RUBENS OTONI                            Sim       PT        Goiás                    425
+CD01O209E 004725 SANDES JÚNIOR                           Sim       PP        Goiás                    426
+CD01O209E 004725 VALDIVINO DE OLIVEIRA                   Não       PSDB      Goiás                    547
+CD01O209E 004725 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD01O209E 004725 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD01O209E 004725 GIROTO                                  Não       PR        Mato Grosso do Sul       434
+CD01O209E 004725 MANDETTA                                Não       DEM       Mato Grosso do Sul       436
+CD01O209E 004725 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O209E 004725 REINALDO AZAMBUJA                       Não       PSDB      Mato Grosso do Sul       439
+CD01O209E 004725 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD01O209E 004725 ABELARDO LUPION                         Não       DEM       Paraná                   440
+CD01O209E 004725 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD01O209E 004725 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD01O209E 004725 ANGELO VANHONI                          Sim       PT        Paraná                   453
+CD01O209E 004725 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD01O209E 004725 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD01O209E 004725 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD01O209E 004725 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD01O209E 004725 EDUARDO SCIARRA                         Não       DEM       Paraná                   461
+CD01O209E 004725 FERNANDO FRANCISCHINI                   Não       PSDB      Paraná                   450
+CD01O209E 004725 GIACOBO                                 Não       PR        Paraná                   466
+CD01O209E 004725 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O209E 004725 LUIZ CARLOS SETIM                       Não       DEM       Paraná                   535
+CD01O209E 004725 LUIZ NISHIMORI                          Não       PSDB      Paraná                   542
+CD01O209E 004725 MOACIR MICHELETTO                       Não       PMDB      Paraná                   462
+CD01O209E 004725 NELSON MEURER                           Sim       PP        Paraná                   458
+CD01O209E 004725 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD01O209E 004725 RATINHO JUNIOR                          Sim       PSC       Paraná                   464
+CD01O209E 004725 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD01O209E 004725 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD01O209E 004725 SANDRO ALEX                             Não       PPS       Paraná                   465
+CD01O209E 004725 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD01O209E 004725 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CD01O209E 004725 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD01O209E 004725 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CD01O209E 004725 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD01O209E 004725 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD01O209E 004725 GEAN LOUREIRO                           Sim       PMDB      Santa Catarina           568
+CD01O209E 004725 JORGE BOEIRA                            Sim       PT        Santa Catarina           474
+CD01O209E 004725 LUCI CHOINACKI                          Sim       PT        Santa Catarina           477
+CD01O209E 004725 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD01O209E 004725 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CD01O209E 004725 VALDIR COLATTO                          Não       PMDB      Santa Catarina           560
+CD01O209E 004725 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD01O209E 004725 ALEXANDRE ROSO                          Sim       PSB       Rio Grande do Sul        489
+CD01O209E 004725 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD01O209E 004725 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD01O209E 004725 DANRLEI DE DEUS HINTERHOLZ              Sim       PTB       Rio Grande do Sul        495
+CD01O209E 004725 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD01O209E 004725 ENIO BACCI                              Não       PDT       Rio Grande do Sul        493
+CD01O209E 004725 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD01O209E 004725 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD01O209E 004725 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD01O209E 004725 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD01O209E 004725 JOSÉ STÉDILE                            Abstenção PSB       Rio Grande do Sul        506
+CD01O209E 004725 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O209E 004725 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD01O209E 004725 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O209E 004725 NELSON MARCHEZAN JUNIOR                 Não       PSDB      Rio Grande do Sul        509
+CD01O209E 004725 ONYX LORENZONI                          Não       DEM       Rio Grande do Sul        510
+CD01O209E 004725 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD01O209E 004725 PEPE VARGAS                             Sim       PT        Rio Grande do Sul        503
+CD01O209E 004725 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD01O209E 004725 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD01O209E 004725 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD01O209E 004725 SÉRGIO MORAES                           Não       PTB       Rio Grande do Sul        512
+CD01O209E 004725 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD01O209E 004725 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O209E 004725 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD01O209E 004725 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD01O209E 004725 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O209E 004725 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O209E 004725 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD01O209E 004725 CARLOS SOUZA                            <-------> PP        Amazonas                 37 
+CD01O209E 004725 ÁTILA LINS                              <-------> PMDB      Amazonas                 38 
+CD01O209E 004725 SILAS CÂMARA                            <-------> PSC       Amazonas                 39 
+CD01O209E 004725 FRANCISCO PRACIANO                      <-------> PT        Amazonas                 41 
+CD01O209E 004725 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD01O209E 004725 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD01O209E 004725 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O209E 004725 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O209E 004725 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD01O209E 004725 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD01O209E 004725 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O209E 004725 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD01O209E 004725 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O209E 004725 JOSÉ CARLOS ARAÚJO                      <-------> PDT       Bahia                    197
+CD01O209E 004725 MARCOS MEDRADO                          <-------> PDT       Bahia                    200
+CD01O209E 004725 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD01O209E 004725 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD01O209E 004725 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD01O209E 004725 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD01O209E 004725 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD01O209E 004725 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD01O209E 004725 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O209E 004725 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD01O209E 004725 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O209E 004725 MANOEL SALVIANO                         <-------> PSDB      Ceará                    104
+CD01O209E 004725 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD01O209E 004725 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O209E 004725 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD01O209E 004725 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD01O209E 004725 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O209E 004725 HEULER CRUVINEL                         <-------> DEM       Goiás                    423
+CD01O209E 004725 ARMANDO VERGÍLIO                        <-------> PMN       Goiás                    416
+CD01O209E 004725 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O209E 004725 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD01O209E 004725 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O209E 004725 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O209E 004725 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD01O209E 004725 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O209E 004725 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O209E 004725 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD01O209E 004725 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD01O209E 004725 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD01O209E 004725 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O209E 004725 MARCOS MONTES                           <-------> DEM       Minas Gerais             257
+CD01O209E 004725 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O209E 004725 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O209E 004725 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD01O209E 004725 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O209E 004725 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD01O209E 004725 ZÉ SILVA                                <-------> PDT       Minas Gerais             271
+CD01O209E 004725 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD01O209E 004725 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O209E 004725 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O209E 004725 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O209E 004725 EROS BIONDINI                           <-------> PTB       Minas Gerais             242
+CD01O209E 004725 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD01O209E 004725 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD01O209E 004725 GERALDO THADEU                          <-------> PPS       Minas Gerais             236
+CD01O209E 004725 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD01O209E 004725 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O209E 004725 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CD01O209E 004725 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD01O209E 004725 ANTÔNIO CARLOS BIFFI                    <-------> PT        Mato Grosso do Sul       432
+CD01O209E 004725 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O209E 004725 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O209E 004725 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O209E 004725 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O209E 004725 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O209E 004725 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O209E 004725 MIRIQUINHO BATISTA                      <-------> PT        Pará                     35 
+CD01O209E 004725 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD01O209E 004725 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O209E 004725 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD01O209E 004725 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD01O209E 004725 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD01O209E 004725 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O209E 004725 ANA ARRAES                              <-------> PSB       Pernambuco               140
+CD01O209E 004725 JÚLIO CESAR                             <-------> DEM       Piauí                    114
+CD01O209E 004725 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD01O209E 004725 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O209E 004725 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O209E 004725 NELSON PADOVANI                         <-------> PSC       Paraná                   457
+CD01O209E 004725 LEOPOLDO MEYER                          <-------> PSB       Paraná                   456
+CD01O209E 004725 REINHOLD STEPHANES                      <-------> PMDB      Paraná                   467
+CD01O209E 004725 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O209E 004725 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD01O209E 004725 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD01O209E 004725 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD01O209E 004725 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD01O209E 004725 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O209E 004725 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O209E 004725 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O209E 004725 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD01O209E 004725 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD01O209E 004725 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD01O209E 004725 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD01O209E 004725 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD01O209E 004725 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O209E 004725 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O209E 004725 FRANCISCO ARAÚJO                        <-------> PSL       Roraima                  570
+CD01O209E 004725 RAUL LIMA                               <-------> PP        Roraima                  7  
+CD01O209E 004725 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD01O209E 004725 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O209E 004725 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD01O209E 004725 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O209E 004725 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD01O209E 004725 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD01O209E 004725 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD01O209E 004725 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O209E 004725 CARMEN ZANOTTO                          <-------> PPS       Santa Catarina           561
+CD01O209E 004725 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O209E 004725 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD01O209E 004725 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O209E 004725 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD01O209E 004725 ONOFRE SANTO AGOSTINI                   <-------> DEM       Santa Catarina           479
+CD01O209E 004725 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD01O209E 004725 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O209E 004725 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O209E 004725 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD01O209E 004725 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O209E 004725 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O209E 004725 ALDO REBELO                             <-------> PCdoB     São Paulo                331
+CD01O209E 004725 ALEXANDRE LEITE                         <-------> DEM       São Paulo                334
+CD01O209E 004725 ARNALDO FARIA DE SÁ                     <-------> PTB       São Paulo                337
+CD01O209E 004725 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O209E 004725 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O209E 004725 JOÃO DADO                               <-------> PDT       São Paulo                362
+CD01O209E 004725 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD01O209E 004725 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O209E 004725 PENNA                                   <-------> PV        São Paulo                382
+CD01O209E 004725 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 

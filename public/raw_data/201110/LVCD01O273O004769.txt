@@ -1,0 +1,513 @@
+CD01O273O 004769 JHONATAN DE JESUS                       Não       PRB       Roraima                  5
+CD01O273O 004769 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD01O273O 004769 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD01O273O 004769 RAUL LIMA                               Não       PP        Roraima                  7  
+CD01O273O 004769 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD01O273O 004769 DAVI ALCOLUMBRE                         Sim       DEM       Amapá                    10 
+CD01O273O 004769 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD01O273O 004769 JANETE CAPIBERIBE                       Não       PSB       Amapá                    572
+CD01O273O 004769 SEBASTIÃO BALA ROCHA                    Não       PDT       Amapá                    17 
+CD01O273O 004769 VINICIUS GURGEL                         Não       PR        Amapá                    16 
+CD01O273O 004769 ASDRUBAL BENTES                         Não       PMDB      Pará                     20 
+CD01O273O 004769 BETO FARO                               Não       PT        Pará                     19 
+CD01O273O 004769 JOSÉ PRIANTE                            Não       PMDB      Pará                     26 
+CD01O273O 004769 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD01O273O 004769 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O273O 004769 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O273O 004769 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD01O273O 004769 ZEQUINHA MARINHO                        Sim       PSC       Pará                     33 
+CD01O273O 004769 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD01O273O 004769 HENRIQUE OLIVEIRA                       Não       PR        Amazonas                 36 
+CD01O273O 004769 PAUDERNEY AVELINO                       Sim       DEM       Amazonas                 40 
+CD01O273O 004769 REBECCA GARCIA                          Não       PP        Amazonas                 42 
+CD01O273O 004769 SILAS CÂMARA                            Sim       PSC       Amazonas                 39 
+CD01O273O 004769 LINDOMAR GARÇON                         Não       PV        Rondonia                 45 
+CD01O273O 004769 MAURO NAZIF                             Não       PSB       Rondonia                 46 
+CD01O273O 004769 PADRE TON                               Não       PT        Rondonia                 48 
+CD01O273O 004769 FLAVIANO MELO                           Não       PMDB      Acre                     54 
+CD01O273O 004769 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD01O273O 004769 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD01O273O 004769 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD01O273O 004769 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD01O273O 004769 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD01O273O 004769 CÉSAR HALUM                             Não       PPS       Tocantins                64 
+CD01O273O 004769 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD01O273O 004769 LAUREZ MOREIRA                          Não       PSB       Tocantins                62 
+CD01O273O 004769 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD01O273O 004769 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O273O 004769 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD01O273O 004769 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD01O273O 004769 EDIVALDO HOLANDA JUNIOR                 Não       PTC       Maranhão                 73 
+CD01O273O 004769 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O273O 004769 PEDRO NOVAIS                            Não       PMDB      Maranhão                 82 
+CD01O273O 004769 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD01O273O 004769 RIBAMAR ALVES                           Não       PSB       Maranhão                 74 
+CD01O273O 004769 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD01O273O 004769 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O273O 004769 ANTONIO BALHMANN                        Não       PSB       Ceará                    93 
+CD01O273O 004769 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD01O273O 004769 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD01O273O 004769 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD01O273O 004769 DOMINGOS NETO                           Não       PSB       Ceará                    97 
+CD01O273O 004769 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD01O273O 004769 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD01O273O 004769 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD01O273O 004769 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD01O273O 004769 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD01O273O 004769 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O273O 004769 JOSÉ LINHARES                           Não       PP        Ceará                    96 
+CD01O273O 004769 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD01O273O 004769 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD01O273O 004769 HUGO NAPOLEÃO                           Sim       DEM       Piauí                    112
+CD01O273O 004769 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O273O 004769 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD01O273O 004769 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD01O273O 004769 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD01O273O 004769 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD01O273O 004769 PAES LANDIM                             Não       PTB       Piauí                    118
+CD01O273O 004769 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD01O273O 004769 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD01O273O 004769 AGUINALDO RIBEIRO                       Não       PP        Paraíba                  129
+CD01O273O 004769 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD01O273O 004769 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD01O273O 004769 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD01O273O 004769 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD01O273O 004769 ROMERO RODRIGUES                        Sim       PSDB      Paraíba                  135
+CD01O273O 004769 ANA ARRAES                              Não       PSB       Pernambuco               140
+CD01O273O 004769 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD01O273O 004769 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD01O273O 004769 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD01O273O 004769 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD01O273O 004769 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD01O273O 004769 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD01O273O 004769 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD01O273O 004769 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD01O273O 004769 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD01O273O 004769 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD01O273O 004769 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD01O273O 004769 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD01O273O 004769 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD01O273O 004769 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD01O273O 004769 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD01O273O 004769 VILALBA                                 Não       PRB       Pernambuco               555
+CD01O273O 004769 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD01O273O 004769 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD01O273O 004769 CELIA ROCHA                             Não       PTB       Alagoas                  165
+CD01O273O 004769 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD01O273O 004769 RENAN FILHO                             Não       PMDB      Alagoas                  169
+CD01O273O 004769 ROSINHA DA ADEFAL                       Não       PTdoB     Alagoas                  170
+CD01O273O 004769 ALMEIDA LIMA                            Sim       PMDB      Sergipe                  173
+CD01O273O 004769 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD01O273O 004769 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD01O273O 004769 ACELINO POPÓ                            Não       PRB       Bahia                    522
+CD01O273O 004769 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O273O 004769 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD01O273O 004769 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD01O273O 004769 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O273O 004769 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD01O273O 004769 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD01O273O 004769 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD01O273O 004769 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD01O273O 004769 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O273O 004769 JOSÉ CARLOS ARAÚJO                      Não       PDT       Bahia                    197
+CD01O273O 004769 JOSÉ NUNES                              Não       DEM       Bahia                    201
+CD01O273O 004769 JOSEPH BANDEIRA                         Não       PT        Bahia                    565
+CD01O273O 004769 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O273O 004769 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD01O273O 004769 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD01O273O 004769 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD01O273O 004769 MAURÍCIO TRINDADE                       Não       PR        Bahia                    208
+CD01O273O 004769 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD01O273O 004769 PAULO MAGALHÃES                         Não       DEM       Bahia                    214
+CD01O273O 004769 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O273O 004769 RUI COSTA                               Não       PT        Bahia                    216
+CD01O273O 004769 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O273O 004769 SÉRGIO BRITO                            Sim       PSC       Bahia                    213
+CD01O273O 004769 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD01O273O 004769 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O273O 004769 AELTON FREITAS                          Não       PR        Minas Gerais             224
+CD01O273O 004769 ANTÔNIO ANDRADE                         Não       PMDB      Minas Gerais             227
+CD01O273O 004769 BERNARDO SANTANA DE VASCONCELLO         Não       PR        Minas Gerais             221
+CD01O273O 004769 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CD01O273O 004769 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD01O273O 004769 DIEGO ANDRADE                           Não       PR        Minas Gerais             228
+CD01O273O 004769 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O273O 004769 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD01O273O 004769 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD01O273O 004769 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD01O273O 004769 FÁBIO RAMALHO                           Não       PV        Minas Gerais             238
+CD01O273O 004769 GEORGE HILTON                           Não       PRB       Minas Gerais             241
+CD01O273O 004769 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CD01O273O 004769 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD01O273O 004769 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD01O273O 004769 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD01O273O 004769 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O273O 004769 LAEL VARELLA                            Não       DEM       Minas Gerais             245
+CD01O273O 004769 LEONARDO QUINTÃO                        Não       PMDB      Minas Gerais             255
+CD01O273O 004769 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD01O273O 004769 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD01O273O 004769 MÁRIO DE OLIVEIRA                       Sim       PSC       Minas Gerais             260
+CD01O273O 004769 MAURO LOPES                             Não       PMDB      Minas Gerais             252
+CD01O273O 004769 NEWTON CARDOSO                          Abstenção PMDB      Minas Gerais             258
+CD01O273O 004769 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O273O 004769 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD01O273O 004769 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD01O273O 004769 PAULO PIAU                              Não       PMDB      Minas Gerais             266
+CD01O273O 004769 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD01O273O 004769 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD01O273O 004769 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O273O 004769 VITOR PENIDO                            Não       DEM       Minas Gerais             532
+CD01O273O 004769 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD01O273O 004769 ZÉ SILVA                                Não       PDT       Minas Gerais             271
+CD01O273O 004769 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O273O 004769 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD01O273O 004769 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD01O273O 004769 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD01O273O 004769 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD01O273O 004769 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O273O 004769 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD01O273O 004769 ROSE DE FREITAS                         Art. 17   PMDB      Espírito Santo           282
+CD01O273O 004769 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD01O273O 004769 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD01O273O 004769 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CD01O273O 004769 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD01O273O 004769 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD01O273O 004769 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD01O273O 004769 BRIZOLA NETO                            Não       PDT       Rio de Janeiro           566
+CD01O273O 004769 CHICO ALENCAR                           Não       PSOL      Rio de Janeiro           295
+CD01O273O 004769 CHICO D`ANGELO                          Não       PT        Rio de Janeiro           527
+CD01O273O 004769 DELEY                                   Sim       PSC       Rio de Janeiro           562
+CD01O273O 004769 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD01O273O 004769 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD01O273O 004769 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O273O 004769 DR. PAULO CÉSAR                         Não       PR        Rio de Janeiro           296
+CD01O273O 004769 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD01O273O 004769 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD01O273O 004769 ELIANE ROLIM                            Não       PT        Rio de Janeiro           538
+CD01O273O 004769 FELIPE BORNIER                          Não       PHS       Rio de Janeiro           301
+CD01O273O 004769 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD01O273O 004769 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD01O273O 004769 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD01O273O 004769 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O273O 004769 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD01O273O 004769 JEAN WYLLYS                             Não       PSOL      Rio de Janeiro           307
+CD01O273O 004769 LILIAM SÁ                               Não       PR        Rio de Janeiro           309
+CD01O273O 004769 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD01O273O 004769 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD01O273O 004769 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O273O 004769 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CD01O273O 004769 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD01O273O 004769 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD01O273O 004769 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD01O273O 004769 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O273O 004769 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD01O273O 004769 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD01O273O 004769 ALDO REBELO                             Não       PCdoB     São Paulo                331
+CD01O273O 004769 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD01O273O 004769 ALINE CORRÊA                            Não       PP        São Paulo                330
+CD01O273O 004769 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD01O273O 004769 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD01O273O 004769 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD01O273O 004769 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD01O273O 004769 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CD01O273O 004769 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD01O273O 004769 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD01O273O 004769 CARLOS ROBERTO                          Sim       PSDB      São Paulo                569
+CD01O273O 004769 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD01O273O 004769 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD01O273O 004769 DIMAS RAMALHO                           Sim       PPS       São Paulo                346
+CD01O273O 004769 DR. UBIALI                              Não       PSB       São Paulo                541
+CD01O273O 004769 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O273O 004769 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD01O273O 004769 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD01O273O 004769 GUILHERME CAMPOS                        Sim       DEM       São Paulo                357
+CD01O273O 004769 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD01O273O 004769 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD01O273O 004769 JEFFERSON CAMPOS                        Sim       PSB       São Paulo                349
+CD01O273O 004769 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O273O 004769 JOÃO DADO                               Não       PDT       São Paulo                362
+CD01O273O 004769 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD01O273O 004769 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD01O273O 004769 JOSÉ DE FILIPPI                         Não       PT        São Paulo                354
+CD01O273O 004769 JUNJI ABE                               Não       DEM       São Paulo                355
+CD01O273O 004769 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O273O 004769 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD01O273O 004769 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O273O 004769 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD01O273O 004769 MARCELO AGUIAR                          Não       PSC       São Paulo                370
+CD01O273O 004769 MILTON MONTI                            Não       PR        São Paulo                374
+CD01O273O 004769 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD01O273O 004769 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD01O273O 004769 NEWTON LIMA                             Não       PT        São Paulo                377
+CD01O273O 004769 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD01O273O 004769 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD01O273O 004769 PENNA                                   Sim       PV        São Paulo                382
+CD01O273O 004769 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD01O273O 004769 RICARDO IZAR                            Sim       PV        São Paulo                383
+CD01O273O 004769 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O273O 004769 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CD01O273O 004769 ROBERTO SANTIAGO                        Não       PV        São Paulo                386
+CD01O273O 004769 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD01O273O 004769 TIRIRICA                                Não       PR        São Paulo                392
+CD01O273O 004769 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD01O273O 004769 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CD01O273O 004769 VICENTINHO                              Não       PT        São Paulo                396
+CD01O273O 004769 WALTER IHOSHI                           Sim       DEM       São Paulo                553
+CD01O273O 004769 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD01O273O 004769 HOMERO PEREIRA                          Não       PR        Mato Grosso              402
+CD01O273O 004769 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD01O273O 004769 NERI GELLER                             Não       PP        Mato Grosso              520
+CD01O273O 004769 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O273O 004769 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD01O273O 004769 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O273O 004769 LUIZ PITIMAN                            Não       PMDB      Distrito Federal         410
+CD01O273O 004769 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD01O273O 004769 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O273O 004769 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD01O273O 004769 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O273O 004769 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD01O273O 004769 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD01O273O 004769 MAGDA MOFATTO                           Não       PTB       Goiás                    575
+CD01O273O 004769 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD01O273O 004769 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD01O273O 004769 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD01O273O 004769 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD01O273O 004769 SANDES JÚNIOR                           Não       PP        Goiás                    426
+CD01O273O 004769 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD01O273O 004769 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD01O273O 004769 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD01O273O 004769 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O273O 004769 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD01O273O 004769 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD01O273O 004769 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD01O273O 004769 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD01O273O 004769 ANGELO VANHONI                          Não       PT        Paraná                   453
+CD01O273O 004769 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD01O273O 004769 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD01O273O 004769 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O273O 004769 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD01O273O 004769 FERNANDO FRANCISCHINI                   Sim       PSDB      Paraná                   450
+CD01O273O 004769 GIACOBO                                 Não       PR        Paraná                   466
+CD01O273O 004769 HERMES PARCIANELLO                      Não       PMDB      Paraná                   448
+CD01O273O 004769 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O273O 004769 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O273O 004769 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD01O273O 004769 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD01O273O 004769 NELSON MEURER                           Não       PP        Paraná                   458
+CD01O273O 004769 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD01O273O 004769 RATINHO JUNIOR                          Não       PSC       Paraná                   464
+CD01O273O 004769 REINHOLD STEPHANES                      Não       PMDB      Paraná                   467
+CD01O273O 004769 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD01O273O 004769 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O273O 004769 TAKAYAMA                                Não       PSC       Paraná                   469
+CD01O273O 004769 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD01O273O 004769 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD01O273O 004769 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD01O273O 004769 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD01O273O 004769 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD01O273O 004769 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O273O 004769 GEAN LOUREIRO                           Não       PMDB      Santa Catarina           568
+CD01O273O 004769 JOÃO PIZZOLATTI                         Não       PP        Santa Catarina           574
+CD01O273O 004769 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD01O273O 004769 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD01O273O 004769 ONOFRE SANTO AGOSTINI                   Sim       DEM       Santa Catarina           479
+CD01O273O 004769 PEDRO UCZAI                             Não       PT        Santa Catarina           481
+CD01O273O 004769 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD01O273O 004769 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD01O273O 004769 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD01O273O 004769 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD01O273O 004769 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD01O273O 004769 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD01O273O 004769 DARCÍSIO PERONDI                        Não       PMDB      Rio Grande do Sul        491
+CD01O273O 004769 ELISEU PADILHA                          Não       PMDB      Rio Grande do Sul        578
+CD01O273O 004769 ENIO BACCI                              Não       PDT       Rio Grande do Sul        493
+CD01O273O 004769 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD01O273O 004769 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD01O273O 004769 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD01O273O 004769 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD01O273O 004769 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD01O273O 004769 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O273O 004769 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD01O273O 004769 PEPE VARGAS                             Não       PT        Rio Grande do Sul        503
+CD01O273O 004769 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD01O273O 004769 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O273O 004769 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD01O273O 004769 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD01O273O 004769 TAUMATURGO LIMA                         <-------> PT        Acre                     59 
+CD01O273O 004769 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O273O 004769 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O273O 004769 RUI PALMEIRA                            <-------> PSDB      Alagoas                  171
+CD01O273O 004769 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O273O 004769 JOÃO LYRA                               <-------> PTB       Alagoas                  167
+CD01O273O 004769 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O273O 004769 ÁTILA LINS                              <-------> PMDB      Amazonas                 38 
+CD01O273O 004769 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O273O 004769 CARLOS SOUZA                            <-------> PP        Amazonas                 37 
+CD01O273O 004769 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O273O 004769 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O273O 004769 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD01O273O 004769 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O273O 004769 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD01O273O 004769 EDSON PIMENTA                           <-------> PCdoB     Bahia                    193
+CD01O273O 004769 FERNANDO TORRES                         <-------> DEM       Bahia                    196
+CD01O273O 004769 MARCOS MEDRADO                          <-------> PDT       Bahia                    200
+CD01O273O 004769 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD01O273O 004769 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD01O273O 004769 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD01O273O 004769 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O273O 004769 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD01O273O 004769 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD01O273O 004769 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD01O273O 004769 RAIMUNDÃO                               <-------> PMDB      Ceará                    108
+CD01O273O 004769 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD01O273O 004769 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD01O273O 004769 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD01O273O 004769 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O273O 004769 MANOEL SALVIANO                         <-------> PSDB      Ceará                    104
+CD01O273O 004769 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD01O273O 004769 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD01O273O 004769 POLICARPO                               <-------> PT        Distrito Federal         539
+CD01O273O 004769 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD01O273O 004769 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O273O 004769 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O273O 004769 ARMANDO VERGÍLIO                        <-------> PMN       Goiás                    416
+CD01O273O 004769 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O273O 004769 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O273O 004769 HEULER CRUVINEL                         <-------> DEM       Goiás                    423
+CD01O273O 004769 HÉLIO SANTOS                            <-------> PSDB      Maranhão                 76 
+CD01O273O 004769 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O273O 004769 WEVERTON ROCHA                          <-------> PDT       Maranhão                 579
+CD01O273O 004769 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O273O 004769 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O273O 004769 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O273O 004769 COSTA FERREIRA                          <-------> PSC       Maranhão                 571
+CD01O273O 004769 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O273O 004769 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O273O 004769 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD01O273O 004769 MÁRCIO REINALDO MOREIRA                 <-------> PP        Minas Gerais             247
+CD01O273O 004769 ADEMIR CAMILO                           <-------> PDT       Minas Gerais             220
+CD01O273O 004769 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD01O273O 004769 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD01O273O 004769 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD01O273O 004769 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD01O273O 004769 GERALDO THADEU                          <-------> PPS       Minas Gerais             236
+CD01O273O 004769 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O273O 004769 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O273O 004769 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD01O273O 004769 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O273O 004769 MARCOS MONTES                           <-------> DEM       Minas Gerais             257
+CD01O273O 004769 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O273O 004769 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD01O273O 004769 WALTER TOSTA                            <-------> PMN       Minas Gerais             267
+CD01O273O 004769 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O273O 004769 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD01O273O 004769 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O273O 004769 ANTÔNIO CARLOS BIFFI                    <-------> PT        Mato Grosso do Sul       432
+CD01O273O 004769 GERALDO RESENDE                         <-------> PMDB      Mato Grosso do Sul       435
+CD01O273O 004769 GIROTO                                  <-------> PR        Mato Grosso do Sul       434
+CD01O273O 004769 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O273O 004769 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD01O273O 004769 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD01O273O 004769 ROBERTO DORNER                          <-------> PP        Mato Grosso              519
+CD01O273O 004769 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O273O 004769 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD01O273O 004769 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O273O 004769 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD01O273O 004769 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O273O 004769 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CD01O273O 004769 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O273O 004769 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O273O 004769 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O273O 004769 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD01O273O 004769 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD01O273O 004769 LUIZ COUTO                              <-------> PT        Paraíba                  133
+CD01O273O 004769 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O273O 004769 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD01O273O 004769 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD01O273O 004769 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD01O273O 004769 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O273O 004769 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD01O273O 004769 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD01O273O 004769 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O273O 004769 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O273O 004769 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O273O 004769 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O273O 004769 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O273O 004769 ASSIS CARVALHO                          <-------> PT        Piauí                    111
+CD01O273O 004769 MARCELO CASTRO                          <-------> PMDB      Piauí                    110
+CD01O273O 004769 JÚLIO CESAR                             <-------> DEM       Piauí                    114
+CD01O273O 004769 EDUARDO SCIARRA                         <-------> DEM       Paraná                   461
+CD01O273O 004769 MOACIR MICHELETTO                       <-------> PMDB      Paraná                   462
+CD01O273O 004769 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD01O273O 004769 ROSANE FERREIRA                         <-------> PV        Paraná                   459
+CD01O273O 004769 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O273O 004769 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD01O273O 004769 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O273O 004769 SOLANGE ALMEIDA                         <-------> PMDB      Rio de Janeiro           563
+CD01O273O 004769 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD01O273O 004769 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD01O273O 004769 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD01O273O 004769 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD01O273O 004769 EDUARDO CUNHA                           <-------> PMDB      Rio de Janeiro           300
+CD01O273O 004769 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD01O273O 004769 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD01O273O 004769 AROLDE DE OLIVEIRA                      <-------> DEM       Rio de Janeiro           288
+CD01O273O 004769 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O273O 004769 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD01O273O 004769 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD01O273O 004769 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O273O 004769 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD01O273O 004769 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD01O273O 004769 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O273O 004769 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O273O 004769 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O273O 004769 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O273O 004769 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD01O273O 004769 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD01O273O 004769 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD01O273O 004769 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD01O273O 004769 FRANCISCO ARAÚJO                        <-------> PSL       Roraima                  570
+CD01O273O 004769 BERINHO BANTIM                          <-------> PSDB      Roraima                  1  
+CD01O273O 004769 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD01O273O 004769 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD01O273O 004769 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD01O273O 004769 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O273O 004769 RONALDO ZULKE                           <-------> PT        Rio Grande do Sul        515
+CD01O273O 004769 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD01O273O 004769 DANRLEI DE DEUS HINTERHOLZ              <-------> PTB       Rio Grande do Sul        495
+CD01O273O 004769 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD01O273O 004769 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O273O 004769 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD01O273O 004769 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD01O273O 004769 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD01O273O 004769 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O273O 004769 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O273O 004769 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O273O 004769 JORGE BOEIRA                            <-------> PT        Santa Catarina           474
+CD01O273O 004769 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O273O 004769 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD01O273O 004769 HELENO SILVA                            <-------> PRB       Sergipe                  175
+CD01O273O 004769 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O273O 004769 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD01O273O 004769 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CD01O273O 004769 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD01O273O 004769 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD01O273O 004769 DRA.ELAINE ABISSAMRA                    <-------> PSB       São Paulo                576
+CD01O273O 004769 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O273O 004769 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O273O 004769 GUILHERME MUSSI                         <-------> PV        São Paulo                348
+CD01O273O 004769 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O273O 004769 ELEUSES PAIVA                           <-------> DEM       São Paulo                537
+CD01O273O 004769 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD01O273O 004769 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O273O 004769 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O273O 004769 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O273O 004769 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD01O273O 004769 OTONIEL LIMA                            <-------> PRB       São Paulo                378
+CD01O273O 004769 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O273O 004769 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD01O273O 004769 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O273O 004769 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O273O 004769 LÁZARO BOTELHO                          <-------> PP        Tocantins                63 
+CD01O273O 004769 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O273O 004769 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 

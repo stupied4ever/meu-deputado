@@ -1,0 +1,513 @@
+CD03O038O 005234 EDIO LOPES                              Não       PMDB      Roraima                  2
+CD03O038O 005234 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD03O038O 005234 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD03O038O 005234 MARCIO JUNQUEIRA                        Sim       DEM       Roraima                  625
+CD03O038O 005234 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD03O038O 005234 RAUL LIMA                               Sim       PSD       Roraima                  7  
+CD03O038O 005234 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD03O038O 005234 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD03O038O 005234 FÁTIMA PELAES                           Não       PMDB      Amapá                    12 
+CD03O038O 005234 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD03O038O 005234 ARNALDO JORDY                           Sim       PPS       Pará                     18 
+CD03O038O 005234 BETO FARO                               Não       PT        Pará                     19 
+CD03O038O 005234 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD03O038O 005234 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD03O038O 005234 GIOVANNI QUEIROZ                        Não       PDT       Pará                     27 
+CD03O038O 005234 JOSÉ PRIANTE                            Não       PMDB      Pará                     26 
+CD03O038O 005234 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD03O038O 005234 LÚCIO VALE                              Não       PR        Pará                     29 
+CD03O038O 005234 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD03O038O 005234 NILSON PINTO                            Sim       PSDB      Pará                     31 
+CD03O038O 005234 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD03O038O 005234 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD03O038O 005234 ÁTILA LINS                              Sim       PSD       Amazonas                 38 
+CD03O038O 005234 CARLOS SOUZA                            Sim       PSD       Amazonas                 37 
+CD03O038O 005234 DR. LUIZ FERNANDO                       Sim       PSD       Amazonas                 605
+CD03O038O 005234 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD03O038O 005234 PLÍNIO VALÉRIO                          Sim       PSDB      Amazonas                 633
+CD03O038O 005234 SILAS CÂMARA                            Sim       PSD       Amazonas                 39 
+CD03O038O 005234 ANSELMO DE JESUS                        Não       PT        Rondonia                 615
+CD03O038O 005234 CARLOS MAGNO                            Não       PP        Rondonia                 44 
+CD03O038O 005234 MARCOS ROGÉRIO                          Não       PDT       Rondonia                 583
+CD03O038O 005234 MOREIRA MENDES                          Sim       PSD       Rondonia                 49 
+CD03O038O 005234 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD03O038O 005234 PADRE TON                               Não       PT        Rondonia                 48 
+CD03O038O 005234 FLAVIANO MELO                           Não       PMDB      Acre                     54 
+CD03O038O 005234 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD03O038O 005234 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD03O038O 005234 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD03O038O 005234 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD03O038O 005234 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD03O038O 005234 NILMAR RUIZ                             Sim       PEN       Tocantins                634
+CD03O038O 005234 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD03O038O 005234 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD03O038O 005234 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD03O038O 005234 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD03O038O 005234 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD03O038O 005234 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CD03O038O 005234 FRANCISCO ESCÓRCIO                      Não       PMDB      Maranhão                 567
+CD03O038O 005234 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CD03O038O 005234 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD03O038O 005234 NICE LOBÃO                              Sim       PSD       Maranhão                 78 
+CD03O038O 005234 PEDRO NOVAIS                            Não       PMDB      Maranhão                 82 
+CD03O038O 005234 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD03O038O 005234 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD03O038O 005234 WEVERTON ROCHA                          Não       PDT       Maranhão                 579
+CD03O038O 005234 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD03O038O 005234 ANÍBAL GOMES                            Não       PMDB      Ceará                    87 
+CD03O038O 005234 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CD03O038O 005234 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD03O038O 005234 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD03O038O 005234 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD03O038O 005234 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD03O038O 005234 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CD03O038O 005234 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD03O038O 005234 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD03O038O 005234 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD03O038O 005234 MANOEL SALVIANO                         Sim       PSD       Ceará                    104
+CD03O038O 005234 MAURO BENEVIDES                         Não       PMDB      Ceará                    105
+CD03O038O 005234 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD03O038O 005234 VICENTE ARRUDA                          Abstenção PR        Ceará                    107
+CD03O038O 005234 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CD03O038O 005234 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD03O038O 005234 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD03O038O 005234 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD03O038O 005234 PAES LANDIM                             Não       PTB       Piauí                    118
+CD03O038O 005234 FÁBIO FARIA                             Sim       PSD       Rio Grande do Norte      119
+CD03O038O 005234 FÁTIMA BEZERRA                          Não       PT        Rio Grande do Norte      121
+CD03O038O 005234 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD03O038O 005234 HENRIQUE EDUARDO ALVES                  Art. 17   PMDB      Rio Grande do Norte      123
+CD03O038O 005234 JOÃO MAIA                               Sim       PR        Rio Grande do Norte      124
+CD03O038O 005234 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD03O038O 005234 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD03O038O 005234 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD03O038O 005234 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD03O038O 005234 LEONARDO GADELHA                        Sim       PSC       Paraíba                  586
+CD03O038O 005234 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD03O038O 005234 MAJOR FÁBIO                             Sim       DEM       Paraíba                  599
+CD03O038O 005234 MANOEL JUNIOR                           Não       PMDB      Paraíba                  130
+CD03O038O 005234 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD03O038O 005234 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD03O038O 005234 WELLINGTON ROBERTO                      Sim       PR        Paraíba                  136
+CD03O038O 005234 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD03O038O 005234 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD03O038O 005234 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CD03O038O 005234 CARLOS EDUARDO CADOCA                   Não       PSC       Pernambuco               152
+CD03O038O 005234 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD03O038O 005234 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD03O038O 005234 GONZAGA PATRIOTA                        Sim       PSB       Pernambuco               143
+CD03O038O 005234 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD03O038O 005234 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD03O038O 005234 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD03O038O 005234 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD03O038O 005234 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD03O038O 005234 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD03O038O 005234 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD03O038O 005234 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD03O038O 005234 SERGIO GUERRA                           Sim       PSDB      Pernambuco               159
+CD03O038O 005234 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CD03O038O 005234 VILALBA                                 Não       PRB       Pernambuco               555
+CD03O038O 005234 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD03O038O 005234 ALEXANDRE TOLEDO                        Sim       PSDB      Alagoas                  596
+CD03O038O 005234 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD03O038O 005234 GIVALDO CARIMBÃO                        Sim       PSB       Alagoas                  166
+CD03O038O 005234 JOÃO LYRA                               Sim       PSD       Alagoas                  167
+CD03O038O 005234 PAULÃO                                  Não       PT        Alagoas                  608
+CD03O038O 005234 ALMEIDA LIMA                            Sim       PPS       Sergipe                  173
+CD03O038O 005234 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD03O038O 005234 FABIO REIS                              Não       PMDB      Sergipe                  619
+CD03O038O 005234 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD03O038O 005234 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD03O038O 005234 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD03O038O 005234 ROGÉRIO CARVALHO                        Não       PT        Sergipe                  178
+CD03O038O 005234 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD03O038O 005234 ACELINO POPÓ                            Não       PRB       Bahia                    522
+CD03O038O 005234 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD03O038O 005234 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD03O038O 005234 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD03O038O 005234 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD03O038O 005234 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD03O038O 005234 COLBERT MARTINS                         Não       PMDB      Bahia                    622
+CD03O038O 005234 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD03O038O 005234 EDSON PIMENTA                           Sim       PSD       Bahia                    193
+CD03O038O 005234 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD03O038O 005234 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD03O038O 005234 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD03O038O 005234 FERNANDO TORRES                         Sim       PSD       Bahia                    196
+CD03O038O 005234 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD03O038O 005234 JÂNIO NATAL                             Sim       PRP       Bahia                    198
+CD03O038O 005234 JOÃO LEÃO                               Não       PP        Bahia                    199
+CD03O038O 005234 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CD03O038O 005234 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD03O038O 005234 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD03O038O 005234 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD03O038O 005234 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD03O038O 005234 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD03O038O 005234 LUIZ DE DEUS                            Sim       DEM       Bahia                    609
+CD03O038O 005234 MARCELO GUIMARÃES FILHO                 Não       PMDB      Bahia                    627
+CD03O038O 005234 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD03O038O 005234 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD03O038O 005234 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD03O038O 005234 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CD03O038O 005234 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD03O038O 005234 SÉRGIO BRITO                            Sim       PSD       Bahia                    213
+CD03O038O 005234 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD03O038O 005234 ZEZÉU RIBEIRO                           Não       PT        Bahia                    217
+CD03O038O 005234 ADEMIR CAMILO                           Sim       PSD       Minas Gerais             220
+CD03O038O 005234 AELTON FREITAS                          Não       PR        Minas Gerais             224
+CD03O038O 005234 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD03O038O 005234 DIEGO ANDRADE                           Sim       PSD       Minas Gerais             228
+CD03O038O 005234 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD03O038O 005234 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD03O038O 005234 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD03O038O 005234 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD03O038O 005234 FÁBIO RAMALHO                           Não       PV        Minas Gerais             238
+CD03O038O 005234 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD03O038O 005234 GEORGE HILTON                           Não       PRB       Minas Gerais             241
+CD03O038O 005234 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CD03O038O 005234 HUMBERTO SOUTO                          Sim       PPS       Minas Gerais             606
+CD03O038O 005234 ISAIAS SILVESTRE                        Sim       PSB       Minas Gerais             604
+CD03O038O 005234 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD03O038O 005234 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD03O038O 005234 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD03O038O 005234 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD03O038O 005234 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD03O038O 005234 LUIZ FERNANDO FARIA                     Não       PP        Minas Gerais             256
+CD03O038O 005234 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD03O038O 005234 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD03O038O 005234 MARGARIDA SALOMÃO                       Não       PT        Minas Gerais             610
+CD03O038O 005234 MÁRIO HERINGER                          Sim       PDT       Minas Gerais             629
+CD03O038O 005234 NEWTON CARDOSO                          Não       PMDB      Minas Gerais             258
+CD03O038O 005234 NILMÁRIO MIRANDA                        Não       PT        Minas Gerais             611
+CD03O038O 005234 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD03O038O 005234 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD03O038O 005234 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD03O038O 005234 RENATO ANDRADE                          Sim       PP        Minas Gerais             612
+CD03O038O 005234 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD03O038O 005234 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD03O038O 005234 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD03O038O 005234 SILAS BRASILEIRO                        Não       PMDB      Minas Gerais             636
+CD03O038O 005234 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD03O038O 005234 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD03O038O 005234 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD03O038O 005234 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD03O038O 005234 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD03O038O 005234 IRINY LOPES                             Não       PT        Espírito Santo           273
+CD03O038O 005234 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD03O038O 005234 MANATO                                  Não       PDT       Espírito Santo           275
+CD03O038O 005234 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD03O038O 005234 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD03O038O 005234 ADRIAN                                  Não       PMDB      Rio de Janeiro           286
+CD03O038O 005234 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD03O038O 005234 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CD03O038O 005234 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD03O038O 005234 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD03O038O 005234 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD03O038O 005234 AROLDE DE OLIVEIRA                      Sim       PSD       Rio de Janeiro           288
+CD03O038O 005234 AUREO                                   Sim       PRTB      Rio de Janeiro           290
+CD03O038O 005234 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD03O038O 005234 CELSO JACOB                             Não       PMDB      Rio de Janeiro           632
+CD03O038O 005234 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD03O038O 005234 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD03O038O 005234 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD03O038O 005234 DR. PAULO CÉSAR                         Sim       PSD       Rio de Janeiro           296
+CD03O038O 005234 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD03O038O 005234 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD03O038O 005234 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD03O038O 005234 FELIPE BORNIER                          Sim       PSD       Rio de Janeiro           301
+CD03O038O 005234 FERNANDO LOPES                          Não       PMDB      Rio de Janeiro           623
+CD03O038O 005234 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD03O038O 005234 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD03O038O 005234 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD03O038O 005234 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD03O038O 005234 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD03O038O 005234 JORGE BITTAR                            Não       PT        Rio de Janeiro           310
+CD03O038O 005234 LEONARDO PICCIANI                       Não       PMDB      Rio de Janeiro           312
+CD03O038O 005234 LUIZ SÉRGIO                             Não       PT        Rio de Janeiro           313
+CD03O038O 005234 MANUEL ROSA NECA                        Sim       PR        Rio de Janeiro           614
+CD03O038O 005234 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD03O038O 005234 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD03O038O 005234 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD03O038O 005234 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CD03O038O 005234 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD03O038O 005234 SERGIO ZVEITER                          Sim       PSD       Rio de Janeiro           320
+CD03O038O 005234 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD03O038O 005234 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD03O038O 005234 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD03O038O 005234 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD03O038O 005234 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD03O038O 005234 ALINE CORRÊA                            Não       PP        São Paulo                330
+CD03O038O 005234 ANTONIO CARLOS MENDES THAME             Obstrução PSDB      São Paulo                332
+CD03O038O 005234 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD03O038O 005234 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD03O038O 005234 BETO MANSUR                             Não       PP        São Paulo                340
+CD03O038O 005234 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD03O038O 005234 CARLOS ROBERTO                          Sim       PSDB      São Paulo                569
+CD03O038O 005234 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD03O038O 005234 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD03O038O 005234 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD03O038O 005234 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD03O038O 005234 ELEUSES PAIVA                           Sim       PSD       São Paulo                537
+CD03O038O 005234 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD03O038O 005234 EMANUEL FERNANDES                       Sim       PSDB      São Paulo                352
+CD03O038O 005234 FRANCISCO CHAGAS                        Não       PT        São Paulo                626
+CD03O038O 005234 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD03O038O 005234 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD03O038O 005234 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD03O038O 005234 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD03O038O 005234 JOÃO DADO                               Não       PDT       São Paulo                362
+CD03O038O 005234 JOÃO PAULO CUNHA                        Não       PT        São Paulo                361
+CD03O038O 005234 JOSÉ GENOÍNO                            Não       PT        São Paulo                617
+CD03O038O 005234 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD03O038O 005234 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD03O038O 005234 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD03O038O 005234 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD03O038O 005234 MARCELO AGUIAR                          Sim       PSD       São Paulo                370
+CD03O038O 005234 MÁRCIO FRANÇA                           Sim       PSB       São Paulo                368
+CD03O038O 005234 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD03O038O 005234 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD03O038O 005234 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD03O038O 005234 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD03O038O 005234 PENNA                                   Sim       PV        São Paulo                382
+CD03O038O 005234 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD03O038O 005234 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CD03O038O 005234 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD03O038O 005234 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CD03O038O 005234 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CD03O038O 005234 TIRIRICA                                Não       PR        São Paulo                392
+CD03O038O 005234 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD03O038O 005234 VANDERLEI SIRAQUE                       Não       PT        São Paulo                581
+CD03O038O 005234 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD03O038O 005234 VICENTINHO                              Não       PT        São Paulo                396
+CD03O038O 005234 WALTER FELDMAN                          Sim       PSDB      São Paulo                550
+CD03O038O 005234 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD03O038O 005234 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD03O038O 005234 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD03O038O 005234 NILSON LEITÃO                           Sim       PSDB      Mato Grosso              573
+CD03O038O 005234 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD03O038O 005234 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD03O038O 005234 IZALCI                                  Sim       PSDB      Distrito Federal         408
+CD03O038O 005234 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD03O038O 005234 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD03O038O 005234 POLICARPO                               Sim       PT        Distrito Federal         539
+CD03O038O 005234 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD03O038O 005234 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD03O038O 005234 ARMANDO VERGÍLIO                        Sim       PSD       Goiás                    416
+CD03O038O 005234 CARLOS ALBERTO LERÉIA                   Sim       PSDB      Goiás                    415
+CD03O038O 005234 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD03O038O 005234 HEULER CRUVINEL                         Sim       PSD       Goiás                    423
+CD03O038O 005234 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD03O038O 005234 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD03O038O 005234 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CD03O038O 005234 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD03O038O 005234 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD03O038O 005234 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD03O038O 005234 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD03O038O 005234 BIFFI                                   Não       PT        Mato Grosso do Sul       432
+CD03O038O 005234 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD03O038O 005234 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD03O038O 005234 GIROTO                                  Não       PMDB      Mato Grosso do Sul       434
+CD03O038O 005234 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD03O038O 005234 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD03O038O 005234 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD03O038O 005234 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD03O038O 005234 ALEX CANZIANI                           Não       PTB       Paraná                   445
+CD03O038O 005234 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD03O038O 005234 ANDRÉ VARGAS                            Art. 17   PT        Paraná                   452
+CD03O038O 005234 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD03O038O 005234 ANGELO VANHONI                          Não       PT        Paraná                   453
+CD03O038O 005234 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD03O038O 005234 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD03O038O 005234 DR. ROSINHA                             Não       PT        Paraná                   449
+CD03O038O 005234 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD03O038O 005234 FERNANDO FRANCISCHINI                   Sim       PEN       Paraná                   450
+CD03O038O 005234 HERMES PARCIANELLO                      Não       PMDB      Paraná                   448
+CD03O038O 005234 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD03O038O 005234 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD03O038O 005234 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD03O038O 005234 MARCELO ALMEIDA                         Não       PMDB      Paraná                   631
+CD03O038O 005234 NELSON MEURER                           Não       PP        Paraná                   458
+CD03O038O 005234 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD03O038O 005234 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD03O038O 005234 PROFESSOR SÉRGIO DE OLIVEIRA            Sim       PSC       Paraná                   603
+CD03O038O 005234 RICARDO ARRUDA                          Sim       PSC       Paraná                   635
+CD03O038O 005234 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD03O038O 005234 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD03O038O 005234 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD03O038O 005234 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD03O038O 005234 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD03O038O 005234 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD03O038O 005234 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD03O038O 005234 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD03O038O 005234 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD03O038O 005234 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD03O038O 005234 JOÃO PIZZOLATTI                         Não       PP        Santa Catarina           574
+CD03O038O 005234 JORGE BOEIRA                            Não       PSD       Santa Catarina           474
+CD03O038O 005234 MARCO TEBALDI                           Sim       PSDB      Santa Catarina           478
+CD03O038O 005234 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD03O038O 005234 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD03O038O 005234 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD03O038O 005234 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD03O038O 005234 VALDIR COLATTO                          Não       PMDB      Santa Catarina           560
+CD03O038O 005234 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD03O038O 005234 ALEXANDRE ROSO                          Sim       PSB       Rio Grande do Sul        489
+CD03O038O 005234 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD03O038O 005234 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD03O038O 005234 DANRLEI DE DEUS HINTERHOLZ              Sim       PSD       Rio Grande do Sul        495
+CD03O038O 005234 DARCÍSIO PERONDI                        Não       PMDB      Rio Grande do Sul        491
+CD03O038O 005234 ELISEU PADILHA                          Não       PMDB      Rio Grande do Sul        578
+CD03O038O 005234 ENIO BACCI                              Não       PDT       Rio Grande do Sul        493
+CD03O038O 005234 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD03O038O 005234 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD03O038O 005234 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD03O038O 005234 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD03O038O 005234 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD03O038O 005234 MANUELA D`ÁVILA                         Sim       PCdoB     Rio Grande do Sul        494
+CD03O038O 005234 MARCO MAIA                              Não       PT        Rio Grande do Sul        496
+CD03O038O 005234 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD03O038O 005234 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CD03O038O 005234 PAULO FERREIRA                          Não       PT        Rio Grande do Sul        591
+CD03O038O 005234 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD03O038O 005234 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD03O038O 005234 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD03O038O 005234 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD03O038O 005234 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD03O038O 005234 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD03O038O 005234 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD03O038O 005234 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD03O038O 005234 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD03O038O 005234 FRANCISCO TENÓRIO                       <-------> PMN       Alagoas                  607
+CD03O038O 005234 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD03O038O 005234 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD03O038O 005234 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD03O038O 005234 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD03O038O 005234 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD03O038O 005234 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD03O038O 005234 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD03O038O 005234 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD03O038O 005234 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD03O038O 005234 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD03O038O 005234 WALDENOR PEREIRA                        <-------> PT        Bahia                    219
+CD03O038O 005234 MÁRIO NEGROMONTE                        <-------> PP        Bahia                    210
+CD03O038O 005234 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD03O038O 005234 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD03O038O 005234 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD03O038O 005234 AFONSO FLORENCE                         <-------> PT        Bahia                    182
+CD03O038O 005234 MÁRIO FEITOZA                           <-------> PMDB      Ceará                    590
+CD03O038O 005234 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD03O038O 005234 GERA ARRUDA                             <-------> PMDB      Ceará                    592
+CD03O038O 005234 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD03O038O 005234 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD03O038O 005234 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD03O038O 005234 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD03O038O 005234 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD03O038O 005234 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD03O038O 005234 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD03O038O 005234 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD03O038O 005234 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD03O038O 005234 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD03O038O 005234 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD03O038O 005234 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD03O038O 005234 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD03O038O 005234 PROFESSOR SETIMO                        <-------> PMDB      Maranhão                 81 
+CD03O038O 005234 SIMPLÍCIO ARAÚJO                        <-------> PPS       Maranhão                 585
+CD03O038O 005234 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD03O038O 005234 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD03O038O 005234 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD03O038O 005234 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD03O038O 005234 JOSÉ HUMBERTO                           <-------> PHS       Minas Gerais             249
+CD03O038O 005234 STEFANO AGUIAR                          <-------> PSC       Minas Gerais             558
+CD03O038O 005234 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD03O038O 005234 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD03O038O 005234 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD03O038O 005234 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD03O038O 005234 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD03O038O 005234 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD03O038O 005234 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD03O038O 005234 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD03O038O 005234 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD03O038O 005234 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD03O038O 005234 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD03O038O 005234 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD03O038O 005234 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD03O038O 005234 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD03O038O 005234 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD03O038O 005234 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD03O038O 005234 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD03O038O 005234 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD03O038O 005234 ELIENE LIMA                             <-------> PSD       Mato Grosso              401
+CD03O038O 005234 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD03O038O 005234 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD03O038O 005234 ASDRUBAL BENTES                         <-------> PMDB      Pará                     20 
+CD03O038O 005234 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD03O038O 005234 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD03O038O 005234 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD03O038O 005234 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD03O038O 005234 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD03O038O 005234 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD03O038O 005234 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD03O038O 005234 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD03O038O 005234 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD03O038O 005234 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD03O038O 005234 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD03O038O 005234 ASSIS CARVALHO                          <-------> PT        Piauí                    111
+CD03O038O 005234 MARCELO CASTRO                          <-------> PMDB      Piauí                    110
+CD03O038O 005234 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD03O038O 005234 NAZARENO FONTELES                       <-------> PT        Piauí                    530
+CD03O038O 005234 GIACOBO                                 <-------> PR        Paraná                   466
+CD03O038O 005234 OLIVEIRA FILHO                          <-------> PRB       Paraná                   621
+CD03O038O 005234 ODÍLIO BALBINOTTI                       <-------> PMDB      Paraná                   588
+CD03O038O 005234 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD03O038O 005234 EURICO JÚNIOR                           <-------> PV        Rio de Janeiro           613
+CD03O038O 005234 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD03O038O 005234 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CD03O038O 005234 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD03O038O 005234 LILIAM SÁ                               <-------> PSD       Rio de Janeiro           309
+CD03O038O 005234 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD03O038O 005234 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD03O038O 005234 ZOINHO                                  <-------> PR        Rio de Janeiro           328
+CD03O038O 005234 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD03O038O 005234 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD03O038O 005234 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD03O038O 005234 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD03O038O 005234 CHICO DAS VERDURAS                      <-------> PRP       Roraima                  3  
+CD03O038O 005234 URZENI ROCHA                            <-------> PSDB      Roraima                  616
+CD03O038O 005234 BETO ALBUQUERQUE                        <-------> PSB       Rio Grande do Sul        490
+CD03O038O 005234 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD03O038O 005234 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD03O038O 005234 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD03O038O 005234 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD03O038O 005234 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD03O038O 005234 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD03O038O 005234 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD03O038O 005234 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD03O038O 005234 JORGINHO MELLO                          <-------> PR        Santa Catarina           476
+CD03O038O 005234 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD03O038O 005234 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD03O038O 005234 WALTER IHOSHI                           <-------> PSD       São Paulo                553
+CD03O038O 005234 ROBERTO DE LUCENA                       <-------> PV        São Paulo                385
+CD03O038O 005234 JEFFERSON CAMPOS                        <-------> PSD       São Paulo                349
+CD03O038O 005234 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD03O038O 005234 IARA BERNARDI                           <-------> PT        São Paulo                618
+CD03O038O 005234 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD03O038O 005234 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD03O038O 005234 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD03O038O 005234 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD03O038O 005234 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD03O038O 005234 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD03O038O 005234 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD03O038O 005234 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD03O038O 005234 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD03O038O 005234 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD03O038O 005234 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD03O038O 005234 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD03O038O 005234 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD03O038O 005234 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD03O038O 005234 PAULO MALUF                             <-------> PP        São Paulo                373
+CD03O038O 005234 MILTON MONTI                            <-------> PR        São Paulo                374
+CD03O038O 005234 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD03O038O 005234 CÉSAR HALUM                             <-------> PSD       Tocantins                64 
+CD03O038O 005234 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CD03O038O 005234 OSVALDO REIS                            <-------> PMDB      Tocantins                620
+CD03O038O 005234 LEOMAR QUINTANILHA                      <-------> PMDB      Tocantins                628
+CD03O038O 005234 JÚNIOR COIMBRA                          <-------> PMDB      Tocantins                66 

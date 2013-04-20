@@ -1,0 +1,513 @@
+CC02O026E 005169 BERINHO BANTIM                          Sim       PEN       Roraima                  1
+CC02O026E 005169 FRANCISCO ARAÚJO                        Sim       PSD       Roraima                  570
+CC02O026E 005169 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CC02O026E 005169 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CC02O026E 005169 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CC02O026E 005169 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CC02O026E 005169 DAVI ALCOLUMBRE                         Sim       DEM       Amapá                    10 
+CC02O026E 005169 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CC02O026E 005169 FÁTIMA PELAES                           Sim       PMDB      Amapá                    12 
+CC02O026E 005169 JANETE CAPIBERIBE                       Sim       PSB       Amapá                    572
+CC02O026E 005169 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CC02O026E 005169 VINICIUS GURGEL                         Sim       PR        Amapá                    16 
+CC02O026E 005169 ARNALDO JORDY                           Sim       PPS       Pará                     18 
+CC02O026E 005169 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CC02O026E 005169 BETO FARO                               Sim       PT        Pará                     19 
+CC02O026E 005169 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CC02O026E 005169 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CC02O026E 005169 ELCIONE BARBALHO                        Sim       PMDB      Pará                     21 
+CC02O026E 005169 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CC02O026E 005169 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CC02O026E 005169 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CC02O026E 005169 LIRA MAIA                               Sim       DEM       Pará                     28 
+CC02O026E 005169 LÚCIO VALE                              Sim       PR        Pará                     29 
+CC02O026E 005169 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CC02O026E 005169 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CC02O026E 005169 WLADIMIR COSTA                          Abstenção PMDB      Pará                     23 
+CC02O026E 005169 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CC02O026E 005169 ZEQUINHA MARINHO                        Sim       PSC       Pará                     33 
+CC02O026E 005169 ÁTILA LINS                              Sim       PSD       Amazonas                 38 
+CC02O026E 005169 CARLOS SOUZA                            Sim       PSD       Amazonas                 37 
+CC02O026E 005169 DR. LUIZ FERNANDO                       Não       PMN       Amazonas                 605
+CC02O026E 005169 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CC02O026E 005169 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CC02O026E 005169 PAUDERNEY AVELINO                       Sim       DEM       Amazonas                 40 
+CC02O026E 005169 SILAS CÂMARA                            Sim       PSD       Amazonas                 39 
+CC02O026E 005169 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CC02O026E 005169 MARCOS ROGÉRIO                          Sim       PDT       Rondonia                 583
+CC02O026E 005169 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CC02O026E 005169 MAURO NAZIF                             Sim       PSB       Rondonia                 46 
+CC02O026E 005169 MOREIRA MENDES                          Sim       PSD       Rondonia                 49 
+CC02O026E 005169 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CC02O026E 005169 ANTÔNIA LÚCIA                           Sim       PSC       Acre                     53 
+CC02O026E 005169 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CC02O026E 005169 GLADSON CAMELI                          Sim       PP        Acre                     55 
+CC02O026E 005169 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CC02O026E 005169 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CC02O026E 005169 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CC02O026E 005169 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CC02O026E 005169 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CC02O026E 005169 CÉSAR HALUM                             Sim       PSD       Tocantins                64 
+CC02O026E 005169 EDUARDO GOMES                           Sim       PSDB      Tocantins                60 
+CC02O026E 005169 IRAJÁ ABREU                             Sim       PSD       Tocantins                65 
+CC02O026E 005169 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CC02O026E 005169 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CC02O026E 005169 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CC02O026E 005169 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CC02O026E 005169 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CC02O026E 005169 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CC02O026E 005169 CLEBER VERDE                            Sim       PRB       Maranhão                 70 
+CC02O026E 005169 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CC02O026E 005169 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CC02O026E 005169 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CC02O026E 005169 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CC02O026E 005169 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CC02O026E 005169 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CC02O026E 005169 PEDRO NOVAIS                            Sim       PMDB      Maranhão                 82 
+CC02O026E 005169 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CC02O026E 005169 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CC02O026E 005169 RIBAMAR ALVES                           Sim       PSB       Maranhão                 74 
+CC02O026E 005169 SARNEY FILHO                            Sim       PV        Maranhão                 85 
+CC02O026E 005169 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CC02O026E 005169 ZÉ VIEIRA                               Sim       PR        Maranhão                 86 
+CC02O026E 005169 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CC02O026E 005169 ANÍBAL GOMES                            Sim       PMDB      Ceará                    87 
+CC02O026E 005169 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CC02O026E 005169 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CC02O026E 005169 ARNON BEZERRA                           Sim       PTB       Ceará                    90 
+CC02O026E 005169 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CC02O026E 005169 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CC02O026E 005169 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CC02O026E 005169 DOMINGOS NETO                           Sim       PSB       Ceará                    97 
+CC02O026E 005169 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CC02O026E 005169 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CC02O026E 005169 GENECIAS NORONHA                        Sim       PMDB      Ceará                    99 
+CC02O026E 005169 GORETE PEREIRA                          Sim       PR        Ceará                    100
+CC02O026E 005169 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CC02O026E 005169 JOSÉ AIRTON                             Sim       PT        Ceará                    101
+CC02O026E 005169 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CC02O026E 005169 MANOEL SALVIANO                         Sim       PSD       Ceará                    104
+CC02O026E 005169 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CC02O026E 005169 RAIMUNDÃO                               Sim       PMDB      Ceará                    108
+CC02O026E 005169 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CC02O026E 005169 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CC02O026E 005169 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CC02O026E 005169 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CC02O026E 005169 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CC02O026E 005169 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CC02O026E 005169 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CC02O026E 005169 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CC02O026E 005169 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CC02O026E 005169 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CC02O026E 005169 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CC02O026E 005169 PAES LANDIM                             Sim       PTB       Piauí                    118
+CC02O026E 005169 BETINHO ROSADO                          Sim       DEM       Rio Grande do Norte      122
+CC02O026E 005169 FÁBIO FARIA                             Sim       PSD       Rio Grande do Norte      119
+CC02O026E 005169 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CC02O026E 005169 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CC02O026E 005169 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CC02O026E 005169 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CC02O026E 005169 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CC02O026E 005169 BENJAMIN MARANHÃO                       Sim       PMDB      Paraíba                  131
+CC02O026E 005169 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CC02O026E 005169 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CC02O026E 005169 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CC02O026E 005169 LEONARDO GADELHA                        Sim       PSC       Paraíba                  586
+CC02O026E 005169 LUIZ COUTO                              Não       PT        Paraíba                  133
+CC02O026E 005169 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CC02O026E 005169 ROMERO RODRIGUES                        Sim       PSDB      Paraíba                  135
+CC02O026E 005169 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CC02O026E 005169 WELLINGTON ROBERTO                      Sim       PR        Paraíba                  136
+CC02O026E 005169 WILSON FILHO                            Sim       PMDB      Paraíba                  139
+CC02O026E 005169 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CC02O026E 005169 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CC02O026E 005169 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CC02O026E 005169 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CC02O026E 005169 EDUARDO DA FONTE                        Sim       PP        Pernambuco               156
+CC02O026E 005169 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CC02O026E 005169 GONZAGA PATRIOTA                        Sim       PSB       Pernambuco               143
+CC02O026E 005169 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CC02O026E 005169 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CC02O026E 005169 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CC02O026E 005169 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CC02O026E 005169 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CC02O026E 005169 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CC02O026E 005169 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CC02O026E 005169 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CC02O026E 005169 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CC02O026E 005169 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CC02O026E 005169 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CC02O026E 005169 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CC02O026E 005169 SEVERINO NINHO                          Não       PSB       Pernambuco               580
+CC02O026E 005169 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CC02O026E 005169 VILALBA                                 Sim       PRB       Pernambuco               555
+CC02O026E 005169 WOLNEY QUEIROZ                          Sim       PDT       Pernambuco               164
+CC02O026E 005169 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CC02O026E 005169 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CC02O026E 005169 GIVALDO CARIMBÃO                        Sim       PSB       Alagoas                  166
+CC02O026E 005169 JOÃO LYRA                               Sim       PSD       Alagoas                  167
+CC02O026E 005169 MAURÍCIO QUINTELLA LESSA                Sim       PR        Alagoas                  168
+CC02O026E 005169 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CC02O026E 005169 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CC02O026E 005169 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CC02O026E 005169 ALMEIDA LIMA                            Sim       PPS       Sergipe                  173
+CC02O026E 005169 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CC02O026E 005169 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CC02O026E 005169 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CC02O026E 005169 AFONSO FLORENCE                         Sim       PT        Bahia                    182
+CC02O026E 005169 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CC02O026E 005169 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CC02O026E 005169 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CC02O026E 005169 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CC02O026E 005169 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CC02O026E 005169 ARTHUR OLIVEIRA MAIA                    Sim       PMDB      Bahia                    192
+CC02O026E 005169 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CC02O026E 005169 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CC02O026E 005169 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CC02O026E 005169 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CC02O026E 005169 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CC02O026E 005169 FERNANDO TORRES                         Sim       PSD       Bahia                    196
+CC02O026E 005169 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CC02O026E 005169 JOÃO LEÃO                               Sim       PP        Bahia                    199
+CC02O026E 005169 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CC02O026E 005169 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CC02O026E 005169 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CC02O026E 005169 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CC02O026E 005169 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CC02O026E 005169 LUIZ ARGÔLO                             Sim       PP        Bahia                    207
+CC02O026E 005169 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CC02O026E 005169 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CC02O026E 005169 MÁRIO NEGROMONTE                        Sim       PP        Bahia                    210
+CC02O026E 005169 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CC02O026E 005169 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CC02O026E 005169 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CC02O026E 005169 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CC02O026E 005169 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CC02O026E 005169 ZEZÉU RIBEIRO                           Sim       PT        Bahia                    217
+CC02O026E 005169 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CC02O026E 005169 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CC02O026E 005169 ARACELY DE PAULA                        Sim       PR        Minas Gerais             223
+CC02O026E 005169 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CC02O026E 005169 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CC02O026E 005169 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CC02O026E 005169 DIEGO ANDRADE                           Sim       PSD       Minas Gerais             228
+CC02O026E 005169 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CC02O026E 005169 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CC02O026E 005169 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CC02O026E 005169 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CC02O026E 005169 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CC02O026E 005169 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CC02O026E 005169 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CC02O026E 005169 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CC02O026E 005169 GILMAR MACHADO                          Sim       PT        Minas Gerais             234
+CC02O026E 005169 ISAIAS SILVESTRE                        Sim       PSB       Minas Gerais             604
+CC02O026E 005169 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CC02O026E 005169 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CC02O026E 005169 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CC02O026E 005169 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CC02O026E 005169 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CC02O026E 005169 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CC02O026E 005169 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CC02O026E 005169 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CC02O026E 005169 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CC02O026E 005169 LUIS TIBÉ                               Sim       PTdoB     Minas Gerais             251
+CC02O026E 005169 LUIZ FERNANDO FARIA                     Sim       PP        Minas Gerais             256
+CC02O026E 005169 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CC02O026E 005169 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CC02O026E 005169 MAURO LOPES                             Sim       PMDB      Minas Gerais             252
+CC02O026E 005169 NEWTON CARDOSO                          Sim       PMDB      Minas Gerais             258
+CC02O026E 005169 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CC02O026E 005169 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CC02O026E 005169 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CC02O026E 005169 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CC02O026E 005169 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CC02O026E 005169 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CC02O026E 005169 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CC02O026E 005169 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CC02O026E 005169 WALTER TOSTA                            Sim       PSD       Minas Gerais             267
+CC02O026E 005169 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CC02O026E 005169 ZÉ SILVA                                Sim       PDT       Minas Gerais             271
+CC02O026E 005169 CESAR COLNAGO                           Não       PSDB      Espírito Santo           276
+CC02O026E 005169 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CC02O026E 005169 IRINY LOPES                             Não       PT        Espírito Santo           273
+CC02O026E 005169 LAURIETE                                Não       PSC       Espírito Santo           279
+CC02O026E 005169 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CC02O026E 005169 MANATO                                  Não       PDT       Espírito Santo           275
+CC02O026E 005169 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CC02O026E 005169 ROSE DE FREITAS                         Art.51    PMDB      Espírito Santo           282
+CC02O026E 005169 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CC02O026E 005169 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CC02O026E 005169 ALEXANDRE CARDOSO                       Não       PSB       Rio de Janeiro           284
+CC02O026E 005169 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CC02O026E 005169 ALFREDO SIRKIS                          Não       PV        Rio de Janeiro           321
+CC02O026E 005169 ANDREIA ZITO                            Não       PSDB      Rio de Janeiro           283
+CC02O026E 005169 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CC02O026E 005169 AROLDE DE OLIVEIRA                      Não       PSD       Rio de Janeiro           288
+CC02O026E 005169 AUREO                                   Não       PRTB      Rio de Janeiro           290
+CC02O026E 005169 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CC02O026E 005169 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CC02O026E 005169 DR. PAULO CÉSAR                         Não       PSD       Rio de Janeiro           296
+CC02O026E 005169 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CC02O026E 005169 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CC02O026E 005169 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CC02O026E 005169 FELIPE BORNIER                          Não       PSD       Rio de Janeiro           301
+CC02O026E 005169 FILIPE PEREIRA                          Não       PSC       Rio de Janeiro           303
+CC02O026E 005169 FRANCISCO FLORIANO                      Não       PR        Rio de Janeiro           297
+CC02O026E 005169 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CC02O026E 005169 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CC02O026E 005169 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CC02O026E 005169 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CC02O026E 005169 JEAN WYLLYS                             Não       PSOL      Rio de Janeiro           307
+CC02O026E 005169 JORGE BITTAR                            Não       PT        Rio de Janeiro           310
+CC02O026E 005169 LEONARDO PICCIANI                       Não       PMDB      Rio de Janeiro           312
+CC02O026E 005169 LILIAM SÁ                               Não       PSD       Rio de Janeiro           309
+CC02O026E 005169 LUIZ SÉRGIO                             Não       PT        Rio de Janeiro           313
+CC02O026E 005169 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CC02O026E 005169 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CC02O026E 005169 NELSON BORNIER                          Não       PMDB      Rio de Janeiro           549
+CC02O026E 005169 OTAVIO LEITE                            Não       PSDB      Rio de Janeiro           316
+CC02O026E 005169 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CC02O026E 005169 RODRIGO BETHLEM                         Não       PMDB      Rio de Janeiro           318
+CC02O026E 005169 RODRIGO MAIA                            Não       DEM       Rio de Janeiro           322
+CC02O026E 005169 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CC02O026E 005169 SERGIO ZVEITER                          Não       PSD       Rio de Janeiro           320
+CC02O026E 005169 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CC02O026E 005169 STEPAN NERCESSIAN                       Não       PPS       Rio de Janeiro           323
+CC02O026E 005169 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CC02O026E 005169 WALNEY ROCHA                            Não       PTB       Rio de Janeiro           325
+CC02O026E 005169 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CC02O026E 005169 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CC02O026E 005169 ALBERTO MOURÃO                          Sim       PSDB      São Paulo                552
+CC02O026E 005169 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CC02O026E 005169 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CC02O026E 005169 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CC02O026E 005169 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CC02O026E 005169 BETO MANSUR                             Sim       PP        São Paulo                340
+CC02O026E 005169 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CC02O026E 005169 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CC02O026E 005169 CARLOS SAMPAIO                          Sim       PSDB      São Paulo                338
+CC02O026E 005169 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CC02O026E 005169 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CC02O026E 005169 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CC02O026E 005169 DUARTE NOGUEIRA                         Não       PSDB      São Paulo                350
+CC02O026E 005169 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CC02O026E 005169 ELI CORREA FILHO                        Não       DEM       São Paulo                345
+CC02O026E 005169 EMANUEL FERNANDES                       Não       PSDB      São Paulo                352
+CC02O026E 005169 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CC02O026E 005169 GUILHERME CAMPOS                        Não       PSD       São Paulo                357
+CC02O026E 005169 GUILHERME MUSSI                         Sim       PSD       São Paulo                348
+CC02O026E 005169 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CC02O026E 005169 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CC02O026E 005169 JEFFERSON CAMPOS                        Sim       PSD       São Paulo                349
+CC02O026E 005169 JOÃO DADO                               Sim       PDT       São Paulo                362
+CC02O026E 005169 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CC02O026E 005169 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CC02O026E 005169 JOSÉ DE FILIPPI                         Sim       PT        São Paulo                354
+CC02O026E 005169 JUNJI ABE                               Sim       PSD       São Paulo                355
+CC02O026E 005169 KEIKO OTA                               Sim       PSB       São Paulo                356
+CC02O026E 005169 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CC02O026E 005169 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CC02O026E 005169 MARA GABRILLI                           Não       PSDB      São Paulo                366
+CC02O026E 005169 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CC02O026E 005169 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CC02O026E 005169 NEWTON LIMA                             Não       PT        São Paulo                377
+CC02O026E 005169 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CC02O026E 005169 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CC02O026E 005169 PAULO FREIRE                            Sim       PR        São Paulo                380
+CC02O026E 005169 PAULO MALUF                             Sim       PP        São Paulo                373
+CC02O026E 005169 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CC02O026E 005169 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CC02O026E 005169 PENNA                                   Sim       PV        São Paulo                382
+CC02O026E 005169 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CC02O026E 005169 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CC02O026E 005169 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CC02O026E 005169 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CC02O026E 005169 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CC02O026E 005169 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CC02O026E 005169 TIRIRICA                                Sim       PR        São Paulo                392
+CC02O026E 005169 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CC02O026E 005169 VANDERLEI SIRAQUE                       Não       PT        São Paulo                581
+CC02O026E 005169 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CC02O026E 005169 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CC02O026E 005169 VICENTINHO                              Não       PT        São Paulo                396
+CC02O026E 005169 WALTER IHOSHI                           Sim       PSD       São Paulo                553
+CC02O026E 005169 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CC02O026E 005169 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CC02O026E 005169 HOMERO PEREIRA                          Sim       PSD       Mato Grosso              402
+CC02O026E 005169 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CC02O026E 005169 NILSON LEITÃO                           Sim       PSDB      Mato Grosso              573
+CC02O026E 005169 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CC02O026E 005169 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CC02O026E 005169 IZALCI                                  Sim       PSDB      Distrito Federal         408
+CC02O026E 005169 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CC02O026E 005169 POLICARPO                               Não       PT        Distrito Federal         539
+CC02O026E 005169 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CC02O026E 005169 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CC02O026E 005169 ARMANDO VERGÍLIO                        Sim       PSD       Goiás                    416
+CC02O026E 005169 CARLOS ALBERTO LERÉIA                   Sim       PSDB      Goiás                    415
+CC02O026E 005169 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CC02O026E 005169 HEULER CRUVINEL                         Sim       PSD       Goiás                    423
+CC02O026E 005169 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CC02O026E 005169 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CC02O026E 005169 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CC02O026E 005169 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CC02O026E 005169 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CC02O026E 005169 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CC02O026E 005169 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CC02O026E 005169 RUBENS OTONI                            Sim       PT        Goiás                    425
+CC02O026E 005169 SANDES JÚNIOR                           Sim       PP        Goiás                    426
+CC02O026E 005169 SANDRO MABEL                            Sim       PMDB      Goiás                    431
+CC02O026E 005169 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CC02O026E 005169 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CC02O026E 005169 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CC02O026E 005169 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CC02O026E 005169 GIROTO                                  Sim       PMDB      Mato Grosso do Sul       434
+CC02O026E 005169 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CC02O026E 005169 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CC02O026E 005169 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CC02O026E 005169 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CC02O026E 005169 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CC02O026E 005169 ALEX CANZIANI                           Sim       PTB       Paraná                   445
+CC02O026E 005169 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CC02O026E 005169 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CC02O026E 005169 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CC02O026E 005169 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CC02O026E 005169 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CC02O026E 005169 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CC02O026E 005169 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CC02O026E 005169 FERNANDO FRANCISCHINI                   Sim       PEN       Paraná                   450
+CC02O026E 005169 GIACOBO                                 Sim       PR        Paraná                   466
+CC02O026E 005169 HERMES PARCIANELLO                      Sim       PMDB      Paraná                   448
+CC02O026E 005169 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CC02O026E 005169 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CC02O026E 005169 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CC02O026E 005169 NELSON MEURER                           Sim       PP        Paraná                   458
+CC02O026E 005169 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CC02O026E 005169 ODÍLIO BALBINOTTI                       Sim       PMDB      Paraná                   588
+CC02O026E 005169 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CC02O026E 005169 REINHOLD STEPHANES                      Sim       PSD       Paraná                   467
+CC02O026E 005169 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CC02O026E 005169 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CC02O026E 005169 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CC02O026E 005169 TAKAYAMA                                Sim       PSC       Paraná                   469
+CC02O026E 005169 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CC02O026E 005169 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CC02O026E 005169 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CC02O026E 005169 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CC02O026E 005169 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CC02O026E 005169 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CC02O026E 005169 JOÃO PIZZOLATTI                         Sim       PP        Santa Catarina           574
+CC02O026E 005169 JORGE BOEIRA                            Sim       PSD       Santa Catarina           474
+CC02O026E 005169 JORGINHO MELLO                          Sim       PR        Santa Catarina           476
+CC02O026E 005169 MARCO TEBALDI                           Sim       PSDB      Santa Catarina           478
+CC02O026E 005169 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CC02O026E 005169 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CC02O026E 005169 PEDRO UCZAI                             Não       PT        Santa Catarina           481
+CC02O026E 005169 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CC02O026E 005169 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CC02O026E 005169 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CC02O026E 005169 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CC02O026E 005169 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CC02O026E 005169 ALEXANDRE ROSO                          Sim       PSB       Rio Grande do Sul        489
+CC02O026E 005169 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CC02O026E 005169 BETO ALBUQUERQUE                        Sim       PSB       Rio Grande do Sul        490
+CC02O026E 005169 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CC02O026E 005169 DANRLEI DE DEUS HINTERHOLZ              Sim       PSD       Rio Grande do Sul        495
+CC02O026E 005169 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CC02O026E 005169 ELISEU PADILHA                          Não       PMDB      Rio Grande do Sul        578
+CC02O026E 005169 ENIO BACCI                              Sim       PDT       Rio Grande do Sul        493
+CC02O026E 005169 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CC02O026E 005169 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CC02O026E 005169 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CC02O026E 005169 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CC02O026E 005169 JOSÉ OTÁVIO GERMANO                     Sim       PP        Rio Grande do Sul        501
+CC02O026E 005169 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CC02O026E 005169 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CC02O026E 005169 MARCO MAIA                              Sim       PT        Rio Grande do Sul        496
+CC02O026E 005169 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CC02O026E 005169 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CC02O026E 005169 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CC02O026E 005169 PAULO FERREIRA                          Não       PT        Rio Grande do Sul        591
+CC02O026E 005169 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CC02O026E 005169 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CC02O026E 005169 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CC02O026E 005169 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CC02O026E 005169 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CC02O026E 005169 JOAQUIM BELTRÃO                         <-------> PMDB      Alagoas                  172
+CC02O026E 005169 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CC02O026E 005169 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CC02O026E 005169 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CC02O026E 005169 EDSON PIMENTA                           <-------> PSD       Bahia                    193
+CC02O026E 005169 SÉRGIO BRITO                            <-------> PSD       Bahia                    213
+CC02O026E 005169 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CC02O026E 005169 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CC02O026E 005169 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CC02O026E 005169 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CC02O026E 005169 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CC02O026E 005169 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CC02O026E 005169 MAGELA                                  <-------> PT        Distrito Federal         411
+CC02O026E 005169 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CC02O026E 005169 AUDIFAX                                 <-------> PSB       Espírito Santo           274
+CC02O026E 005169 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CC02O026E 005169 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CC02O026E 005169 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CC02O026E 005169 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CC02O026E 005169 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CC02O026E 005169 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CC02O026E 005169 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CC02O026E 005169 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CC02O026E 005169 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CC02O026E 005169 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CC02O026E 005169 MARCIO REINALDO MOREIRA                 <-------> PP        Minas Gerais             247
+CC02O026E 005169 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CC02O026E 005169 ADEMIR CAMILO                           <-------> PSD       Minas Gerais             220
+CC02O026E 005169 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CC02O026E 005169 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CC02O026E 005169 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CC02O026E 005169 ELIENE LIMA                             <-------> PSD       Mato Grosso              401
+CC02O026E 005169 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CC02O026E 005169 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CC02O026E 005169 FERNANDO FERRO                          <-------> PT        Pernambuco               141
+CC02O026E 005169 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CC02O026E 005169 LUIZ CARLOS SETIM                       <-------> DEM       Paraná                   535
+CC02O026E 005169 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CC02O026E 005169 ANDRÉ VARGAS                            <-------> PT        Paraná                   452
+CC02O026E 005169 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CC02O026E 005169 DR. ROSINHA                             <-------> PT        Paraná                   449
+CC02O026E 005169 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CC02O026E 005169 NEILTON MULIM                           <-------> PR        Rio de Janeiro           315
+CC02O026E 005169 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CC02O026E 005169 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CC02O026E 005169 CHICO ALENCAR                           <-------> PSOL      Rio de Janeiro           295
+CC02O026E 005169 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CC02O026E 005169 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CC02O026E 005169 PADRE TON                               <-------> PT        Rondonia                 48 
+CC02O026E 005169 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CC02O026E 005169 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CC02O026E 005169 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CC02O026E 005169 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CC02O026E 005169 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CC02O026E 005169 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CC02O026E 005169 RONALDO ZULKE                           <-------> PT        Rio Grande do Sul        515
+CC02O026E 005169 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CC02O026E 005169 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CC02O026E 005169 HELENO SILVA                            <-------> PRB       Sergipe                  175
+CC02O026E 005169 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CC02O026E 005169 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CC02O026E 005169 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CC02O026E 005169 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CC02O026E 005169 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CC02O026E 005169 MÁRCIO FRANÇA                           <-------> PSB       São Paulo                368
+CC02O026E 005169 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CC02O026E 005169 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CC02O026E 005169 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CC02O026E 005169 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CC02O026E 005169 JILMAR TATTO                            <-------> PT        São Paulo                360
+CC02O026E 005169 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CC02O026E 005169 ELEUSES PAIVA                           <-------> PSD       São Paulo                537
+CC02O026E 005169 MARCELO AGUIAR                          <-------> PSD       São Paulo                370
+CC02O026E 005169 WALTER FELDMAN                          <-------> PSDB      São Paulo                550
+CC02O026E 005169 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CC02O026E 005169 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CC02O026E 005169 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CC02O026E 005169 MILTON MONTI                            <-------> PR        São Paulo                374

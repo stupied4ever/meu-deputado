@@ -1,0 +1,511 @@
+CD01O012E 000000 BERINHO BANTIM                          Presente PSDB      Roraima                  1
+CD01O012E 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  
+CD01O012E 000000 EDIO LOPES                              Presente PMDB      Roraima                  2  
+CD01O012E 000000 JHONATAN DE JESUS                       Presente PRB       Roraima                  5  
+CD01O012E 000000 LUCIANO CASTRO                          Presente PR        Roraima                  4  
+CD01O012E 000000 PAULO CESAR QUARTIERO                   Presente DEM       Roraima                  6  
+CD01O012E 000000 RAUL LIMA                               Presente PP        Roraima                  7  
+CD01O012E 000000 TERESA SURITA                           Presente PMDB      Roraima                  8  
+CD01O012E 000000 DALVA FIGUEIREDO                        Presente PT        Amapá                    9  
+CD01O012E 000000 DAVI ALCOLUMBRE                         Presente DEM       Amapá                    10 
+CD01O012E 000000 EVANDRO MILHOMEN                        Presente PCdoB     Amapá                    11 
+CD01O012E 000000 LUIZ CARLOS                             Presente PSDB      Amapá                    14 
+CD01O012E 000000 PROFESSORA MARCIVANIA                   Presente PT        Amapá                    15 
+CD01O012E 000000 SEBASTIÃO BALA ROCHA                    Presente PDT       Amapá                    17 
+CD01O012E 000000 VINICIUS GURGEL                         Presente PRTB      Amapá                    16 
+CD01O012E 000000 ANDRÉ DIAS                              Presente PSDB      Pará                     517
+CD01O012E 000000 ARNALDO JORDY                           Presente PPS       Pará                     18 
+CD01O012E 000000 BETO FARO                               Presente PT        Pará                     19 
+CD01O012E 000000 CLÁUDIO PUTY                            Presente PT        Pará                     22 
+CD01O012E 000000 DUDIMAR PAXIÚBA                         Presente PSDB      Pará                     518
+CD01O012E 000000 ELCIONE BARBALHO                        Presente PMDB      Pará                     21 
+CD01O012E 000000 GIOVANNI QUEIROZ                        Presente PDT       Pará                     27 
+CD01O012E 000000 JOSÉ PRIANTE                            Presente PMDB      Pará                     26 
+CD01O012E 000000 JOSUÉ BENGTSON                          Presente PTB       Pará                     30 
+CD01O012E 000000 LIRA MAIA                               Presente DEM       Pará                     28 
+CD01O012E 000000 LÚCIO VALE                              Presente PR        Pará                     29 
+CD01O012E 000000 LUIZ OTÁVIO                             Presente PMDB      Pará                     526
+CD01O012E 000000 MIRIQUINHO BATISTA                      Presente PT        Pará                     35 
+CD01O012E 000000 WANDENKOLK GONÇALVES                    Presente PSDB      Pará                     32 
+CD01O012E 000000 WLADIMIR COSTA                          Presente PMDB      Pará                     23 
+CD01O012E 000000 ZÉ GERALDO                              Presente PT        Pará                     25 
+CD01O012E 000000 ZEQUINHA MARINHO                        Presente PSC       Pará                     33 
+CD01O012E 000000 ÁTILA LINS                              Presente PMDB      Amazonas                 38 
+CD01O012E 000000 CARLOS SOUZA                            Presente PP        Amazonas                 37 
+CD01O012E 000000 FRANCISCO PRACIANO                      Presente PT        Amazonas                 41 
+CD01O012E 000000 HENRIQUE OLIVEIRA                       Presente PR        Amazonas                 36 
+CD01O012E 000000 PAUDERNEY AVELINO                       Presente DEM       Amazonas                 40 
+CD01O012E 000000 REBECCA GARCIA                          Presente PP        Amazonas                 42 
+CD01O012E 000000 SABINO CASTELO BRANCO                   Presente PTB       Amazonas                 43 
+CD01O012E 000000 SILAS CÂMARA                            Presente PSC       Amazonas                 39 
+CD01O012E 000000 CARLOS MAGNO                            Presente PP        Rondonia                 44 
+CD01O012E 000000 LINDOMAR GARÇON                         Presente PV        Rondonia                 45 
+CD01O012E 000000 MOREIRA MENDES                          Presente PPS       Rondonia                 49 
+CD01O012E 000000 NATAN DONADON                           Presente PMDB      Rondonia                 51 
+CD01O012E 000000 NILTON CAPIXABA                         Presente PTB       Rondonia                 47 
+CD01O012E 000000 PADRE TON                               Presente PT        Rondonia                 48 
+CD01O012E 000000 ANTÔNIA LÚCIA                           Presente PSC       Acre                     53 
+CD01O012E 000000 FLAVIANO MELO                           Presente PMDB      Acre                     54 
+CD01O012E 000000 GLADSON CAMELI                          Presente PP        Acre                     55 
+CD01O012E 000000 HENRIQUE AFONSO                         Presente PV        Acre                     52 
+CD01O012E 000000 PERPÉTUA ALMEIDA                        Presente PCdoB     Acre                     56 
+CD01O012E 000000 SIBA MACHADO                            Presente PT        Acre                     58 
+CD01O012E 000000 TAUMATURGO LIMA                         Presente PT        Acre                     59 
+CD01O012E 000000 AGNOLIN                                 Presente PDT       Tocantins                61 
+CD01O012E 000000 CÉSAR HALUM                             Presente PPS       Tocantins                64 
+CD01O012E 000000 EDUARDO GOMES                           Presente PSDB      Tocantins                60 
+CD01O012E 000000 IRAJÁ ABREU                             Presente DEM       Tocantins                65 
+CD01O012E 000000 JÚNIOR COIMBRA                          Presente PMDB      Tocantins                66 
+CD01O012E 000000 LAUREZ MOREIRA                          Presente PSB       Tocantins                62 
+CD01O012E 000000 LÁZARO BOTELHO                          Presente PP        Tocantins                63 
+CD01O012E 000000 PROFESSORA DORINHA SEABRA REZEN         Presente DEM       Tocantins                67 
+CD01O012E 000000 ALBERTO FILHO                           Presente PMDB      Maranhão                 71 
+CD01O012E 000000 CARLOS BRANDÃO                          Presente PSDB      Maranhão                 68 
+CD01O012E 000000 CLEBER VERDE                            Presente PRB       Maranhão                 70 
+CD01O012E 000000 DAVI ALVES SILVA JÚNIOR                 Presente PR        Maranhão                 528
+CD01O012E 000000 DOMINGOS DUTRA                          Presente PT        Maranhão                 72 
+CD01O012E 000000 EDIVALDO HOLANDA JUNIOR                 Presente PTC       Maranhão                 73 
+CD01O012E 000000 GASTÃO VIEIRA                           Presente PMDB      Maranhão                 75 
+CD01O012E 000000 HÉLIO SANTOS                            Presente PSDB      Maranhão                 76 
+CD01O012E 000000 LOURIVAL MENDES                         Presente PTdoB     Maranhão                 77 
+CD01O012E 000000 LUCIANO MOREIRA                         Presente PMDB      Maranhão                 83 
+CD01O012E 000000 NICE LOBÃO                              Presente DEM       Maranhão                 78 
+CD01O012E 000000 PEDRO FERNANDES                         Presente PTB       Maranhão                 80 
+CD01O012E 000000 PINTO ITAMARATY                         Presente PSDB      Maranhão                 79 
+CD01O012E 000000 PROFESSOR SETIMO                        Presente PMDB      Maranhão                 81 
+CD01O012E 000000 RIBAMAR ALVES                           Presente PSB       Maranhão                 74 
+CD01O012E 000000 SARNEY FILHO                            Presente PV        Maranhão                 85 
+CD01O012E 000000 WALDIR MARANHÃO                         Presente PP        Maranhão                 84 
+CD01O012E 000000 ZÉ VIEIRA                               Presente PR        Maranhão                 86 
+CD01O012E 000000 ANDRÉ FIGUEIREDO                        Presente PDT       Ceará                    89 
+CD01O012E 000000 ANTONIO BALHMANN                        Presente PSB       Ceará                    93 
+CD01O012E 000000 ARIOSTO HOLANDA                         Presente PSB       Ceará                    92 
+CD01O012E 000000 ARNON BEZERRA                           Presente PTB       Ceará                    90 
+CD01O012E 000000 ARTUR BRUNO                             Presente PT        Ceará                    94 
+CD01O012E 000000 CHICO LOPES                             Presente PCdoB     Ceará                    88 
+CD01O012E 000000 DANILO FORTE                            Presente PMDB      Ceará                    95 
+CD01O012E 000000 DOMINGOS NETO                           Presente PSB       Ceará                    97 
+CD01O012E 000000 EDSON SILVA                             Presente PSB       Ceará                    98 
+CD01O012E 000000 EUDES XAVIER                            Presente PT        Ceará                    91 
+CD01O012E 000000 GENECIAS NORONHA                        Presente PMDB      Ceará                    99 
+CD01O012E 000000 GORETE PEREIRA                          Presente PR        Ceará                    100
+CD01O012E 000000 JOAO ANANIAS                            Presente PCdoB     Ceará                    106
+CD01O012E 000000 JOSÉ AIRTON                             Presente PT        Ceará                    101
+CD01O012E 000000 JOSÉ GUIMARÃES                          Presente PT        Ceará                    103
+CD01O012E 000000 MANOEL SALVIANO                         Presente PSDB      Ceará                    104
+CD01O012E 000000 MAURO BENEVIDES                         Presente PMDB      Ceará                    105
+CD01O012E 000000 RAIMUNDÃO                               Presente PMDB      Ceará                    108
+CD01O012E 000000 RAIMUNDO GOMES DE MATOS                 Presente PSDB      Ceará                    102
+CD01O012E 000000 VICENTE ARRUDA                          Presente PR        Ceará                    107
+CD01O012E 000000 ASSIS CARVALHO                          Presente PT        Piauí                    111
+CD01O012E 000000 HUGO NAPOLEÃO                           Presente DEM       Piauí                    112
+CD01O012E 000000 IRACEMA PORTELLA                        Presente PP        Piauí                    113
+CD01O012E 000000 JESUS RODRIGUES                         Presente PT        Piauí                    115
+CD01O012E 000000 JÚLIO CESAR                             Presente DEM       Piauí                    114
+CD01O012E 000000 MARLLOS SAMPAIO                         Presente PMDB      Piauí                    117
+CD01O012E 000000 NAZARENO FONTELES                       Presente PT        Piauí                    530
+CD01O012E 000000 OSMAR JÚNIOR                            Presente PCdoB     Piauí                    116
+CD01O012E 000000 PAES LANDIM                             Presente PTB       Piauí                    118
+CD01O012E 000000 FÁBIO FARIA                             Presente PMN       Rio Grande do Norte      119
+CD01O012E 000000 FÁTIMA BEZERRA                          Presente PT        Rio Grande do Norte      121
+CD01O012E 000000 FELIPE MAIA                             Presente DEM       Rio Grande do Norte      120
+CD01O012E 000000 HENRIQUE EDUARDO ALVES                  Presente PMDB      Rio Grande do Norte      123
+CD01O012E 000000 JOÃO MAIA                               Presente PR        Rio Grande do Norte      124
+CD01O012E 000000 PAULO WAGNER                            Presente PV        Rio Grande do Norte      126
+CD01O012E 000000 ROGÉRIO MARINHO                         Presente PSDB      Rio Grande do Norte      540
+CD01O012E 000000 SANDRA ROSADO                           Presente PSB       Rio Grande do Norte      125
+CD01O012E 000000 AGUINALDO RIBEIRO                       Presente PP        Paraíba                  129
+CD01O012E 000000 BENJAMIN MARANHÃO                       Presente PMDB      Paraíba                  131
+CD01O012E 000000 DAMIÃO FELICIANO                        Presente PDT       Paraíba                  127
+CD01O012E 000000 EFRAIM FILHO                            Presente DEM       Paraíba                  128
+CD01O012E 000000 HUGO MOTTA                              Presente PMDB      Paraíba                  132
+CD01O012E 000000 LUIZ COUTO                              Presente PT        Paraíba                  133
+CD01O012E 000000 MANOEL JUNIOR                           Presente PMDB      Paraíba                  130
+CD01O012E 000000 NILDA GONDIM                            Presente PMDB      Paraíba                  134
+CD01O012E 000000 ROMERO RODRIGUES                        Presente PSDB      Paraíba                  135
+CD01O012E 000000 RUY CARNEIRO                            Presente PSDB      Paraíba                  137
+CD01O012E 000000 WILSON FILHO                            Presente PMDB      Paraíba                  139
+CD01O012E 000000 ANA ARRAES                              Presente PSB       Pernambuco               140
+CD01O012E 000000 ANDERSON FERREIRA                       Presente PR        Pernambuco               142
+CD01O012E 000000 AUGUSTO COUTINHO                        Presente DEM       Pernambuco               144
+CD01O012E 000000 BRUNO ARAÚJO                            Presente PSDB      Pernambuco               146
+CD01O012E 000000 CARLOS EDUARDO CADOCA                   Presente PSC       Pernambuco               152
+CD01O012E 000000 FERNANDO COELHO FILHO                   Presente PSB       Pernambuco               158
+CD01O012E 000000 GONZAGA PATRIOTA                        Presente PSB       Pernambuco               143
+CD01O012E 000000 INOCÊNCIO OLIVEIRA                      Presente PR        Pernambuco               145
+CD01O012E 000000 JOÃO PAULO  LIMA                        Presente PT        Pernambuco               149
+CD01O012E 000000 JORGE CORTE REAL                        Presente PTB       Pernambuco               150
+CD01O012E 000000 JOSÉ AUGUSTO MAIA                       Presente PTB       Pernambuco               151
+CD01O012E 000000 JOSÉ CHAVES                             Presente PTB       Pernambuco               147
+CD01O012E 000000 LUCIANA SANTOS                          Presente PCdoB     Pernambuco               153
+CD01O012E 000000 MENDONÇA FILHO                          Presente DEM       Pernambuco               154
+CD01O012E 000000 PASTOR EURICO                           Presente PSB       Pernambuco               155
+CD01O012E 000000 PAULO RUBEM SANTIAGO                    Presente PDT       Pernambuco               554
+CD01O012E 000000 PEDRO EUGÊNIO                           Presente PT        Pernambuco               161
+CD01O012E 000000 RAUL HENRY                              Presente PMDB      Pernambuco               163
+CD01O012E 000000 ROBERTO TEIXEIRA                        Presente PP        Pernambuco               157
+CD01O012E 000000 SERGIO GUERRA                           Presente PSDB      Pernambuco               159
+CD01O012E 000000 SILVIO COSTA                            Presente PTB       Pernambuco               160
+CD01O012E 000000 VILALBA                                 Presente PRB       Pernambuco               555
+CD01O012E 000000 WOLNEY QUEIROZ                          Presente PDT       Pernambuco               164
+CD01O012E 000000 ARTHUR LIRA                             Presente PP        Alagoas                  162
+CD01O012E 000000 CELIA ROCHA                             Presente PTB       Alagoas                  165
+CD01O012E 000000 GIVALDO CARIMBÃO                        Presente PSB       Alagoas                  166
+CD01O012E 000000 JOÃO LYRA                               Presente PTB       Alagoas                  167
+CD01O012E 000000 JOAQUIM BELTRÃO                         Presente PMDB      Alagoas                  172
+CD01O012E 000000 MAURÍCIO QUINTELLA LESSA                Presente PR        Alagoas                  168
+CD01O012E 000000 RENAN FILHO                             Presente PMDB      Alagoas                  169
+CD01O012E 000000 ROSINHA DA ADEFAL                       Presente PTdoB     Alagoas                  170
+CD01O012E 000000 RUI PALMEIRA                            Presente PSDB      Alagoas                  171
+CD01O012E 000000 ALMEIDA LIMA                            Presente PMDB      Sergipe                  173
+CD01O012E 000000 ANDRE MOURA                             Presente PSC       Sergipe                  174
+CD01O012E 000000 HELENO SILVA                            Presente PRB       Sergipe                  175
+CD01O012E 000000 LAERCIO OLIVEIRA                        Presente PR        Sergipe                  176
+CD01O012E 000000 MÁRCIO MACÊDO                           Presente PT        Sergipe                  177
+CD01O012E 000000 MENDONÇA PRADO                          Presente DEM       Sergipe                  179
+CD01O012E 000000 ROGERIO CARVALHO                        Presente PT        Sergipe                  178
+CD01O012E 000000 VALADARES FILHO                         Presente PSB       Sergipe                  183
+CD01O012E 000000 ACELINO POPÓ                            Presente PRB       Bahia                    522
+CD01O012E 000000 ALICE PORTUGAL                          Presente PCdoB     Bahia                    180
+CD01O012E 000000 AMAURI TEIXEIRA                         Presente PT        Bahia                    184
+CD01O012E 000000 ANTONIO BRITO                           Presente PTB       Bahia                    189
+CD01O012E 000000 ANTONIO CARLOS MAGALHÃES NETO           Presente DEM       Bahia                    181
+CD01O012E 000000 ANTONIO IMBASSAHY                       Presente PSDB      Bahia                    191
+CD01O012E 000000 ARTHUR OLIVEIRA MAIA                    Presente PMDB      Bahia                    192
+CD01O012E 000000 CLAUDIO CAJADO                          Presente DEM       Bahia                    186
+CD01O012E 000000 DANIEL ALMEIDA                          Presente PCdoB     Bahia                    188
+CD01O012E 000000 EDSON PIMENTA                           Presente PCdoB     Bahia                    193
+CD01O012E 000000 EMILIANO JOSÉ                           Presente PT        Bahia                    523
+CD01O012E 000000 ERIVELTON SANTANA                       Presente PSC       Bahia                    194
+CD01O012E 000000 FÁBIO SOUTO                             Presente DEM       Bahia                    190
+CD01O012E 000000 FELIX JÚNIOR                            Presente PDT       Bahia                    195
+CD01O012E 000000 FERNANDO TORRES                         Presente DEM       Bahia                    196
+CD01O012E 000000 GERALDO SIMÕES                          Presente PT        Bahia                    185
+CD01O012E 000000 JÂNIO NATAL                             Presente PRP       Bahia                    198
+CD01O012E 000000 JOÃO CARLOS BACELAR                     Presente PR        Bahia                    187
+CD01O012E 000000 JOÃO LEÃO                               Presente PP        Bahia                    199
+CD01O012E 000000 JOSÉ CARLOS ARAÚJO                      Presente PDT       Bahia                    197
+CD01O012E 000000 JOSÉ NUNES                              Presente DEM       Bahia                    201
+CD01O012E 000000 JOSÉ ROCHA                              Presente PR        Bahia                    203
+CD01O012E 000000 JOSIAS GOMES                            Presente PT        Bahia                    202
+CD01O012E 000000 JUTAHY JUNIOR                           Presente PSDB      Bahia                    206
+CD01O012E 000000 LUCIO VIEIRA LIMA                       Presente PMDB      Bahia                    205
+CD01O012E 000000 LUIZ ALBERTO                            Presente PT        Bahia                    204
+CD01O012E 000000 LUIZ ARGÔLO                             Presente PP        Bahia                    207
+CD01O012E 000000 MÁRCIO MARINHO                          Presente PRB       Bahia                    212
+CD01O012E 000000 MARCOS MEDRADO                          Presente PDT       Bahia                    200
+CD01O012E 000000 MAURÍCIO TRINDADE                       Presente PR        Bahia                    208
+CD01O012E 000000 NELSON PELLEGRINO                       Presente PT        Bahia                    209
+CD01O012E 000000 OZIEL OLIVEIRA                          Presente PDT       Bahia                    215
+CD01O012E 000000 ROBERTO BRITTO                          Presente PP        Bahia                    211
+CD01O012E 000000 RUI COSTA                               Presente PT        Bahia                    216
+CD01O012E 000000 SÉRGIO BARRADAS CARNEIRO                Presente PT        Bahia                    524
+CD01O012E 000000 SÉRGIO BRITO                            Presente PSC       Bahia                    213
+CD01O012E 000000 VALMIR ASSUNÇÃO                         Presente PT        Bahia                    218
+CD01O012E 000000 WALDENOR PEREIRA                        Presente PT        Bahia                    219
+CD01O012E 000000 ADEMIR CAMILO                           Presente PDT       Minas Gerais             220
+CD01O012E 000000 AELTON FREITAS                          Presente PR        Minas Gerais             224
+CD01O012E 000000 ANTÔNIO ANDRADE                         Presente PMDB      Minas Gerais             227
+CD01O012E 000000 ANTÔNIO ROBERTO                         Presente PV        Minas Gerais             229
+CD01O012E 000000 ARACELY DE PAULA                        Presente PR        Minas Gerais             223
+CD01O012E 000000 BERNARDO SANTANA DE VASCONCELLO         Presente PR        Minas Gerais             221
+CD01O012E 000000 BONIFÁCIO DE ANDRADA                    Presente PSDB      Minas Gerais             534
+CD01O012E 000000 CARLAILE PEDROSA                        Presente PSDB      Minas Gerais             222
+CD01O012E 000000 DIEGO ANDRADE                           Presente PR        Minas Gerais             228
+CD01O012E 000000 DIMAS FABIANO                           Presente PP        Minas Gerais             231
+CD01O012E 000000 DOMINGOS SÁVIO                          Presente PSDB      Minas Gerais             233
+CD01O012E 000000 DR. GRILO                               Presente PSL       Minas Gerais             235
+CD01O012E 000000 EDUARDO AZEREDO                         Presente PSDB      Minas Gerais             237
+CD01O012E 000000 EDUARDO BARBOSA                         Presente PSDB      Minas Gerais             230
+CD01O012E 000000 FÁBIO RAMALHO                           Presente PV        Minas Gerais             238
+CD01O012E 000000 GABRIEL GUIMARÃES                       Presente PT        Minas Gerais             244
+CD01O012E 000000 GEORGE HILTON                           Presente PRB       Minas Gerais             241
+CD01O012E 000000 GERALDO THADEU                          Presente PPS       Minas Gerais             236
+CD01O012E 000000 JAIME MARTINS                           Presente PR        Minas Gerais             240
+CD01O012E 000000 JAIRO ATAIDE                            Presente DEM       Minas Gerais             533
+CD01O012E 000000 JÔ MORAES                               Presente PCdoB     Minas Gerais             246
+CD01O012E 000000 JOÃO BITTAR                             Presente DEM       Minas Gerais             531
+CD01O012E 000000 JOÃO MAGALHÃES                          Presente PMDB      Minas Gerais             239
+CD01O012E 000000 JOSE HUMBERTO                           Presente PHS       Minas Gerais             249
+CD01O012E 000000 JÚLIO DELGADO                           Presente PSB       Minas Gerais             250
+CD01O012E 000000 LAEL VARELLA                            Presente DEM       Minas Gerais             245
+CD01O012E 000000 LEONARDO MONTEIRO                       Presente PT        Minas Gerais             253
+CD01O012E 000000 LEONARDO QUINTÃO                        Presente PMDB      Minas Gerais             255
+CD01O012E 000000 LINCOLN PORTELA                         Presente PR        Minas Gerais             243
+CD01O012E 000000 LUIS TIBÉ                               Presente PTdoB     Minas Gerais             251
+CD01O012E 000000 MÁRCIO REINALDO MOREIRA                 Presente PP        Minas Gerais             247
+CD01O012E 000000 MARCUS PESTANA                          Presente PSDB      Minas Gerais             254
+CD01O012E 000000 MÁRIO DE OLIVEIRA                       Presente PSC       Minas Gerais             260
+CD01O012E 000000 MAURO LOPES                             Presente PMDB      Minas Gerais             252
+CD01O012E 000000 MIGUEL CORRÊA                           Presente PT        Minas Gerais             261
+CD01O012E 000000 NEWTON CARDOSO                          Presente PMDB      Minas Gerais             258
+CD01O012E 000000 ODAIR CUNHA                             Presente PT        Minas Gerais             269
+CD01O012E 000000 PADRE JOAO                              Presente PT        Minas Gerais             259
+CD01O012E 000000 PAULO ABI-ACKEL                         Presente PSDB      Minas Gerais             263
+CD01O012E 000000 PAULO PIAU                              Presente PMDB      Minas Gerais             266
+CD01O012E 000000 REGINALDO LOPES                         Presente PT        Minas Gerais             272
+CD01O012E 000000 RENZO BRAZ                              Presente PP        Minas Gerais             262
+CD01O012E 000000 RODRIGO DE CASTRO                       Presente PSDB      Minas Gerais             268
+CD01O012E 000000 SARAIVA FELIPE                          Presente PMDB      Minas Gerais             265
+CD01O012E 000000 TONINHO PINHEIRO                        Presente PP        Minas Gerais             264
+CD01O012E 000000 VITOR PENIDO                            Presente DEM       Minas Gerais             532
+CD01O012E 000000 WALTER TOSTA                            Presente PMN       Minas Gerais             267
+CD01O012E 000000 ZÉ SILVA                                Presente PDT       Minas Gerais             271
+CD01O012E 000000 AUDIFAX                                 Presente PSB       Espírito Santo           274
+CD01O012E 000000 CAMILO COLA                             Presente PMDB      Espírito Santo           543
+CD01O012E 000000 CESAR COLNAGO                           Presente PSDB      Espírito Santo           276
+CD01O012E 000000 DR. JORGE SILVA                         Presente PDT       Espírito Santo           278
+CD01O012E 000000 LAURIETE                                Presente PSC       Espírito Santo           279
+CD01O012E 000000 LELO COIMBRA                            Presente PMDB      Espírito Santo           277
+CD01O012E 000000 MANATO                                  Presente PDT       Espírito Santo           275
+CD01O012E 000000 PAULO FOLETTO                           Presente PSB       Espírito Santo           280
+CD01O012E 000000 ROSE DE FREITAS                         Presente PMDB      Espírito Santo           282
+CD01O012E 000000 SUELI VIDIGAL                           Presente PDT       Espírito Santo           281
+CD01O012E 000000 ADRIAN                                  Presente PMDB      Rio de Janeiro           286
+CD01O012E 000000 ALESSANDRO MOLON                        Presente PT        Rio de Janeiro           287
+CD01O012E 000000 ALEXANDRE SANTOS                        Presente PMDB      Rio de Janeiro           285
+CD01O012E 000000 ALFREDO SIRKIS                          Presente PV        Rio de Janeiro           321
+CD01O012E 000000 ANTHONY GAROTINHO                       Presente PR        Rio de Janeiro           289
+CD01O012E 000000 AROLDE DE OLIVEIRA                      Presente DEM       Rio de Janeiro           288
+CD01O012E 000000 AUREO                                   Presente PRTB      Rio de Janeiro           290
+CD01O012E 000000 BENEDITA DA SILVA                       Presente PT        Rio de Janeiro           291
+CD01O012E 000000 CHICO ALENCAR                           Presente PSOL      Rio de Janeiro           295
+CD01O012E 000000 CHICO DANGELO                           Presente PT        Rio de Janeiro           527
+CD01O012E 000000 CRISTIANO                               Presente PTdoB     Rio de Janeiro           292
+CD01O012E 000000 DR. ADILSON SOARES                      Presente PR        Rio de Janeiro           293
+CD01O012E 000000 DR. ALUIZIO                             Presente PV        Rio de Janeiro           294
+CD01O012E 000000 DR. CARLOS ALBERTO                      Presente PMN       Rio de Janeiro           529
+CD01O012E 000000 DR. PAULO CÉSAR                         Presente PR        Rio de Janeiro           296
+CD01O012E 000000 EDSON EZEQUIEL                          Presente PMDB      Rio de Janeiro           298
+CD01O012E 000000 EDUARDO CUNHA                           Presente PMDB      Rio de Janeiro           300
+CD01O012E 000000 ELIANE ROLIM                            Presente PT        Rio de Janeiro           538
+CD01O012E 000000 FELIPE BORNIER                          Presente PHS       Rio de Janeiro           301
+CD01O012E 000000 FILIPE PEREIRA                          Presente PSC       Rio de Janeiro           303
+CD01O012E 000000 FRANCISCO FLORIANO                      Presente PR        Rio de Janeiro           297
+CD01O012E 000000 GLAUBER BRAGA                           Presente PSB       Rio de Janeiro           304
+CD01O012E 000000 HUGO LEAL                               Presente PSC       Rio de Janeiro           306
+CD01O012E 000000 JAIR BOLSONARO                          Presente PP        Rio de Janeiro           302
+CD01O012E 000000 JANDIRA FEGHALI                         Presente PCdoB     Rio de Janeiro           305
+CD01O012E 000000 JEAN WYLLYS                             Presente PSOL      Rio de Janeiro           307
+CD01O012E 000000 JULIO LOPES                             Presente PP        Rio de Janeiro           308
+CD01O012E 000000 LEONARDO PICCIANI                       Presente PMDB      Rio de Janeiro           312
+CD01O012E 000000 LILIAM SÁ                               Presente PR        Rio de Janeiro           309
+CD01O012E 000000 MARCELO MATOS                           Presente PDT       Rio de Janeiro           311
+CD01O012E 000000 MIRO TEIXEIRA                           Presente PDT       Rio de Janeiro           317
+CD01O012E 000000 NEILTON MULIM                           Presente PR        Rio de Janeiro           315
+CD01O012E 000000 OTAVIO LEITE                            Presente PSDB      Rio de Janeiro           316
+CD01O012E 000000 PEDRO PAULO                             Presente PMDB      Rio de Janeiro           314
+CD01O012E 000000 RODRIGO BETHLEM                         Presente PMDB      Rio de Janeiro           318
+CD01O012E 000000 RODRIGO MAIA                            Presente DEM       Rio de Janeiro           322
+CD01O012E 000000 ROMÁRIO                                 Presente PSB       Rio de Janeiro           319
+CD01O012E 000000 SERGIO ZVEITER                          Presente PDT       Rio de Janeiro           320
+CD01O012E 000000 SIMÃO SESSIM                            Presente PP        Rio de Janeiro           327
+CD01O012E 000000 STEPAN NERCESSIAN                       Presente PPS       Rio de Janeiro           323
+CD01O012E 000000 VITOR PAULO                             Presente PRB       Rio de Janeiro           324
+CD01O012E 000000 WALNEY ROCHA                            Presente PTB       Rio de Janeiro           325
+CD01O012E 000000 WASHINGTON REIS                         Presente PMDB      Rio de Janeiro           326
+CD01O012E 000000 ZOINHO                                  Presente PR        Rio de Janeiro           328
+CD01O012E 000000 ABELARDO CAMARINHA                      Presente PSB       São Paulo                329
+CD01O012E 000000 ALBERTO MOURÃO                          Presente PSDB      São Paulo                552
+CD01O012E 000000 ALDO REBELO                             Presente PCdoB     São Paulo                331
+CD01O012E 000000 ALEXANDRE LEITE                         Presente DEM       São Paulo                334
+CD01O012E 000000 ALINE CORRÊA                            Presente PP        São Paulo                330
+CD01O012E 000000 ANTONIO BULHÕES                         Presente PRB       São Paulo                333
+CD01O012E 000000 ANTONIO CARLOS MENDES THAME             Presente PSDB      São Paulo                332
+CD01O012E 000000 ARLINDO CHINAGLIA                       Presente PT        São Paulo                336
+CD01O012E 000000 ARNALDO FARIA DE SÁ                     Presente PTB       São Paulo                337
+CD01O012E 000000 ARNALDO JARDIM                          Presente PPS       São Paulo                339
+CD01O012E 000000 BETO MANSUR                             Presente PP        São Paulo                340
+CD01O012E 000000 BRUNA FURLAN                            Presente PSDB      São Paulo                335
+CD01O012E 000000 CÂNDIDO VACCAREZZA                      Presente PT        São Paulo                389
+CD01O012E 000000 CARLOS SAMPAIO                          Presente PSDB      São Paulo                338
+CD01O012E 000000 CARLOS ZARATTINI                        Presente PT        São Paulo                398
+CD01O012E 000000 DELEGADO PROTÓGENES                     Presente PCdoB     São Paulo                343
+CD01O012E 000000 DEVANIR RIBEIRO                         Presente PT        São Paulo                342
+CD01O012E 000000 DIMAS RAMALHO                           Presente PPS       São Paulo                346
+CD01O012E 000000 DR. UBIALI                              Presente PSB       São Paulo                541
+CD01O012E 000000 DUARTE NOGUEIRA                         Presente PSDB      São Paulo                350
+CD01O012E 000000 EDINHO ARAÚJO                           Presente PMDB      São Paulo                344
+CD01O012E 000000 ELEUSES PAIVA                           Presente DEM       São Paulo                537
+CD01O012E 000000 ELI CORREA FILHO                        Presente DEM       São Paulo                345
+CD01O012E 000000 GABRIEL CHALITA                         Presente PSB       São Paulo                347
+CD01O012E 000000 GUILHERME CAMPOS                        Presente DEM       São Paulo                357
+CD01O012E 000000 GUILHERME MUSSI                         Presente PV        São Paulo                348
+CD01O012E 000000 IVAN VALENTE                            Presente PSOL      São Paulo                359
+CD01O012E 000000 JANETE ROCHA PIETÁ                      Presente PT        São Paulo                358
+CD01O012E 000000 JILMAR TATTO                            Presente PT        São Paulo                360
+CD01O012E 000000 JOÃO DADO                               Presente PDT       São Paulo                362
+CD01O012E 000000 JONAS DONIZETTE                         Presente PSB       São Paulo                353
+CD01O012E 000000 JORGE TADEU MUDALEN                     Presente DEM       São Paulo                363
+CD01O012E 000000 JOSÉ DE FILIPPI JÚNIOR                  Presente PT        São Paulo                354
+CD01O012E 000000 JOSÉ MENTOR                             Presente PT        São Paulo                367
+CD01O012E 000000 JUNJI ABE                               Presente DEM       São Paulo                355
+CD01O012E 000000 KEIKO OTA                               Presente PSB       São Paulo                356
+CD01O012E 000000 LUIZ FERNANDO MACHADO                   Presente PSDB      São Paulo                365
+CD01O012E 000000 LUIZA ERUNDINA                          Presente PSB       São Paulo                371
+CD01O012E 000000 MARA GABRILLI                           Presente PSDB      São Paulo                366
+CD01O012E 000000 MARCELO AGUIAR                          Presente PSC       São Paulo                370
+CD01O012E 000000 MILTON MONTI                            Presente PR        São Paulo                374
+CD01O012E 000000 MISSIONÁRIO JOSÉ OLIMPIO                Presente PP        São Paulo                375
+CD01O012E 000000 NELSON MARQUEZELLI                      Presente PTB       São Paulo                381
+CD01O012E 000000 NEWTON LIMA                             Presente PT        São Paulo                377
+CD01O012E 000000 OTONIEL LIMA                            Presente PRB       São Paulo                378
+CD01O012E 000000 PASTOR MARCO FELICIANO                  Presente PSC       São Paulo                379
+CD01O012E 000000 PAULO FREIRE                            Presente PR        São Paulo                380
+CD01O012E 000000 PAULO MALUF                             Presente PP        São Paulo                373
+CD01O012E 000000 PAULO PEREIRA DA SILVA                  Presente PDT       São Paulo                372
+CD01O012E 000000 PAULO TEIXEIRA                          Presente PT        São Paulo                376
+CD01O012E 000000 PENNA                                   Presente PV        São Paulo                382
+CD01O012E 000000 RICARDO BERZOINI                        Presente PT        São Paulo                390
+CD01O012E 000000 RICARDO IZAR                            Presente PV        São Paulo                383
+CD01O012E 000000 RICARDO TRIPOLI                         Presente PSDB      São Paulo                384
+CD01O012E 000000 ROBERTO DE LUCENA                       Presente PV        São Paulo                385
+CD01O012E 000000 ROBERTO FREIRE                          Presente PPS       São Paulo                387
+CD01O012E 000000 ROBERTO SANTIAGO                        Presente PV        São Paulo                386
+CD01O012E 000000 RODRIGO GARCIA                          Presente DEM       São Paulo                388
+CD01O012E 000000 SALVADOR ZIMBALDI                       Presente PDT       São Paulo                391
+CD01O012E 000000 TIRIRICA                                Presente PR        São Paulo                392
+CD01O012E 000000 VANDERLEI MACRIS                        Presente PSDB      São Paulo                521
+CD01O012E 000000 VAZ DE LIMA                             Presente PSDB      São Paulo                394
+CD01O012E 000000 VICENTE CANDIDO                         Presente PT        São Paulo                395
+CD01O012E 000000 VICENTINHO                              Presente PT        São Paulo                396
+CD01O012E 000000 WALTER IHOSHI                           Presente DEM       São Paulo                553
+CD01O012E 000000 WILLIAM DIB                             Presente PSDB      São Paulo                397
+CD01O012E 000000 CARLOS BEZERRA                          Presente PMDB      Mato Grosso              400
+CD01O012E 000000 HOMERO PEREIRA                          Presente PR        Mato Grosso              402
+CD01O012E 000000 JÚLIO CAMPOS                            Presente DEM       Mato Grosso              399
+CD01O012E 000000 NERI GELLER                             Presente PP        Mato Grosso              520
+CD01O012E 000000 ROBERTO DORNER                          Presente PP        Mato Grosso              519
+CD01O012E 000000 SÁGUAS MORAES                           Presente PT        Mato Grosso              405
+CD01O012E 000000 VALTENIR PEREIRA                        Presente PSB       Mato Grosso              404
+CD01O012E 000000 ERIKA KOKAY                             Presente PT        Distrito Federal         407
+CD01O012E 000000 IZALCI                                  Presente PR        Distrito Federal         408
+CD01O012E 000000 POLICARPO                               Presente PT        Distrito Federal         539
+CD01O012E 000000 REGUFFE                                 Presente PDT       Distrito Federal         413
+CD01O012E 000000 RICARDO QUIRINO                         Presente PRB       Distrito Federal         551
+CD01O012E 000000 RONALDO FONSECA                         Presente PR        Distrito Federal         414
+CD01O012E 000000 ARMANDO VERGÍLIO                        Presente PMN       Goiás                    416
+CD01O012E 000000 CARLOS ALBERTO LERÉIA                   Presente PSDB      Goiás                    415
+CD01O012E 000000 FLÁVIA MORAIS                           Presente PDT       Goiás                    422
+CD01O012E 000000 HEULER CRUVINEL                         Presente DEM       Goiás                    423
+CD01O012E 000000 ÍRIS DE ARAÚJO                          Presente PMDB      Goiás                    417
+CD01O012E 000000 JOÃO CAMPOS                             Presente PSDB      Goiás                    418
+CD01O012E 000000 JORGE PINHEIRO                          Presente PRB       Goiás                    548
+CD01O012E 000000 JOVAIR ARANTES                          Presente PTB       Goiás                    419
+CD01O012E 000000 LEANDRO VILELA                          Presente PMDB      Goiás                    420
+CD01O012E 000000 PEDRO CHAVES                            Presente PMDB      Goiás                    428
+CD01O012E 000000 ROBERTO BALESTRA                        Presente PP        Goiás                    427
+CD01O012E 000000 RONALDO CAIADO                          Presente DEM       Goiás                    429
+CD01O012E 000000 RUBENS OTONI                            Presente PT        Goiás                    425
+CD01O012E 000000 SANDES JÚNIOR                           Presente PP        Goiás                    426
+CD01O012E 000000 SANDRO MABEL                            Presente PR        Goiás                    431
+CD01O012E 000000 THIAGO PEIXOTO                          Presente PMDB      Goiás                    424
+CD01O012E 000000 VALDIVINO DE OLIVEIRA                   Presente PSDB      Goiás                    547
+CD01O012E 000000 ANTÔNIO CARLOS BIFFI                    Presente PT        Mato Grosso do Sul       432
+CD01O012E 000000 FABIO TRAD                              Presente PMDB      Mato Grosso do Sul       433
+CD01O012E 000000 GERALDO RESENDE                         Presente PMDB      Mato Grosso do Sul       435
+CD01O012E 000000 GIROTO                                  Presente PR        Mato Grosso do Sul       434
+CD01O012E 000000 MANDETTA                                Presente DEM       Mato Grosso do Sul       436
+CD01O012E 000000 MARÇAL FILHO                            Presente PMDB      Mato Grosso do Sul       437
+CD01O012E 000000 REINALDO AZAMBUJA                       Presente PSDB      Mato Grosso do Sul       439
+CD01O012E 000000 VANDER LOUBET                           Presente PT        Mato Grosso do Sul       438
+CD01O012E 000000 ABELARDO LUPION                         Presente DEM       Paraná                   440
+CD01O012E 000000 ALFREDO KAEFER                          Presente PSDB      Paraná                   451
+CD01O012E 000000 ANDRÉ VARGAS                            Presente PT        Paraná                   452
+CD01O012E 000000 ANDRÉ ZACHAROW                          Presente PMDB      Paraná                   441
+CD01O012E 000000 ASSIS DO COUTO                          Presente PT        Paraná                   443
+CD01O012E 000000 CIDA BORGHETTI                          Presente PP        Paraná                   442
+CD01O012E 000000 DILCEU SPERAFICO                        Presente PP        Paraná                   444
+CD01O012E 000000 DR. ROSINHA                             Presente PT        Paraná                   449
+CD01O012E 000000 EDMAR ARRUDA                            Presente PSC       Paraná                   446
+CD01O012E 000000 EDUARDO SCIARRA                         Presente DEM       Paraná                   461
+CD01O012E 000000 FERNANDO FRANCISCHINI                   Presente PSDB      Paraná                   450
+CD01O012E 000000 GIACOBO                                 Presente PR        Paraná                   466
+CD01O012E 000000 HERMES PARCIANELLO                      Presente PMDB      Paraná                   448
+CD01O012E 000000 JOÃO ARRUDA                             Presente PMDB      Paraná                   455
+CD01O012E 000000 LEOPOLDO MEYER                          Presente PSB       Paraná                   456
+CD01O012E 000000 LUIZ CARLOS SETIM                       Presente DEM       Paraná                   535
+CD01O012E 000000 LUIZ NISHIMORI                          Presente PSDB      Paraná                   542
+CD01O012E 000000 MOACIR MICHELETTO                       Presente PMDB      Paraná                   462
+CD01O012E 000000 NELSON MEURER                           Presente PP        Paraná                   458
+CD01O012E 000000 NELSON PADOVANI                         Presente PSC       Paraná                   457
+CD01O012E 000000 OSMAR SERRAGLIO                         Presente PMDB      Paraná                   463
+CD01O012E 000000 RATINHO JUNIOR                          Presente PSC       Paraná                   464
+CD01O012E 000000 REINHOLD STEPHANES                      Presente PMDB      Paraná                   467
+CD01O012E 000000 ROSANE FERREIRA                         Presente PV        Paraná                   459
+CD01O012E 000000 RUBENS BUENO                            Presente PPS       Paraná                   460
+CD01O012E 000000 SANDRO ALEX                             Presente PPS       Paraná                   465
+CD01O012E 000000 TAKAYAMA                                Presente PSC       Paraná                   469
+CD01O012E 000000 ZECA DIRCEU                             Presente PT        Paraná                   468
+CD01O012E 000000 CELSO MALDANER                          Presente PMDB      Santa Catarina           472
+CD01O012E 000000 EDINHO BEZ                              Presente PMDB      Santa Catarina           470
+CD01O012E 000000 ESPERIDIÃO AMIN                         Presente PP        Santa Catarina           471
+CD01O012E 000000 JORGE BOEIRA                            Presente PT        Santa Catarina           474
+CD01O012E 000000 JORGINHO MELLO                          Presente PSDB      Santa Catarina           476
+CD01O012E 000000 LUCI CHOINACKI                          Presente PT        Santa Catarina           477
+CD01O012E 000000 MARCO TEBALDI                           Presente PSDB      Santa Catarina           478
+CD01O012E 000000 ONOFRE SANTO AGOSTINI                   Presente DEM       Santa Catarina           479
+CD01O012E 000000 PEDRO UCZAI                             Presente PT        Santa Catarina           481
+CD01O012E 000000 ROGÉRIO PENINHA MENDONÇA                Presente PMDB      Santa Catarina           483
+CD01O012E 000000 RONALDO BENEDET                         Presente PMDB      Santa Catarina           484
+CD01O012E 000000 ZONTA                                   Presente PP        Santa Catarina           485
+CD01O012E 000000 ALCEU MOREIRA                           Presente PMDB      Rio Grande do Sul        486
+CD01O012E 000000 ALEXANDRE ROSO                          Presente PSB       Rio Grande do Sul        489
+CD01O012E 000000 ASSIS MELO                              Presente PCdoB     Rio Grande do Sul        492
+CD01O012E 000000 DANRLEI DE DEUS HINTERHOLZ              Presente PTB       Rio Grande do Sul        495
+CD01O012E 000000 ELVINO BOHN GASS                        Presente PT        Rio Grande do Sul        499
+CD01O012E 000000 ENIO BACCI                              Presente PDT       Rio Grande do Sul        493
+CD01O012E 000000 FERNANDO MARRONI                        Presente PT        Rio Grande do Sul        525
+CD01O012E 000000 GIOVANI CHERINI                         Presente PDT       Rio Grande do Sul        502
+CD01O012E 000000 HENRIQUE FONTANA                        Presente PT        Rio Grande do Sul        498
+CD01O012E 000000 JERONIMO GOERGEN                        Presente PP        Rio Grande do Sul        505
+CD01O012E 000000 JOSÉ OTÁVIO GERMANO                     Presente PP        Rio Grande do Sul        501
+CD01O012E 000000 JOSE STÉDILE                            Presente PSB       Rio Grande do Sul        506
+CD01O012E 000000 LUIS CARLOS HEINZE                      Presente PP        Rio Grande do Sul        500
+CD01O012E 000000 LUIZ NOÉ                                Presente PSB       Rio Grande do Sul        536
+CD01O012E 000000 MANUELA D`ÁVILA                         Presente PCdoB     Rio Grande do Sul        494
+CD01O012E 000000 MARCO MAIA                              Presente PT        Rio Grande do Sul        496
+CD01O012E 000000 MARCON                                  Presente PT        Rio Grande do Sul        507
+CD01O012E 000000 MENDES RIBEIRO FILHO                    Presente PMDB      Rio Grande do Sul        504
+CD01O012E 000000 NELSON MARCHEZAN JUNIOR                 Presente PSDB      Rio Grande do Sul        509
+CD01O012E 000000 ONYX LORENZONI                          Presente DEM       Rio Grande do Sul        510
+CD01O012E 000000 OSMAR TERRA                             Presente PMDB      Rio Grande do Sul        497
+CD01O012E 000000 PAULO PIMENTA                           Presente PT        Rio Grande do Sul        513
+CD01O012E 000000 PEPE VARGAS                             Presente PT        Rio Grande do Sul        503
+CD01O012E 000000 RENATO MOLLING                          Presente PP        Rio Grande do Sul        511
+CD01O012E 000000 RONALDO ZULKE                           Presente PT        Rio Grande do Sul        515
+CD01O012E 000000 SÉRGIO MORAES                           Presente PTB       Rio Grande do Sul        512
+CD01O012E 000000 VIEIRA DA CUNHA                         Presente PDT       Rio Grande do Sul        514
+CD01O012E 000000 VILSON COVATTI                          Presente PP        Rio Grande do Sul        516
+CD01O012E 000000 FÁTIMA PELAES                           <------> PMDB      Amapá                    12 
+CD01O012E 000000 MARINHA RAUPP                           <------> PMDB      Rondonia                 50 
+CD01O012E 000000 MAURO NAZIF                             <------> PSB       Rondonia                 46 
+CD01O012E 000000 MARCIO BITTAR                           <------> PSDB      Acre                     57 
+CD01O012E 000000 ANÍBAL GOMES                            <------> PMDB      Ceará                    87 
+CD01O012E 000000 JOSÉ LINHARES                           <------> PP        Ceará                    96 
+CD01O012E 000000 MARCELO CASTRO                          <------> PMDB      Piauí                    110
+CD01O012E 000000 WELLINGTON ROBERTO                      <------> PR        Paraíba                  136
+CD01O012E 000000 EDUARDO DA FONTE                        <------> PP        Pernambuco               156
+CD01O012E 000000 FERNANDO FERRO                          <------> PT        Pernambuco               141
+CD01O012E 000000 PAULO MAGALHÃES                         <------> DEM       Bahia                    214
+CD01O012E 000000 EROS BIONDINI                           <------> PTB       Minas Gerais             242
+CD01O012E 000000 GILMAR MACHADO                          <------> PT        Minas Gerais             234
+CD01O012E 000000 LUIZ FERNANDO FARIA                     <------> PP        Minas Gerais             256
+CD01O012E 000000 MARCOS MONTES                           <------> DEM       Minas Gerais             257
+CD01O012E 000000 WELITON PRADO                           <------> PT        Minas Gerais             270
+CD01O012E 000000 ANDREIA ZITO                            <------> PSDB      Rio de Janeiro           283
+CD01O012E 000000 EDSON SANTOS                            <------> PT        Rio de Janeiro           299
+CD01O012E 000000 JEFFERSON CAMPOS                        <------> PSB       São Paulo                349
+CD01O012E 000000 JOÃO PAULO CUNHA                        <------> PT        São Paulo                361
+CD01O012E 000000 VALDEMAR COSTA NETO                     <------> PR        São Paulo                393
+CD01O012E 000000 WELLINGTON FAGUNDES                     <------> PR        Mato Grosso              406
+CD01O012E 000000 AUGUSTO CARVALHO                        <------> PPS       Distrito Federal         545
+CD01O012E 000000 JAQUELINE RORIZ                         <------> PMN       Distrito Federal         409
+CD01O012E 000000 ALEX CANZIANI                           <------> PTB       Paraná                   445
+CD01O012E 000000 ANGELO VANHONI                          <------> PT        Paraná                   453
+CD01O012E 000000 DÉCIO LIMA                              <------> PT        Santa Catarina           475
+CD01O012E 000000 JOÃO RODRIGUES                          <------> DEM       Santa Catarina           473
+CD01O012E 000000 MAURO MARIANI                           <------> PMDB      Santa Catarina           480
+CD01O012E 000000 PAULO BORNHAUSEN                        <------> DEM       Santa Catarina           482
+CD01O012E 000000 AFONSO HAMM                             <------> PP        Rio Grande do Sul        487
+CD01O012E 000000 DARCÍSIO PERONDI                        <------> PMDB      Rio Grande do Sul        491

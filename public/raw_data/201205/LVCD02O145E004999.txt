@@ -1,0 +1,512 @@
+CD02O145E 004999 BERINHO BANTIM                          Sim       PSDB      Roraima                  1
+CD02O145E 004999 FRANCISCO ARAÚJO                        Sim       PSD       Roraima                  570
+CD02O145E 004999 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD02O145E 004999 DALVA FIGUEIREDO                        Sim       PT        Amapá                    9  
+CD02O145E 004999 DAVI ALCOLUMBRE                         Sim       DEM       Amapá                    10 
+CD02O145E 004999 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD02O145E 004999 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD02O145E 004999 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD02O145E 004999 BETO FARO                               Sim       PT        Pará                     19 
+CD02O145E 004999 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD02O145E 004999 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD02O145E 004999 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD02O145E 004999 LÚCIO VALE                              Obstrução PR        Pará                     29 
+CD02O145E 004999 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD02O145E 004999 WLADIMIR COSTA                          Sim       PMDB      Pará                     23 
+CD02O145E 004999 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CD02O145E 004999 ZENALDO COUTINHO                        Sim       PSDB      Pará                     34 
+CD02O145E 004999 ÁTILA LINS                              Sim       PSD       Amazonas                 38 
+CD02O145E 004999 PAUDERNEY AVELINO                       Sim       DEM       Amazonas                 40 
+CD02O145E 004999 REBECCA GARCIA                          Sim       PP        Amazonas                 42 
+CD02O145E 004999 SABINO CASTELO BRANCO                   Sim       PTB       Amazonas                 43 
+CD02O145E 004999 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD02O145E 004999 MARCOS ROGÉRIO                          Sim       PDT       Rondonia                 583
+CD02O145E 004999 MAURO NAZIF                             Sim       PSB       Rondonia                 46 
+CD02O145E 004999 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD02O145E 004999 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD02O145E 004999 GLADSON CAMELI                          Sim       PP        Acre                     55 
+CD02O145E 004999 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD02O145E 004999 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD02O145E 004999 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD02O145E 004999 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD02O145E 004999 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD02O145E 004999 IRAJÁ ABREU                             Sim       PSD       Tocantins                65 
+CD02O145E 004999 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD02O145E 004999 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD02O145E 004999 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD02O145E 004999 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD02O145E 004999 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD02O145E 004999 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD02O145E 004999 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD02O145E 004999 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD02O145E 004999 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CD02O145E 004999 LOURIVAL MENDES                         Abstenção PTdoB     Maranhão                 77 
+CD02O145E 004999 NICE LOBÃO                              Sim       PSD       Maranhão                 78 
+CD02O145E 004999 PEDRO NOVAIS                            Sim       PMDB      Maranhão                 82 
+CD02O145E 004999 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD02O145E 004999 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD02O145E 004999 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD02O145E 004999 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD02O145E 004999 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CD02O145E 004999 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD02O145E 004999 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD02O145E 004999 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD02O145E 004999 MANOEL SALVIANO                         Sim       PSD       Ceará                    104
+CD02O145E 004999 MÁRIO FEITOZA                           Sim       PMDB      Ceará                    590
+CD02O145E 004999 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD02O145E 004999 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD02O145E 004999 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CD02O145E 004999 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD02O145E 004999 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD02O145E 004999 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD02O145E 004999 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD02O145E 004999 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD02O145E 004999 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD02O145E 004999 PAES LANDIM                             Sim       PTB       Piauí                    118
+CD02O145E 004999 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD02O145E 004999 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD02O145E 004999 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD02O145E 004999 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD02O145E 004999 ROGÉRIO MARINHO                         Sim       PSDB      Rio Grande do Norte      540
+CD02O145E 004999 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CD02O145E 004999 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD02O145E 004999 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD02O145E 004999 ANDERSON FERREIRA                       Obstrução PR        Pernambuco               142
+CD02O145E 004999 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD02O145E 004999 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CD02O145E 004999 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD02O145E 004999 EDUARDO DA FONTE                        Sim       PP        Pernambuco               156
+CD02O145E 004999 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD02O145E 004999 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD02O145E 004999 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD02O145E 004999 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD02O145E 004999 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD02O145E 004999 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD02O145E 004999 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD02O145E 004999 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD02O145E 004999 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD02O145E 004999 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD02O145E 004999 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD02O145E 004999 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CD02O145E 004999 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD02O145E 004999 VILALBA                                 Sim       PRB       Pernambuco               555
+CD02O145E 004999 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD02O145E 004999 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD02O145E 004999 GIVALDO CARIMBÃO                        Sim       PSB       Alagoas                  166
+CD02O145E 004999 JOAQUIM BELTRÃO                         Sim       PMDB      Alagoas                  172
+CD02O145E 004999 MAURÍCIO QUINTELLA LESSA                Obstrução PR        Alagoas                  168
+CD02O145E 004999 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD02O145E 004999 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD02O145E 004999 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD02O145E 004999 LAERCIO OLIVEIRA                        Obstrução PR        Sergipe                  176
+CD02O145E 004999 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD02O145E 004999 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD02O145E 004999 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD02O145E 004999 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CD02O145E 004999 AFONSO FLORENCE                         Sim       PT        Bahia                    182
+CD02O145E 004999 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD02O145E 004999 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD02O145E 004999 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD02O145E 004999 ARTHUR OLIVEIRA MAIA                    Sim       PMDB      Bahia                    192
+CD02O145E 004999 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD02O145E 004999 EDSON PIMENTA                           Sim       PSD       Bahia                    193
+CD02O145E 004999 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD02O145E 004999 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD02O145E 004999 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CD02O145E 004999 JOSÉ ROCHA                              Obstrução PR        Bahia                    203
+CD02O145E 004999 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD02O145E 004999 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD02O145E 004999 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD02O145E 004999 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD02O145E 004999 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD02O145E 004999 MÁRIO NEGROMONTE                        Sim       PP        Bahia                    210
+CD02O145E 004999 SÉRGIO BRITO                            Sim       PSD       Bahia                    213
+CD02O145E 004999 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD02O145E 004999 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD02O145E 004999 ADEMIR CAMILO                           Sim       PSD       Minas Gerais             220
+CD02O145E 004999 AELTON FREITAS                          Obstrução PR        Minas Gerais             224
+CD02O145E 004999 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD02O145E 004999 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD02O145E 004999 BERNARDO SANTANA DE VASCONCELLO         Obstrução PR        Minas Gerais             221
+CD02O145E 004999 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD02O145E 004999 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD02O145E 004999 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD02O145E 004999 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD02O145E 004999 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD02O145E 004999 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD02O145E 004999 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CD02O145E 004999 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CD02O145E 004999 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD02O145E 004999 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD02O145E 004999 LINCOLN PORTELA                         Obstrução PR        Minas Gerais             243
+CD02O145E 004999 MÁRCIO REINALDO MOREIRA                 Sim       PP        Minas Gerais             247
+CD02O145E 004999 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD02O145E 004999 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD02O145E 004999 MAURO LOPES                             Sim       PMDB      Minas Gerais             252
+CD02O145E 004999 NEWTON CARDOSO                          Sim       PMDB      Minas Gerais             258
+CD02O145E 004999 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CD02O145E 004999 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD02O145E 004999 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD02O145E 004999 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD02O145E 004999 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD02O145E 004999 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD02O145E 004999 WALTER TOSTA                            Sim       PSD       Minas Gerais             267
+CD02O145E 004999 ZÉ SILVA                                Sim       PDT       Minas Gerais             271
+CD02O145E 004999 AUDIFAX                                 Sim       PSB       Espírito Santo           274
+CD02O145E 004999 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD02O145E 004999 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD02O145E 004999 MANATO                                  Sim       PDT       Espírito Santo           275
+CD02O145E 004999 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD02O145E 004999 ROSE DE FREITAS                         Sim       PMDB      Espírito Santo           282
+CD02O145E 004999 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD02O145E 004999 ANTHONY GAROTINHO                       Obstrução PR        Rio de Janeiro           289
+CD02O145E 004999 AUREO                                   Sim       PRTB      Rio de Janeiro           290
+CD02O145E 004999 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD02O145E 004999 DELEY                                   Sim       PSC       Rio de Janeiro           562
+CD02O145E 004999 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD02O145E 004999 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD02O145E 004999 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD02O145E 004999 DR. PAULO CÉSAR                         Sim       PSD       Rio de Janeiro           296
+CD02O145E 004999 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD02O145E 004999 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD02O145E 004999 FELIPE BORNIER                          Sim       PSD       Rio de Janeiro           301
+CD02O145E 004999 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD02O145E 004999 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD02O145E 004999 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD02O145E 004999 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD02O145E 004999 LEONARDO PICCIANI                       Sim       PMDB      Rio de Janeiro           312
+CD02O145E 004999 LUIZ SÉRGIO                             Sim       PT        Rio de Janeiro           313
+CD02O145E 004999 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD02O145E 004999 NEILTON MULIM                           Sim       PR        Rio de Janeiro           315
+CD02O145E 004999 NELSON BORNIER                          Sim       PMDB      Rio de Janeiro           549
+CD02O145E 004999 PAULO FEIJÓ                             Obstrução PR        Rio de Janeiro           577
+CD02O145E 004999 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD02O145E 004999 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD02O145E 004999 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD02O145E 004999 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD02O145E 004999 ALBERTO MOURÃO                          Sim       PSDB      São Paulo                552
+CD02O145E 004999 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD02O145E 004999 ALINE CORRÊA                            Sim       PP        São Paulo                330
+CD02O145E 004999 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD02O145E 004999 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD02O145E 004999 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD02O145E 004999 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD02O145E 004999 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD02O145E 004999 CÂNDIDO VACCAREZZA                      Sim       PT        São Paulo                389
+CD02O145E 004999 CARLINHOS ALMEIDA                       Sim       PT        São Paulo                341
+CD02O145E 004999 CARLOS SAMPAIO                          Sim       PSDB      São Paulo                338
+CD02O145E 004999 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD02O145E 004999 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD02O145E 004999 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD02O145E 004999 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD02O145E 004999 ELEUSES PAIVA                           Sim       PSD       São Paulo                537
+CD02O145E 004999 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD02O145E 004999 EMANUEL FERNANDES                       Sim       PSDB      São Paulo                352
+CD02O145E 004999 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD02O145E 004999 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD02O145E 004999 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD02O145E 004999 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD02O145E 004999 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD02O145E 004999 JONAS DONIZETTE                         Sim       PSB       São Paulo                353
+CD02O145E 004999 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD02O145E 004999 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD02O145E 004999 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD02O145E 004999 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD02O145E 004999 MARCELO AGUIAR                          Sim       PSD       São Paulo                370
+CD02O145E 004999 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD02O145E 004999 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD02O145E 004999 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD02O145E 004999 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD02O145E 004999 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD02O145E 004999 PAULO FREIRE                            Obstrução PR        São Paulo                380
+CD02O145E 004999 PAULO MALUF                             Sim       PP        São Paulo                373
+CD02O145E 004999 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CD02O145E 004999 PENNA                                   Sim       PV        São Paulo                382
+CD02O145E 004999 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CD02O145E 004999 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD02O145E 004999 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD02O145E 004999 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CD02O145E 004999 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CD02O145E 004999 TIRIRICA                                Sim       PR        São Paulo                392
+CD02O145E 004999 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD02O145E 004999 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD02O145E 004999 VICENTE CANDIDO                         Sim       PT        São Paulo                395
+CD02O145E 004999 WALTER FELDMAN                          Sim       PSDB      São Paulo                550
+CD02O145E 004999 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD02O145E 004999 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD02O145E 004999 ELIENE LIMA                             Sim       PSD       Mato Grosso              401
+CD02O145E 004999 HOMERO PEREIRA                          Sim       PSD       Mato Grosso              402
+CD02O145E 004999 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD02O145E 004999 NILSON LEITÃO                           Sim       PSDB      Mato Grosso              573
+CD02O145E 004999 PEDRO HENRY                             Sim       PP        Mato Grosso              403
+CD02O145E 004999 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD02O145E 004999 WELLINGTON FAGUNDES                     Sim       PR        Mato Grosso              406
+CD02O145E 004999 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD02O145E 004999 IZALCI                                  Sim       PR        Distrito Federal         408
+CD02O145E 004999 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD02O145E 004999 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD02O145E 004999 POLICARPO                               Sim       PT        Distrito Federal         539
+CD02O145E 004999 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD02O145E 004999 ARMANDO VERGÍLIO                        Sim       PSD       Goiás                    416
+CD02O145E 004999 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD02O145E 004999 HEULER CRUVINEL                         Sim       PSD       Goiás                    423
+CD02O145E 004999 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD02O145E 004999 JOVAIR ARANTES                          Sim       PTB       Goiás                    419
+CD02O145E 004999 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CD02O145E 004999 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD02O145E 004999 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD02O145E 004999 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD02O145E 004999 SANDES JÚNIOR                           Sim       PP        Goiás                    426
+CD02O145E 004999 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CD02O145E 004999 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD02O145E 004999 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD02O145E 004999 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD02O145E 004999 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD02O145E 004999 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD02O145E 004999 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD02O145E 004999 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD02O145E 004999 ALEX CANZIANI                           Sim       PTB       Paraná                   445
+CD02O145E 004999 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD02O145E 004999 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD02O145E 004999 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD02O145E 004999 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD02O145E 004999 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD02O145E 004999 DR. ROSINHA                             Sim       PT        Paraná                   449
+CD02O145E 004999 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD02O145E 004999 FERNANDO FRANCISCHINI                   Sim       PSDB      Paraná                   450
+CD02O145E 004999 GIACOBO                                 Obstrução PR        Paraná                   466
+CD02O145E 004999 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD02O145E 004999 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD02O145E 004999 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD02O145E 004999 NELSON MEURER                           Sim       PP        Paraná                   458
+CD02O145E 004999 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD02O145E 004999 ODÍLIO BALBINOTTI                       Sim       PMDB      Paraná                   588
+CD02O145E 004999 REINHOLD STEPHANES                      Sim       PSD       Paraná                   467
+CD02O145E 004999 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD02O145E 004999 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD02O145E 004999 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD02O145E 004999 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD02O145E 004999 MARCO TEBALDI                           Sim       PSDB      Santa Catarina           478
+CD02O145E 004999 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CD02O145E 004999 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD02O145E 004999 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CD02O145E 004999 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD02O145E 004999 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD02O145E 004999 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD02O145E 004999 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD02O145E 004999 DANRLEI DE DEUS HINTERHOLZ              Sim       PSD       Rio Grande do Sul        495
+CD02O145E 004999 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD02O145E 004999 ELISEU PADILHA                          Sim       PMDB      Rio Grande do Sul        578
+CD02O145E 004999 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD02O145E 004999 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD02O145E 004999 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD02O145E 004999 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD02O145E 004999 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD02O145E 004999 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD02O145E 004999 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD02O145E 004999 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD02O145E 004999 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD02O145E 004999 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD02O145E 004999 PAULO FERREIRA                          Sim       PT        Rio Grande do Sul        591
+CD02O145E 004999 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD02O145E 004999 SÉRGIO MORAES                           Sim       PTB       Rio Grande do Sul        512
+CD02O145E 004999 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD02O145E 004999 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD02O145E 004999 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD02O145E 004999 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD02O145E 004999 RUI PALMEIRA                            <-------> PSDB      Alagoas                  171
+CD02O145E 004999 CARLOS SOUZA                            <-------> PSD       Amazonas                 37 
+CD02O145E 004999 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD02O145E 004999 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD02O145E 004999 FRANCISCO PRACIANO                      <-------> PT        Amazonas                 41 
+CD02O145E 004999 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD02O145E 004999 EVANDRO MILHOMEN                        <-------> PCdoB     Amapá                    11 
+CD02O145E 004999 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD02O145E 004999 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD02O145E 004999 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD02O145E 004999 ROBERTO BRITTO                          <-------> PP        Bahia                    211
+CD02O145E 004999 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD02O145E 004999 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD02O145E 004999 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD02O145E 004999 MARCOS MEDRADO                          <-------> PDT       Bahia                    200
+CD02O145E 004999 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD02O145E 004999 ANTONIO IMBASSAHY                       <-------> PSDB      Bahia                    191
+CD02O145E 004999 ANTONIO BRITO                           <-------> PTB       Bahia                    189
+CD02O145E 004999 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD02O145E 004999 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD02O145E 004999 PAULO MAGALHÃES                         <-------> PSD       Bahia                    214
+CD02O145E 004999 GERALDO SIMÕES                          <-------> PT        Bahia                    185
+CD02O145E 004999 JOÃO LEÃO                               <-------> PP        Bahia                    199
+CD02O145E 004999 ZEZÉU RIBEIRO                           <-------> PT        Bahia                    217
+CD02O145E 004999 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD02O145E 004999 JOSÉ NUNES                              <-------> PSD       Bahia                    201
+CD02O145E 004999 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD02O145E 004999 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD02O145E 004999 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD02O145E 004999 GERA ARRUDA                             <-------> PMDB      Ceará                    592
+CD02O145E 004999 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD02O145E 004999 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD02O145E 004999 ARTUR BRUNO                             <-------> PT        Ceará                    94 
+CD02O145E 004999 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD02O145E 004999 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD02O145E 004999 ARIOSTO HOLANDA                         <-------> PSB       Ceará                    92 
+CD02O145E 004999 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD02O145E 004999 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD02O145E 004999 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD02O145E 004999 RONALDO FONSECA                         <-------> PR        Distrito Federal         414
+CD02O145E 004999 ERIKA KOKAY                             <-------> PT        Distrito Federal         407
+CD02O145E 004999 IRINY LOPES                             <-------> PT        Espírito Santo           273
+CD02O145E 004999 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD02O145E 004999 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD02O145E 004999 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD02O145E 004999 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD02O145E 004999 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD02O145E 004999 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD02O145E 004999 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD02O145E 004999 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD02O145E 004999 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD02O145E 004999 LEONARDO VILELA                         <-------> PSDB      Goiás                    421
+CD02O145E 004999 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD02O145E 004999 COSTA FERREIRA                          <-------> PSC       Maranhão                 571
+CD02O145E 004999 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD02O145E 004999 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD02O145E 004999 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD02O145E 004999 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD02O145E 004999 WEVERTON ROCHA                          <-------> PDT       Maranhão                 579
+CD02O145E 004999 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD02O145E 004999 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD02O145E 004999 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD02O145E 004999 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD02O145E 004999 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD02O145E 004999 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD02O145E 004999 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD02O145E 004999 EROS BIONDINI                           <-------> PTB       Minas Gerais             242
+CD02O145E 004999 JÔ MORAES                               <-------> PCdoB     Minas Gerais             246
+CD02O145E 004999 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD02O145E 004999 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD02O145E 004999 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD02O145E 004999 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD02O145E 004999 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD02O145E 004999 SARAIVA FELIPE                          <-------> PMDB      Minas Gerais             265
+CD02O145E 004999 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD02O145E 004999 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD02O145E 004999 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD02O145E 004999 JOSÉ HUMBERTO                           <-------> PHS       Minas Gerais             249
+CD02O145E 004999 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD02O145E 004999 STEFANO AGUIAR                          <-------> PSC       Minas Gerais             558
+CD02O145E 004999 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD02O145E 004999 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD02O145E 004999 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD02O145E 004999 DIEGO ANDRADE                           <-------> PSD       Minas Gerais             228
+CD02O145E 004999 GIROTO                                  <-------> PMDB      Mato Grosso do Sul       434
+CD02O145E 004999 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD02O145E 004999 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD02O145E 004999 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD02O145E 004999 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD02O145E 004999 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD02O145E 004999 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD02O145E 004999 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD02O145E 004999 ROMERO RODRIGUES                        <-------> PSDB      Paraíba                  135
+CD02O145E 004999 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD02O145E 004999 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD02O145E 004999 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD02O145E 004999 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD02O145E 004999 LUIZ COUTO                              <-------> PT        Paraíba                  133
+CD02O145E 004999 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD02O145E 004999 LEONARDO GADELHA                        <-------> PSC       Paraíba                  586
+CD02O145E 004999 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD02O145E 004999 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD02O145E 004999 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD02O145E 004999 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD02O145E 004999 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD02O145E 004999 JOÃO PAULO  LIMA                        <-------> PT        Pernambuco               149
+CD02O145E 004999 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD02O145E 004999 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD02O145E 004999 ASSIS CARVALHO                          <-------> PT        Piauí                    111
+CD02O145E 004999 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD02O145E 004999 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD02O145E 004999 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD02O145E 004999 TAKAYAMA                                <-------> PSC       Paraná                   469
+CD02O145E 004999 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD02O145E 004999 ROSANE FERREIRA                         <-------> PV        Paraná                   459
+CD02O145E 004999 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD02O145E 004999 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD02O145E 004999 EDMAR ARRUDA                            <-------> PSC       Paraná                   446
+CD02O145E 004999 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD02O145E 004999 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD02O145E 004999 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD02O145E 004999 AROLDE DE OLIVEIRA                      <-------> PSD       Rio de Janeiro           288
+CD02O145E 004999 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD02O145E 004999 LILIAM SÁ                               <-------> PSD       Rio de Janeiro           309
+CD02O145E 004999 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD02O145E 004999 CHICO D`ANGELO                          <-------> PT        Rio de Janeiro           527
+CD02O145E 004999 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD02O145E 004999 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD02O145E 004999 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD02O145E 004999 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD02O145E 004999 BENEDITA DA SILVA                       <-------> PT        Rio de Janeiro           291
+CD02O145E 004999 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD02O145E 004999 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD02O145E 004999 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD02O145E 004999 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD02O145E 004999 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD02O145E 004999 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD02O145E 004999 ZOINHO                                  <-------> PR        Rio de Janeiro           328
+CD02O145E 004999 FÁBIO FARIA                             <-------> PSD       Rio Grande do Norte      119
+CD02O145E 004999 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD02O145E 004999 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD02O145E 004999 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD02O145E 004999 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD02O145E 004999 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD02O145E 004999 PADRE TON                               <-------> PT        Rondonia                 48 
+CD02O145E 004999 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD02O145E 004999 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD02O145E 004999 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD02O145E 004999 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD02O145E 004999 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD02O145E 004999 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD02O145E 004999 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD02O145E 004999 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD02O145E 004999 ASSIS MELO                              <-------> PCdoB     Rio Grande do Sul        492
+CD02O145E 004999 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD02O145E 004999 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD02O145E 004999 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD02O145E 004999 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD02O145E 004999 RONALDO ZULKE                           <-------> PT        Rio Grande do Sul        515
+CD02O145E 004999 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD02O145E 004999 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD02O145E 004999 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD02O145E 004999 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD02O145E 004999 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD02O145E 004999 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD02O145E 004999 CELSO MALDANER                          <-------> PMDB      Santa Catarina           472
+CD02O145E 004999 JORGE BOEIRA                            <-------> PSD       Santa Catarina           474
+CD02O145E 004999 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD02O145E 004999 EDINHO BEZ                              <-------> PMDB      Santa Catarina           470
+CD02O145E 004999 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD02O145E 004999 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD02O145E 004999 ALMEIDA LIMA                            <-------> PPS       Sergipe                  173
+CD02O145E 004999 HELENO SILVA                            <-------> PRB       Sergipe                  175
+CD02O145E 004999 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD02O145E 004999 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD02O145E 004999 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD02O145E 004999 JEFFERSON CAMPOS                        <-------> PSD       São Paulo                349
+CD02O145E 004999 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD02O145E 004999 JOSÉ DE FILIPPI                         <-------> PT        São Paulo                354
+CD02O145E 004999 EDINHO ARAÚJO                           <-------> PMDB      São Paulo                344
+CD02O145E 004999 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD02O145E 004999 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD02O145E 004999 BETO MANSUR                             <-------> PP        São Paulo                340
+CD02O145E 004999 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD02O145E 004999 VICENTINHO                              <-------> PT        São Paulo                396
+CD02O145E 004999 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD02O145E 004999 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD02O145E 004999 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD02O145E 004999 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD02O145E 004999 MILTON MONTI                            <-------> PR        São Paulo                374
+CD02O145E 004999 LUIZA ERUNDINA                          <-------> PSB       São Paulo                371
+CD02O145E 004999 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD02O145E 004999 VANDERLEI SIRAQUE                       <-------> PT        São Paulo                581
+CD02O145E 004999 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CD02O145E 004999 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD02O145E 004999 CÉSAR HALUM                             <-------> PSD       Tocantins                64 

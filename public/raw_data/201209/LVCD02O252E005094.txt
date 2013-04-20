@@ -1,0 +1,513 @@
+CD02O252E 005094 BERINHO BANTIM                          Sim       PSDB      Roraima                  1
+CD02O252E 005094 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD02O252E 005094 FRANCISCO ARAÚJO                        Sim       PSD       Roraima                  570
+CD02O252E 005094 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD02O252E 005094 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD02O252E 005094 JANETE CAPIBERIBE                       Não       PSB       Amapá                    572
+CD02O252E 005094 LUIZ CARLOS                             Não       PSDB      Amapá                    14 
+CD02O252E 005094 BETO FARO                               Não       PT        Pará                     19 
+CD02O252E 005094 DUDIMAR PAXIÚBA                         Não       PSDB      Pará                     518
+CD02O252E 005094 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD02O252E 005094 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD02O252E 005094 LÚCIO VALE                              Não       PR        Pará                     29 
+CD02O252E 005094 VALRY MORAIS                            Não       PRP       Pará                     598
+CD02O252E 005094 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CD02O252E 005094 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD02O252E 005094 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD02O252E 005094 HENRIQUE OLIVEIRA                       Não       PR        Amazonas                 36 
+CD02O252E 005094 REBECCA GARCIA                          Não       PP        Amazonas                 42 
+CD02O252E 005094 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD02O252E 005094 MARCOS ROGÉRIO                          Sim       PDT       Rondonia                 583
+CD02O252E 005094 MOREIRA MENDES                          Não       PSD       Rondonia                 49 
+CD02O252E 005094 PADRE TON                               Não       PT        Rondonia                 48 
+CD02O252E 005094 MARCIO BITTAR                           Não       PSDB      Acre                     57 
+CD02O252E 005094 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD02O252E 005094 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD02O252E 005094 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD02O252E 005094 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD02O252E 005094 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD02O252E 005094 CARLOS BRANDÃO                          Não       PSDB      Maranhão                 68 
+CD02O252E 005094 COSTA FERREIRA                          Não       PSC       Maranhão                 571
+CD02O252E 005094 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD02O252E 005094 PEDRO NOVAIS                            Não       PMDB      Maranhão                 82 
+CD02O252E 005094 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD02O252E 005094 RICARDO ARCHER                          Não       PMDB      Maranhão                 593
+CD02O252E 005094 SARNEY FILHO                            Não       PV        Maranhão                 85 
+CD02O252E 005094 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD02O252E 005094 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD02O252E 005094 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD02O252E 005094 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD02O252E 005094 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD02O252E 005094 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD02O252E 005094 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD02O252E 005094 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD02O252E 005094 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD02O252E 005094 HUGO NAPOLEÃO                           Não       PSD       Piauí                    112
+CD02O252E 005094 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD02O252E 005094 JÚLIO CESAR                             Não       PSD       Piauí                    114
+CD02O252E 005094 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD02O252E 005094 PAES LANDIM                             Não       PTB       Piauí                    118
+CD02O252E 005094 FÁBIO FARIA                             Não       PSD       Rio Grande do Norte      119
+CD02O252E 005094 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD02O252E 005094 HENRIQUE EDUARDO ALVES                  Não       PMDB      Rio Grande do Norte      123
+CD02O252E 005094 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD02O252E 005094 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD02O252E 005094 ARMANDO ABÍLIO                          Não       PTB       Paraíba                  589
+CD02O252E 005094 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD02O252E 005094 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD02O252E 005094 LEONARDO GADELHA                        Não       PSC       Paraíba                  586
+CD02O252E 005094 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD02O252E 005094 MAJOR FÁBIO                             Sim       DEM       Paraíba                  599
+CD02O252E 005094 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD02O252E 005094 WILSON FILHO                            Não       PMDB      Paraíba                  139
+CD02O252E 005094 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD02O252E 005094 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD02O252E 005094 BRUNO ARAÚJO                            Não       PSDB      Pernambuco               146
+CD02O252E 005094 CARLOS EDUARDO CADOCA                   Não       PSC       Pernambuco               152
+CD02O252E 005094 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD02O252E 005094 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD02O252E 005094 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD02O252E 005094 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD02O252E 005094 JOSÉ CHAVES                             Não       PTB       Pernambuco               147
+CD02O252E 005094 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD02O252E 005094 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD02O252E 005094 VILALBA                                 Não       PRB       Pernambuco               555
+CD02O252E 005094 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD02O252E 005094 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD02O252E 005094 GIVALDO CARIMBÃO                        Não       PSB       Alagoas                  166
+CD02O252E 005094 JOÃO CALDAS                             Não       PEN       Alagoas                  597
+CD02O252E 005094 ALMEIDA LIMA                            Não       PPS       Sergipe                  173
+CD02O252E 005094 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD02O252E 005094 ANTONIO IMBASSAHY                       Não       PSDB      Bahia                    191
+CD02O252E 005094 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD02O252E 005094 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD02O252E 005094 EDSON PIMENTA                           Não       PSD       Bahia                    193
+CD02O252E 005094 ERIVELTON SANTANA                       Não       PSC       Bahia                    194
+CD02O252E 005094 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD02O252E 005094 JOÃO CARLOS BACELAR                     Não       PR        Bahia                    187
+CD02O252E 005094 JOSÉ CARLOS ARAÚJO                      Não       PSD       Bahia                    197
+CD02O252E 005094 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD02O252E 005094 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD02O252E 005094 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD02O252E 005094 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD02O252E 005094 PAULO MAGALHÃES                         Não       PSD       Bahia                    214
+CD02O252E 005094 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD02O252E 005094 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD02O252E 005094 SÉRGIO BRITO                            Não       PSD       Bahia                    213
+CD02O252E 005094 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD02O252E 005094 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD02O252E 005094 ANTÔNIO ROBERTO                         Não       PV        Minas Gerais             229
+CD02O252E 005094 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD02O252E 005094 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD02O252E 005094 EDUARDO AZEREDO                         Não       PSDB      Minas Gerais             237
+CD02O252E 005094 EDUARDO BARBOSA                         Não       PSDB      Minas Gerais             230
+CD02O252E 005094 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD02O252E 005094 GEORGE HILTON                           Não       PRB       Minas Gerais             241
+CD02O252E 005094 GERALDO THADEU                          Não       PSD       Minas Gerais             236
+CD02O252E 005094 GILMAR MACHADO                          Não       PT        Minas Gerais             234
+CD02O252E 005094 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD02O252E 005094 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD02O252E 005094 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD02O252E 005094 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD02O252E 005094 MARCUS PESTANA                          Não       PSDB      Minas Gerais             254
+CD02O252E 005094 MAURO LOPES                             Não       PMDB      Minas Gerais             252
+CD02O252E 005094 MIGUEL CORRÊA                           Não       PT        Minas Gerais             261
+CD02O252E 005094 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD02O252E 005094 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD02O252E 005094 PAULO ABI-ACKEL                         Não       PSDB      Minas Gerais             263
+CD02O252E 005094 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD02O252E 005094 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD02O252E 005094 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD02O252E 005094 ZÉ SILVA                                Não       PDT       Minas Gerais             271
+CD02O252E 005094 CESAR COLNAGO                           Não       PSDB      Espírito Santo           276
+CD02O252E 005094 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD02O252E 005094 LAURIETE                                Não       PSC       Espírito Santo           279
+CD02O252E 005094 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD02O252E 005094 MANATO                                  Sim       PDT       Espírito Santo           275
+CD02O252E 005094 ALFREDO SIRKIS                          Não       PV        Rio de Janeiro           321
+CD02O252E 005094 ANDREIA ZITO                            Não       PSDB      Rio de Janeiro           283
+CD02O252E 005094 AROLDE DE OLIVEIRA                      Não       PSD       Rio de Janeiro           288
+CD02O252E 005094 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD02O252E 005094 CHICO ALENCAR                           Não       PSOL      Rio de Janeiro           295
+CD02O252E 005094 CHICO D`ANGELO                          Não       PT        Rio de Janeiro           527
+CD02O252E 005094 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD02O252E 005094 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CD02O252E 005094 DR. DILSON DRUMOND                      Sim       PDT       Rio de Janeiro           602
+CD02O252E 005094 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD02O252E 005094 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD02O252E 005094 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD02O252E 005094 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD02O252E 005094 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD02O252E 005094 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD02O252E 005094 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD02O252E 005094 LEONARDO PICCIANI                       Não       PMDB      Rio de Janeiro           312
+CD02O252E 005094 LILIAM SÁ                               Não       PSD       Rio de Janeiro           309
+CD02O252E 005094 LUIZ SÉRGIO                             Não       PT        Rio de Janeiro           313
+CD02O252E 005094 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD02O252E 005094 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD02O252E 005094 PAULO FEIJÓ                             Sim       PR        Rio de Janeiro           577
+CD02O252E 005094 PEDRO PAULO                             Não       PMDB      Rio de Janeiro           314
+CD02O252E 005094 RODRIGO BETHLEM                         Não       PMDB      Rio de Janeiro           318
+CD02O252E 005094 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD02O252E 005094 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD02O252E 005094 STEPAN NERCESSIAN                       Não       PPS       Rio de Janeiro           323
+CD02O252E 005094 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD02O252E 005094 WALNEY ROCHA                            Não       PTB       Rio de Janeiro           325
+CD02O252E 005094 ALBERTO MOURÃO                          Não       PSDB      São Paulo                552
+CD02O252E 005094 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD02O252E 005094 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD02O252E 005094 ANTONIO CARLOS MENDES THAME             Não       PSDB      São Paulo                332
+CD02O252E 005094 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD02O252E 005094 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD02O252E 005094 ARNALDO JARDIM                          Não       PPS       São Paulo                339
+CD02O252E 005094 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD02O252E 005094 CARLOS SAMPAIO                          Não       PSDB      São Paulo                338
+CD02O252E 005094 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD02O252E 005094 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD02O252E 005094 DUARTE NOGUEIRA                         Não       PSDB      São Paulo                350
+CD02O252E 005094 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD02O252E 005094 ELEUSES PAIVA                           Sim       PSD       São Paulo                537
+CD02O252E 005094 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD02O252E 005094 EMANUEL FERNANDES                       Não       PSDB      São Paulo                352
+CD02O252E 005094 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD02O252E 005094 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD02O252E 005094 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD02O252E 005094 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD02O252E 005094 JILMAR TATTO                            Não       PT        São Paulo                360
+CD02O252E 005094 JOÃO DADO                               Não       PDT       São Paulo                362
+CD02O252E 005094 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD02O252E 005094 JOSÉ DE FILIPPI                         Não       PT        São Paulo                354
+CD02O252E 005094 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD02O252E 005094 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD02O252E 005094 MARCELO AGUIAR                          Não       PSD       São Paulo                370
+CD02O252E 005094 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD02O252E 005094 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD02O252E 005094 NEWTON LIMA                             Não       PT        São Paulo                377
+CD02O252E 005094 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD02O252E 005094 PAULO FREIRE                            Sim       PR        São Paulo                380
+CD02O252E 005094 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD02O252E 005094 PENNA                                   Não       PV        São Paulo                382
+CD02O252E 005094 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD02O252E 005094 RICARDO IZAR                            Não       PSD       São Paulo                383
+CD02O252E 005094 RICARDO TRIPOLI                         Não       PSDB      São Paulo                384
+CD02O252E 005094 ROBERTO SANTIAGO                        Não       PSD       São Paulo                386
+CD02O252E 005094 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD02O252E 005094 TIRIRICA                                Sim       PR        São Paulo                392
+CD02O252E 005094 VANDERLEI MACRIS                        Não       PSDB      São Paulo                521
+CD02O252E 005094 VAZ DE LIMA                             Não       PSDB      São Paulo                394
+CD02O252E 005094 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CD02O252E 005094 WALTER FELDMAN                          Não       PSDB      São Paulo                550
+CD02O252E 005094 WILLIAM DIB                             Não       PSDB      São Paulo                397
+CD02O252E 005094 ELIENE LIMA                             Não       PSD       Mato Grosso              401
+CD02O252E 005094 HOMERO PEREIRA                          Sim       PSD       Mato Grosso              402
+CD02O252E 005094 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD02O252E 005094 NILSON LEITÃO                           Não       PSDB      Mato Grosso              573
+CD02O252E 005094 PROFESSOR VICTORIO GALLI                Não       PMDB      Mato Grosso              601
+CD02O252E 005094 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD02O252E 005094 IZALCI                                  Não       PR        Distrito Federal         408
+CD02O252E 005094 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD02O252E 005094 LUIZ PITIMAN                            Não       PMDB      Distrito Federal         410
+CD02O252E 005094 PAULO TADEU                             Não       PT        Distrito Federal         412
+CD02O252E 005094 POLICARPO                               Não       PT        Distrito Federal         539
+CD02O252E 005094 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD02O252E 005094 ARMANDO VERGÍLIO                        Não       PSD       Goiás                    416
+CD02O252E 005094 CARLOS ALBERTO LERÉIA                   Não       PSDB      Goiás                    415
+CD02O252E 005094 HEULER CRUVINEL                         Sim       PSD       Goiás                    423
+CD02O252E 005094 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD02O252E 005094 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD02O252E 005094 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD02O252E 005094 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD02O252E 005094 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD02O252E 005094 GIROTO                                  Não       PMDB      Mato Grosso do Sul       434
+CD02O252E 005094 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD02O252E 005094 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD02O252E 005094 REINALDO AZAMBUJA                       Não       PSDB      Mato Grosso do Sul       439
+CD02O252E 005094 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD02O252E 005094 ALEX CANZIANI                           Não       PTB       Paraná                   445
+CD02O252E 005094 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD02O252E 005094 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD02O252E 005094 CIDA BORGHETTI                          Abstenção PP        Paraná                   442
+CD02O252E 005094 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD02O252E 005094 GIACOBO                                 Sim       PR        Paraná                   466
+CD02O252E 005094 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD02O252E 005094 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD02O252E 005094 LUIZ NISHIMORI                          Não       PSDB      Paraná                   542
+CD02O252E 005094 PROFESSOR SÉRGIO DE OLIVEIRA            Não       PSC       Paraná                   603
+CD02O252E 005094 REINHOLD STEPHANES                      Não       PSD       Paraná                   467
+CD02O252E 005094 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD02O252E 005094 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD02O252E 005094 SANDRO ALEX                             Não       PPS       Paraná                   465
+CD02O252E 005094 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD02O252E 005094 CARMEN ZANOTTO                          Não       PPS       Santa Catarina           561
+CD02O252E 005094 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD02O252E 005094 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD02O252E 005094 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD02O252E 005094 JORGINHO MELLO                          Sim       PSDB      Santa Catarina           476
+CD02O252E 005094 MARCO TEBALDI                           Não       PSDB      Santa Catarina           478
+CD02O252E 005094 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD02O252E 005094 ONOFRE SANTO AGOSTINI                   Não       PSD       Santa Catarina           479
+CD02O252E 005094 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD02O252E 005094 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD02O252E 005094 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD02O252E 005094 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD02O252E 005094 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD02O252E 005094 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD02O252E 005094 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD02O252E 005094 ENIO BACCI                              Não       PDT       Rio Grande do Sul        493
+CD02O252E 005094 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD02O252E 005094 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD02O252E 005094 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD02O252E 005094 JOSÉ OTÁVIO GERMANO                     Sim       PP        Rio Grande do Sul        501
+CD02O252E 005094 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD02O252E 005094 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD02O252E 005094 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD02O252E 005094 NELSON MARCHEZAN JUNIOR                 Não       PSDB      Rio Grande do Sul        509
+CD02O252E 005094 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CD02O252E 005094 PAULO FERREIRA                          Não       PT        Rio Grande do Sul        591
+CD02O252E 005094 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD02O252E 005094 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD02O252E 005094 SÉRGIO MORAES                           Sim       PTB       Rio Grande do Sul        512
+CD02O252E 005094 VICENTE SELISTRE                        Não       PSB       Rio Grande do Sul        600
+CD02O252E 005094 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD02O252E 005094 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD02O252E 005094 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD02O252E 005094 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD02O252E 005094 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD02O252E 005094 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD02O252E 005094 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD02O252E 005094 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD02O252E 005094 JOAQUIM BELTRÃO                         <-------> PMDB      Alagoas                  172
+CD02O252E 005094 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD02O252E 005094 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD02O252E 005094 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD02O252E 005094 CELIA ROCHA                             <-------> PTB       Alagoas                  165
+CD02O252E 005094 PAUDERNEY AVELINO                       <-------> DEM       Amazonas                 40 
+CD02O252E 005094 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD02O252E 005094 ÁTILA LINS                              <-------> PSD       Amazonas                 38 
+CD02O252E 005094 CARLOS SOUZA                            <-------> PSD       Amazonas                 37 
+CD02O252E 005094 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD02O252E 005094 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD02O252E 005094 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD02O252E 005094 EVANDRO MILHOMEN                        <-------> PCdoB     Amapá                    11 
+CD02O252E 005094 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD02O252E 005094 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD02O252E 005094 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD02O252E 005094 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD02O252E 005094 JOÃO LEÃO                               <-------> PP        Bahia                    199
+CD02O252E 005094 AMAURI TEIXEIRA                         <-------> PT        Bahia                    184
+CD02O252E 005094 GERALDO SIMÕES                          <-------> PT        Bahia                    185
+CD02O252E 005094 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD02O252E 005094 ANTONIO BRITO                           <-------> PTB       Bahia                    189
+CD02O252E 005094 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD02O252E 005094 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD02O252E 005094 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD02O252E 005094 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD02O252E 005094 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD02O252E 005094 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD02O252E 005094 JOSÉ NUNES                              <-------> PSD       Bahia                    201
+CD02O252E 005094 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD02O252E 005094 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD02O252E 005094 MÁRIO NEGROMONTE                        <-------> PP        Bahia                    210
+CD02O252E 005094 ZEZÉU RIBEIRO                           <-------> PT        Bahia                    217
+CD02O252E 005094 AFONSO FLORENCE                         <-------> PT        Bahia                    182
+CD02O252E 005094 FELIX MENDONÇA JÚNIOR                   <-------> PDT       Bahia                    195
+CD02O252E 005094 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD02O252E 005094 ANTONIO CARLOS MAGALHÃES NETO           <-------> DEM       Bahia                    181
+CD02O252E 005094 CHICO LOPES                             <-------> PCdoB     Ceará                    88 
+CD02O252E 005094 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD02O252E 005094 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD02O252E 005094 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD02O252E 005094 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD02O252E 005094 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD02O252E 005094 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD02O252E 005094 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD02O252E 005094 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD02O252E 005094 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD02O252E 005094 JOSÉ GUIMARÃES                          <-------> PT        Ceará                    103
+CD02O252E 005094 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD02O252E 005094 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD02O252E 005094 RAIMUNDÃO                               <-------> PMDB      Ceará                    108
+CD02O252E 005094 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD02O252E 005094 REGUFFE                                 <-------> PDT       Distrito Federal         413
+CD02O252E 005094 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD02O252E 005094 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD02O252E 005094 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD02O252E 005094 IRINY LOPES                             <-------> PT        Espírito Santo           273
+CD02O252E 005094 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD02O252E 005094 MAGDA MOFATTO                           <-------> PTB       Goiás                    575
+CD02O252E 005094 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD02O252E 005094 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD02O252E 005094 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD02O252E 005094 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD02O252E 005094 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD02O252E 005094 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD02O252E 005094 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD02O252E 005094 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD02O252E 005094 LEONARDO VILELA                         <-------> PSDB      Goiás                    421
+CD02O252E 005094 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD02O252E 005094 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD02O252E 005094 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD02O252E 005094 HÉLIO SANTOS                            <-------> PSD       Maranhão                 76 
+CD02O252E 005094 PAULO MARINHO JÚNIOR                    <-------> PMDB      Maranhão                 594
+CD02O252E 005094 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD02O252E 005094 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD02O252E 005094 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD02O252E 005094 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD02O252E 005094 WEVERTON ROCHA                          <-------> PDT       Maranhão                 579
+CD02O252E 005094 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD02O252E 005094 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD02O252E 005094 DIEGO ANDRADE                           <-------> PSD       Minas Gerais             228
+CD02O252E 005094 MÁRCIO REINALDO MOREIRA                 <-------> PP        Minas Gerais             247
+CD02O252E 005094 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD02O252E 005094 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD02O252E 005094 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD02O252E 005094 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD02O252E 005094 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD02O252E 005094 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD02O252E 005094 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD02O252E 005094 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD02O252E 005094 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD02O252E 005094 CARLAILE PEDROSA                        <-------> PSDB      Minas Gerais             222
+CD02O252E 005094 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD02O252E 005094 ANTÔNIO ANDRADE                         <-------> PMDB      Minas Gerais             227
+CD02O252E 005094 DIMAS FABIANO                           <-------> PP        Minas Gerais             231
+CD02O252E 005094 JOSÉ HUMBERTO                           <-------> PHS       Minas Gerais             249
+CD02O252E 005094 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CD02O252E 005094 ADEMIR CAMILO                           <-------> PSD       Minas Gerais             220
+CD02O252E 005094 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD02O252E 005094 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD02O252E 005094 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD02O252E 005094 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD02O252E 005094 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD02O252E 005094 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD02O252E 005094 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD02O252E 005094 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD02O252E 005094 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD02O252E 005094 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD02O252E 005094 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD02O252E 005094 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD02O252E 005094 ANTÔNIO CARLOS BIFFI                    <-------> PT        Mato Grosso do Sul       432
+CD02O252E 005094 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD02O252E 005094 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD02O252E 005094 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD02O252E 005094 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD02O252E 005094 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD02O252E 005094 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD02O252E 005094 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD02O252E 005094 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD02O252E 005094 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD02O252E 005094 MIRIQUINHO BATISTA                      <-------> PT        Pará                     35 
+CD02O252E 005094 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD02O252E 005094 ASDRUBAL BENTES                         <-------> PMDB      Pará                     20 
+CD02O252E 005094 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD02O252E 005094 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD02O252E 005094 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD02O252E 005094 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD02O252E 005094 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD02O252E 005094 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD02O252E 005094 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD02O252E 005094 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD02O252E 005094 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD02O252E 005094 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD02O252E 005094 RAUL HENRY                              <-------> PMDB      Pernambuco               163
+CD02O252E 005094 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD02O252E 005094 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD02O252E 005094 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD02O252E 005094 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD02O252E 005094 SEVERINO NINHO                          <-------> PSB       Pernambuco               580
+CD02O252E 005094 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD02O252E 005094 MARLLOS SAMPAIO                         <-------> PMDB      Piauí                    117
+CD02O252E 005094 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD02O252E 005094 NAZARENO FONTELES                       <-------> PT        Piauí                    530
+CD02O252E 005094 EDMAR ARRUDA                            <-------> PSC       Paraná                   446
+CD02O252E 005094 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD02O252E 005094 DILCEU SPERAFICO                        <-------> PP        Paraná                   444
+CD02O252E 005094 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD02O252E 005094 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD02O252E 005094 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD02O252E 005094 NELSON PADOVANI                         <-------> PSC       Paraná                   457
+CD02O252E 005094 NELSON MEURER                           <-------> PP        Paraná                   458
+CD02O252E 005094 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD02O252E 005094 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD02O252E 005094 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD02O252E 005094 FERNANDO FRANCISCHINI                   <-------> PEN       Paraná                   450
+CD02O252E 005094 LUIZ CARLOS SETIM                       <-------> DEM       Paraná                   535
+CD02O252E 005094 ODÍLIO BALBINOTTI                       <-------> PMDB      Paraná                   588
+CD02O252E 005094 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD02O252E 005094 FELIPE BORNIER                          <-------> PSD       Rio de Janeiro           301
+CD02O252E 005094 DR. PAULO CÉSAR                         <-------> PSD       Rio de Janeiro           296
+CD02O252E 005094 ALEXANDRE CARDOSO                       <-------> PSB       Rio de Janeiro           284
+CD02O252E 005094 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD02O252E 005094 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD02O252E 005094 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD02O252E 005094 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD02O252E 005094 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD02O252E 005094 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD02O252E 005094 ANTHONY GAROTINHO                       <-------> PR        Rio de Janeiro           289
+CD02O252E 005094 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD02O252E 005094 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD02O252E 005094 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD02O252E 005094 NEILTON MULIM                           <-------> PR        Rio de Janeiro           315
+CD02O252E 005094 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD02O252E 005094 ZOINHO                                  <-------> PR        Rio de Janeiro           328
+CD02O252E 005094 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD02O252E 005094 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD02O252E 005094 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD02O252E 005094 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD02O252E 005094 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD02O252E 005094 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD02O252E 005094 MAURO NAZIF                             <-------> PSB       Rondonia                 46 
+CD02O252E 005094 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD02O252E 005094 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD02O252E 005094 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD02O252E 005094 ELISEU PADILHA                          <-------> PMDB      Rio Grande do Sul        578
+CD02O252E 005094 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD02O252E 005094 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD02O252E 005094 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD02O252E 005094 DANRLEI DE DEUS HINTERHOLZ              <-------> PSD       Rio Grande do Sul        495
+CD02O252E 005094 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD02O252E 005094 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD02O252E 005094 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD02O252E 005094 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD02O252E 005094 LUIZ NOÉ                                <-------> PSB       Rio Grande do Sul        536
+CD02O252E 005094 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD02O252E 005094 JORGE BOEIRA                            <-------> PSD       Santa Catarina           474
+CD02O252E 005094 EDINHO BEZ                              <-------> PMDB      Santa Catarina           470
+CD02O252E 005094 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD02O252E 005094 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD02O252E 005094 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD02O252E 005094 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD02O252E 005094 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD02O252E 005094 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD02O252E 005094 HELENO SILVA                            <-------> PRB       Sergipe                  175
+CD02O252E 005094 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD02O252E 005094 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD02O252E 005094 MILTON MONTI                            <-------> PR        São Paulo                374
+CD02O252E 005094 VICENTINHO                              <-------> PT        São Paulo                396
+CD02O252E 005094 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD02O252E 005094 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD02O252E 005094 BETO MANSUR                             <-------> PP        São Paulo                340
+CD02O252E 005094 KEIKO OTA                               <-------> PSB       São Paulo                356
+CD02O252E 005094 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD02O252E 005094 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD02O252E 005094 PASTOR MARCO FELICIANO                  <-------> PSC       São Paulo                379
+CD02O252E 005094 PAULO MALUF                             <-------> PP        São Paulo                373
+CD02O252E 005094 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD02O252E 005094 JONAS DONIZETTE                         <-------> PSB       São Paulo                353
+CD02O252E 005094 JEFFERSON CAMPOS                        <-------> PSD       São Paulo                349
+CD02O252E 005094 LUIZA ERUNDINA                          <-------> PSB       São Paulo                371
+CD02O252E 005094 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD02O252E 005094 MÁRCIO FRANÇA                           <-------> PSB       São Paulo                368
+CD02O252E 005094 ROBERTO DE LUCENA                       <-------> PV        São Paulo                385
+CD02O252E 005094 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD02O252E 005094 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD02O252E 005094 EDSON APARECIDO                         <-------> PSDB      São Paulo                351
+CD02O252E 005094 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD02O252E 005094 VANDERLEI SIRAQUE                       <-------> PT        São Paulo                581
+CD02O252E 005094 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD02O252E 005094 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD02O252E 005094 LAUREZ MOREIRA                          <-------> PSB       Tocantins                62 
+CD02O252E 005094 ÂNGELO AGNOLIN                          <-------> PDT       Tocantins                61 
+CD02O252E 005094 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD02O252E 005094 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CD02O252E 005094 CÉSAR HALUM                             <-------> PSD       Tocantins                64 

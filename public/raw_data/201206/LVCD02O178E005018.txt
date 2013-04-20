@@ -1,0 +1,513 @@
+CD02O178E 005018 EDIO LOPES                              Sim       PMDB      Roraima                  2
+CD02O178E 005018 FRANCISCO ARAÚJO                        Sim       PSD       Roraima                  570
+CD02O178E 005018 TERESA SURITA                           Sim       PMDB      Roraima                  8  
+CD02O178E 005018 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD02O178E 005018 JANETE CAPIBERIBE                       Sim       PSB       Amapá                    572
+CD02O178E 005018 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD02O178E 005018 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD02O178E 005018 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD02O178E 005018 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD02O178E 005018 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD02O178E 005018 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CD02O178E 005018 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CD02O178E 005018 CARLOS SOUZA                            Sim       PSD       Amazonas                 37 
+CD02O178E 005018 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD02O178E 005018 PAUDERNEY AVELINO                       Sim       DEM       Amazonas                 40 
+CD02O178E 005018 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD02O178E 005018 MARCOS ROGÉRIO                          Sim       PDT       Rondonia                 583
+CD02O178E 005018 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD02O178E 005018 MAURO NAZIF                             Sim       PSB       Rondonia                 46 
+CD02O178E 005018 MOREIRA MENDES                          Sim       PSD       Rondonia                 49 
+CD02O178E 005018 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD02O178E 005018 PADRE TON                               Sim       PT        Rondonia                 48 
+CD02O178E 005018 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD02O178E 005018 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD02O178E 005018 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD02O178E 005018 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD02O178E 005018 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD02O178E 005018 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD02O178E 005018 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD02O178E 005018 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD02O178E 005018 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CD02O178E 005018 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD02O178E 005018 PEDRO NOVAIS                            Sim       PMDB      Maranhão                 82 
+CD02O178E 005018 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD02O178E 005018 TELMA PINHEIRO                          Sim       PSDB      Maranhão                 595
+CD02O178E 005018 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD02O178E 005018 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CD02O178E 005018 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD02O178E 005018 ARNON BEZERRA                           Sim       PTB       Ceará                    90 
+CD02O178E 005018 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD02O178E 005018 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD02O178E 005018 GORETE PEREIRA                          Sim       PR        Ceará                    100
+CD02O178E 005018 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD02O178E 005018 JOSÉ AIRTON                             Sim       PT        Ceará                    101
+CD02O178E 005018 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD02O178E 005018 JOSÉ LINHARES                           Sim       PP        Ceará                    96 
+CD02O178E 005018 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD02O178E 005018 RAIMUNDÃO                               Sim       PMDB      Ceará                    108
+CD02O178E 005018 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD02O178E 005018 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CD02O178E 005018 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD02O178E 005018 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD02O178E 005018 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD02O178E 005018 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD02O178E 005018 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD02O178E 005018 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD02O178E 005018 PAES LANDIM                             Sim       PTB       Piauí                    118
+CD02O178E 005018 FÁBIO FARIA                             Sim       PSD       Rio Grande do Norte      119
+CD02O178E 005018 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD02O178E 005018 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD02O178E 005018 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD02O178E 005018 JOÃO MAIA                               Sim       PR        Rio Grande do Norte      124
+CD02O178E 005018 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD02O178E 005018 ROGÉRIO MARINHO                         Sim       PSDB      Rio Grande do Norte      540
+CD02O178E 005018 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CD02O178E 005018 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD02O178E 005018 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD02O178E 005018 LEONARDO GADELHA                        Sim       PSC       Paraíba                  586
+CD02O178E 005018 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD02O178E 005018 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD02O178E 005018 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD02O178E 005018 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CD02O178E 005018 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD02O178E 005018 DANILO CABRAL                           Sim       PSB       Pernambuco               148
+CD02O178E 005018 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD02O178E 005018 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD02O178E 005018 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD02O178E 005018 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD02O178E 005018 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD02O178E 005018 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD02O178E 005018 PAULO RUBEM SANTIAGO                    Sim       PDT       Pernambuco               554
+CD02O178E 005018 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD02O178E 005018 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD02O178E 005018 SERGIO GUERRA                           Sim       PSDB      Pernambuco               159
+CD02O178E 005018 VILALBA                                 Sim       PRB       Pernambuco               555
+CD02O178E 005018 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD02O178E 005018 JOÃO CALDAS                             Sim       PSDB      Alagoas                  597
+CD02O178E 005018 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD02O178E 005018 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD02O178E 005018 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD02O178E 005018 AFONSO FLORENCE                         Sim       PT        Bahia                    182
+CD02O178E 005018 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD02O178E 005018 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD02O178E 005018 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD02O178E 005018 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD02O178E 005018 ARTHUR OLIVEIRA MAIA                    Sim       PMDB      Bahia                    192
+CD02O178E 005018 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD02O178E 005018 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD02O178E 005018 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD02O178E 005018 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD02O178E 005018 FERNANDO TORRES                         Sim       PSD       Bahia                    196
+CD02O178E 005018 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD02O178E 005018 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD02O178E 005018 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD02O178E 005018 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD02O178E 005018 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD02O178E 005018 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD02O178E 005018 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CD02O178E 005018 SÉRGIO BRITO                            Sim       PSD       Bahia                    213
+CD02O178E 005018 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD02O178E 005018 ZEZÉU RIBEIRO                           Sim       PT        Bahia                    217
+CD02O178E 005018 ADEMIR CAMILO                           Sim       PSD       Minas Gerais             220
+CD02O178E 005018 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CD02O178E 005018 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD02O178E 005018 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD02O178E 005018 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CD02O178E 005018 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD02O178E 005018 DIEGO ANDRADE                           Sim       PSD       Minas Gerais             228
+CD02O178E 005018 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD02O178E 005018 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD02O178E 005018 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD02O178E 005018 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD02O178E 005018 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD02O178E 005018 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CD02O178E 005018 GILMAR MACHADO                          Sim       PT        Minas Gerais             234
+CD02O178E 005018 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CD02O178E 005018 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD02O178E 005018 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD02O178E 005018 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD02O178E 005018 LAEL VARELLA                            Sim       DEM       Minas Gerais             245
+CD02O178E 005018 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD02O178E 005018 LUIZ FERNANDO FARIA                     Sim       PP        Minas Gerais             256
+CD02O178E 005018 MÁRCIO REINALDO MOREIRA                 Sim       PP        Minas Gerais             247
+CD02O178E 005018 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD02O178E 005018 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD02O178E 005018 NEWTON CARDOSO                          Sim       PMDB      Minas Gerais             258
+CD02O178E 005018 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD02O178E 005018 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD02O178E 005018 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CD02O178E 005018 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD02O178E 005018 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD02O178E 005018 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD02O178E 005018 STEFANO AGUIAR                          Sim       PSC       Minas Gerais             558
+CD02O178E 005018 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD02O178E 005018 WALTER TOSTA                            Sim       PSD       Minas Gerais             267
+CD02O178E 005018 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD02O178E 005018 ZÉ SILVA                                Sim       PDT       Minas Gerais             271
+CD02O178E 005018 AUDIFAX                                 Sim       PSB       Espírito Santo           274
+CD02O178E 005018 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD02O178E 005018 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD02O178E 005018 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD02O178E 005018 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD02O178E 005018 MANATO                                  Sim       PDT       Espírito Santo           275
+CD02O178E 005018 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD02O178E 005018 ROSE DE FREITAS                         Sim       PMDB      Espírito Santo           282
+CD02O178E 005018 SUELI VIDIGAL                           Sim       PDT       Espírito Santo           281
+CD02O178E 005018 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD02O178E 005018 ALEXANDRE CARDOSO                       Sim       PSB       Rio de Janeiro           284
+CD02O178E 005018 ALEXANDRE SANTOS                        Sim       PMDB      Rio de Janeiro           285
+CD02O178E 005018 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD02O178E 005018 AROLDE DE OLIVEIRA                      Sim       PSD       Rio de Janeiro           288
+CD02O178E 005018 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD02O178E 005018 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD02O178E 005018 CHICO D`ANGELO                          Sim       PT        Rio de Janeiro           527
+CD02O178E 005018 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD02O178E 005018 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD02O178E 005018 DR. PAULO CÉSAR                         Sim       PSD       Rio de Janeiro           296
+CD02O178E 005018 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD02O178E 005018 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD02O178E 005018 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD02O178E 005018 FELIPE BORNIER                          Sim       PSD       Rio de Janeiro           301
+CD02O178E 005018 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD02O178E 005018 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD02O178E 005018 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD02O178E 005018 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD02O178E 005018 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD02O178E 005018 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD02O178E 005018 LEONARDO PICCIANI                       Sim       PMDB      Rio de Janeiro           312
+CD02O178E 005018 LILIAM SÁ                               Sim       PSD       Rio de Janeiro           309
+CD02O178E 005018 LUIZ SÉRGIO                             Sim       PT        Rio de Janeiro           313
+CD02O178E 005018 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD02O178E 005018 NEILTON MULIM                           Sim       PR        Rio de Janeiro           315
+CD02O178E 005018 NELSON BORNIER                          Sim       PMDB      Rio de Janeiro           549
+CD02O178E 005018 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD02O178E 005018 PAULO FEIJÓ                             Sim       PR        Rio de Janeiro           577
+CD02O178E 005018 RODRIGO BETHLEM                         Sim       PMDB      Rio de Janeiro           318
+CD02O178E 005018 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD02O178E 005018 ROMÁRIO                                 Sim       PSB       Rio de Janeiro           319
+CD02O178E 005018 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD02O178E 005018 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD02O178E 005018 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD02O178E 005018 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD02O178E 005018 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD02O178E 005018 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD02O178E 005018 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD02O178E 005018 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD02O178E 005018 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD02O178E 005018 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD02O178E 005018 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD02O178E 005018 CARLINHOS ALMEIDA                       Sim       PT        São Paulo                341
+CD02O178E 005018 CARLOS SAMPAIO                          Sim       PSDB      São Paulo                338
+CD02O178E 005018 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD02O178E 005018 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD02O178E 005018 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD02O178E 005018 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD02O178E 005018 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD02O178E 005018 ELEUSES PAIVA                           Sim       PSD       São Paulo                537
+CD02O178E 005018 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD02O178E 005018 EMANUEL FERNANDES                       Sim       PSDB      São Paulo                352
+CD02O178E 005018 GABRIEL CHALITA                         Sim       PMDB      São Paulo                347
+CD02O178E 005018 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD02O178E 005018 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD02O178E 005018 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD02O178E 005018 JEFFERSON CAMPOS                        Sim       PSD       São Paulo                349
+CD02O178E 005018 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD02O178E 005018 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD02O178E 005018 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD02O178E 005018 JOSÉ DE FILIPPI                         Sim       PT        São Paulo                354
+CD02O178E 005018 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD02O178E 005018 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD02O178E 005018 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD02O178E 005018 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD02O178E 005018 MARCELO AGUIAR                          Sim       PSD       São Paulo                370
+CD02O178E 005018 MILTON MONTI                            Sim       PR        São Paulo                374
+CD02O178E 005018 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD02O178E 005018 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD02O178E 005018 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD02O178E 005018 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD02O178E 005018 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD02O178E 005018 PAULO MALUF                             Sim       PP        São Paulo                373
+CD02O178E 005018 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CD02O178E 005018 PENNA                                   Sim       PV        São Paulo                382
+CD02O178E 005018 RICARDO BERZOINI                        Sim       PT        São Paulo                390
+CD02O178E 005018 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CD02O178E 005018 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD02O178E 005018 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD02O178E 005018 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CD02O178E 005018 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CD02O178E 005018 TIRIRICA                                Sim       PR        São Paulo                392
+CD02O178E 005018 VANDERLEI SIRAQUE                       Sim       PT        São Paulo                581
+CD02O178E 005018 VICENTINHO                              Sim       PT        São Paulo                396
+CD02O178E 005018 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD02O178E 005018 HOMERO PEREIRA                          Sim       PSD       Mato Grosso              402
+CD02O178E 005018 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD02O178E 005018 NILSON LEITÃO                           Sim       PSDB      Mato Grosso              573
+CD02O178E 005018 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD02O178E 005018 WELLINGTON FAGUNDES                     Sim       PR        Mato Grosso              406
+CD02O178E 005018 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD02O178E 005018 IZALCI                                  Sim       PR        Distrito Federal         408
+CD02O178E 005018 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD02O178E 005018 MAGELA                                  Sim       PT        Distrito Federal         411
+CD02O178E 005018 PAULO TADEU                             Sim       PT        Distrito Federal         412
+CD02O178E 005018 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD02O178E 005018 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD02O178E 005018 ARMANDO VERGÍLIO                        Sim       PSD       Goiás                    416
+CD02O178E 005018 CARLOS ALBERTO LERÉIA                   Sim       PSDB      Goiás                    415
+CD02O178E 005018 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD02O178E 005018 HEULER CRUVINEL                         Sim       PSD       Goiás                    423
+CD02O178E 005018 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD02O178E 005018 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD02O178E 005018 JOVAIR ARANTES                          Sim       PTB       Goiás                    419
+CD02O178E 005018 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CD02O178E 005018 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD02O178E 005018 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD02O178E 005018 SANDES JÚNIOR                           Sim       PP        Goiás                    426
+CD02O178E 005018 SANDRO MABEL                            Sim       PMDB      Goiás                    431
+CD02O178E 005018 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CD02O178E 005018 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD02O178E 005018 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD02O178E 005018 GIROTO                                  Sim       PMDB      Mato Grosso do Sul       434
+CD02O178E 005018 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD02O178E 005018 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD02O178E 005018 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD02O178E 005018 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD02O178E 005018 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD02O178E 005018 ANGELO VANHONI                          Sim       PT        Paraná                   453
+CD02O178E 005018 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD02O178E 005018 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD02O178E 005018 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD02O178E 005018 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD02O178E 005018 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD02O178E 005018 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD02O178E 005018 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD02O178E 005018 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD02O178E 005018 NELSON MEURER                           Sim       PP        Paraná                   458
+CD02O178E 005018 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD02O178E 005018 ODÍLIO BALBINOTTI                       Sim       PMDB      Paraná                   588
+CD02O178E 005018 REINHOLD STEPHANES                      Sim       PSD       Paraná                   467
+CD02O178E 005018 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD02O178E 005018 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD02O178E 005018 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD02O178E 005018 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD02O178E 005018 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD02O178E 005018 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD02O178E 005018 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CD02O178E 005018 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD02O178E 005018 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD02O178E 005018 JORGE BOEIRA                            Sim       PSD       Santa Catarina           474
+CD02O178E 005018 JORGINHO MELLO                          Sim       PSDB      Santa Catarina           476
+CD02O178E 005018 LUCI CHOINACKI                          Sim       PT        Santa Catarina           477
+CD02O178E 005018 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CD02O178E 005018 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD02O178E 005018 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CD02O178E 005018 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD02O178E 005018 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD02O178E 005018 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD02O178E 005018 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD02O178E 005018 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD02O178E 005018 ALEXANDRE ROSO                          Sim       PSB       Rio Grande do Sul        489
+CD02O178E 005018 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD02O178E 005018 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD02O178E 005018 DANRLEI DE DEUS HINTERHOLZ              Sim       PSD       Rio Grande do Sul        495
+CD02O178E 005018 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD02O178E 005018 ELISEU PADILHA                          Sim       PMDB      Rio Grande do Sul        578
+CD02O178E 005018 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD02O178E 005018 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD02O178E 005018 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD02O178E 005018 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD02O178E 005018 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD02O178E 005018 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD02O178E 005018 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD02O178E 005018 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD02O178E 005018 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD02O178E 005018 PAULO FERREIRA                          Sim       PT        Rio Grande do Sul        591
+CD02O178E 005018 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CD02O178E 005018 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD02O178E 005018 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD02O178E 005018 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD02O178E 005018 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD02O178E 005018 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD02O178E 005018 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD02O178E 005018 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD02O178E 005018 JOAQUIM BELTRÃO                         <-------> PMDB      Alagoas                  172
+CD02O178E 005018 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD02O178E 005018 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD02O178E 005018 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD02O178E 005018 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD02O178E 005018 CELIA ROCHA                             <-------> PTB       Alagoas                  165
+CD02O178E 005018 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD02O178E 005018 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD02O178E 005018 ÁTILA LINS                              <-------> PSD       Amazonas                 38 
+CD02O178E 005018 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD02O178E 005018 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD02O178E 005018 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD02O178E 005018 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD02O178E 005018 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD02O178E 005018 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD02O178E 005018 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD02O178E 005018 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD02O178E 005018 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD02O178E 005018 JOSÉ CARLOS ARAÚJO                      <-------> PSD       Bahia                    197
+CD02O178E 005018 MARCOS MEDRADO                          <-------> PDT       Bahia                    200
+CD02O178E 005018 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD02O178E 005018 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD02O178E 005018 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD02O178E 005018 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD02O178E 005018 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD02O178E 005018 ROBERTO BRITTO                          <-------> PP        Bahia                    211
+CD02O178E 005018 WALDENOR PEREIRA                        <-------> PT        Bahia                    219
+CD02O178E 005018 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD02O178E 005018 JOSÉ NUNES                              <-------> PSD       Bahia                    201
+CD02O178E 005018 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD02O178E 005018 MÁRIO NEGROMONTE                        <-------> PP        Bahia                    210
+CD02O178E 005018 EDSON PIMENTA                           <-------> PSD       Bahia                    193
+CD02O178E 005018 FELIX MENDONÇA JÚNIOR                   <-------> PDT       Bahia                    195
+CD02O178E 005018 JOÃO LEÃO                               <-------> PP        Bahia                    199
+CD02O178E 005018 ANTONIO BRITO                           <-------> PTB       Bahia                    189
+CD02O178E 005018 ARTUR BRUNO                             <-------> PT        Ceará                    94 
+CD02O178E 005018 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD02O178E 005018 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD02O178E 005018 MÁRIO FEITOZA                           <-------> PMDB      Ceará                    590
+CD02O178E 005018 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD02O178E 005018 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD02O178E 005018 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD02O178E 005018 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD02O178E 005018 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD02O178E 005018 IRINY LOPES                             <-------> PT        Espírito Santo           273
+CD02O178E 005018 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD02O178E 005018 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD02O178E 005018 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD02O178E 005018 LEONARDO VILELA                         <-------> PSDB      Goiás                    421
+CD02O178E 005018 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD02O178E 005018 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD02O178E 005018 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD02O178E 005018 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD02O178E 005018 WALDIR MARANHÃO                         <-------> PP        Maranhão                 84 
+CD02O178E 005018 PAULO MARINHO JÚNIOR                    <-------> PMDB      Maranhão                 594
+CD02O178E 005018 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD02O178E 005018 WEVERTON ROCHA                          <-------> PDT       Maranhão                 579
+CD02O178E 005018 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD02O178E 005018 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD02O178E 005018 RICARDO ARCHER                          <-------> PMDB      Maranhão                 593
+CD02O178E 005018 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD02O178E 005018 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD02O178E 005018 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD02O178E 005018 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD02O178E 005018 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD02O178E 005018 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD02O178E 005018 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD02O178E 005018 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD02O178E 005018 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD02O178E 005018 EROS BIONDINI                           <-------> PTB       Minas Gerais             242
+CD02O178E 005018 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD02O178E 005018 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD02O178E 005018 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD02O178E 005018 DIMAS FABIANO                           <-------> PP        Minas Gerais             231
+CD02O178E 005018 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD02O178E 005018 JOSÉ HUMBERTO                           <-------> PHS       Minas Gerais             249
+CD02O178E 005018 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD02O178E 005018 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD02O178E 005018 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD02O178E 005018 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD02O178E 005018 ELIENE LIMA                             <-------> PSD       Mato Grosso              401
+CD02O178E 005018 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD02O178E 005018 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD02O178E 005018 BETO FARO                               <-------> PT        Pará                     19 
+CD02O178E 005018 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CD02O178E 005018 MIRIQUINHO BATISTA                      <-------> PT        Pará                     35 
+CD02O178E 005018 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD02O178E 005018 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD02O178E 005018 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD02O178E 005018 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD02O178E 005018 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD02O178E 005018 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD02O178E 005018 ROMERO RODRIGUES                        <-------> PSDB      Paraíba                  135
+CD02O178E 005018 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD02O178E 005018 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD02O178E 005018 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD02O178E 005018 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD02O178E 005018 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD02O178E 005018 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD02O178E 005018 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD02O178E 005018 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD02O178E 005018 RAUL HENRY                              <-------> PMDB      Pernambuco               163
+CD02O178E 005018 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD02O178E 005018 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD02O178E 005018 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD02O178E 005018 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD02O178E 005018 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD02O178E 005018 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD02O178E 005018 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD02O178E 005018 ASSIS CARVALHO                          <-------> PT        Piauí                    111
+CD02O178E 005018 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD02O178E 005018 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD02O178E 005018 FERNANDO FRANCISCHINI                   <-------> PSDB      Paraná                   450
+CD02O178E 005018 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD02O178E 005018 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD02O178E 005018 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD02O178E 005018 GIACOBO                                 <-------> PR        Paraná                   466
+CD02O178E 005018 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD02O178E 005018 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD02O178E 005018 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD02O178E 005018 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD02O178E 005018 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD02O178E 005018 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD02O178E 005018 PEDRO PAULO                             <-------> PMDB      Rio de Janeiro           314
+CD02O178E 005018 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD02O178E 005018 SERGIO ZVEITER                          <-------> PSD       Rio de Janeiro           320
+CD02O178E 005018 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD02O178E 005018 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD02O178E 005018 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD02O178E 005018 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD02O178E 005018 PAULO CESAR QUARTIERO                   <-------> DEM       Roraima                  6  
+CD02O178E 005018 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD02O178E 005018 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD02O178E 005018 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD02O178E 005018 BERINHO BANTIM                          <-------> PSDB      Roraima                  1  
+CD02O178E 005018 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD02O178E 005018 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD02O178E 005018 LUIZ NOÉ                                <-------> PSB       Rio Grande do Sul        536
+CD02O178E 005018 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD02O178E 005018 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD02O178E 005018 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD02O178E 005018 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD02O178E 005018 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD02O178E 005018 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD02O178E 005018 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD02O178E 005018 MARCO TEBALDI                           <-------> PSDB      Santa Catarina           478
+CD02O178E 005018 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD02O178E 005018 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD02O178E 005018 HELENO SILVA                            <-------> PRB       Sergipe                  175
+CD02O178E 005018 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CD02O178E 005018 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD02O178E 005018 ALMEIDA LIMA                            <-------> PPS       Sergipe                  173
+CD02O178E 005018 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD02O178E 005018 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD02O178E 005018 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD02O178E 005018 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD02O178E 005018 BETO MANSUR                             <-------> PP        São Paulo                340
+CD02O178E 005018 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD02O178E 005018 JONAS DONIZETTE                         <-------> PSB       São Paulo                353
+CD02O178E 005018 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD02O178E 005018 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD02O178E 005018 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD02O178E 005018 ROBERTO SANTIAGO                        <-------> PSD       São Paulo                386
+CD02O178E 005018 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD02O178E 005018 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD02O178E 005018 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD02O178E 005018 MÁRCIO FRANÇA                           <-------> PSB       São Paulo                368
+CD02O178E 005018 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD02O178E 005018 EDSON APARECIDO                         <-------> PSDB      São Paulo                351
+CD02O178E 005018 RODRIGO GARCIA                          <-------> DEM       São Paulo                388
+CD02O178E 005018 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD02O178E 005018 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD02O178E 005018 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD02O178E 005018 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD02O178E 005018 LAUREZ MOREIRA                          <-------> PSB       Tocantins                62 
+CD02O178E 005018 LÁZARO BOTELHO                          <-------> PP        Tocantins                63 
+CD02O178E 005018 JÚNIOR COIMBRA                          <-------> PMDB      Tocantins                66 
+CD02O178E 005018 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD02O178E 005018 CÉSAR HALUM                             <-------> PSD       Tocantins                64 
+CD02O178E 005018 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CD02O178E 005018 ÂNGELO AGNOLIN                          <-------> PDT       Tocantins                61 

@@ -1,0 +1,513 @@
+CD01O218E 004730 BERINHO BANTIM                          Obstrução PSDB      Roraima                  1
+CD01O218E 004730 FRANCISCO ARAÚJO                        Não       PSL       Roraima                  570
+CD01O218E 004730 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD01O218E 004730 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD01O218E 004730 PAULO CESAR QUARTIERO                   Obstrução DEM       Roraima                  6  
+CD01O218E 004730 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD01O218E 004730 DAVI ALCOLUMBRE                         Obstrução DEM       Amapá                    10 
+CD01O218E 004730 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD01O218E 004730 VINICIUS GURGEL                         Não       PRTB      Amapá                    16 
+CD01O218E 004730 BETO FARO                               Não       PT        Pará                     19 
+CD01O218E 004730 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD01O218E 004730 ELCIONE BARBALHO                        Não       PMDB      Pará                     21 
+CD01O218E 004730 JOSÉ PRIANTE                            Não       PMDB      Pará                     26 
+CD01O218E 004730 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD01O218E 004730 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O218E 004730 LUIZ OTÁVIO                             Não       PMDB      Pará                     526
+CD01O218E 004730 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O218E 004730 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD01O218E 004730 CARLOS SOUZA                            Não       PP        Amazonas                 37 
+CD01O218E 004730 HENRIQUE OLIVEIRA                       Não       PR        Amazonas                 36 
+CD01O218E 004730 SABINO CASTELO BRANCO                   Não       PTB       Amazonas                 43 
+CD01O218E 004730 CARLOS MAGNO                            Não       PP        Rondonia                 44 
+CD01O218E 004730 LINDOMAR GARÇON                         Não       PV        Rondonia                 45 
+CD01O218E 004730 MARINHA RAUPP                           Não       PMDB      Rondonia                 50 
+CD01O218E 004730 MAURO NAZIF                             Não       PSB       Rondonia                 46 
+CD01O218E 004730 MOREIRA MENDES                          Não       PPS       Rondonia                 49 
+CD01O218E 004730 NATAN DONADON                           Não       PMDB      Rondonia                 51 
+CD01O218E 004730 NILTON CAPIXABA                         Não       PTB       Rondonia                 47 
+CD01O218E 004730 PADRE TON                               Não       PT        Rondonia                 48 
+CD01O218E 004730 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD01O218E 004730 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD01O218E 004730 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD01O218E 004730 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD01O218E 004730 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD01O218E 004730 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD01O218E 004730 LÁZARO BOTELHO                          Não       PP        Tocantins                63 
+CD01O218E 004730 PROFESSORA DORINHA SEABRA REZEN         Obstrução DEM       Tocantins                67 
+CD01O218E 004730 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O218E 004730 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD01O218E 004730 COSTA FERREIRA                          Não       PSC       Maranhão                 571
+CD01O218E 004730 DAVI ALVES SILVA JÚNIOR                 Não       PR        Maranhão                 528
+CD01O218E 004730 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD01O218E 004730 EDIVALDO HOLANDA JUNIOR                 Não       PTC       Maranhão                 73 
+CD01O218E 004730 GASTÃO VIEIRA                           Não       PMDB      Maranhão                 75 
+CD01O218E 004730 HÉLIO SANTOS                            Obstrução PSDB      Maranhão                 76 
+CD01O218E 004730 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O218E 004730 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD01O218E 004730 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD01O218E 004730 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O218E 004730 ANÍBAL GOMES                            Não       PMDB      Ceará                    87 
+CD01O218E 004730 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD01O218E 004730 ARNON BEZERRA                           Não       PTB       Ceará                    90 
+CD01O218E 004730 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD01O218E 004730 DOMINGOS NETO                           Não       PSB       Ceará                    97 
+CD01O218E 004730 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD01O218E 004730 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD01O218E 004730 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD01O218E 004730 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD01O218E 004730 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O218E 004730 MAURO BENEVIDES                         Não       PMDB      Ceará                    105
+CD01O218E 004730 RAIMUNDÃO                               Não       PMDB      Ceará                    108
+CD01O218E 004730 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD01O218E 004730 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD01O218E 004730 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O218E 004730 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD01O218E 004730 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD01O218E 004730 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD01O218E 004730 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD01O218E 004730 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD01O218E 004730 PAES LANDIM                             Não       PTB       Piauí                    118
+CD01O218E 004730 FÁBIO FARIA                             Não       PMN       Rio Grande do Norte      119
+CD01O218E 004730 AGUINALDO RIBEIRO                       Não       PP        Paraíba                  129
+CD01O218E 004730 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD01O218E 004730 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD01O218E 004730 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O218E 004730 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD01O218E 004730 RUY CARNEIRO                            Obstrução PSDB      Paraíba                  137
+CD01O218E 004730 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD01O218E 004730 WILSON FILHO                            Não       PMDB      Paraíba                  139
+CD01O218E 004730 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD01O218E 004730 CARLOS EDUARDO CADOCA                   Não       PSC       Pernambuco               152
+CD01O218E 004730 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD01O218E 004730 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD01O218E 004730 GONZAGA PATRIOTA                        Não       PSB       Pernambuco               143
+CD01O218E 004730 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD01O218E 004730 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD01O218E 004730 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD01O218E 004730 JOSÉ CHAVES                             Não       PTB       Pernambuco               147
+CD01O218E 004730 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD01O218E 004730 MENDONÇA FILHO                          Obstrução DEM       Pernambuco               154
+CD01O218E 004730 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD01O218E 004730 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD01O218E 004730 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD01O218E 004730 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD01O218E 004730 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD01O218E 004730 VILALBA                                 Não       PRB       Pernambuco               555
+CD01O218E 004730 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD01O218E 004730 CELIA ROCHA                             Não       PTB       Alagoas                  165
+CD01O218E 004730 JOÃO LYRA                               Não       PTB       Alagoas                  167
+CD01O218E 004730 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD01O218E 004730 MAURÍCIO QUINTELLA LESSA                Não       PR        Alagoas                  168
+CD01O218E 004730 RENAN FILHO                             Não       PMDB      Alagoas                  169
+CD01O218E 004730 LAERCIO OLIVEIRA                        Não       PR        Sergipe                  176
+CD01O218E 004730 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD01O218E 004730 ROGÉRIO CARVALHO                        Não       PT        Sergipe                  178
+CD01O218E 004730 ACELINO POPÓ                            Não       PRB       Bahia                    522
+CD01O218E 004730 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD01O218E 004730 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O218E 004730 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD01O218E 004730 ANTONIO CARLOS MAGALHÃES NETO           Obstrução DEM       Bahia                    181
+CD01O218E 004730 ANTONIO IMBASSAHY                       Obstrução PSDB      Bahia                    191
+CD01O218E 004730 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD01O218E 004730 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD01O218E 004730 ERIVELTON SANTANA                       Não       PSC       Bahia                    194
+CD01O218E 004730 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD01O218E 004730 FERNANDO TORRES                         Não       DEM       Bahia                    196
+CD01O218E 004730 JOSÉ CARLOS ARAÚJO                      Não       PDT       Bahia                    197
+CD01O218E 004730 JOSÉ NUNES                              Obstrução DEM       Bahia                    201
+CD01O218E 004730 JOSÉ ROCHA                              Não       PR        Bahia                    203
+CD01O218E 004730 JOSEPH BANDEIRA                         Não       PT        Bahia                    565
+CD01O218E 004730 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD01O218E 004730 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD01O218E 004730 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD01O218E 004730 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD01O218E 004730 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD01O218E 004730 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD01O218E 004730 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O218E 004730 RUI COSTA                               Não       PT        Bahia                    216
+CD01O218E 004730 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O218E 004730 SÉRGIO BRITO                            Não       PSC       Bahia                    213
+CD01O218E 004730 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD01O218E 004730 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O218E 004730 ADEMIR CAMILO                           Não       PDT       Minas Gerais             220
+CD01O218E 004730 ANTÔNIO ROBERTO                         Não       PV        Minas Gerais             229
+CD01O218E 004730 ARACELY DE PAULA                        Não       PR        Minas Gerais             223
+CD01O218E 004730 CARLAILE PEDROSA                        Obstrução PSDB      Minas Gerais             222
+CD01O218E 004730 DIEGO ANDRADE                           Não       PR        Minas Gerais             228
+CD01O218E 004730 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O218E 004730 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD01O218E 004730 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD01O218E 004730 FÁBIO RAMALHO                           Não       PV        Minas Gerais             238
+CD01O218E 004730 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD01O218E 004730 GERALDO THADEU                          Não       PPS       Minas Gerais             236
+CD01O218E 004730 GILMAR MACHADO                          Não       PT        Minas Gerais             234
+CD01O218E 004730 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD01O218E 004730 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O218E 004730 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD01O218E 004730 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD01O218E 004730 LEONARDO QUINTÃO                        Não       PMDB      Minas Gerais             255
+CD01O218E 004730 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD01O218E 004730 LUIS TIBÉ                               Não       PTdoB     Minas Gerais             251
+CD01O218E 004730 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD01O218E 004730 MARCUS PESTANA                          Obstrução PSDB      Minas Gerais             254
+CD01O218E 004730 MÁRIO DE OLIVEIRA                       Não       PSC       Minas Gerais             260
+CD01O218E 004730 MIGUEL CORRÊA                           Não       PT        Minas Gerais             261
+CD01O218E 004730 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O218E 004730 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD01O218E 004730 PAULO PIAU                              Não       PMDB      Minas Gerais             266
+CD01O218E 004730 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD01O218E 004730 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD01O218E 004730 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O218E 004730 VITOR PENIDO                            Não       DEM       Minas Gerais             532
+CD01O218E 004730 WALTER TOSTA                            Não       PMN       Minas Gerais             267
+CD01O218E 004730 ZÉ SILVA                                Não       PDT       Minas Gerais             271
+CD01O218E 004730 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O218E 004730 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD01O218E 004730 CESAR COLNAGO                           Obstrução PSDB      Espírito Santo           276
+CD01O218E 004730 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD01O218E 004730 LAURIETE                                Não       PSC       Espírito Santo           279
+CD01O218E 004730 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD01O218E 004730 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O218E 004730 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD01O218E 004730 ROSE DE FREITAS                         Art. 17   PMDB      Espírito Santo           282
+CD01O218E 004730 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD01O218E 004730 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD01O218E 004730 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD01O218E 004730 AROLDE DE OLIVEIRA                      Obstrução DEM       Rio de Janeiro           288
+CD01O218E 004730 AUREO                                   Não       PRTB      Rio de Janeiro           290
+CD01O218E 004730 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD01O218E 004730 BRIZOLA NETO                            Não       PDT       Rio de Janeiro           566
+CD01O218E 004730 CHICO ALENCAR                           Obstrução PSOL      Rio de Janeiro           295
+CD01O218E 004730 CHICO D`ANGELO                          Não       PT        Rio de Janeiro           527
+CD01O218E 004730 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD01O218E 004730 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CD01O218E 004730 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O218E 004730 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD01O218E 004730 ELIANE ROLIM                            Não       PT        Rio de Janeiro           538
+CD01O218E 004730 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD01O218E 004730 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD01O218E 004730 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD01O218E 004730 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD01O218E 004730 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O218E 004730 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CD01O218E 004730 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD01O218E 004730 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD01O218E 004730 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD01O218E 004730 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O218E 004730 WALNEY ROCHA                            Não       PTB       Rio de Janeiro           325
+CD01O218E 004730 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD01O218E 004730 ALDO REBELO                             Não       PCdoB     São Paulo                331
+CD01O218E 004730 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD01O218E 004730 ANTONIO CARLOS MENDES THAME             Obstrução PSDB      São Paulo                332
+CD01O218E 004730 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD01O218E 004730 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD01O218E 004730 BRUNA FURLAN                            Obstrução PSDB      São Paulo                335
+CD01O218E 004730 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD01O218E 004730 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD01O218E 004730 CARLOS ROBERTO                          Abstenção PSDB      São Paulo                569
+CD01O218E 004730 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD01O218E 004730 DIMAS RAMALHO                           Não       PPS       São Paulo                346
+CD01O218E 004730 DR. UBIALI                              Não       PSB       São Paulo                541
+CD01O218E 004730 GUILHERME MUSSI                         Não       PV        São Paulo                348
+CD01O218E 004730 IVAN VALENTE                            Obstrução PSOL      São Paulo                359
+CD01O218E 004730 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD01O218E 004730 JEFFERSON CAMPOS                        Não       PSB       São Paulo                349
+CD01O218E 004730 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O218E 004730 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD01O218E 004730 JOSÉ DE FILIPPI                         Não       PT        São Paulo                354
+CD01O218E 004730 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD01O218E 004730 JUNJI ABE                               Não       DEM       São Paulo                355
+CD01O218E 004730 LUIZ FERNANDO MACHADO                   Obstrução PSDB      São Paulo                365
+CD01O218E 004730 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O218E 004730 MARA GABRILLI                           Obstrução PSDB      São Paulo                366
+CD01O218E 004730 MARCELO AGUIAR                          Não       PSC       São Paulo                370
+CD01O218E 004730 MILTON MONTI                            Não       PR        São Paulo                374
+CD01O218E 004730 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD01O218E 004730 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O218E 004730 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD01O218E 004730 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O218E 004730 PAULO MALUF                             Não       PP        São Paulo                373
+CD01O218E 004730 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD01O218E 004730 PENNA                                   Não       PV        São Paulo                382
+CD01O218E 004730 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD01O218E 004730 RICARDO IZAR                            Não       PV        São Paulo                383
+CD01O218E 004730 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD01O218E 004730 ROBERTO FREIRE                          Não       PPS       São Paulo                387
+CD01O218E 004730 ROBERTO SANTIAGO                        Não       PV        São Paulo                386
+CD01O218E 004730 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD01O218E 004730 TIRIRICA                                Não       PR        São Paulo                392
+CD01O218E 004730 VAZ DE LIMA                             Obstrução PSDB      São Paulo                394
+CD01O218E 004730 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD01O218E 004730 JÚLIO CAMPOS                            Obstrução DEM       Mato Grosso              399
+CD01O218E 004730 NERI GELLER                             Não       PP        Mato Grosso              520
+CD01O218E 004730 ROBERTO DORNER                          Não       PP        Mato Grosso              519
+CD01O218E 004730 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD01O218E 004730 WELLINGTON FAGUNDES                     Não       PR        Mato Grosso              406
+CD01O218E 004730 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD01O218E 004730 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD01O218E 004730 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O218E 004730 JAQUELINE RORIZ                         Não       PMN       Distrito Federal         409
+CD01O218E 004730 LUIZ PITIMAN                            Não       PMDB      Distrito Federal         410
+CD01O218E 004730 POLICARPO                               Não       PT        Distrito Federal         539
+CD01O218E 004730 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD01O218E 004730 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O218E 004730 ARMANDO VERGÍLIO                        Não       PMN       Goiás                    416
+CD01O218E 004730 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD01O218E 004730 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O218E 004730 JOVAIR ARANTES                          Não       PTB       Goiás                    419
+CD01O218E 004730 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD01O218E 004730 MAGDA MOFATTO                           Não       PTB       Goiás                    575
+CD01O218E 004730 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD01O218E 004730 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD01O218E 004730 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD01O218E 004730 SANDES JÚNIOR                           Não       PP        Goiás                    426
+CD01O218E 004730 VALDIVINO DE OLIVEIRA                   Obstrução PSDB      Goiás                    547
+CD01O218E 004730 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD01O218E 004730 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD01O218E 004730 MANDETTA                                Obstrução DEM       Mato Grosso do Sul       436
+CD01O218E 004730 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O218E 004730 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD01O218E 004730 ALEX CANZIANI                           Não       PTB       Paraná                   445
+CD01O218E 004730 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD01O218E 004730 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O218E 004730 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD01O218E 004730 EDUARDO SCIARRA                         Não       DEM       Paraná                   461
+CD01O218E 004730 GIACOBO                                 Não       PR        Paraná                   466
+CD01O218E 004730 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O218E 004730 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O218E 004730 LUIZ CARLOS SETIM                       Obstrução DEM       Paraná                   535
+CD01O218E 004730 MOACIR MICHELETTO                       Não       PMDB      Paraná                   462
+CD01O218E 004730 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD01O218E 004730 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD01O218E 004730 REINHOLD STEPHANES                      Não       PMDB      Paraná                   467
+CD01O218E 004730 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD01O218E 004730 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD01O218E 004730 SANDRO ALEX                             Não       PPS       Paraná                   465
+CD01O218E 004730 TAKAYAMA                                Não       PSC       Paraná                   469
+CD01O218E 004730 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD01O218E 004730 CARMEN ZANOTTO                          Não       PPS       Santa Catarina           561
+CD01O218E 004730 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD01O218E 004730 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD01O218E 004730 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O218E 004730 GEAN LOUREIRO                           Não       PMDB      Santa Catarina           568
+CD01O218E 004730 JOÃO PIZZOLATTI                         Não       PP        Santa Catarina           574
+CD01O218E 004730 JORGE BOEIRA                            Não       PT        Santa Catarina           474
+CD01O218E 004730 JORGINHO MELLO                          Obstrução PSDB      Santa Catarina           476
+CD01O218E 004730 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD01O218E 004730 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD01O218E 004730 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD01O218E 004730 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD01O218E 004730 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD01O218E 004730 ALEXANDRE ROSO                          Não       PSB       Rio Grande do Sul        489
+CD01O218E 004730 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD01O218E 004730 DANRLEI DE DEUS HINTERHOLZ              Não       PTB       Rio Grande do Sul        495
+CD01O218E 004730 DARCÍSIO PERONDI                        Não       PMDB      Rio Grande do Sul        491
+CD01O218E 004730 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD01O218E 004730 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD01O218E 004730 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD01O218E 004730 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O218E 004730 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD01O218E 004730 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD01O218E 004730 OSMAR TERRA                             Não       PMDB      Rio Grande do Sul        497
+CD01O218E 004730 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD01O218E 004730 PEPE VARGAS                             Não       PT        Rio Grande do Sul        503
+CD01O218E 004730 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD01O218E 004730 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O218E 004730 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD01O218E 004730 SÉRGIO MORAES                           Não       PTB       Rio Grande do Sul        512
+CD01O218E 004730 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD01O218E 004730 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O218E 004730 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD01O218E 004730 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O218E 004730 RUI PALMEIRA                            <-------> PSDB      Alagoas                  171
+CD01O218E 004730 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O218E 004730 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O218E 004730 FRANCISCO PRACIANO                      <-------> PT        Amazonas                 41 
+CD01O218E 004730 PAUDERNEY AVELINO                       <-------> DEM       Amazonas                 40 
+CD01O218E 004730 SILAS CÂMARA                            <-------> PSC       Amazonas                 39 
+CD01O218E 004730 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD01O218E 004730 ÁTILA LINS                              <-------> PMDB      Amazonas                 38 
+CD01O218E 004730 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD01O218E 004730 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O218E 004730 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O218E 004730 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD01O218E 004730 GERALDO SIMÕES                          <-------> PT        Bahia                    185
+CD01O218E 004730 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD01O218E 004730 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O218E 004730 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD01O218E 004730 EDSON PIMENTA                           <-------> PCdoB     Bahia                    193
+CD01O218E 004730 PAULO MAGALHÃES                         <-------> DEM       Bahia                    214
+CD01O218E 004730 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD01O218E 004730 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD01O218E 004730 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD01O218E 004730 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O218E 004730 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD01O218E 004730 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD01O218E 004730 ARTUR BRUNO                             <-------> PT        Ceará                    94 
+CD01O218E 004730 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O218E 004730 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD01O218E 004730 MANOEL SALVIANO                         <-------> PSDB      Ceará                    104
+CD01O218E 004730 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD01O218E 004730 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O218E 004730 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD01O218E 004730 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD01O218E 004730 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O218E 004730 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O218E 004730 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O218E 004730 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O218E 004730 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD01O218E 004730 HEULER CRUVINEL                         <-------> DEM       Goiás                    423
+CD01O218E 004730 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O218E 004730 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O218E 004730 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD01O218E 004730 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O218E 004730 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O218E 004730 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O218E 004730 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O218E 004730 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD01O218E 004730 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O218E 004730 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O218E 004730 MARCOS MONTES                           <-------> DEM       Minas Gerais             257
+CD01O218E 004730 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O218E 004730 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD01O218E 004730 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O218E 004730 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD01O218E 004730 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O218E 004730 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O218E 004730 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD01O218E 004730 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD01O218E 004730 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O218E 004730 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD01O218E 004730 ANTÔNIO ANDRADE                         <-------> PMDB      Minas Gerais             227
+CD01O218E 004730 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O218E 004730 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O218E 004730 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O218E 004730 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD01O218E 004730 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD01O218E 004730 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD01O218E 004730 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD01O218E 004730 GIROTO                                  <-------> PR        Mato Grosso do Sul       434
+CD01O218E 004730 ANTÔNIO CARLOS BIFFI                    <-------> PT        Mato Grosso do Sul       432
+CD01O218E 004730 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD01O218E 004730 HOMERO PEREIRA                          <-------> PR        Mato Grosso              402
+CD01O218E 004730 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O218E 004730 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O218E 004730 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD01O218E 004730 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O218E 004730 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O218E 004730 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O218E 004730 DUDIMAR PAXIÚBA                         <-------> PSDB      Pará                     518
+CD01O218E 004730 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O218E 004730 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD01O218E 004730 ROMERO RODRIGUES                        <-------> PSDB      Paraíba                  135
+CD01O218E 004730 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O218E 004730 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD01O218E 004730 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD01O218E 004730 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O218E 004730 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD01O218E 004730 ANA ARRAES                              <-------> PSB       Pernambuco               140
+CD01O218E 004730 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD01O218E 004730 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O218E 004730 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O218E 004730 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD01O218E 004730 JÚLIO CESAR                             <-------> DEM       Piauí                    114
+CD01O218E 004730 HUGO NAPOLEÃO                           <-------> DEM       Piauí                    112
+CD01O218E 004730 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O218E 004730 ANDRÉ VARGAS                            <-------> PT        Paraná                   452
+CD01O218E 004730 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD01O218E 004730 ASSIS DO COUTO                          <-------> PT        Paraná                   443
+CD01O218E 004730 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O218E 004730 FERNANDO FRANCISCHINI                   <-------> PSDB      Paraná                   450
+CD01O218E 004730 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD01O218E 004730 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O218E 004730 NELSON MEURER                           <-------> PP        Paraná                   458
+CD01O218E 004730 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD01O218E 004730 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD01O218E 004730 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O218E 004730 EDUARDO CUNHA                           <-------> PMDB      Rio de Janeiro           300
+CD01O218E 004730 EDSON EZEQUIEL                          <-------> PMDB      Rio de Janeiro           298
+CD01O218E 004730 SOLANGE ALMEIDA                         <-------> PMDB      Rio de Janeiro           563
+CD01O218E 004730 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD01O218E 004730 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD01O218E 004730 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O218E 004730 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD01O218E 004730 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD01O218E 004730 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD01O218E 004730 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD01O218E 004730 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD01O218E 004730 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD01O218E 004730 DR. PAULO CÉSAR                         <-------> PR        Rio de Janeiro           296
+CD01O218E 004730 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O218E 004730 LILIAM SÁ                               <-------> PR        Rio de Janeiro           309
+CD01O218E 004730 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O218E 004730 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD01O218E 004730 FELIPE BORNIER                          <-------> PHS       Rio de Janeiro           301
+CD01O218E 004730 JAIR BOLSONARO                          <-------> PP        Rio de Janeiro           302
+CD01O218E 004730 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD01O218E 004730 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD01O218E 004730 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD01O218E 004730 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD01O218E 004730 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD01O218E 004730 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O218E 004730 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O218E 004730 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O218E 004730 FELIPE MAIA                             <-------> DEM       Rio Grande do Norte      120
+CD01O218E 004730 RAUL LIMA                               <-------> PP        Roraima                  7  
+CD01O218E 004730 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD01O218E 004730 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD01O218E 004730 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD01O218E 004730 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O218E 004730 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD01O218E 004730 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD01O218E 004730 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O218E 004730 JOSÉ STÉDILE                            <-------> PSB       Rio Grande do Sul        506
+CD01O218E 004730 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O218E 004730 BOHN GASS                               <-------> PT        Rio Grande do Sul        499
+CD01O218E 004730 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD01O218E 004730 ELISEU PADILHA                          <-------> PMDB      Rio Grande do Sul        578
+CD01O218E 004730 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD01O218E 004730 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O218E 004730 EDINHO BEZ                              <-------> PMDB      Santa Catarina           470
+CD01O218E 004730 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD01O218E 004730 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD01O218E 004730 ONOFRE SANTO AGOSTINI                   <-------> DEM       Santa Catarina           479
+CD01O218E 004730 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O218E 004730 ALMEIDA LIMA                            <-------> PMDB      Sergipe                  173
+CD01O218E 004730 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD01O218E 004730 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD01O218E 004730 HELENO SILVA                            <-------> PRB       Sergipe                  175
+CD01O218E 004730 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O218E 004730 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD01O218E 004730 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O218E 004730 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD01O218E 004730 WALTER IHOSHI                           <-------> DEM       São Paulo                553
+CD01O218E 004730 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O218E 004730 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD01O218E 004730 KEIKO OTA                               <-------> PSB       São Paulo                356
+CD01O218E 004730 GUILHERME CAMPOS                        <-------> DEM       São Paulo                357
+CD01O218E 004730 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O218E 004730 JOÃO DADO                               <-------> PDT       São Paulo                362
+CD01O218E 004730 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD01O218E 004730 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CD01O218E 004730 ELEUSES PAIVA                           <-------> DEM       São Paulo                537
+CD01O218E 004730 EDINHO ARAÚJO                           <-------> PMDB      São Paulo                344
+CD01O218E 004730 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD01O218E 004730 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD01O218E 004730 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O218E 004730 DRA.ELAINE ABISSAMRA                    <-------> PSB       São Paulo                576
+CD01O218E 004730 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD01O218E 004730 ALEXANDRE LEITE                         <-------> DEM       São Paulo                334
+CD01O218E 004730 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O218E 004730 VICENTINHO                              <-------> PT        São Paulo                396
+CD01O218E 004730 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O218E 004730 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O218E 004730 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O218E 004730 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD01O218E 004730 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD01O218E 004730 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD01O218E 004730 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O218E 004730 LAUREZ MOREIRA                          <-------> PSB       Tocantins                62 
+CD01O218E 004730 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O218E 004730 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 
+CD01O218E 004730 CÉSAR HALUM                             <-------> PPS       Tocantins                64 

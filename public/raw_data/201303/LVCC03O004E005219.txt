@@ -1,0 +1,513 @@
+CC03O004E 005219 CHICO DAS VERDURAS                      Não       PRP       Roraima                  3
+CC03O004E 005219 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CC03O004E 005219 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CC03O004E 005219 MARCIO JUNQUEIRA                        Sim       DEM       Roraima                  625
+CC03O004E 005219 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CC03O004E 005219 RAUL LIMA                               Sim       PSD       Roraima                  7  
+CC03O004E 005219 URZENI ROCHA                            Sim       PSDB      Roraima                  616
+CC03O004E 005219 DALVA FIGUEIREDO                        Sim       PT        Amapá                    9  
+CC03O004E 005219 DAVI ALCOLUMBRE                         Sim       DEM       Amapá                    10 
+CC03O004E 005219 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CC03O004E 005219 JANETE CAPIBERIBE                       Sim       PSB       Amapá                    572
+CC03O004E 005219 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CC03O004E 005219 VINICIUS GURGEL                         Sim       PR        Amapá                    16 
+CC03O004E 005219 ARNALDO JORDY                           Sim       PPS       Pará                     18 
+CC03O004E 005219 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CC03O004E 005219 BETO FARO                               Sim       PT        Pará                     19 
+CC03O004E 005219 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CC03O004E 005219 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CC03O004E 005219 ELCIONE BARBALHO                        Sim       PMDB      Pará                     21 
+CC03O004E 005219 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CC03O004E 005219 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CC03O004E 005219 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CC03O004E 005219 LIRA MAIA                               Sim       DEM       Pará                     28 
+CC03O004E 005219 LÚCIO VALE                              Sim       PR        Pará                     29 
+CC03O004E 005219 NILSON PINTO                            Sim       PSDB      Pará                     31 
+CC03O004E 005219 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CC03O004E 005219 WLADIMIR COSTA                          Sim       PMDB      Pará                     23 
+CC03O004E 005219 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CC03O004E 005219 ZEQUINHA MARINHO                        Sim       PSC       Pará                     33 
+CC03O004E 005219 CARLOS SOUZA                            Sim       PSD       Amazonas                 37 
+CC03O004E 005219 DR. LUIZ FERNANDO                       Sim       PSD       Amazonas                 605
+CC03O004E 005219 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CC03O004E 005219 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CC03O004E 005219 PLÍNIO VALÉRIO                          Sim       DEM       Amazonas                 633
+CC03O004E 005219 SABINO CASTELO BRANCO                   Sim       PTB       Amazonas                 43 
+CC03O004E 005219 SILAS CÂMARA                            Sim       PSD       Amazonas                 39 
+CC03O004E 005219 ANSELMO DE JESUS                        Sim       PT        Rondonia                 615
+CC03O004E 005219 MARCOS ROGÉRIO                          Sim       PDT       Rondonia                 583
+CC03O004E 005219 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CC03O004E 005219 PADRE TON                               Sim       PT        Rondonia                 48 
+CC03O004E 005219 ANTÔNIA LÚCIA                           Abstenção PSC       Acre                     53 
+CC03O004E 005219 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CC03O004E 005219 GLADSON CAMELI                          Sim       PP        Acre                     55 
+CC03O004E 005219 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CC03O004E 005219 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CC03O004E 005219 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CC03O004E 005219 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CC03O004E 005219 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CC03O004E 005219 CÉSAR HALUM                             Sim       PSD       Tocantins                64 
+CC03O004E 005219 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CC03O004E 005219 LEOMAR QUINTANILHA                      Sim       PMDB      Tocantins                628
+CC03O004E 005219 OSVALDO REIS                            Sim       PMDB      Tocantins                620
+CC03O004E 005219 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CC03O004E 005219 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CC03O004E 005219 CLEBER VERDE                            Sim       PRB       Maranhão                 70 
+CC03O004E 005219 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CC03O004E 005219 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CC03O004E 005219 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CC03O004E 005219 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CC03O004E 005219 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CC03O004E 005219 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CC03O004E 005219 NICE LOBÃO                              Sim       PSD       Maranhão                 78 
+CC03O004E 005219 PEDRO NOVAIS                            Sim       PMDB      Maranhão                 82 
+CC03O004E 005219 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CC03O004E 005219 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CC03O004E 005219 SARNEY FILHO                            Sim       PV        Maranhão                 85 
+CC03O004E 005219 SIMPLÍCIO ARAÚJO                        Sim       PPS       Maranhão                 585
+CC03O004E 005219 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CC03O004E 005219 WEVERTON ROCHA                          Sim       PDT       Maranhão                 579
+CC03O004E 005219 ZÉ VIEIRA                               Sim       PR        Maranhão                 86 
+CC03O004E 005219 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CC03O004E 005219 ANÍBAL GOMES                            Sim       PMDB      Ceará                    87 
+CC03O004E 005219 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CC03O004E 005219 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CC03O004E 005219 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CC03O004E 005219 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CC03O004E 005219 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CC03O004E 005219 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CC03O004E 005219 GENECIAS NORONHA                        Sim       PMDB      Ceará                    99 
+CC03O004E 005219 GORETE PEREIRA                          Sim       PR        Ceará                    100
+CC03O004E 005219 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CC03O004E 005219 JOSÉ AIRTON                             Sim       PT        Ceará                    101
+CC03O004E 005219 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CC03O004E 005219 JOSÉ LINHARES                           Sim       PP        Ceará                    96 
+CC03O004E 005219 MANOEL SALVIANO                         Não       PSD       Ceará                    104
+CC03O004E 005219 MÁRIO FEITOZA                           Sim       PMDB      Ceará                    590
+CC03O004E 005219 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CC03O004E 005219 PAULO HENRIQUE LUSTOSA                  Sim       PMDB      Ceará                    630
+CC03O004E 005219 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CC03O004E 005219 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CC03O004E 005219 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CC03O004E 005219 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CC03O004E 005219 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CC03O004E 005219 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CC03O004E 005219 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CC03O004E 005219 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CC03O004E 005219 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CC03O004E 005219 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CC03O004E 005219 PAES LANDIM                             Sim       PTB       Piauí                    118
+CC03O004E 005219 BETINHO ROSADO                          Sim       DEM       Rio Grande do Norte      122
+CC03O004E 005219 FÁBIO FARIA                             Sim       PSD       Rio Grande do Norte      119
+CC03O004E 005219 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CC03O004E 005219 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CC03O004E 005219 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CC03O004E 005219 JOÃO MAIA                               Sim       PR        Rio Grande do Norte      124
+CC03O004E 005219 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CC03O004E 005219 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CC03O004E 005219 BENJAMIN MARANHÃO                       Sim       PMDB      Paraíba                  131
+CC03O004E 005219 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CC03O004E 005219 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CC03O004E 005219 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CC03O004E 005219 LEONARDO GADELHA                        Sim       PSC       Paraíba                  586
+CC03O004E 005219 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CC03O004E 005219 MAJOR FÁBIO                             Sim       DEM       Paraíba                  599
+CC03O004E 005219 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CC03O004E 005219 NILDA GONDIM                            Sim       PMDB      Paraíba                  134
+CC03O004E 005219 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CC03O004E 005219 WELLINGTON ROBERTO                      Sim       PR        Paraíba                  136
+CC03O004E 005219 WILSON FILHO                            Sim       PMDB      Paraíba                  139
+CC03O004E 005219 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CC03O004E 005219 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CC03O004E 005219 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CC03O004E 005219 EDUARDO DA FONTE                        Sim       PP        Pernambuco               156
+CC03O004E 005219 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CC03O004E 005219 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CC03O004E 005219 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CC03O004E 005219 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CC03O004E 005219 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CC03O004E 005219 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CC03O004E 005219 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CC03O004E 005219 PAULO RUBEM SANTIAGO                    Sim       PDT       Pernambuco               554
+CC03O004E 005219 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CC03O004E 005219 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CC03O004E 005219 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CC03O004E 005219 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CC03O004E 005219 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CC03O004E 005219 VILALBA                                 Sim       PRB       Pernambuco               555
+CC03O004E 005219 WOLNEY QUEIROZ                          Sim       PDT       Pernambuco               164
+CC03O004E 005219 ALEXANDRE TOLEDO                        Sim       PSDB      Alagoas                  596
+CC03O004E 005219 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CC03O004E 005219 FRANCISCO TENÓRIO                       Sim       PMN       Alagoas                  607
+CC03O004E 005219 GIVALDO CARIMBÃO                        Sim       PSB       Alagoas                  166
+CC03O004E 005219 JOÃO LYRA                               Sim       PSD       Alagoas                  167
+CC03O004E 005219 MAURÍCIO QUINTELLA LESSA                Sim       PR        Alagoas                  168
+CC03O004E 005219 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CC03O004E 005219 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CC03O004E 005219 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CC03O004E 005219 FABIO REIS                              Sim       PMDB      Sergipe                  619
+CC03O004E 005219 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CC03O004E 005219 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CC03O004E 005219 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CC03O004E 005219 AFONSO FLORENCE                         Sim       PT        Bahia                    182
+CC03O004E 005219 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CC03O004E 005219 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CC03O004E 005219 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CC03O004E 005219 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CC03O004E 005219 ARTHUR OLIVEIRA MAIA                    Sim       PMDB      Bahia                    192
+CC03O004E 005219 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CC03O004E 005219 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CC03O004E 005219 EDSON PIMENTA                           Sim       PSD       Bahia                    193
+CC03O004E 005219 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CC03O004E 005219 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CC03O004E 005219 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CC03O004E 005219 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CC03O004E 005219 JOÃO LEÃO                               Sim       PP        Bahia                    199
+CC03O004E 005219 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CC03O004E 005219 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CC03O004E 005219 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CC03O004E 005219 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CC03O004E 005219 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CC03O004E 005219 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CC03O004E 005219 LUIZ DE DEUS                            Sim       DEM       Bahia                    609
+CC03O004E 005219 MARCELO GUIMARÃES FILHO                 Sim       PMDB      Bahia                    627
+CC03O004E 005219 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CC03O004E 005219 MÁRIO NEGROMONTE                        Sim       PP        Bahia                    210
+CC03O004E 005219 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CC03O004E 005219 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CC03O004E 005219 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CC03O004E 005219 SÉRGIO BRITO                            Sim       PSD       Bahia                    213
+CC03O004E 005219 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CC03O004E 005219 ZEZÉU RIBEIRO                           Sim       PT        Bahia                    217
+CC03O004E 005219 ADEMIR CAMILO                           Sim       PSD       Minas Gerais             220
+CC03O004E 005219 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CC03O004E 005219 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CC03O004E 005219 ARACELY DE PAULA                        Sim       PR        Minas Gerais             223
+CC03O004E 005219 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CC03O004E 005219 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CC03O004E 005219 DIEGO ANDRADE                           Sim       PSD       Minas Gerais             228
+CC03O004E 005219 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CC03O004E 005219 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CC03O004E 005219 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CC03O004E 005219 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CC03O004E 005219 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CC03O004E 005219 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CC03O004E 005219 HUMBERTO SOUTO                          Sim       PPS       Minas Gerais             606
+CC03O004E 005219 ISAIAS SILVESTRE                        Sim       PSB       Minas Gerais             604
+CC03O004E 005219 JAIME MARTINS                           Sim       PR        Minas Gerais             240
+CC03O004E 005219 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CC03O004E 005219 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CC03O004E 005219 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CC03O004E 005219 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CC03O004E 005219 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CC03O004E 005219 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CC03O004E 005219 LAEL VARELLA                            Sim       DEM       Minas Gerais             245
+CC03O004E 005219 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CC03O004E 005219 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CC03O004E 005219 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CC03O004E 005219 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CC03O004E 005219 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CC03O004E 005219 MARGARIDA SALOMÃO                       Sim       PT        Minas Gerais             610
+CC03O004E 005219 MÁRIO HERINGER                          Sim       PDT       Minas Gerais             629
+CC03O004E 005219 MAURO LOPES                             Sim       PMDB      Minas Gerais             252
+CC03O004E 005219 MIGUEL CORRÊA                           Sim       PT        Minas Gerais             261
+CC03O004E 005219 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CC03O004E 005219 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CC03O004E 005219 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CC03O004E 005219 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CC03O004E 005219 RENATO ANDRADE                          Sim       PP        Minas Gerais             612
+CC03O004E 005219 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CC03O004E 005219 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CC03O004E 005219 STEFANO AGUIAR                          Sim       PSC       Minas Gerais             558
+CC03O004E 005219 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CC03O004E 005219 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CC03O004E 005219 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CC03O004E 005219 MANATO                                  Não       PDT       Espírito Santo           275
+CC03O004E 005219 FRANCISCO FLORIANO                      Não       PR        Rio de Janeiro           297
+CC03O004E 005219 MIRO TEIXEIRA                           Obstrução PDT       Rio de Janeiro           317
+CC03O004E 005219 RODRIGO MAIA                            Obstrução DEM       Rio de Janeiro           322
+CC03O004E 005219 WALNEY ROCHA                            Não       PTB       Rio de Janeiro           325
+CC03O004E 005219 ABELARDO CAMARINHA                      Sim       PSB       São Paulo                329
+CC03O004E 005219 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CC03O004E 005219 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CC03O004E 005219 ANTONIO CARLOS MENDES THAME             Não       PSDB      São Paulo                332
+CC03O004E 005219 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CC03O004E 005219 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CC03O004E 005219 CARLOS ROBERTO                          Abstenção PSDB      São Paulo                569
+CC03O004E 005219 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CC03O004E 005219 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CC03O004E 005219 DR. UBIALI                              Sim       PSB       São Paulo                541
+CC03O004E 005219 DUARTE NOGUEIRA                         Não       PSDB      São Paulo                350
+CC03O004E 005219 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CC03O004E 005219 ELEUSES PAIVA                           Sim       PSD       São Paulo                537
+CC03O004E 005219 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CC03O004E 005219 GUILHERME MUSSI                         Sim       PSD       São Paulo                348
+CC03O004E 005219 IARA BERNARDI                           Sim       PT        São Paulo                618
+CC03O004E 005219 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CC03O004E 005219 JEFFERSON CAMPOS                        Sim       PSD       São Paulo                349
+CC03O004E 005219 JOÃO DADO                               Sim       PDT       São Paulo                362
+CC03O004E 005219 JOÃO PAULO CUNHA                        Sim       PT        São Paulo                361
+CC03O004E 005219 JOSÉ GENOÍNO                            Sim       PT        São Paulo                617
+CC03O004E 005219 JOSÉ MENTOR                             Sim       PT        São Paulo                367
+CC03O004E 005219 JUNJI ABE                               Sim       PSD       São Paulo                355
+CC03O004E 005219 KEIKO OTA                               Sim       PSB       São Paulo                356
+CC03O004E 005219 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CC03O004E 005219 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CC03O004E 005219 MARCELO AGUIAR                          Sim       PSD       São Paulo                370
+CC03O004E 005219 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CC03O004E 005219 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CC03O004E 005219 NEWTON LIMA                             Abstenção PT        São Paulo                377
+CC03O004E 005219 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CC03O004E 005219 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CC03O004E 005219 PAULO FREIRE                            Sim       PR        São Paulo                380
+CC03O004E 005219 PAULO MALUF                             Sim       PP        São Paulo                373
+CC03O004E 005219 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CC03O004E 005219 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CC03O004E 005219 RICARDO TRIPOLI                         Não       PSDB      São Paulo                384
+CC03O004E 005219 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CC03O004E 005219 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CC03O004E 005219 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CC03O004E 005219 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CC03O004E 005219 TIRIRICA                                Sim       PR        São Paulo                392
+CC03O004E 005219 VANDERLEI MACRIS                        Não       PSDB      São Paulo                521
+CC03O004E 005219 VANDERLEI SIRAQUE                       Abstenção PT        São Paulo                581
+CC03O004E 005219 VAZ DE LIMA                             Não       PSDB      São Paulo                394
+CC03O004E 005219 VICENTE CANDIDO                         Sim       PT        São Paulo                395
+CC03O004E 005219 WALTER FELDMAN                          Não       PSDB      São Paulo                550
+CC03O004E 005219 WALTER IHOSHI                           Sim       PSD       São Paulo                553
+CC03O004E 005219 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CC03O004E 005219 ELIENE LIMA                             Sim       PSD       Mato Grosso              401
+CC03O004E 005219 NILSON LEITÃO                           Sim       PSDB      Mato Grosso              573
+CC03O004E 005219 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CC03O004E 005219 WELLINGTON FAGUNDES                     Sim       PR        Mato Grosso              406
+CC03O004E 005219 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CC03O004E 005219 IZALCI                                  Sim       PSDB      Distrito Federal         408
+CC03O004E 005219 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CC03O004E 005219 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CC03O004E 005219 POLICARPO                               Sim       PT        Distrito Federal         539
+CC03O004E 005219 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CC03O004E 005219 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CC03O004E 005219 ARMANDO VERGÍLIO                        Sim       PSD       Goiás                    416
+CC03O004E 005219 CARLOS ALBERTO LERÉIA                   Sim       PSDB      Goiás                    415
+CC03O004E 005219 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CC03O004E 005219 HEULER CRUVINEL                         Sim       PSD       Goiás                    423
+CC03O004E 005219 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CC03O004E 005219 JOVAIR ARANTES                          Sim       PTB       Goiás                    419
+CC03O004E 005219 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CC03O004E 005219 MARINA SANTANNA                         Sim       PT        Goiás                    564
+CC03O004E 005219 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CC03O004E 005219 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CC03O004E 005219 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CC03O004E 005219 SANDRO MABEL                            Sim       PMDB      Goiás                    431
+CC03O004E 005219 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CC03O004E 005219 BIFFI                                   Sim       PT        Mato Grosso do Sul       432
+CC03O004E 005219 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CC03O004E 005219 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CC03O004E 005219 GIROTO                                  Sim       PMDB      Mato Grosso do Sul       434
+CC03O004E 005219 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CC03O004E 005219 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CC03O004E 005219 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CC03O004E 005219 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CC03O004E 005219 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CC03O004E 005219 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CC03O004E 005219 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CC03O004E 005219 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CC03O004E 005219 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CC03O004E 005219 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CC03O004E 005219 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CC03O004E 005219 DR. ROSINHA                             Abstenção PT        Paraná                   449
+CC03O004E 005219 FERNANDO FRANCISCHINI                   Sim       PEN       Paraná                   450
+CC03O004E 005219 GIACOBO                                 Sim       PR        Paraná                   466
+CC03O004E 005219 HERMES PARCIANELLO                      Sim       PMDB      Paraná                   448
+CC03O004E 005219 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CC03O004E 005219 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CC03O004E 005219 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CC03O004E 005219 NELSON MEURER                           Sim       PP        Paraná                   458
+CC03O004E 005219 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CC03O004E 005219 OLIVEIRA FILHO                          Sim       PRB       Paraná                   621
+CC03O004E 005219 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CC03O004E 005219 PROFESSOR SÉRGIO DE OLIVEIRA            Sim       PSC       Paraná                   603
+CC03O004E 005219 TAKAYAMA                                Sim       PSC       Paraná                   469
+CC03O004E 005219 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CC03O004E 005219 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CC03O004E 005219 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CC03O004E 005219 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CC03O004E 005219 JOÃO PIZZOLATTI                         Sim       PP        Santa Catarina           574
+CC03O004E 005219 JORGE BOEIRA                            Sim       PSD       Santa Catarina           474
+CC03O004E 005219 JORGINHO MELLO                          Sim       PR        Santa Catarina           476
+CC03O004E 005219 LUCI CHOINACKI                          Sim       PT        Santa Catarina           477
+CC03O004E 005219 MARCO TEBALDI                           Sim       PSDB      Santa Catarina           478
+CC03O004E 005219 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CC03O004E 005219 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CC03O004E 005219 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CC03O004E 005219 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CC03O004E 005219 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CC03O004E 005219 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CC03O004E 005219 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CC03O004E 005219 ALEXANDRE ROSO                          Sim       PSB       Rio Grande do Sul        489
+CC03O004E 005219 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CC03O004E 005219 BETO ALBUQUERQUE                        Sim       PSB       Rio Grande do Sul        490
+CC03O004E 005219 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CC03O004E 005219 DANRLEI DE DEUS HINTERHOLZ              Sim       PSD       Rio Grande do Sul        495
+CC03O004E 005219 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CC03O004E 005219 ELISEU PADILHA                          Sim       PMDB      Rio Grande do Sul        578
+CC03O004E 005219 ENIO BACCI                              Sim       PDT       Rio Grande do Sul        493
+CC03O004E 005219 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CC03O004E 005219 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CC03O004E 005219 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CC03O004E 005219 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CC03O004E 005219 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CC03O004E 005219 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CC03O004E 005219 MANUELA D`ÁVILA                         Sim       PCdoB     Rio Grande do Sul        494
+CC03O004E 005219 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CC03O004E 005219 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CC03O004E 005219 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CC03O004E 005219 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CC03O004E 005219 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CC03O004E 005219 SÉRGIO MORAES                           Sim       PTB       Rio Grande do Sul        512
+CC03O004E 005219 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CC03O004E 005219 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CC03O004E 005219 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CC03O004E 005219 PAULÃO                                  <-------> PT        Alagoas                  608
+CC03O004E 005219 ÁTILA LINS                              <-------> PSD       Amazonas                 38 
+CC03O004E 005219 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CC03O004E 005219 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CC03O004E 005219 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CC03O004E 005219 COLBERT MARTINS                         <-------> PMDB      Bahia                    622
+CC03O004E 005219 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CC03O004E 005219 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CC03O004E 005219 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CC03O004E 005219 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CC03O004E 005219 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CC03O004E 005219 VALMIR ASSUNÇÃO                         <-------> PT        Bahia                    218
+CC03O004E 005219 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CC03O004E 005219 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CC03O004E 005219 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CC03O004E 005219 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CC03O004E 005219 AUGUSTO CARVALHO                        <-------> PPS       Distrito Federal         545
+CC03O004E 005219 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CC03O004E 005219 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CC03O004E 005219 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CC03O004E 005219 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CC03O004E 005219 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CC03O004E 005219 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CC03O004E 005219 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CC03O004E 005219 LAURIETE                                <-------> PSC       Espírito Santo           279
+CC03O004E 005219 IRINY LOPES                             <-------> PT        Espírito Santo           273
+CC03O004E 005219 RUBENS OTONI                            <-------> PT        Goiás                    425
+CC03O004E 005219 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CC03O004E 005219 MAGDA MOFATTO                           <-------> PTB       Goiás                    575
+CC03O004E 005219 ÍRIS DE ARAÚJO                          <-------> PMDB      Goiás                    417
+CC03O004E 005219 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CC03O004E 005219 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CC03O004E 005219 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CC03O004E 005219 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CC03O004E 005219 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CC03O004E 005219 GERALDO THADEU                          <-------> PSD       Minas Gerais             236
+CC03O004E 005219 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CC03O004E 005219 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CC03O004E 005219 NILMÁRIO MIRANDA                        <-------> PT        Minas Gerais             611
+CC03O004E 005219 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CC03O004E 005219 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CC03O004E 005219 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CC03O004E 005219 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CC03O004E 005219 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CC03O004E 005219 MIRIQUINHO BATISTA                      <-------> PT        Pará                     35 
+CC03O004E 005219 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CC03O004E 005219 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CC03O004E 005219 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CC03O004E 005219 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CC03O004E 005219 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CC03O004E 005219 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CC03O004E 005219 SANDRO ALEX                             <-------> PPS       Paraná                   465
+CC03O004E 005219 ROSANE FERREIRA                         <-------> PV        Paraná                   459
+CC03O004E 005219 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CC03O004E 005219 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CC03O004E 005219 ODÍLIO BALBINOTTI                       <-------> PMDB      Paraná                   588
+CC03O004E 005219 MARCELO ALMEIDA                         <-------> PMDB      Paraná                   631
+CC03O004E 005219 EDMAR ARRUDA                            <-------> PSC       Paraná                   446
+CC03O004E 005219 RUBENS BUENO                            <-------> PPS       Paraná                   460
+CC03O004E 005219 EDUARDO SCIARRA                         <-------> PSD       Paraná                   461
+CC03O004E 005219 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CC03O004E 005219 DR. CARLOS ALBERTO                      <-------> PMN       Rio de Janeiro           529
+CC03O004E 005219 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CC03O004E 005219 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CC03O004E 005219 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CC03O004E 005219 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CC03O004E 005219 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CC03O004E 005219 ANTHONY GAROTINHO                       <-------> PR        Rio de Janeiro           289
+CC03O004E 005219 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CC03O004E 005219 BENEDITA DA SILVA                       <-------> PT        Rio de Janeiro           291
+CC03O004E 005219 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CC03O004E 005219 EDSON EZEQUIEL                          <-------> PMDB      Rio de Janeiro           298
+CC03O004E 005219 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CC03O004E 005219 EDUARDO CUNHA                           <-------> PMDB      Rio de Janeiro           300
+CC03O004E 005219 JAIR BOLSONARO                          <-------> PP        Rio de Janeiro           302
+CC03O004E 005219 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CC03O004E 005219 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CC03O004E 005219 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CC03O004E 005219 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CC03O004E 005219 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CC03O004E 005219 EURICO JÚNIOR                           <-------> PV        Rio de Janeiro           613
+CC03O004E 005219 MANUEL ROSA NECA                        <-------> PR        Rio de Janeiro           614
+CC03O004E 005219 VITOR PAULO                             <-------> PRB       Rio de Janeiro           324
+CC03O004E 005219 ZOINHO                                  <-------> PR        Rio de Janeiro           328
+CC03O004E 005219 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CC03O004E 005219 LEONARDO PICCIANI                       <-------> PMDB      Rio de Janeiro           312
+CC03O004E 005219 LUIZ SÉRGIO                             <-------> PT        Rio de Janeiro           313
+CC03O004E 005219 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CC03O004E 005219 AROLDE DE OLIVEIRA                      <-------> PSD       Rio de Janeiro           288
+CC03O004E 005219 DR. PAULO CÉSAR                         <-------> PSD       Rio de Janeiro           296
+CC03O004E 005219 FELIPE BORNIER                          <-------> PSD       Rio de Janeiro           301
+CC03O004E 005219 PAULO FEIJÓ                             <-------> PR        Rio de Janeiro           577
+CC03O004E 005219 SERGIO ZVEITER                          <-------> PSD       Rio de Janeiro           320
+CC03O004E 005219 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CC03O004E 005219 RODRIGO BETHLEM                         <-------> PMDB      Rio de Janeiro           318
+CC03O004E 005219 PEDRO PAULO                             <-------> PMDB      Rio de Janeiro           314
+CC03O004E 005219 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CC03O004E 005219 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CC03O004E 005219 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CC03O004E 005219 CHICO ALENCAR                           <-------> PSOL      Rio de Janeiro           295
+CC03O004E 005219 LILIAM SÁ                               <-------> PSD       Rio de Janeiro           309
+CC03O004E 005219 JORGE BITTAR                            <-------> PT        Rio de Janeiro           310
+CC03O004E 005219 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CC03O004E 005219 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CC03O004E 005219 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CC03O004E 005219 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CC03O004E 005219 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CC03O004E 005219 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CC03O004E 005219 PAULO FERREIRA                          <-------> PT        Rio Grande do Sul        591
+CC03O004E 005219 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CC03O004E 005219 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CC03O004E 005219 RONALDO NOGUEIRA                        <-------> PTB       Rio Grande do Sul        556
+CC03O004E 005219 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CC03O004E 005219 CARMEN ZANOTTO                          <-------> PPS       Santa Catarina           561
+CC03O004E 005219 CELSO MALDANER                          <-------> PMDB      Santa Catarina           472
+CC03O004E 005219 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CC03O004E 005219 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CC03O004E 005219 ALMEIDA LIMA                            <-------> PPS       Sergipe                  173
+CC03O004E 005219 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CC03O004E 005219 IVAN VALENTE                            <-------> PSOL      São Paulo                359
+CC03O004E 005219 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CC03O004E 005219 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CC03O004E 005219 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CC03O004E 005219 EMANUEL FERNANDES                       <-------> PSDB      São Paulo                352
+CC03O004E 005219 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CC03O004E 005219 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CC03O004E 005219 BETO MANSUR                             <-------> PP        São Paulo                340
+CC03O004E 005219 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CC03O004E 005219 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CC03O004E 005219 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CC03O004E 005219 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CC03O004E 005219 CARLOS ZARATTINI                        <-------> PT        São Paulo                398
+CC03O004E 005219 VICENTINHO                              <-------> PT        São Paulo                396
+CC03O004E 005219 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CC03O004E 005219 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CC03O004E 005219 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CC03O004E 005219 MÁRCIO FRANÇA                           <-------> PSB       São Paulo                368
+CC03O004E 005219 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CC03O004E 005219 MILTON MONTI                            <-------> PR        São Paulo                374
+CC03O004E 005219 FRANCISCO CHAGAS                        <-------> PT        São Paulo                626
+CC03O004E 005219 PENNA                                   <-------> PV        São Paulo                382
+CC03O004E 005219 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CC03O004E 005219 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 

@@ -1,0 +1,512 @@
+CD01O021O 004553 BERINHO BANTIM                          Obstrução PSDB      Roraima                  1
+CD01O021O 004553 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD01O021O 004553 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD01O021O 004553 PAULO CESAR QUARTIERO                   Obstrução DEM       Roraima                  6  
+CD01O021O 004553 TERESA SURITA                           Não       PMDB      Roraima                  8  
+CD01O021O 004553 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD01O021O 004553 DAVI ALCOLUMBRE                         Obstrução DEM       Amapá                    10 
+CD01O021O 004553 PROFESSORA MARCIVANIA                   Não       PT        Amapá                    15 
+CD01O021O 004553 SEBASTIÃO BALA ROCHA                    Não       PDT       Amapá                    17 
+CD01O021O 004553 ARNALDO JORDY                           Não       PPS       Pará                     18 
+CD01O021O 004553 BETO FARO                               Não       PT        Pará                     19 
+CD01O021O 004553 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD01O021O 004553 DUDIMAR PAXIÚBA                         Obstrução PSDB      Pará                     518
+CD01O021O 004553 ELCIONE BARBALHO                        Não       PMDB      Pará                     21 
+CD01O021O 004553 GIOVANNI QUEIROZ                        Não       PDT       Pará                     27 
+CD01O021O 004553 JOSÉ PRIANTE                            Não       PMDB      Pará                     26 
+CD01O021O 004553 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD01O021O 004553 LIRA MAIA                               Obstrução DEM       Pará                     28 
+CD01O021O 004553 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O021O 004553 LUIZ OTÁVIO                             Não       PMDB      Pará                     526
+CD01O021O 004553 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O021O 004553 WANDENKOLK GONÇALVES                    Obstrução PSDB      Pará                     32 
+CD01O021O 004553 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD01O021O 004553 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD01O021O 004553 ÁTILA LINS                              Não       PMDB      Amazonas                 38 
+CD01O021O 004553 CARLOS SOUZA                            Não       PP        Amazonas                 37 
+CD01O021O 004553 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD01O021O 004553 REBECCA GARCIA                          Não       PP        Amazonas                 42 
+CD01O021O 004553 SABINO CASTELO BRANCO                   Não       PTB       Amazonas                 43 
+CD01O021O 004553 LINDOMAR GARÇON                         Não       PV        Rondonia                 45 
+CD01O021O 004553 NATAN DONADON                           Não       PMDB      Rondonia                 51 
+CD01O021O 004553 PADRE TON                               Não       PT        Rondonia                 48 
+CD01O021O 004553 FLAVIANO MELO                           Não       PMDB      Acre                     54 
+CD01O021O 004553 GLADSON CAMELI                          Não       PP        Acre                     55 
+CD01O021O 004553 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD01O021O 004553 MARCIO BITTAR                           Obstrução PSDB      Acre                     57 
+CD01O021O 004553 SIBA MACHADO                            Não       PT        Acre                     58 
+CD01O021O 004553 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD01O021O 004553 CÉSAR HALUM                             Não       PPS       Tocantins                64 
+CD01O021O 004553 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD01O021O 004553 LÁZARO BOTELHO                          Não       PP        Tocantins                63 
+CD01O021O 004553 PROFESSORA DORINHA SEABRA REZEN         Obstrução DEM       Tocantins                67 
+CD01O021O 004553 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O021O 004553 EDIVALDO HOLANDA JUNIOR                 Não       PTC       Maranhão                 73 
+CD01O021O 004553 HÉLIO SANTOS                            Obstrução PSDB      Maranhão                 76 
+CD01O021O 004553 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O021O 004553 NICE LOBÃO                              Obstrução DEM       Maranhão                 78 
+CD01O021O 004553 PEDRO FERNANDES                         Não       PTB       Maranhão                 80 
+CD01O021O 004553 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD01O021O 004553 ZÉ VIEIRA                               Não       PR        Maranhão                 86 
+CD01O021O 004553 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O021O 004553 ANÍBAL GOMES                            Não       PMDB      Ceará                    87 
+CD01O021O 004553 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD01O021O 004553 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD01O021O 004553 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD01O021O 004553 DOMINGOS NETO                           Não       PSB       Ceará                    97 
+CD01O021O 004553 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD01O021O 004553 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD01O021O 004553 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD01O021O 004553 JOAO ANANIAS                            Não       PCdoB     Ceará                    106
+CD01O021O 004553 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD01O021O 004553 JOSÉ LINHARES                           Não       PP        Ceará                    96 
+CD01O021O 004553 RAIMUNDÃO                               Não       PMDB      Ceará                    108
+CD01O021O 004553 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD01O021O 004553 HUGO NAPOLEÃO                           Obstrução DEM       Piauí                    112
+CD01O021O 004553 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O021O 004553 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD01O021O 004553 JÚLIO CESAR                             Obstrução DEM       Piauí                    114
+CD01O021O 004553 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD01O021O 004553 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD01O021O 004553 PAES LANDIM                             Não       PTB       Piauí                    118
+CD01O021O 004553 JOÃO MAIA                               Não       PR        Rio Grande do Norte      124
+CD01O021O 004553 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD01O021O 004553 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD01O021O 004553 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD01O021O 004553 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD01O021O 004553 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O021O 004553 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD01O021O 004553 ROMERO RODRIGUES                        Não       PSDB      Paraíba                  135
+CD01O021O 004553 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD01O021O 004553 WILSON FILHO                            Não       PMDB      Paraíba                  139
+CD01O021O 004553 CARLOS EDUARDO CADOCA                   Não       PSC       Pernambuco               152
+CD01O021O 004553 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD01O021O 004553 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD01O021O 004553 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD01O021O 004553 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD01O021O 004553 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD01O021O 004553 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD01O021O 004553 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD01O021O 004553 MENDONÇA FILHO                          Obstrução DEM       Pernambuco               154
+CD01O021O 004553 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD01O021O 004553 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD01O021O 004553 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD01O021O 004553 SERGIO GUERRA                           Abstenção PSDB      Pernambuco               159
+CD01O021O 004553 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD01O021O 004553 VILALBA                                 Não       PRB       Pernambuco               555
+CD01O021O 004553 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD01O021O 004553 CELIA ROCHA                             Não       PTB       Alagoas                  165
+CD01O021O 004553 GIVALDO CARIMBÃO                        Não       PSB       Alagoas                  166
+CD01O021O 004553 JOÃO LYRA                               Não       PTB       Alagoas                  167
+CD01O021O 004553 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD01O021O 004553 RENAN FILHO                             Não       PMDB      Alagoas                  169
+CD01O021O 004553 RUI PALMEIRA                            Obstrução PSDB      Alagoas                  171
+CD01O021O 004553 ALMEIDA LIMA                            Não       PMDB      Sergipe                  173
+CD01O021O 004553 ANDRE MOURA                             Não       PSC       Sergipe                  174
+CD01O021O 004553 LAERCIO OLIVEIRA                        Não       PR        Sergipe                  176
+CD01O021O 004553 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD01O021O 004553 MENDONÇA PRADO                          Obstrução DEM       Sergipe                  179
+CD01O021O 004553 ROGERIO CARVALHO                        Não       PT        Sergipe                  178
+CD01O021O 004553 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD01O021O 004553 ACELINO POPÓ                            Não       PRB       Bahia                    522
+CD01O021O 004553 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD01O021O 004553 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O021O 004553 ANTONIO IMBASSAHY                       Obstrução PSDB      Bahia                    191
+CD01O021O 004553 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD01O021O 004553 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD01O021O 004553 EDSON PIMENTA                           Não       PCdoB     Bahia                    193
+CD01O021O 004553 ERIVELTON SANTANA                       Não       PSC       Bahia                    194
+CD01O021O 004553 FÁBIO SOUTO                             Obstrução DEM       Bahia                    190
+CD01O021O 004553 FELIX JÚNIOR                            Não       PDT       Bahia                    195
+CD01O021O 004553 FERNANDO TORRES                         Obstrução DEM       Bahia                    196
+CD01O021O 004553 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O021O 004553 JÂNIO NATAL                             Não       PRP       Bahia                    198
+CD01O021O 004553 JOSÉ CARLOS ARAÚJO                      Não       PDT       Bahia                    197
+CD01O021O 004553 JOSÉ NUNES                              Obstrução DEM       Bahia                    201
+CD01O021O 004553 JOSÉ ROCHA                              Não       PR        Bahia                    203
+CD01O021O 004553 JUTAHY JUNIOR                           Obstrução PSDB      Bahia                    206
+CD01O021O 004553 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD01O021O 004553 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD01O021O 004553 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD01O021O 004553 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD01O021O 004553 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD01O021O 004553 RUI COSTA                               Não       PT        Bahia                    216
+CD01O021O 004553 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O021O 004553 SÉRGIO BRITO                            Não       PSC       Bahia                    213
+CD01O021O 004553 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD01O021O 004553 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O021O 004553 AELTON FREITAS                          Não       PR        Minas Gerais             224
+CD01O021O 004553 ARACELY DE PAULA                        Não       PR        Minas Gerais             223
+CD01O021O 004553 BERNARDO SANTANA DE VASCONCELLO         Não       PR        Minas Gerais             221
+CD01O021O 004553 BONIFÁCIO DE ANDRADA                    Abstenção PSDB      Minas Gerais             534
+CD01O021O 004553 CARLAILE PEDROSA                        Obstrução PSDB      Minas Gerais             222
+CD01O021O 004553 DIEGO ANDRADE                           Não       PR        Minas Gerais             228
+CD01O021O 004553 DOMINGOS SÁVIO                          Obstrução PSDB      Minas Gerais             233
+CD01O021O 004553 EDUARDO AZEREDO                         Obstrução PSDB      Minas Gerais             237
+CD01O021O 004553 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD01O021O 004553 FÁBIO RAMALHO                           Não       PV        Minas Gerais             238
+CD01O021O 004553 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD01O021O 004553 GEORGE HILTON                           Não       PRB       Minas Gerais             241
+CD01O021O 004553 GERALDO THADEU                          Não       PPS       Minas Gerais             236
+CD01O021O 004553 GILMAR MACHADO                          Não       PT        Minas Gerais             234
+CD01O021O 004553 JAIME MARTINS                           Não       PR        Minas Gerais             240
+CD01O021O 004553 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD01O021O 004553 JOSE HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O021O 004553 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD01O021O 004553 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD01O021O 004553 LEONARDO QUINTÃO                        Não       PMDB      Minas Gerais             255
+CD01O021O 004553 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD01O021O 004553 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD01O021O 004553 MÁRIO DE OLIVEIRA                       Não       PSC       Minas Gerais             260
+CD01O021O 004553 MAURO LOPES                             Não       PMDB      Minas Gerais             252
+CD01O021O 004553 MIGUEL CORRÊA                           Não       PT        Minas Gerais             261
+CD01O021O 004553 NEWTON CARDOSO                          Não       PMDB      Minas Gerais             258
+CD01O021O 004553 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O021O 004553 PADRE JOAO                              Não       PT        Minas Gerais             259
+CD01O021O 004553 PAULO PIAU                              Não       PMDB      Minas Gerais             266
+CD01O021O 004553 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD01O021O 004553 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD01O021O 004553 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O021O 004553 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD01O021O 004553 ZÉ SILVA                                Não       PDT       Minas Gerais             271
+CD01O021O 004553 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O021O 004553 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD01O021O 004553 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD01O021O 004553 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD01O021O 004553 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O021O 004553 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD01O021O 004553 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD01O021O 004553 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CD01O021O 004553 ALFREDO SIRKIS                          Não       PV        Rio de Janeiro           321
+CD01O021O 004553 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD01O021O 004553 AROLDE DE OLIVEIRA                      Obstrução DEM       Rio de Janeiro           288
+CD01O021O 004553 AUREO                                   Não       PRTB      Rio de Janeiro           290
+CD01O021O 004553 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD01O021O 004553 CRISTIANO                               Não       PTdoB     Rio de Janeiro           292
+CD01O021O 004553 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD01O021O 004553 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CD01O021O 004553 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O021O 004553 DR. PAULO CÉSAR                         Não       PR        Rio de Janeiro           296
+CD01O021O 004553 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD01O021O 004553 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD01O021O 004553 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD01O021O 004553 ELIANE ROLIM                            Não       PT        Rio de Janeiro           538
+CD01O021O 004553 FELIPE BORNIER                          Não       PHS       Rio de Janeiro           301
+CD01O021O 004553 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD01O021O 004553 JEAN WYLLYS                             Não       PSOL      Rio de Janeiro           307
+CD01O021O 004553 LILIAM SÁ                               Não       PR        Rio de Janeiro           309
+CD01O021O 004553 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD01O021O 004553 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD01O021O 004553 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O021O 004553 NELSON BORNIER                          Não       PMDB      Rio de Janeiro           549
+CD01O021O 004553 PEDRO PAULO                             Não       PMDB      Rio de Janeiro           314
+CD01O021O 004553 RODRIGO BETHLEM                         Não       PMDB      Rio de Janeiro           318
+CD01O021O 004553 RODRIGO MAIA                            Não       DEM       Rio de Janeiro           322
+CD01O021O 004553 SERGIO ZVEITER                          Não       PDT       Rio de Janeiro           320
+CD01O021O 004553 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD01O021O 004553 STEPAN NERCESSIAN                       Não       PPS       Rio de Janeiro           323
+CD01O021O 004553 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O021O 004553 WALNEY ROCHA                            Não       PTB       Rio de Janeiro           325
+CD01O021O 004553 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD01O021O 004553 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD01O021O 004553 ALINE CORRÊA                            Não       PP        São Paulo                330
+CD01O021O 004553 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD01O021O 004553 ANTONIO CARLOS MENDES THAME             Obstrução PSDB      São Paulo                332
+CD01O021O 004553 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD01O021O 004553 ARNALDO JARDIM                          Não       PPS       São Paulo                339
+CD01O021O 004553 DELEGADO PROTÓGENES                     Não       PCdoB     São Paulo                343
+CD01O021O 004553 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD01O021O 004553 DR. UBIALI                              Não       PSB       São Paulo                541
+CD01O021O 004553 GABRIEL CHALITA                         Não       PSB       São Paulo                347
+CD01O021O 004553 GUILHERME CAMPOS                        Obstrução DEM       São Paulo                357
+CD01O021O 004553 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD01O021O 004553 JEFFERSON CAMPOS                        Não       PSB       São Paulo                349
+CD01O021O 004553 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O021O 004553 JOÃO DADO                               Não       PDT       São Paulo                362
+CD01O021O 004553 JOÃO PAULO CUNHA                        Não       PT        São Paulo                361
+CD01O021O 004553 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD01O021O 004553 JOSÉ DE FILIPPI                         Não       PT        São Paulo                354
+CD01O021O 004553 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O021O 004553 LUIZ FERNANDO MACHADO                   Obstrução PSDB      São Paulo                365
+CD01O021O 004553 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O021O 004553 MARCELO AGUIAR                          Não       PSC       São Paulo                370
+CD01O021O 004553 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD01O021O 004553 NEWTON LIMA                             Não       PT        São Paulo                377
+CD01O021O 004553 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O021O 004553 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD01O021O 004553 PAULO MALUF                             Não       PP        São Paulo                373
+CD01O021O 004553 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD01O021O 004553 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD01O021O 004553 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD01O021O 004553 RICARDO IZAR                            Não       PV        São Paulo                383
+CD01O021O 004553 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD01O021O 004553 ROBERTO FREIRE                          Não       PPS       São Paulo                387
+CD01O021O 004553 ROBERTO SANTIAGO                        Não       PV        São Paulo                386
+CD01O021O 004553 TIRIRICA                                Não       PR        São Paulo                392
+CD01O021O 004553 VANDERLEI MACRIS                        Obstrução PSDB      São Paulo                521
+CD01O021O 004553 VICENTINHO                              Não       PT        São Paulo                396
+CD01O021O 004553 WILLIAM DIB                             Obstrução PSDB      São Paulo                397
+CD01O021O 004553 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD01O021O 004553 JÚLIO CAMPOS                            Obstrução DEM       Mato Grosso              399
+CD01O021O 004553 ROBERTO DORNER                          Não       PP        Mato Grosso              519
+CD01O021O 004553 SÁGUAS MORAES                           Não       PT        Mato Grosso              405
+CD01O021O 004553 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD01O021O 004553 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD01O021O 004553 JAQUELINE RORIZ                         Obstrução PMN       Distrito Federal         409
+CD01O021O 004553 POLICARPO                               Não       PT        Distrito Federal         539
+CD01O021O 004553 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD01O021O 004553 RICARDO QUIRINO                         Não       PRB       Distrito Federal         551
+CD01O021O 004553 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O021O 004553 ARMANDO VERGÍLIO                        Não       PMN       Goiás                    416
+CD01O021O 004553 CARLOS ALBERTO LERÉIA                   Abstenção PSDB      Goiás                    415
+CD01O021O 004553 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD01O021O 004553 HEULER CRUVINEL                         Obstrução DEM       Goiás                    423
+CD01O021O 004553 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O021O 004553 JOÃO CAMPOS                             Obstrução PSDB      Goiás                    418
+CD01O021O 004553 JORGE PINHEIRO                          Não       PRB       Goiás                    548
+CD01O021O 004553 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD01O021O 004553 RONALDO CAIADO                          Obstrução DEM       Goiás                    429
+CD01O021O 004553 VALDIVINO DE OLIVEIRA                   Obstrução PSDB      Goiás                    547
+CD01O021O 004553 ANTÔNIO CARLOS BIFFI                    Não       PT        Mato Grosso do Sul       432
+CD01O021O 004553 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD01O021O 004553 GIROTO                                  Não       PR        Mato Grosso do Sul       434
+CD01O021O 004553 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O021O 004553 REINALDO AZAMBUJA                       Obstrução PSDB      Mato Grosso do Sul       439
+CD01O021O 004553 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD01O021O 004553 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD01O021O 004553 ANGELO VANHONI                          Não       PT        Paraná                   453
+CD01O021O 004553 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD01O021O 004553 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD01O021O 004553 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O021O 004553 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD01O021O 004553 EDUARDO SCIARRA                         Obstrução DEM       Paraná                   461
+CD01O021O 004553 FERNANDO FRANCISCHINI                   Obstrução PSDB      Paraná                   450
+CD01O021O 004553 GIACOBO                                 Não       PR        Paraná                   466
+CD01O021O 004553 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O021O 004553 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O021O 004553 LUIZ CARLOS SETIM                       Obstrução DEM       Paraná                   535
+CD01O021O 004553 LUIZ NISHIMORI                          Obstrução PSDB      Paraná                   542
+CD01O021O 004553 NELSON MEURER                           Não       PP        Paraná                   458
+CD01O021O 004553 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD01O021O 004553 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD01O021O 004553 RATINHO JUNIOR                          Não       PSC       Paraná                   464
+CD01O021O 004553 REINHOLD STEPHANES                      Não       PMDB      Paraná                   467
+CD01O021O 004553 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD01O021O 004553 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD01O021O 004553 SANDRO ALEX                             Não       PPS       Paraná                   465
+CD01O021O 004553 TAKAYAMA                                Não       PSC       Paraná                   469
+CD01O021O 004553 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD01O021O 004553 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O021O 004553 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD01O021O 004553 ONOFRE SANTO AGOSTINI                   Obstrução DEM       Santa Catarina           479
+CD01O021O 004553 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD01O021O 004553 ALEXANDRE ROSO                          Não       PSB       Rio Grande do Sul        489
+CD01O021O 004553 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD01O021O 004553 DARCÍSIO PERONDI                        Não       PMDB      Rio Grande do Sul        491
+CD01O021O 004553 ELVINO BOHN GASS                        Não       PT        Rio Grande do Sul        499
+CD01O021O 004553 ENIO BACCI                              Não       PDT       Rio Grande do Sul        493
+CD01O021O 004553 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD01O021O 004553 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD01O021O 004553 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD01O021O 004553 JOSE STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD01O021O 004553 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD01O021O 004553 MANUELA D`ÁVILA                         Não       PCdoB     Rio Grande do Sul        494
+CD01O021O 004553 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O021O 004553 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD01O021O 004553 MENDES RIBEIRO FILHO                    Não       PMDB      Rio Grande do Sul        504
+CD01O021O 004553 OSMAR TERRA                             Não       PMDB      Rio Grande do Sul        497
+CD01O021O 004553 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD01O021O 004553 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O021O 004553 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD01O021O 004553 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD01O021O 004553 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O021O 004553 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD01O021O 004553 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O021O 004553 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O021O 004553 PAUDERNEY AVELINO                       <-------> DEM       Amazonas                 40 
+CD01O021O 004553 SILAS CÂMARA                            <-------> PSC       Amazonas                 39 
+CD01O021O 004553 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD01O021O 004553 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O021O 004553 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O021O 004553 EVANDRO MILHOMEN                        <-------> PCdoB     Amapá                    11 
+CD01O021O 004553 VINICIUS GURGEL                         <-------> PRTB      Amapá                    16 
+CD01O021O 004553 ANTONIO CARLOS MAGALHÃES NETO           <-------> DEM       Bahia                    181
+CD01O021O 004553 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD01O021O 004553 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O021O 004553 ANTONIO BRITO                           <-------> PTB       Bahia                    189
+CD01O021O 004553 JOÃO LEÃO                               <-------> PP        Bahia                    199
+CD01O021O 004553 PAULO MAGALHÃES                         <-------> DEM       Bahia                    214
+CD01O021O 004553 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD01O021O 004553 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD01O021O 004553 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O021O 004553 ROBERTO BRITTO                          <-------> PP        Bahia                    211
+CD01O021O 004553 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD01O021O 004553 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD01O021O 004553 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD01O021O 004553 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD01O021O 004553 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD01O021O 004553 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O021O 004553 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD01O021O 004553 JOSÉ GUIMARÃES                          <-------> PT        Ceará                    103
+CD01O021O 004553 MANOEL SALVIANO                         <-------> PSDB      Ceará                    104
+CD01O021O 004553 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD01O021O 004553 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD01O021O 004553 IZALCI                                  <-------> PR        Distrito Federal         408
+CD01O021O 004553 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD01O021O 004553 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD01O021O 004553 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD01O021O 004553 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O021O 004553 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD01O021O 004553 THIAGO PEIXOTO                          <-------> PMDB      Goiás                    424
+CD01O021O 004553 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O021O 004553 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O021O 004553 PEDRO CHAVES                            <-------> PMDB      Goiás                    428
+CD01O021O 004553 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O021O 004553 GASTÃO VIEIRA                           <-------> PMDB      Maranhão                 75 
+CD01O021O 004553 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O021O 004553 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD01O021O 004553 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD01O021O 004553 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O021O 004553 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O021O 004553 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O021O 004553 WALDIR MARANHÃO                         <-------> PP        Maranhão                 84 
+CD01O021O 004553 LUCIANO MOREIRA                         <-------> PMDB      Maranhão                 83 
+CD01O021O 004553 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD01O021O 004553 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD01O021O 004553 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD01O021O 004553 WALTER TOSTA                            <-------> PMN       Minas Gerais             267
+CD01O021O 004553 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O021O 004553 MARCOS MONTES                           <-------> DEM       Minas Gerais             257
+CD01O021O 004553 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O021O 004553 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O021O 004553 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD01O021O 004553 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD01O021O 004553 DIMAS FABIANO                           <-------> PP        Minas Gerais             231
+CD01O021O 004553 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD01O021O 004553 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD01O021O 004553 ANTÔNIO ANDRADE                         <-------> PMDB      Minas Gerais             227
+CD01O021O 004553 ADEMIR CAMILO                           <-------> PDT       Minas Gerais             220
+CD01O021O 004553 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD01O021O 004553 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O021O 004553 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD01O021O 004553 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD01O021O 004553 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O021O 004553 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O021O 004553 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD01O021O 004553 GERALDO RESENDE                         <-------> PMDB      Mato Grosso do Sul       435
+CD01O021O 004553 NERI GELLER                             <-------> PP        Mato Grosso              520
+CD01O021O 004553 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O021O 004553 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD01O021O 004553 HOMERO PEREIRA                          <-------> PR        Mato Grosso              402
+CD01O021O 004553 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD01O021O 004553 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O021O 004553 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O021O 004553 AGUINALDO RIBEIRO                       <-------> PP        Paraíba                  129
+CD01O021O 004553 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD01O021O 004553 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD01O021O 004553 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD01O021O 004553 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O021O 004553 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD01O021O 004553 ANA ARRAES                              <-------> PSB       Pernambuco               140
+CD01O021O 004553 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD01O021O 004553 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O021O 004553 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD01O021O 004553 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O021O 004553 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O021O 004553 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD01O021O 004553 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD01O021O 004553 MARCELO CASTRO                          <-------> PMDB      Piauí                    110
+CD01O021O 004553 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD01O021O 004553 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O021O 004553 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD01O021O 004553 MOACIR MICHELETTO                       <-------> PMDB      Paraná                   462
+CD01O021O 004553 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O021O 004553 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O021O 004553 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O021O 004553 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CD01O021O 004553 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD01O021O 004553 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD01O021O 004553 CHICO DANGELO                           <-------> PT        Rio de Janeiro           527
+CD01O021O 004553 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD01O021O 004553 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD01O021O 004553 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD01O021O 004553 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD01O021O 004553 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O021O 004553 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O021O 004553 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD01O021O 004553 CHICO ALENCAR                           <-------> PSOL      Rio de Janeiro           295
+CD01O021O 004553 JULIO LOPES                             <-------> PP        Rio de Janeiro           308
+CD01O021O 004553 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O021O 004553 FELIPE MAIA                             <-------> DEM       Rio Grande do Norte      120
+CD01O021O 004553 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O021O 004553 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD01O021O 004553 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O021O 004553 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD01O021O 004553 MAURO NAZIF                             <-------> PSB       Rondonia                 46 
+CD01O021O 004553 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD01O021O 004553 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD01O021O 004553 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O021O 004553 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD01O021O 004553 RAUL LIMA                               <-------> PP        Roraima                  7  
+CD01O021O 004553 CHICO DAS VERDURAS                      <-------> PRP       Roraima                  3  
+CD01O021O 004553 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD01O021O 004553 DANRLEI DE DEUS HINTERHOLZ              <-------> PTB       Rio Grande do Sul        495
+CD01O021O 004553 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O021O 004553 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD01O021O 004553 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O021O 004553 RONALDO ZULKE                           <-------> PT        Rio Grande do Sul        515
+CD01O021O 004553 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O021O 004553 LUIS CARLOS HEINZE                      <-------> PP        Rio Grande do Sul        500
+CD01O021O 004553 PEPE VARGAS                             <-------> PT        Rio Grande do Sul        503
+CD01O021O 004553 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD01O021O 004553 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O021O 004553 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD01O021O 004553 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD01O021O 004553 ZONTA                                   <-------> PP        Santa Catarina           485
+CD01O021O 004553 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O021O 004553 PAULO BORNHAUSEN                        <-------> DEM       Santa Catarina           482
+CD01O021O 004553 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD01O021O 004553 JORGE BOEIRA                            <-------> PT        Santa Catarina           474
+CD01O021O 004553 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD01O021O 004553 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD01O021O 004553 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O021O 004553 JOÃO RODRIGUES                          <-------> DEM       Santa Catarina           473
+CD01O021O 004553 EDINHO BEZ                              <-------> PMDB      Santa Catarina           470
+CD01O021O 004553 MARCO TEBALDI                           <-------> PSDB      Santa Catarina           478
+CD01O021O 004553 HELENO SILVA                            <-------> PRB       Sergipe                  175
+CD01O021O 004553 CARLOS ZARATTINI                        <-------> PT        São Paulo                398
+CD01O021O 004553 ALDO REBELO                             <-------> PCdoB     São Paulo                331
+CD01O021O 004553 ALEXANDRE LEITE                         <-------> DEM       São Paulo                334
+CD01O021O 004553 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD01O021O 004553 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O021O 004553 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD01O021O 004553 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O021O 004553 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O021O 004553 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD01O021O 004553 GUILHERME MUSSI                         <-------> PV        São Paulo                348
+CD01O021O 004553 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD01O021O 004553 JUNJI ABE                               <-------> DEM       São Paulo                355
+CD01O021O 004553 JANETE ROCHA PIETÁ                      <-------> PT        São Paulo                358
+CD01O021O 004553 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD01O021O 004553 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD01O021O 004553 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD01O021O 004553 WALTER IHOSHI                           <-------> DEM       São Paulo                553
+CD01O021O 004553 ELEUSES PAIVA                           <-------> DEM       São Paulo                537
+CD01O021O 004553 EDINHO ARAÚJO                           <-------> PMDB      São Paulo                344
+CD01O021O 004553 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O021O 004553 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD01O021O 004553 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O021O 004553 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD01O021O 004553 RODRIGO GARCIA                          <-------> DEM       São Paulo                388
+CD01O021O 004553 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O021O 004553 PENNA                                   <-------> PV        São Paulo                382
+CD01O021O 004553 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD01O021O 004553 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD01O021O 004553 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O021O 004553 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O021O 004553 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O021O 004553 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD01O021O 004553 AGNOLIN                                 <-------> PDT       Tocantins                61 
+CD01O021O 004553 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O021O 004553 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 
+CD01O021O 004553 LAUREZ MOREIRA                          <-------> PSB       Tocantins                62 

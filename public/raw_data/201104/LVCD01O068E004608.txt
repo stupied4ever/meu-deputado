@@ -1,0 +1,512 @@
+CD01O068E 004608 CHICO DAS VERDURAS                      Sim       PRP       Roraima                  3
+CD01O068E 004608 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD01O068E 004608 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD01O068E 004608 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD01O068E 004608 TERESA SURITA                           Sim       PMDB      Roraima                  8  
+CD01O068E 004608 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD01O068E 004608 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD01O068E 004608 FÁTIMA PELAES                           Não       PMDB      Amapá                    12 
+CD01O068E 004608 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD01O068E 004608 PROFESSORA MARCIVANIA                   Sim       PT        Amapá                    15 
+CD01O068E 004608 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD01O068E 004608 VINICIUS GURGEL                         Sim       PRTB      Amapá                    16 
+CD01O068E 004608 ARNALDO JORDY                           Sim       PPS       Pará                     18 
+CD01O068E 004608 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD01O068E 004608 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD01O068E 004608 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD01O068E 004608 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD01O068E 004608 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD01O068E 004608 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD01O068E 004608 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD01O068E 004608 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CD01O068E 004608 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD01O068E 004608 ÁTILA LINS                              Sim       PMDB      Amazonas                 38 
+CD01O068E 004608 CARLOS SOUZA                            Sim       PP        Amazonas                 37 
+CD01O068E 004608 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD01O068E 004608 PAUDERNEY AVELINO                       Sim       DEM       Amazonas                 40 
+CD01O068E 004608 REBECCA GARCIA                          Não       PP        Amazonas                 42 
+CD01O068E 004608 SABINO CASTELO BRANCO                   Sim       PTB       Amazonas                 43 
+CD01O068E 004608 SILAS CÂMARA                            Sim       PSC       Amazonas                 39 
+CD01O068E 004608 CARLOS MAGNO                            Não       PP        Rondonia                 44 
+CD01O068E 004608 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD01O068E 004608 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD01O068E 004608 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD01O068E 004608 PADRE TON                               Sim       PT        Rondonia                 48 
+CD01O068E 004608 ANTÔNIA LÚCIA                           Sim       PSC       Acre                     53 
+CD01O068E 004608 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD01O068E 004608 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD01O068E 004608 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD01O068E 004608 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD01O068E 004608 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD01O068E 004608 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD01O068E 004608 AGNOLIN                                 Não       PDT       Tocantins                61 
+CD01O068E 004608 CÉSAR HALUM                             Sim       PPS       Tocantins                64 
+CD01O068E 004608 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD01O068E 004608 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD01O068E 004608 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD01O068E 004608 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD01O068E 004608 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD01O068E 004608 CLEBER VERDE                            Sim       PRB       Maranhão                 70 
+CD01O068E 004608 DOMINGOS DUTRA                          Abstenção PT        Maranhão                 72 
+CD01O068E 004608 EDIVALDO HOLANDA JUNIOR                 Sim       PTC       Maranhão                 73 
+CD01O068E 004608 FRANCISCO ESCÓRCIO                      Abstenção PMDB      Maranhão                 567
+CD01O068E 004608 GASTÃO VIEIRA                           Sim       PMDB      Maranhão                 75 
+CD01O068E 004608 HÉLIO SANTOS                            Sim       PSDB      Maranhão                 76 
+CD01O068E 004608 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD01O068E 004608 LUCIANO MOREIRA                         Sim       PMDB      Maranhão                 83 
+CD01O068E 004608 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD01O068E 004608 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD01O068E 004608 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD01O068E 004608 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD01O068E 004608 ANÍBAL GOMES                            Sim       PMDB      Ceará                    87 
+CD01O068E 004608 ANTONIO BALHMANN                        Não       PSB       Ceará                    93 
+CD01O068E 004608 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD01O068E 004608 ARNON BEZERRA                           Sim       PTB       Ceará                    90 
+CD01O068E 004608 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD01O068E 004608 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD01O068E 004608 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CD01O068E 004608 DOMINGOS NETO                           Sim       PSB       Ceará                    97 
+CD01O068E 004608 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD01O068E 004608 GENECIAS NORONHA                        Não       PMDB      Ceará                    99 
+CD01O068E 004608 GORETE PEREIRA                          Sim       PR        Ceará                    100
+CD01O068E 004608 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD01O068E 004608 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD01O068E 004608 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O068E 004608 JOSÉ LINHARES                           Não       PP        Ceará                    96 
+CD01O068E 004608 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD01O068E 004608 RAIMUNDÃO                               Não       PMDB      Ceará                    108
+CD01O068E 004608 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD01O068E 004608 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O068E 004608 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD01O068E 004608 JÚLIO CESAR                             Sim       DEM       Piauí                    114
+CD01O068E 004608 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD01O068E 004608 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD01O068E 004608 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CD01O068E 004608 FÁBIO FARIA                             Sim       PMN       Rio Grande do Norte      119
+CD01O068E 004608 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD01O068E 004608 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD01O068E 004608 JOÃO MAIA                               Sim       PR        Rio Grande do Norte      124
+CD01O068E 004608 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD01O068E 004608 ROGÉRIO MARINHO                         Sim       PSDB      Rio Grande do Norte      540
+CD01O068E 004608 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CD01O068E 004608 AGUINALDO RIBEIRO                       Sim       PP        Paraíba                  129
+CD01O068E 004608 BENJAMIN MARANHÃO                       Sim       PMDB      Paraíba                  131
+CD01O068E 004608 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O068E 004608 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD01O068E 004608 NILDA GONDIM                            Sim       PMDB      Paraíba                  134
+CD01O068E 004608 ROMERO RODRIGUES                        Sim       PSDB      Paraíba                  135
+CD01O068E 004608 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD01O068E 004608 WELLINGTON ROBERTO                      Sim       PR        Paraíba                  136
+CD01O068E 004608 WILSON FILHO                            Não       PMDB      Paraíba                  139
+CD01O068E 004608 ANA ARRAES                              Sim       PSB       Pernambuco               140
+CD01O068E 004608 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD01O068E 004608 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CD01O068E 004608 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD01O068E 004608 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD01O068E 004608 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD01O068E 004608 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD01O068E 004608 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD01O068E 004608 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD01O068E 004608 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD01O068E 004608 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD01O068E 004608 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD01O068E 004608 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD01O068E 004608 SERGIO GUERRA                           Sim       PSDB      Pernambuco               159
+CD01O068E 004608 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD01O068E 004608 VILALBA                                 Sim       PRB       Pernambuco               555
+CD01O068E 004608 WOLNEY QUEIROZ                          Sim       PDT       Pernambuco               164
+CD01O068E 004608 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD01O068E 004608 JOÃO LYRA                               Sim       PTB       Alagoas                  167
+CD01O068E 004608 JOAQUIM BELTRÃO                         Abstenção PMDB      Alagoas                  172
+CD01O068E 004608 MAURÍCIO QUINTELLA LESSA                Sim       PR        Alagoas                  168
+CD01O068E 004608 RENAN FILHO                             Não       PMDB      Alagoas                  169
+CD01O068E 004608 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD01O068E 004608 ALMEIDA LIMA                            Sim       PMDB      Sergipe                  173
+CD01O068E 004608 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD01O068E 004608 HELENO SILVA                            Sim       PRB       Sergipe                  175
+CD01O068E 004608 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD01O068E 004608 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD01O068E 004608 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD01O068E 004608 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD01O068E 004608 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CD01O068E 004608 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD01O068E 004608 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD01O068E 004608 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD01O068E 004608 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD01O068E 004608 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O068E 004608 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD01O068E 004608 EDSON PIMENTA                           Sim       PCdoB     Bahia                    193
+CD01O068E 004608 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD01O068E 004608 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD01O068E 004608 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD01O068E 004608 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD01O068E 004608 JÂNIO NATAL                             Sim       PRP       Bahia                    198
+CD01O068E 004608 JOSÉ CARLOS ARAÚJO                      Sim       PDT       Bahia                    197
+CD01O068E 004608 JOSÉ NUNES                              Sim       DEM       Bahia                    201
+CD01O068E 004608 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD01O068E 004608 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O068E 004608 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD01O068E 004608 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD01O068E 004608 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD01O068E 004608 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD01O068E 004608 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD01O068E 004608 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD01O068E 004608 PAULO MAGALHÃES                         Sim       DEM       Bahia                    214
+CD01O068E 004608 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O068E 004608 SÉRGIO BARRADAS CARNEIRO                Sim       PT        Bahia                    524
+CD01O068E 004608 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD01O068E 004608 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD01O068E 004608 ADEMIR CAMILO                           Sim       PDT       Minas Gerais             220
+CD01O068E 004608 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CD01O068E 004608 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD01O068E 004608 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD01O068E 004608 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD01O068E 004608 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CD01O068E 004608 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD01O068E 004608 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD01O068E 004608 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD01O068E 004608 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD01O068E 004608 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD01O068E 004608 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD01O068E 004608 EROS BIONDINI                           Sim       PTB       Minas Gerais             242
+CD01O068E 004608 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD01O068E 004608 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD01O068E 004608 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD01O068E 004608 GERALDO THADEU                          Sim       PPS       Minas Gerais             236
+CD01O068E 004608 GILMAR MACHADO                          Sim       PT        Minas Gerais             234
+CD01O068E 004608 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CD01O068E 004608 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD01O068E 004608 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD01O068E 004608 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD01O068E 004608 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD01O068E 004608 LAEL VARELLA                            Sim       DEM       Minas Gerais             245
+CD01O068E 004608 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD01O068E 004608 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD01O068E 004608 LUIS TIBÉ                               Sim       PTdoB     Minas Gerais             251
+CD01O068E 004608 MÁRCIO REINALDO MOREIRA                 Sim       PP        Minas Gerais             247
+CD01O068E 004608 MARCOS MONTES                           Sim       DEM       Minas Gerais             257
+CD01O068E 004608 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD01O068E 004608 MIGUEL CORRÊA                           Sim       PT        Minas Gerais             261
+CD01O068E 004608 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD01O068E 004608 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD01O068E 004608 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CD01O068E 004608 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD01O068E 004608 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD01O068E 004608 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD01O068E 004608 STEFANO AGUIAR                          Sim       PSC       Minas Gerais             558
+CD01O068E 004608 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD01O068E 004608 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD01O068E 004608 WALTER TOSTA                            Sim       PMN       Minas Gerais             267
+CD01O068E 004608 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD01O068E 004608 ZÉ SILVA                                Sim       PDT       Minas Gerais             271
+CD01O068E 004608 AUDIFAX                                 Sim       PSB       Espírito Santo           274
+CD01O068E 004608 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD01O068E 004608 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD01O068E 004608 MANATO                                  Sim       PDT       Espírito Santo           275
+CD01O068E 004608 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD01O068E 004608 ROSE DE FREITAS                         Art. 17   PMDB      Espírito Santo           282
+CD01O068E 004608 SUELI VIDIGAL                           Sim       PDT       Espírito Santo           281
+CD01O068E 004608 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD01O068E 004608 ALFREDO SIRKIS                          Não       PV        Rio de Janeiro           321
+CD01O068E 004608 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD01O068E 004608 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD01O068E 004608 AROLDE DE OLIVEIRA                      Sim       DEM       Rio de Janeiro           288
+CD01O068E 004608 AUREO                                   Sim       PRTB      Rio de Janeiro           290
+CD01O068E 004608 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD01O068E 004608 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O068E 004608 CHICO D`ANGELO                          Sim       PT        Rio de Janeiro           527
+CD01O068E 004608 CRISTIANO                               Sim       PTdoB     Rio de Janeiro           292
+CD01O068E 004608 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD01O068E 004608 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CD01O068E 004608 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD01O068E 004608 DR. PAULO CÉSAR                         Sim       PR        Rio de Janeiro           296
+CD01O068E 004608 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD01O068E 004608 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD01O068E 004608 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD01O068E 004608 ELIANE ROLIM                            Sim       PT        Rio de Janeiro           538
+CD01O068E 004608 FELIPE BORNIER                          Sim       PHS       Rio de Janeiro           301
+CD01O068E 004608 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD01O068E 004608 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD01O068E 004608 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD01O068E 004608 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O068E 004608 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD01O068E 004608 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD01O068E 004608 LILIAM SÁ                               Sim       PR        Rio de Janeiro           309
+CD01O068E 004608 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD01O068E 004608 NEILTON MULIM                           Sim       PR        Rio de Janeiro           315
+CD01O068E 004608 NELSON BORNIER                          Sim       PMDB      Rio de Janeiro           549
+CD01O068E 004608 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD01O068E 004608 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD01O068E 004608 ROMÁRIO                                 Sim       PSB       Rio de Janeiro           319
+CD01O068E 004608 SOLANGE ALMEIDA                         Sim       PMDB      Rio de Janeiro           563
+CD01O068E 004608 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD01O068E 004608 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD01O068E 004608 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD01O068E 004608 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD01O068E 004608 ALDO REBELO                             Sim       PCdoB     São Paulo                331
+CD01O068E 004608 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD01O068E 004608 ALINE CORRÊA                            Não       PP        São Paulo                330
+CD01O068E 004608 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD01O068E 004608 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD01O068E 004608 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD01O068E 004608 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD01O068E 004608 BETO MANSUR                             Sim       PP        São Paulo                340
+CD01O068E 004608 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CD01O068E 004608 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD01O068E 004608 CARLINHOS ALMEIDA                       Sim       PT        São Paulo                341
+CD01O068E 004608 CARLOS SAMPAIO                          Sim       PSDB      São Paulo                338
+CD01O068E 004608 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD01O068E 004608 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD01O068E 004608 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD01O068E 004608 DIMAS RAMALHO                           Sim       PPS       São Paulo                346
+CD01O068E 004608 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD01O068E 004608 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O068E 004608 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD01O068E 004608 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD01O068E 004608 GABRIEL CHALITA                         Sim       PSB       São Paulo                347
+CD01O068E 004608 GUILHERME CAMPOS                        Sim       DEM       São Paulo                357
+CD01O068E 004608 GUILHERME MUSSI                         Sim       PV        São Paulo                348
+CD01O068E 004608 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD01O068E 004608 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD01O068E 004608 JEFFERSON CAMPOS                        Sim       PSB       São Paulo                349
+CD01O068E 004608 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O068E 004608 JOÃO PAULO CUNHA                        Abstenção PT        São Paulo                361
+CD01O068E 004608 JONAS DONIZETTE                         Sim       PSB       São Paulo                353
+CD01O068E 004608 JOSÉ DE FILIPPI                         Sim       PT        São Paulo                354
+CD01O068E 004608 JUNJI ABE                               Sim       DEM       São Paulo                355
+CD01O068E 004608 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD01O068E 004608 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD01O068E 004608 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD01O068E 004608 MARCELO AGUIAR                          Sim       PSC       São Paulo                370
+CD01O068E 004608 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD01O068E 004608 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD01O068E 004608 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD01O068E 004608 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD01O068E 004608 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD01O068E 004608 PAULO FREIRE                            Sim       PR        São Paulo                380
+CD01O068E 004608 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD01O068E 004608 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD01O068E 004608 PENNA                                   Sim       PV        São Paulo                382
+CD01O068E 004608 RICARDO BERZOINI                        Sim       PT        São Paulo                390
+CD01O068E 004608 RICARDO IZAR                            Sim       PV        São Paulo                383
+CD01O068E 004608 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD01O068E 004608 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O068E 004608 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CD01O068E 004608 ROBERTO SANTIAGO                        Sim       PV        São Paulo                386
+CD01O068E 004608 RODRIGO GARCIA                          Sim       DEM       São Paulo                388
+CD01O068E 004608 TIRIRICA                                Sim       PR        São Paulo                392
+CD01O068E 004608 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD01O068E 004608 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD01O068E 004608 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CD01O068E 004608 WALTER IHOSHI                           Sim       DEM       São Paulo                553
+CD01O068E 004608 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD01O068E 004608 HOMERO PEREIRA                          Sim       PR        Mato Grosso              402
+CD01O068E 004608 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD01O068E 004608 ROBERTO DORNER                          Sim       PP        Mato Grosso              519
+CD01O068E 004608 SÁGUAS MORAES                           Sim       PT        Mato Grosso              405
+CD01O068E 004608 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O068E 004608 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD01O068E 004608 IZALCI                                  Sim       PR        Distrito Federal         408
+CD01O068E 004608 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD01O068E 004608 POLICARPO                               Sim       PT        Distrito Federal         539
+CD01O068E 004608 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD01O068E 004608 RICARDO QUIRINO                         Sim       PRB       Distrito Federal         551
+CD01O068E 004608 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD01O068E 004608 DELEGADO WALDIR                         Sim       PSDB      Goiás                    559
+CD01O068E 004608 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD01O068E 004608 HEULER CRUVINEL                         Sim       DEM       Goiás                    423
+CD01O068E 004608 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD01O068E 004608 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD01O068E 004608 JORGE PINHEIRO                          Sim       PRB       Goiás                    548
+CD01O068E 004608 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD01O068E 004608 MARINA SANTANNA                         Sim       PT        Goiás                    564
+CD01O068E 004608 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD01O068E 004608 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD01O068E 004608 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD01O068E 004608 SANDES JÚNIOR                           Sim       PP        Goiás                    426
+CD01O068E 004608 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD01O068E 004608 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CD01O068E 004608 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD01O068E 004608 GIROTO                                  Sim       PR        Mato Grosso do Sul       434
+CD01O068E 004608 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD01O068E 004608 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD01O068E 004608 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD01O068E 004608 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD01O068E 004608 ANGELO VANHONI                          Sim       PT        Paraná                   453
+CD01O068E 004608 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD01O068E 004608 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD01O068E 004608 DR. ROSINHA                             Abstenção PT        Paraná                   449
+CD01O068E 004608 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD01O068E 004608 EDUARDO SCIARRA                         Sim       DEM       Paraná                   461
+CD01O068E 004608 FERNANDO FRANCISCHINI                   Sim       PSDB      Paraná                   450
+CD01O068E 004608 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O068E 004608 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD01O068E 004608 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD01O068E 004608 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD01O068E 004608 MOACIR MICHELETTO                       Não       PMDB      Paraná                   462
+CD01O068E 004608 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD01O068E 004608 REINHOLD STEPHANES                      Sim       PMDB      Paraná                   467
+CD01O068E 004608 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD01O068E 004608 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O068E 004608 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD01O068E 004608 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD01O068E 004608 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD01O068E 004608 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD01O068E 004608 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD01O068E 004608 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O068E 004608 JORGINHO MELLO                          Sim       PSDB      Santa Catarina           476
+CD01O068E 004608 LUCI CHOINACKI                          Abstenção PT        Santa Catarina           477
+CD01O068E 004608 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD01O068E 004608 ONOFRE SANTO AGOSTINI                   Sim       DEM       Santa Catarina           479
+CD01O068E 004608 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CD01O068E 004608 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD01O068E 004608 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD01O068E 004608 ZONTA                                   Sim       PP        Santa Catarina           485
+CD01O068E 004608 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD01O068E 004608 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD01O068E 004608 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD01O068E 004608 DANRLEI DE DEUS HINTERHOLZ              Sim       PTB       Rio Grande do Sul        495
+CD01O068E 004608 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD01O068E 004608 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD01O068E 004608 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD01O068E 004608 JOSE STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD01O068E 004608 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD01O068E 004608 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD01O068E 004608 MANUELA D`ÁVILA                         Sim       PCdoB     Rio Grande do Sul        494
+CD01O068E 004608 MENDES RIBEIRO FILHO                    Não       PMDB      Rio Grande do Sul        504
+CD01O068E 004608 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD01O068E 004608 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD01O068E 004608 PEPE VARGAS                             Abstenção PT        Rio Grande do Sul        503
+CD01O068E 004608 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD01O068E 004608 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD01O068E 004608 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD01O068E 004608 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O068E 004608 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O068E 004608 CELIA ROCHA                             <-------> PTB       Alagoas                  165
+CD01O068E 004608 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O068E 004608 FRANCISCO PRACIANO                      <-------> PT        Amazonas                 41 
+CD01O068E 004608 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD01O068E 004608 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O068E 004608 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD01O068E 004608 FERNANDO TORRES                         <-------> DEM       Bahia                    196
+CD01O068E 004608 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD01O068E 004608 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD01O068E 004608 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD01O068E 004608 SÉRGIO BRITO                            <-------> PSC       Bahia                    213
+CD01O068E 004608 RUI COSTA                               <-------> PT        Bahia                    216
+CD01O068E 004608 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD01O068E 004608 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD01O068E 004608 JOSEPH BANDEIRA                         <-------> PT        Bahia                    565
+CD01O068E 004608 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD01O068E 004608 MANOEL SALVIANO                         <-------> PSDB      Ceará                    104
+CD01O068E 004608 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD01O068E 004608 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD01O068E 004608 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD01O068E 004608 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD01O068E 004608 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O068E 004608 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O068E 004608 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O068E 004608 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O068E 004608 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O068E 004608 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O068E 004608 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O068E 004608 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O068E 004608 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O068E 004608 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O068E 004608 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O068E 004608 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD01O068E 004608 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O068E 004608 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD01O068E 004608 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O068E 004608 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O068E 004608 DIEGO ANDRADE                           <-------> PR        Minas Gerais             228
+CD01O068E 004608 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O068E 004608 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O068E 004608 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O068E 004608 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD01O068E 004608 GERALDO RESENDE                         <-------> PMDB      Mato Grosso do Sul       435
+CD01O068E 004608 NERI GELLER                             <-------> PP        Mato Grosso              520
+CD01O068E 004608 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O068E 004608 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD01O068E 004608 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD01O068E 004608 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O068E 004608 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O068E 004608 LUIZ OTÁVIO                             <-------> PMDB      Pará                     526
+CD01O068E 004608 BETO FARO                               <-------> PT        Pará                     19 
+CD01O068E 004608 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD01O068E 004608 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O068E 004608 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O068E 004608 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD01O068E 004608 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD01O068E 004608 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD01O068E 004608 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O068E 004608 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD01O068E 004608 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD01O068E 004608 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD01O068E 004608 JOÃO PAULO  LIMA                        <-------> PT        Pernambuco               149
+CD01O068E 004608 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O068E 004608 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD01O068E 004608 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O068E 004608 HUGO NAPOLEÃO                           <-------> DEM       Piauí                    112
+CD01O068E 004608 ASSIS CARVALHO                          <-------> PT        Piauí                    111
+CD01O068E 004608 MARCELO CASTRO                          <-------> PMDB      Piauí                    110
+CD01O068E 004608 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD01O068E 004608 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O068E 004608 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD01O068E 004608 NELSON MEURER                           <-------> PP        Paraná                   458
+CD01O068E 004608 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD01O068E 004608 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD01O068E 004608 RUBENS BUENO                            <-------> PPS       Paraná                   460
+CD01O068E 004608 ASSIS DO COUTO                          <-------> PT        Paraná                   443
+CD01O068E 004608 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O068E 004608 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD01O068E 004608 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O068E 004608 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O068E 004608 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD01O068E 004608 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD01O068E 004608 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD01O068E 004608 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O068E 004608 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O068E 004608 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD01O068E 004608 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD01O068E 004608 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD01O068E 004608 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O068E 004608 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD01O068E 004608 MAURO NAZIF                             <-------> PSB       Rondonia                 46 
+CD01O068E 004608 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O068E 004608 LINDOMAR GARÇON                         <-------> PV        Rondonia                 45 
+CD01O068E 004608 RAUL LIMA                               <-------> PP        Roraima                  7  
+CD01O068E 004608 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD01O068E 004608 BERINHO BANTIM                          <-------> PSDB      Roraima                  1  
+CD01O068E 004608 RONALDO ZULKE                           <-------> PT        Rio Grande do Sul        515
+CD01O068E 004608 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD01O068E 004608 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O068E 004608 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD01O068E 004608 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O068E 004608 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD01O068E 004608 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O068E 004608 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O068E 004608 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O068E 004608 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD01O068E 004608 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD01O068E 004608 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD01O068E 004608 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O068E 004608 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD01O068E 004608 JORGE BOEIRA                            <-------> PT        Santa Catarina           474
+CD01O068E 004608 ROGERIO CARVALHO                        <-------> PT        Sergipe                  178
+CD01O068E 004608 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O068E 004608 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O068E 004608 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O068E 004608 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD01O068E 004608 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O068E 004608 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O068E 004608 JOÃO DADO                               <-------> PDT       São Paulo                362
+CD01O068E 004608 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD01O068E 004608 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD01O068E 004608 ELEUSES PAIVA                           <-------> DEM       São Paulo                537
+CD01O068E 004608 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O068E 004608 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD01O068E 004608 VICENTINHO                              <-------> PT        São Paulo                396
+CD01O068E 004608 LÁZARO BOTELHO                          <-------> PP        Tocantins                63 
+CD01O068E 004608 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O068E 004608 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 

@@ -1,0 +1,513 @@
+CD02O020E 004870 BERINHO BANTIM                          Sim       PSDB      Roraima                  1
+CD02O020E 004870 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD02O020E 004870 FRANCISCO ARAÚJO                        Sim       PSD       Roraima                  570
+CD02O020E 004870 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CD02O020E 004870 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD02O020E 004870 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD02O020E 004870 DAVI ALCOLUMBRE                         Não       DEM       Amapá                    10 
+CD02O020E 004870 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD02O020E 004870 FÁTIMA PELAES                           Sim       PMDB      Amapá                    12 
+CD02O020E 004870 JANETE CAPIBERIBE                       Não       PSB       Amapá                    572
+CD02O020E 004870 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD02O020E 004870 SEBASTIÃO BALA ROCHA                    Não       PDT       Amapá                    17 
+CD02O020E 004870 VINICIUS GURGEL                         Sim       PR        Amapá                    16 
+CD02O020E 004870 ARNALDO JORDY                           Não       PPS       Pará                     18 
+CD02O020E 004870 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD02O020E 004870 BETO FARO                               Sim       PT        Pará                     19 
+CD02O020E 004870 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD02O020E 004870 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD02O020E 004870 ELCIONE BARBALHO                        Sim       PMDB      Pará                     21 
+CD02O020E 004870 GIOVANNI QUEIROZ                        Não       PDT       Pará                     27 
+CD02O020E 004870 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CD02O020E 004870 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD02O020E 004870 LIRA MAIA                               Não       DEM       Pará                     28 
+CD02O020E 004870 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD02O020E 004870 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD02O020E 004870 WANDENKOLK GONÇALVES                    Não       PSDB      Pará                     32 
+CD02O020E 004870 WLADIMIR COSTA                          Sim       PMDB      Pará                     23 
+CD02O020E 004870 ZENALDO COUTINHO                        Não       PSDB      Pará                     34 
+CD02O020E 004870 ÁTILA LINS                              Sim       PSD       Amazonas                 38 
+CD02O020E 004870 CARLOS SOUZA                            Sim       PSD       Amazonas                 37 
+CD02O020E 004870 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD02O020E 004870 HENRIQUE OLIVEIRA                       Não       PR        Amazonas                 36 
+CD02O020E 004870 PAUDERNEY AVELINO                       Não       DEM       Amazonas                 40 
+CD02O020E 004870 REBECCA GARCIA                          Sim       PP        Amazonas                 42 
+CD02O020E 004870 SILAS CÂMARA                            Sim       PSD       Amazonas                 39 
+CD02O020E 004870 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD02O020E 004870 MARCOS ROGÉRIO                          Não       PDT       Rondonia                 583
+CD02O020E 004870 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD02O020E 004870 MAURO NAZIF                             Não       PSB       Rondonia                 46 
+CD02O020E 004870 MOREIRA MENDES                          Sim       PSD       Rondonia                 49 
+CD02O020E 004870 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD02O020E 004870 PADRE TON                               Sim       PT        Rondonia                 48 
+CD02O020E 004870 ANTÔNIA LÚCIA                           Sim       PSC       Acre                     53 
+CD02O020E 004870 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD02O020E 004870 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD02O020E 004870 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD02O020E 004870 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD02O020E 004870 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD02O020E 004870 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD02O020E 004870 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD02O020E 004870 CÉSAR HALUM                             Sim       PSD       Tocantins                64 
+CD02O020E 004870 IRAJÁ ABREU                             Sim       PSD       Tocantins                65 
+CD02O020E 004870 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD02O020E 004870 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD02O020E 004870 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD02O020E 004870 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD02O020E 004870 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD02O020E 004870 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD02O020E 004870 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD02O020E 004870 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CD02O020E 004870 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD02O020E 004870 EDIVALDO HOLANDA JUNIOR                 Sim       PTC       Maranhão                 73 
+CD02O020E 004870 HÉLIO SANTOS                            Abstenção PSD       Maranhão                 76 
+CD02O020E 004870 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD02O020E 004870 PEDRO NOVAIS                            Sim       PMDB      Maranhão                 82 
+CD02O020E 004870 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD02O020E 004870 SARNEY FILHO                            Sim       PV        Maranhão                 85 
+CD02O020E 004870 SIMPLÍCIO ARAÚJO                        Não       PPS       Maranhão                 585
+CD02O020E 004870 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD02O020E 004870 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD02O020E 004870 ANTONIO BALHMANN                        Não       PSB       Ceará                    93 
+CD02O020E 004870 ARNON BEZERRA                           Sim       PTB       Ceará                    90 
+CD02O020E 004870 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD02O020E 004870 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD02O020E 004870 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CD02O020E 004870 DOMINGOS NETO                           Sim       PSB       Ceará                    97 
+CD02O020E 004870 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD02O020E 004870 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD02O020E 004870 GENECIAS NORONHA                        Abstenção PMDB      Ceará                    99 
+CD02O020E 004870 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD02O020E 004870 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD02O020E 004870 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD02O020E 004870 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD02O020E 004870 JOSÉ LINHARES                           Sim       PP        Ceará                    96 
+CD02O020E 004870 MANOEL SALVIANO                         Sim       PSD       Ceará                    104
+CD02O020E 004870 MÁRIO FEITOZA                           Sim       PMDB      Ceará                    590
+CD02O020E 004870 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD02O020E 004870 RAIMUNDO GOMES DE MATOS                 Obstrução PSDB      Ceará                    102
+CD02O020E 004870 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD02O020E 004870 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD02O020E 004870 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CD02O020E 004870 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD02O020E 004870 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD02O020E 004870 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD02O020E 004870 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD02O020E 004870 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD02O020E 004870 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD02O020E 004870 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CD02O020E 004870 PAES LANDIM                             Sim       PTB       Piauí                    118
+CD02O020E 004870 FÁBIO FARIA                             Sim       PSD       Rio Grande do Norte      119
+CD02O020E 004870 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD02O020E 004870 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD02O020E 004870 JOÃO MAIA                               Sim       PR        Rio Grande do Norte      124
+CD02O020E 004870 ROGÉRIO MARINHO                         Sim       PSDB      Rio Grande do Norte      540
+CD02O020E 004870 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD02O020E 004870 ARMANDO ABÍLIO                          Sim       PTB       Paraíba                  589
+CD02O020E 004870 BENJAMIN MARANHÃO                       Sim       PMDB      Paraíba                  131
+CD02O020E 004870 EFRAIM FILHO                            Não       DEM       Paraíba                  128
+CD02O020E 004870 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD02O020E 004870 LEONARDO GADELHA                        Sim       PSC       Paraíba                  586
+CD02O020E 004870 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD02O020E 004870 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD02O020E 004870 ROMERO RODRIGUES                        Não       PSDB      Paraíba                  135
+CD02O020E 004870 WELLINGTON ROBERTO                      Sim       PR        Paraíba                  136
+CD02O020E 004870 WILSON FILHO                            Sim       PMDB      Paraíba                  139
+CD02O020E 004870 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD02O020E 004870 AUGUSTO COUTINHO                        Não       DEM       Pernambuco               144
+CD02O020E 004870 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CD02O020E 004870 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD02O020E 004870 EDUARDO DA FONTE                        Sim       PP        Pernambuco               156
+CD02O020E 004870 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD02O020E 004870 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD02O020E 004870 GONZAGA PATRIOTA                        Não       PSB       Pernambuco               143
+CD02O020E 004870 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD02O020E 004870 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD02O020E 004870 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD02O020E 004870 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD02O020E 004870 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD02O020E 004870 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD02O020E 004870 MENDONÇA FILHO                          Não       DEM       Pernambuco               154
+CD02O020E 004870 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD02O020E 004870 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD02O020E 004870 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD02O020E 004870 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD02O020E 004870 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD02O020E 004870 SERGIO GUERRA                           Sim       PSDB      Pernambuco               159
+CD02O020E 004870 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CD02O020E 004870 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD02O020E 004870 VILALBA                                 Sim       PRB       Pernambuco               555
+CD02O020E 004870 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD02O020E 004870 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD02O020E 004870 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD02O020E 004870 GIVALDO CARIMBÃO                        Sim       PSB       Alagoas                  166
+CD02O020E 004870 JOAQUIM BELTRÃO                         Sim       PMDB      Alagoas                  172
+CD02O020E 004870 MAURÍCIO QUINTELLA LESSA                Sim       PR        Alagoas                  168
+CD02O020E 004870 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD02O020E 004870 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD02O020E 004870 ALMEIDA LIMA                            Não       PPS       Sergipe                  173
+CD02O020E 004870 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD02O020E 004870 HELENO SILVA                            Sim       PRB       Sergipe                  175
+CD02O020E 004870 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD02O020E 004870 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD02O020E 004870 MENDONÇA PRADO                          Não       DEM       Sergipe                  179
+CD02O020E 004870 ROGÉRIO CARVALHO                        Sim       PT        Sergipe                  178
+CD02O020E 004870 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD02O020E 004870 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CD02O020E 004870 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD02O020E 004870 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD02O020E 004870 ANTONIO CARLOS MAGALHÃES NETO           Não       DEM       Bahia                    181
+CD02O020E 004870 ANTONIO IMBASSAHY                       Não       PSDB      Bahia                    191
+CD02O020E 004870 ARTHUR OLIVEIRA MAIA                    Sim       PMDB      Bahia                    192
+CD02O020E 004870 CLAUDIO CAJADO                          Não       DEM       Bahia                    186
+CD02O020E 004870 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD02O020E 004870 EDSON PIMENTA                           Sim       PSD       Bahia                    193
+CD02O020E 004870 EMILIANO JOSÉ                           Sim       PT        Bahia                    523
+CD02O020E 004870 FÁBIO SOUTO                             Não       DEM       Bahia                    190
+CD02O020E 004870 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD02O020E 004870 FERNANDO TORRES                         Não       PSD       Bahia                    196
+CD02O020E 004870 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD02O020E 004870 JÂNIO NATAL                             Sim       PRP       Bahia                    198
+CD02O020E 004870 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CD02O020E 004870 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD02O020E 004870 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CD02O020E 004870 JOSEPH BANDEIRA                         Sim       PT        Bahia                    565
+CD02O020E 004870 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD02O020E 004870 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD02O020E 004870 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD02O020E 004870 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD02O020E 004870 LUIZ ARGÔLO                             Sim       PP        Bahia                    207
+CD02O020E 004870 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD02O020E 004870 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD02O020E 004870 MÁRIO NEGROMONTE                        Sim       PP        Bahia                    210
+CD02O020E 004870 MAURÍCIO TRINDADE                       Sim       PR        Bahia                    208
+CD02O020E 004870 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD02O020E 004870 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD02O020E 004870 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CD02O020E 004870 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD02O020E 004870 SÉRGIO BARRADAS CARNEIRO                Sim       PT        Bahia                    524
+CD02O020E 004870 SÉRGIO BRITO                            Sim       PSD       Bahia                    213
+CD02O020E 004870 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD02O020E 004870 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD02O020E 004870 ADEMIR CAMILO                           Não       PSD       Minas Gerais             220
+CD02O020E 004870 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CD02O020E 004870 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD02O020E 004870 ARACELY DE PAULA                        Sim       PR        Minas Gerais             223
+CD02O020E 004870 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD02O020E 004870 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CD02O020E 004870 CARLAILE PEDROSA                        Não       PSDB      Minas Gerais             222
+CD02O020E 004870 DIEGO ANDRADE                           Sim       PSD       Minas Gerais             228
+CD02O020E 004870 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD02O020E 004870 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD02O020E 004870 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD02O020E 004870 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD02O020E 004870 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD02O020E 004870 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD02O020E 004870 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD02O020E 004870 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD02O020E 004870 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CD02O020E 004870 JAIRO ATAIDE                            Não       DEM       Minas Gerais             533
+CD02O020E 004870 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD02O020E 004870 JOÃO BITTAR                             Não       DEM       Minas Gerais             531
+CD02O020E 004870 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD02O020E 004870 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD02O020E 004870 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD02O020E 004870 LAEL VARELLA                            Sim       DEM       Minas Gerais             245
+CD02O020E 004870 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CD02O020E 004870 LUIS TIBÉ                               Sim       PTdoB     Minas Gerais             251
+CD02O020E 004870 MÁRCIO REINALDO MOREIRA                 Sim       PP        Minas Gerais             247
+CD02O020E 004870 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD02O020E 004870 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD02O020E 004870 MIGUEL CORRÊA                           Sim       PT        Minas Gerais             261
+CD02O020E 004870 NEWTON CARDOSO                          Não       PMDB      Minas Gerais             258
+CD02O020E 004870 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CD02O020E 004870 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD02O020E 004870 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD02O020E 004870 PAULO PIAU                              Sim       PMDB      Minas Gerais             266
+CD02O020E 004870 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CD02O020E 004870 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD02O020E 004870 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD02O020E 004870 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD02O020E 004870 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD02O020E 004870 VITOR PENIDO                            Não       DEM       Minas Gerais             532
+CD02O020E 004870 WALTER TOSTA                            Sim       PSD       Minas Gerais             267
+CD02O020E 004870 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD02O020E 004870 ZÉ SILVA                                Não       PDT       Minas Gerais             271
+CD02O020E 004870 CESAR COLNAGO                           Não       PSDB      Espírito Santo           276
+CD02O020E 004870 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD02O020E 004870 IRINY LOPES                             Sim       PT        Espírito Santo           273
+CD02O020E 004870 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD02O020E 004870 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD02O020E 004870 MANATO                                  Não       PDT       Espírito Santo           275
+CD02O020E 004870 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD02O020E 004870 ROSE DE FREITAS                         Sim       PMDB      Espírito Santo           282
+CD02O020E 004870 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD02O020E 004870 ALEXANDRE SANTOS                        Sim       PMDB      Rio de Janeiro           285
+CD02O020E 004870 ANDREIA ZITO                            Não       PSDB      Rio de Janeiro           283
+CD02O020E 004870 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD02O020E 004870 AROLDE DE OLIVEIRA                      Sim       PSD       Rio de Janeiro           288
+CD02O020E 004870 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD02O020E 004870 BRIZOLA NETO                            Sim       PDT       Rio de Janeiro           566
+CD02O020E 004870 CHICO ALENCAR                           Não       PSOL      Rio de Janeiro           295
+CD02O020E 004870 CHICO D`ANGELO                          Sim       PT        Rio de Janeiro           527
+CD02O020E 004870 DELEY                                   Não       PSC       Rio de Janeiro           562
+CD02O020E 004870 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD02O020E 004870 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CD02O020E 004870 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD02O020E 004870 DR. PAULO CÉSAR                         Não       PSD       Rio de Janeiro           296
+CD02O020E 004870 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD02O020E 004870 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD02O020E 004870 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD02O020E 004870 ELIANE ROLIM                            Sim       PT        Rio de Janeiro           538
+CD02O020E 004870 FELIPE BORNIER                          Não       PSD       Rio de Janeiro           301
+CD02O020E 004870 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD02O020E 004870 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD02O020E 004870 FRANCISCO FLORIANO                      Não       PR        Rio de Janeiro           297
+CD02O020E 004870 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD02O020E 004870 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD02O020E 004870 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD02O020E 004870 JEAN WYLLYS                             Não       PSOL      Rio de Janeiro           307
+CD02O020E 004870 LEONARDO PICCIANI                       Sim       PMDB      Rio de Janeiro           312
+CD02O020E 004870 LILIAM SÁ                               Não       PSD       Rio de Janeiro           309
+CD02O020E 004870 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD02O020E 004870 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD02O020E 004870 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD02O020E 004870 NELSON BORNIER                          Sim       PMDB      Rio de Janeiro           549
+CD02O020E 004870 OTAVIO LEITE                            Não       PSDB      Rio de Janeiro           316
+CD02O020E 004870 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CD02O020E 004870 RODRIGO MAIA                            Não       DEM       Rio de Janeiro           322
+CD02O020E 004870 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD02O020E 004870 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD02O020E 004870 STEPAN NERCESSIAN                       Não       PPS       Rio de Janeiro           323
+CD02O020E 004870 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD02O020E 004870 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD02O020E 004870 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD02O020E 004870 ABELARDO CAMARINHA                      Não       PSB       São Paulo                329
+CD02O020E 004870 ALBERTO MOURÃO                          Sim       PSDB      São Paulo                552
+CD02O020E 004870 ALEXANDRE LEITE                         Não       DEM       São Paulo                334
+CD02O020E 004870 ALINE CORRÊA                            Sim       PP        São Paulo                330
+CD02O020E 004870 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD02O020E 004870 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD02O020E 004870 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD02O020E 004870 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD02O020E 004870 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD02O020E 004870 BETO MANSUR                             Sim       PP        São Paulo                340
+CD02O020E 004870 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CD02O020E 004870 CÂNDIDO VACCAREZZA                      Sim       PT        São Paulo                389
+CD02O020E 004870 CARLINHOS ALMEIDA                       Sim       PT        São Paulo                341
+CD02O020E 004870 CARLOS SAMPAIO                          Não       PSDB      São Paulo                338
+CD02O020E 004870 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD02O020E 004870 DELEGADO PROTÓGENES                     Não       PCdoB     São Paulo                343
+CD02O020E 004870 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD02O020E 004870 DIMAS RAMALHO                           Não       PPS       São Paulo                346
+CD02O020E 004870 DR. UBIALI                              Não       PSB       São Paulo                541
+CD02O020E 004870 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD02O020E 004870 ELEUSES PAIVA                           Não       PSD       São Paulo                537
+CD02O020E 004870 ELI CORREA FILHO                        Não       DEM       São Paulo                345
+CD02O020E 004870 EMANUEL FERNANDES                       Sim       PSDB      São Paulo                352
+CD02O020E 004870 GABRIEL CHALITA                         Sim       PMDB      São Paulo                347
+CD02O020E 004870 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD02O020E 004870 GUILHERME MUSSI                         Sim       PSD       São Paulo                348
+CD02O020E 004870 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD02O020E 004870 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD02O020E 004870 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD02O020E 004870 JOÃO DADO                               Não       PDT       São Paulo                362
+CD02O020E 004870 JOÃO PAULO CUNHA                        Sim       PT        São Paulo                361
+CD02O020E 004870 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD02O020E 004870 JORGE TADEU MUDALEN                     Não       DEM       São Paulo                363
+CD02O020E 004870 JOSÉ DE FILIPPI                         Sim       PT        São Paulo                354
+CD02O020E 004870 JOSÉ MENTOR                             Sim       PT        São Paulo                367
+CD02O020E 004870 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD02O020E 004870 KEIKO OTA                               Não       PSB       São Paulo                356
+CD02O020E 004870 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD02O020E 004870 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD02O020E 004870 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD02O020E 004870 MARCELO AGUIAR                          Sim       PSD       São Paulo                370
+CD02O020E 004870 MILTON MONTI                            Sim       PR        São Paulo                374
+CD02O020E 004870 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD02O020E 004870 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD02O020E 004870 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD02O020E 004870 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD02O020E 004870 PAULO FREIRE                            Não       PR        São Paulo                380
+CD02O020E 004870 PAULO MALUF                             Sim       PP        São Paulo                373
+CD02O020E 004870 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD02O020E 004870 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD02O020E 004870 RICARDO BERZOINI                        Sim       PT        São Paulo                390
+CD02O020E 004870 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CD02O020E 004870 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD02O020E 004870 ROBERTO FREIRE                          Não       PPS       São Paulo                387
+CD02O020E 004870 ROBERTO SANTIAGO                        Não       PSD       São Paulo                386
+CD02O020E 004870 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD02O020E 004870 TIRIRICA                                Não       PR        São Paulo                392
+CD02O020E 004870 VALDEMAR COSTA NETO                     Sim       PR        São Paulo                393
+CD02O020E 004870 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD02O020E 004870 VANDERLEI SIRAQUE                       Sim       PT        São Paulo                581
+CD02O020E 004870 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD02O020E 004870 VICENTINHO                              Sim       PT        São Paulo                396
+CD02O020E 004870 WALTER FELDMAN                          Sim       PSDB      São Paulo                550
+CD02O020E 004870 WILLIAM DIB                             Não       PSDB      São Paulo                397
+CD02O020E 004870 CABO JULIANO RABELO                     Não       PSB       Mato Grosso              584
+CD02O020E 004870 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD02O020E 004870 ELIENE LIMA                             Sim       PSD       Mato Grosso              401
+CD02O020E 004870 HOMERO PEREIRA                          Sim       PSD       Mato Grosso              402
+CD02O020E 004870 JÚLIO CAMPOS                            Não       DEM       Mato Grosso              399
+CD02O020E 004870 NILSON LEITÃO                           Sim       PSDB      Mato Grosso              573
+CD02O020E 004870 PEDRO HENRY                             Sim       PP        Mato Grosso              403
+CD02O020E 004870 WELLINGTON FAGUNDES                     Sim       PR        Mato Grosso              406
+CD02O020E 004870 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD02O020E 004870 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD02O020E 004870 IZALCI                                  Não       PR        Distrito Federal         408
+CD02O020E 004870 JAQUELINE RORIZ                         Não       PMN       Distrito Federal         409
+CD02O020E 004870 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD02O020E 004870 POLICARPO                               Não       PT        Distrito Federal         539
+CD02O020E 004870 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD02O020E 004870 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD02O020E 004870 ARMANDO VERGÍLIO                        Sim       PSD       Goiás                    416
+CD02O020E 004870 CARLOS ALBERTO LERÉIA                   Não       PSDB      Goiás                    415
+CD02O020E 004870 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD02O020E 004870 HEULER CRUVINEL                         Sim       PSD       Goiás                    423
+CD02O020E 004870 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD02O020E 004870 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CD02O020E 004870 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CD02O020E 004870 MARINA SANTANNA                         Sim       PT        Goiás                    564
+CD02O020E 004870 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD02O020E 004870 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD02O020E 004870 RONALDO CAIADO                          Não       DEM       Goiás                    429
+CD02O020E 004870 SANDES JÚNIOR                           Sim       PP        Goiás                    426
+CD02O020E 004870 SANDRO MABEL                            Sim       PMDB      Goiás                    431
+CD02O020E 004870 VALDIVINO DE OLIVEIRA                   Não       PSDB      Goiás                    547
+CD02O020E 004870 ANTÔNIO CARLOS BIFFI                    Não       PT        Mato Grosso do Sul       432
+CD02O020E 004870 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD02O020E 004870 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD02O020E 004870 GIROTO                                  Sim       PMDB      Mato Grosso do Sul       434
+CD02O020E 004870 MANDETTA                                Não       DEM       Mato Grosso do Sul       436
+CD02O020E 004870 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD02O020E 004870 REINALDO AZAMBUJA                       Não       PSDB      Mato Grosso do Sul       439
+CD02O020E 004870 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD02O020E 004870 ABELARDO LUPION                         Não       DEM       Paraná                   440
+CD02O020E 004870 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD02O020E 004870 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD02O020E 004870 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD02O020E 004870 ANGELO VANHONI                          Sim       PT        Paraná                   453
+CD02O020E 004870 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD02O020E 004870 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD02O020E 004870 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD02O020E 004870 DR. ROSINHA                             Sim       PT        Paraná                   449
+CD02O020E 004870 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD02O020E 004870 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD02O020E 004870 FERNANDO FRANCISCHINI                   Não       PSDB      Paraná                   450
+CD02O020E 004870 GIACOBO                                 Sim       PR        Paraná                   466
+CD02O020E 004870 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD02O020E 004870 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD02O020E 004870 LUIZ CARLOS SETIM                       Não       DEM       Paraná                   535
+CD02O020E 004870 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD02O020E 004870 NELSON MEURER                           Sim       PP        Paraná                   458
+CD02O020E 004870 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD02O020E 004870 ODÍLIO BALBINOTTI                       Sim       PMDB      Paraná                   588
+CD02O020E 004870 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD02O020E 004870 RATINHO JUNIOR                          Sim       PSC       Paraná                   464
+CD02O020E 004870 REINHOLD STEPHANES                      Não       PSD       Paraná                   467
+CD02O020E 004870 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD02O020E 004870 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD02O020E 004870 SANDRO ALEX                             Não       PPS       Paraná                   465
+CD02O020E 004870 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD02O020E 004870 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CD02O020E 004870 CARMEN ZANOTTO                          Não       PPS       Santa Catarina           561
+CD02O020E 004870 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD02O020E 004870 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CD02O020E 004870 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD02O020E 004870 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD02O020E 004870 JOÃO PIZZOLATTI                         Sim       PP        Santa Catarina           574
+CD02O020E 004870 JORGE BOEIRA                            Não       PSD       Santa Catarina           474
+CD02O020E 004870 JORGINHO MELLO                          Sim       PSDB      Santa Catarina           476
+CD02O020E 004870 LUCI CHOINACKI                          Sim       PT        Santa Catarina           477
+CD02O020E 004870 ONOFRE SANTO AGOSTINI                   Não       PSD       Santa Catarina           479
+CD02O020E 004870 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD02O020E 004870 ROMANNA REMOR                           Sim       PMDB      Santa Catarina           582
+CD02O020E 004870 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD02O020E 004870 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD02O020E 004870 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD02O020E 004870 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD02O020E 004870 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD02O020E 004870 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD02O020E 004870 DANRLEI DE DEUS HINTERHOLZ              Sim       PSD       Rio Grande do Sul        495
+CD02O020E 004870 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD02O020E 004870 ELISEU PADILHA                          Sim       PMDB      Rio Grande do Sul        578
+CD02O020E 004870 ENIO BACCI                              Não       PDT       Rio Grande do Sul        493
+CD02O020E 004870 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD02O020E 004870 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD02O020E 004870 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD02O020E 004870 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD02O020E 004870 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD02O020E 004870 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD02O020E 004870 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD02O020E 004870 MANUELA D`ÁVILA                         Sim       PCdoB     Rio Grande do Sul        494
+CD02O020E 004870 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD02O020E 004870 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CD02O020E 004870 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD02O020E 004870 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD02O020E 004870 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CD02O020E 004870 PEPE VARGAS                             Sim       PT        Rio Grande do Sul        503
+CD02O020E 004870 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD02O020E 004870 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD02O020E 004870 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD02O020E 004870 SÉRGIO MORAES                           Sim       PTB       Rio Grande do Sul        512
+CD02O020E 004870 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD02O020E 004870 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD02O020E 004870 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD02O020E 004870 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD02O020E 004870 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD02O020E 004870 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD02O020E 004870 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD02O020E 004870 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD02O020E 004870 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD02O020E 004870 AMAURI TEIXEIRA                         <-------> PT        Bahia                    184
+CD02O020E 004870 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD02O020E 004870 ARIOSTO HOLANDA                         <-------> PSB       Ceará                    92 
+CD02O020E 004870 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD02O020E 004870 AUDIFAX                                 <-------> PSB       Espírito Santo           274
+CD02O020E 004870 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD02O020E 004870 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD02O020E 004870 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD02O020E 004870 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD02O020E 004870 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD02O020E 004870 PROFESSOR SETIMO                        <-------> PMDB      Maranhão                 81 
+CD02O020E 004870 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD02O020E 004870 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD02O020E 004870 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD02O020E 004870 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD02O020E 004870 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD02O020E 004870 EROS BIONDINI                           <-------> PTB       Minas Gerais             242
+CD02O020E 004870 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD02O020E 004870 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD02O020E 004870 ANTÔNIO ANDRADE                         <-------> PMDB      Minas Gerais             227
+CD02O020E 004870 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CD02O020E 004870 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD02O020E 004870 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD02O020E 004870 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD02O020E 004870 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD02O020E 004870 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD02O020E 004870 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD02O020E 004870 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD02O020E 004870 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CD02O020E 004870 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD02O020E 004870 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD02O020E 004870 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD02O020E 004870 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD02O020E 004870 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD02O020E 004870 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD02O020E 004870 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD02O020E 004870 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD02O020E 004870 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD02O020E 004870 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD02O020E 004870 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD02O020E 004870 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD02O020E 004870 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD02O020E 004870 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD02O020E 004870 JEFFERSON CAMPOS                        <-------> PSD       São Paulo                349
+CD02O020E 004870 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD02O020E 004870 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD02O020E 004870 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD02O020E 004870 PENNA                                   <-------> PV        São Paulo                382
+CD02O020E 004870 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD02O020E 004870 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 

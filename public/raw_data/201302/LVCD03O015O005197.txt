@@ -1,0 +1,512 @@
+CD03O015O 005197 CHICO DAS VERDURAS                      Não       PRP       Roraima                  3
+CD03O015O 005197 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD03O015O 005197 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CD03O015O 005197 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD03O015O 005197 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD03O015O 005197 URZENI ROCHA                            Sim       PSDB      Roraima                  616
+CD03O015O 005197 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD03O015O 005197 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD03O015O 005197 JANETE CAPIBERIBE                       Não       PSB       Amapá                    572
+CD03O015O 005197 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD03O015O 005197 SEBASTIÃO BALA ROCHA                    Não       PDT       Amapá                    17 
+CD03O015O 005197 VINICIUS GURGEL                         Não       PR        Amapá                    16 
+CD03O015O 005197 ARNALDO JORDY                           Sim       PPS       Pará                     18 
+CD03O015O 005197 BETO FARO                               Não       PT        Pará                     19 
+CD03O015O 005197 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD03O015O 005197 ELCIONE BARBALHO                        Não       PMDB      Pará                     21 
+CD03O015O 005197 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD03O015O 005197 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD03O015O 005197 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD03O015O 005197 LÚCIO VALE                              Não       PR        Pará                     29 
+CD03O015O 005197 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD03O015O 005197 NILSON PINTO                            Sim       PSDB      Pará                     31 
+CD03O015O 005197 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CD03O015O 005197 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD03O015O 005197 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD03O015O 005197 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD03O015O 005197 ÁTILA LINS                              Sim       PSD       Amazonas                 38 
+CD03O015O 005197 DR. LUIZ FERNANDO                       Sim       PSD       Amazonas                 605
+CD03O015O 005197 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD03O015O 005197 HENRIQUE OLIVEIRA                       Não       PR        Amazonas                 36 
+CD03O015O 005197 SILAS CÂMARA                            Sim       PSD       Amazonas                 39 
+CD03O015O 005197 ANSELMO DE JESUS                        Não       PT        Rondonia                 615
+CD03O015O 005197 CARLOS MAGNO                            Não       PP        Rondonia                 44 
+CD03O015O 005197 MARCOS ROGÉRIO                          Sim       PDT       Rondonia                 583
+CD03O015O 005197 MARINHA RAUPP                           Não       PMDB      Rondonia                 50 
+CD03O015O 005197 MOREIRA MENDES                          Sim       PSD       Rondonia                 49 
+CD03O015O 005197 NATAN DONADON                           Não       PMDB      Rondonia                 51 
+CD03O015O 005197 NILTON CAPIXABA                         Não       PTB       Rondonia                 47 
+CD03O015O 005197 PADRE TON                               Não       PT        Rondonia                 48 
+CD03O015O 005197 GLADSON CAMELI                          Não       PP        Acre                     55 
+CD03O015O 005197 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD03O015O 005197 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD03O015O 005197 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD03O015O 005197 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD03O015O 005197 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD03O015O 005197 CÉSAR HALUM                             Sim       PSD       Tocantins                64 
+CD03O015O 005197 PROFESSORA DORINHA SEABRA REZEN         Abstenção DEM       Tocantins                67 
+CD03O015O 005197 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD03O015O 005197 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD03O015O 005197 COSTA FERREIRA                          Não       PSC       Maranhão                 571
+CD03O015O 005197 DAVI ALVES SILVA JÚNIOR                 Não       PR        Maranhão                 528
+CD03O015O 005197 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD03O015O 005197 FRANCISCO ESCÓRCIO                      Não       PMDB      Maranhão                 567
+CD03O015O 005197 NICE LOBÃO                              Sim       PSD       Maranhão                 78 
+CD03O015O 005197 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD03O015O 005197 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD03O015O 005197 SARNEY FILHO                            Não       PV        Maranhão                 85 
+CD03O015O 005197 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD03O015O 005197 WEVERTON ROCHA                          Não       PDT       Maranhão                 579
+CD03O015O 005197 ZÉ VIEIRA                               Não       PR        Maranhão                 86 
+CD03O015O 005197 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD03O015O 005197 ANTONIO BALHMANN                        Não       PSB       Ceará                    93 
+CD03O015O 005197 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD03O015O 005197 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD03O015O 005197 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD03O015O 005197 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD03O015O 005197 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD03O015O 005197 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD03O015O 005197 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD03O015O 005197 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD03O015O 005197 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD03O015O 005197 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD03O015O 005197 JOSÉ LINHARES                           Não       PP        Ceará                    96 
+CD03O015O 005197 MÁRIO FEITOZA                           Não       PMDB      Ceará                    590
+CD03O015O 005197 PAULO HENRIQUE LUSTOSA                  Não       PMDB      Ceará                    630
+CD03O015O 005197 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD03O015O 005197 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD03O015O 005197 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CD03O015O 005197 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD03O015O 005197 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD03O015O 005197 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD03O015O 005197 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD03O015O 005197 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD03O015O 005197 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD03O015O 005197 PAES LANDIM                             Obstrução PTB       Piauí                    118
+CD03O015O 005197 FÁBIO FARIA                             Sim       PSD       Rio Grande do Norte      119
+CD03O015O 005197 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD03O015O 005197 JOÃO MAIA                               Não       PR        Rio Grande do Norte      124
+CD03O015O 005197 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD03O015O 005197 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD03O015O 005197 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD03O015O 005197 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD03O015O 005197 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD03O015O 005197 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD03O015O 005197 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD03O015O 005197 MANOEL JUNIOR                           Não       PMDB      Paraíba                  130
+CD03O015O 005197 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD03O015O 005197 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD03O015O 005197 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD03O015O 005197 GONZAGA PATRIOTA                        Não       PSB       Pernambuco               143
+CD03O015O 005197 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD03O015O 005197 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD03O015O 005197 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD03O015O 005197 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD03O015O 005197 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD03O015O 005197 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD03O015O 005197 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD03O015O 005197 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD03O015O 005197 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD03O015O 005197 SEVERINO NINHO                          Não       PSB       Pernambuco               580
+CD03O015O 005197 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD03O015O 005197 ALEXANDRE TOLEDO                        Sim       PSDB      Alagoas                  596
+CD03O015O 005197 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD03O015O 005197 PAULÃO                                  Não       PT        Alagoas                  608
+CD03O015O 005197 FABIO REIS                              Não       PMDB      Sergipe                  619
+CD03O015O 005197 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD03O015O 005197 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD03O015O 005197 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD03O015O 005197 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CD03O015O 005197 AFONSO FLORENCE                         Não       PT        Bahia                    182
+CD03O015O 005197 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD03O015O 005197 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD03O015O 005197 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD03O015O 005197 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD03O015O 005197 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD03O015O 005197 COLBERT MARTINS                         Não       PMDB      Bahia                    622
+CD03O015O 005197 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD03O015O 005197 EDSON PIMENTA                           Não       PSD       Bahia                    193
+CD03O015O 005197 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD03O015O 005197 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD03O015O 005197 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD03O015O 005197 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD03O015O 005197 JÂNIO NATAL                             Não       PRP       Bahia                    198
+CD03O015O 005197 JOÃO LEÃO                               Não       PP        Bahia                    199
+CD03O015O 005197 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CD03O015O 005197 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD03O015O 005197 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD03O015O 005197 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD03O015O 005197 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD03O015O 005197 LUIZ DE DEUS                            Sim       DEM       Bahia                    609
+CD03O015O 005197 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD03O015O 005197 NELSON PELLEGRINO                       Não       PT        Bahia                    209
+CD03O015O 005197 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD03O015O 005197 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CD03O015O 005197 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD03O015O 005197 SÉRGIO BRITO                            Sim       PSD       Bahia                    213
+CD03O015O 005197 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD03O015O 005197 ZEZÉU RIBEIRO                           Não       PT        Bahia                    217
+CD03O015O 005197 ADEMIR CAMILO                           Sim       PSD       Minas Gerais             220
+CD03O015O 005197 ANTÔNIO ANDRADE                         Não       PMDB      Minas Gerais             227
+CD03O015O 005197 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD03O015O 005197 ARACELY DE PAULA                        Não       PR        Minas Gerais             223
+CD03O015O 005197 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CD03O015O 005197 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD03O015O 005197 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD03O015O 005197 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD03O015O 005197 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD03O015O 005197 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CD03O015O 005197 HUMBERTO SOUTO                          Sim       PPS       Minas Gerais             606
+CD03O015O 005197 ISAIAS SILVESTRE                        Não       PSB       Minas Gerais             604
+CD03O015O 005197 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CD03O015O 005197 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD03O015O 005197 JOÃO BITTAR                             Não       DEM       Minas Gerais             531
+CD03O015O 005197 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD03O015O 005197 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD03O015O 005197 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD03O015O 005197 LEONARDO QUINTÃO                        Não       PMDB      Minas Gerais             255
+CD03O015O 005197 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD03O015O 005197 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD03O015O 005197 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD03O015O 005197 MARGARIDA SALOMÃO                       Não       PT        Minas Gerais             610
+CD03O015O 005197 MÁRIO HERINGER                          Não       PDT       Minas Gerais             629
+CD03O015O 005197 NILMÁRIO MIRANDA                        Não       PT        Minas Gerais             611
+CD03O015O 005197 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD03O015O 005197 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD03O015O 005197 RENATO ANDRADE                          Sim       PP        Minas Gerais             612
+CD03O015O 005197 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD03O015O 005197 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD03O015O 005197 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD03O015O 005197 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD03O015O 005197 LAURIETE                                Não       PSC       Espírito Santo           279
+CD03O015O 005197 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD03O015O 005197 MANATO                                  Não       PDT       Espírito Santo           275
+CD03O015O 005197 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD03O015O 005197 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD03O015O 005197 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD03O015O 005197 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD03O015O 005197 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD03O015O 005197 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD03O015O 005197 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD03O015O 005197 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD03O015O 005197 EURICO JÚNIOR                           Sim       PV        Rio de Janeiro           613
+CD03O015O 005197 FERNANDO LOPES                          Não       PMDB      Rio de Janeiro           623
+CD03O015O 005197 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD03O015O 005197 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD03O015O 005197 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD03O015O 005197 LILIAM SÁ                               Sim       PSD       Rio de Janeiro           309
+CD03O015O 005197 LUIZ SÉRGIO                             Não       PT        Rio de Janeiro           313
+CD03O015O 005197 MANUEL ROSA NECA                        Não       PR        Rio de Janeiro           614
+CD03O015O 005197 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD03O015O 005197 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD03O015O 005197 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CD03O015O 005197 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD03O015O 005197 SERGIO ZVEITER                          Sim       PSD       Rio de Janeiro           320
+CD03O015O 005197 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD03O015O 005197 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD03O015O 005197 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD03O015O 005197 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD03O015O 005197 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD03O015O 005197 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD03O015O 005197 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD03O015O 005197 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD03O015O 005197 CARLOS SAMPAIO                          Sim       PSDB      São Paulo                338
+CD03O015O 005197 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD03O015O 005197 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD03O015O 005197 DR. UBIALI                              Não       PSB       São Paulo                541
+CD03O015O 005197 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD03O015O 005197 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD03O015O 005197 ELEUSES PAIVA                           Sim       PSD       São Paulo                537
+CD03O015O 005197 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD03O015O 005197 EMANUEL FERNANDES                       Sim       PSDB      São Paulo                352
+CD03O015O 005197 FRANCISCO CHAGAS                        Não       PT        São Paulo                626
+CD03O015O 005197 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD03O015O 005197 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD03O015O 005197 IARA BERNARDI                           Não       PT        São Paulo                618
+CD03O015O 005197 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD03O015O 005197 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD03O015O 005197 JEFFERSON CAMPOS                        Sim       PSD       São Paulo                349
+CD03O015O 005197 JOÃO DADO                               Não       PDT       São Paulo                362
+CD03O015O 005197 JOÃO PAULO CUNHA                        Não       PT        São Paulo                361
+CD03O015O 005197 JOSÉ GENOÍNO                            Não       PT        São Paulo                617
+CD03O015O 005197 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD03O015O 005197 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD03O015O 005197 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD03O015O 005197 MARCELO AGUIAR                          Sim       PSD       São Paulo                370
+CD03O015O 005197 MÁRCIO FRANÇA                           Não       PSB       São Paulo                368
+CD03O015O 005197 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD03O015O 005197 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD03O015O 005197 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD03O015O 005197 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD03O015O 005197 PAULO FREIRE                            Não       PR        São Paulo                380
+CD03O015O 005197 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD03O015O 005197 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD03O015O 005197 PENNA                                   Não       PV        São Paulo                382
+CD03O015O 005197 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD03O015O 005197 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CD03O015O 005197 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD03O015O 005197 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD03O015O 005197 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CD03O015O 005197 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CD03O015O 005197 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD03O015O 005197 TIRIRICA                                Não       PR        São Paulo                392
+CD03O015O 005197 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD03O015O 005197 VANDERLEI SIRAQUE                       Não       PT        São Paulo                581
+CD03O015O 005197 WALTER FELDMAN                          Sim       PSDB      São Paulo                550
+CD03O015O 005197 WALTER IHOSHI                           Sim       PSD       São Paulo                553
+CD03O015O 005197 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD03O015O 005197 ELIENE LIMA                             Sim       PSD       Mato Grosso              401
+CD03O015O 005197 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD03O015O 005197 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD03O015O 005197 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD03O015O 005197 IZALCI                                  Sim       PSDB      Distrito Federal         408
+CD03O015O 005197 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD03O015O 005197 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD03O015O 005197 POLICARPO                               Não       PT        Distrito Federal         539
+CD03O015O 005197 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD03O015O 005197 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD03O015O 005197 ARMANDO VERGÍLIO                        Sim       PSD       Goiás                    416
+CD03O015O 005197 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD03O015O 005197 HEULER CRUVINEL                         Sim       PSD       Goiás                    423
+CD03O015O 005197 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD03O015O 005197 JOVAIR ARANTES                          Sim       PTB       Goiás                    419
+CD03O015O 005197 MAGDA MOFATTO                           Não       PTB       Goiás                    575
+CD03O015O 005197 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD03O015O 005197 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD03O015O 005197 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD03O015O 005197 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD03O015O 005197 BIFFI                                   Não       PT        Mato Grosso do Sul       432
+CD03O015O 005197 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD03O015O 005197 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD03O015O 005197 GIROTO                                  Não       PMDB      Mato Grosso do Sul       434
+CD03O015O 005197 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD03O015O 005197 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD03O015O 005197 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD03O015O 005197 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD03O015O 005197 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD03O015O 005197 ANDRÉ VARGAS                            Art. 17   PT        Paraná                   452
+CD03O015O 005197 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD03O015O 005197 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD03O015O 005197 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD03O015O 005197 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD03O015O 005197 DR. ROSINHA                             Não       PT        Paraná                   449
+CD03O015O 005197 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD03O015O 005197 HERMES PARCIANELLO                      Não       PMDB      Paraná                   448
+CD03O015O 005197 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD03O015O 005197 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD03O015O 005197 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD03O015O 005197 MARCELO ALMEIDA                         Não       PMDB      Paraná                   631
+CD03O015O 005197 NELSON MEURER                           Não       PP        Paraná                   458
+CD03O015O 005197 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD03O015O 005197 ODÍLIO BALBINOTTI                       Não       PMDB      Paraná                   588
+CD03O015O 005197 OLIVEIRA FILHO                          Sim       PRB       Paraná                   621
+CD03O015O 005197 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD03O015O 005197 PROFESSOR SÉRGIO DE OLIVEIRA            Não       PSC       Paraná                   603
+CD03O015O 005197 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD03O015O 005197 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD03O015O 005197 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD03O015O 005197 TAKAYAMA                                Não       PSC       Paraná                   469
+CD03O015O 005197 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD03O015O 005197 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD03O015O 005197 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD03O015O 005197 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD03O015O 005197 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD03O015O 005197 JORGE BOEIRA                            Não       PSD       Santa Catarina           474
+CD03O015O 005197 JORGINHO MELLO                          Não       PR        Santa Catarina           476
+CD03O015O 005197 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD03O015O 005197 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD03O015O 005197 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD03O015O 005197 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD03O015O 005197 VALDIR COLATTO                          Não       PMDB      Santa Catarina           560
+CD03O015O 005197 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD03O015O 005197 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD03O015O 005197 ALEXANDRE ROSO                          Não       PSB       Rio Grande do Sul        489
+CD03O015O 005197 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD03O015O 005197 BETO ALBUQUERQUE                        Não       PSB       Rio Grande do Sul        490
+CD03O015O 005197 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD03O015O 005197 DANRLEI DE DEUS HINTERHOLZ              Sim       PSD       Rio Grande do Sul        495
+CD03O015O 005197 ELISEU PADILHA                          Não       PMDB      Rio Grande do Sul        578
+CD03O015O 005197 ENIO BACCI                              Não       PDT       Rio Grande do Sul        493
+CD03O015O 005197 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD03O015O 005197 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD03O015O 005197 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD03O015O 005197 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD03O015O 005197 JOSÉ OTÁVIO GERMANO                     Não       PP        Rio Grande do Sul        501
+CD03O015O 005197 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD03O015O 005197 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD03O015O 005197 MANUELA D`ÁVILA                         Não       PCdoB     Rio Grande do Sul        494
+CD03O015O 005197 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD03O015O 005197 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD03O015O 005197 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CD03O015O 005197 PAULO FERREIRA                          Não       PT        Rio Grande do Sul        591
+CD03O015O 005197 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD03O015O 005197 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD03O015O 005197 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD03O015O 005197 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD03O015O 005197 SÉRGIO MORAES                           Não       PTB       Rio Grande do Sul        512
+CD03O015O 005197 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD03O015O 005197 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD03O015O 005197 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD03O015O 005197 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD03O015O 005197 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD03O015O 005197 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD03O015O 005197 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD03O015O 005197 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD03O015O 005197 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD03O015O 005197 FRANCISCO TENÓRIO                       <-------> PMN       Alagoas                  607
+CD03O015O 005197 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD03O015O 005197 CARLOS SOUZA                            <-------> PSD       Amazonas                 37 
+CD03O015O 005197 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD03O015O 005197 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD03O015O 005197 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD03O015O 005197 ANTONIO IMBASSAHY                       <-------> PSDB      Bahia                    191
+CD03O015O 005197 MÁRIO NEGROMONTE                        <-------> PP        Bahia                    210
+CD03O015O 005197 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD03O015O 005197 MARCOS MEDRADO                          <-------> PDT       Bahia                    200
+CD03O015O 005197 MARCELO GUIMARÃES FILHO                 <-------> PMDB      Bahia                    627
+CD03O015O 005197 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD03O015O 005197 WALDENOR PEREIRA                        <-------> PT        Bahia                    219
+CD03O015O 005197 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD03O015O 005197 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD03O015O 005197 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD03O015O 005197 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD03O015O 005197 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD03O015O 005197 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD03O015O 005197 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD03O015O 005197 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD03O015O 005197 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD03O015O 005197 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD03O015O 005197 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD03O015O 005197 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD03O015O 005197 IRINY LOPES                             <-------> PT        Espírito Santo           273
+CD03O015O 005197 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD03O015O 005197 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD03O015O 005197 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD03O015O 005197 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD03O015O 005197 ÍRIS DE ARAÚJO                          <-------> PMDB      Goiás                    417
+CD03O015O 005197 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD03O015O 005197 VALDIVINO DE OLIVEIRA                   <-------> PSDB      Goiás                    547
+CD03O015O 005197 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD03O015O 005197 SIMPLÍCIO ARAÚJO                        <-------> PPS       Maranhão                 585
+CD03O015O 005197 HÉLIO SANTOS                            <-------> PSD       Maranhão                 76 
+CD03O015O 005197 PEDRO NOVAIS                            <-------> PMDB      Maranhão                 82 
+CD03O015O 005197 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD03O015O 005197 LOURIVAL MENDES                         <-------> PTdoB     Maranhão                 77 
+CD03O015O 005197 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD03O015O 005197 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CD03O015O 005197 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD03O015O 005197 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD03O015O 005197 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD03O015O 005197 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD03O015O 005197 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD03O015O 005197 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD03O015O 005197 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD03O015O 005197 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD03O015O 005197 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD03O015O 005197 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD03O015O 005197 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD03O015O 005197 DIEGO ANDRADE                           <-------> PSD       Minas Gerais             228
+CD03O015O 005197 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD03O015O 005197 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD03O015O 005197 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD03O015O 005197 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD03O015O 005197 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD03O015O 005197 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD03O015O 005197 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD03O015O 005197 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD03O015O 005197 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD03O015O 005197 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD03O015O 005197 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD03O015O 005197 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD03O015O 005197 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD03O015O 005197 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD03O015O 005197 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD03O015O 005197 ASDRUBAL BENTES                         <-------> PMDB      Pará                     20 
+CD03O015O 005197 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD03O015O 005197 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD03O015O 005197 MAJOR FÁBIO                             <-------> DEM       Paraíba                  599
+CD03O015O 005197 LEONARDO GADELHA                        <-------> PSC       Paraíba                  586
+CD03O015O 005197 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD03O015O 005197 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD03O015O 005197 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD03O015O 005197 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD03O015O 005197 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD03O015O 005197 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD03O015O 005197 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD03O015O 005197 VILALBA                                 <-------> PRB       Pernambuco               555
+CD03O015O 005197 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD03O015O 005197 JOÃO PAULO  LIMA                        <-------> PT        Pernambuco               149
+CD03O015O 005197 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD03O015O 005197 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD03O015O 005197 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD03O015O 005197 EDMAR ARRUDA                            <-------> PSC       Paraná                   446
+CD03O015O 005197 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD03O015O 005197 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD03O015O 005197 FERNANDO FRANCISCHINI                   <-------> PEN       Paraná                   450
+CD03O015O 005197 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD03O015O 005197 GIACOBO                                 <-------> PR        Paraná                   466
+CD03O015O 005197 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD03O015O 005197 JORGE BITTAR                            <-------> PT        Rio de Janeiro           310
+CD03O015O 005197 DR. CARLOS ALBERTO                      <-------> PMN       Rio de Janeiro           529
+CD03O015O 005197 CHICO ALENCAR                           <-------> PSOL      Rio de Janeiro           295
+CD03O015O 005197 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD03O015O 005197 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD03O015O 005197 CELSO JACOB                             <-------> PMDB      Rio de Janeiro           632
+CD03O015O 005197 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD03O015O 005197 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD03O015O 005197 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD03O015O 005197 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD03O015O 005197 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD03O015O 005197 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD03O015O 005197 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD03O015O 005197 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD03O015O 005197 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD03O015O 005197 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD03O015O 005197 VITOR PAULO                             <-------> PRB       Rio de Janeiro           324
+CD03O015O 005197 ZOINHO                                  <-------> PR        Rio de Janeiro           328
+CD03O015O 005197 LEONARDO PICCIANI                       <-------> PMDB      Rio de Janeiro           312
+CD03O015O 005197 AROLDE DE OLIVEIRA                      <-------> PSD       Rio de Janeiro           288
+CD03O015O 005197 DR. PAULO CÉSAR                         <-------> PSD       Rio de Janeiro           296
+CD03O015O 005197 FELIPE BORNIER                          <-------> PSD       Rio de Janeiro           301
+CD03O015O 005197 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD03O015O 005197 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD03O015O 005197 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD03O015O 005197 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD03O015O 005197 MARCIO JUNQUEIRA                        <-------> DEM       Roraima                  625
+CD03O015O 005197 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD03O015O 005197 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD03O015O 005197 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD03O015O 005197 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD03O015O 005197 MARCO TEBALDI                           <-------> PSDB      Santa Catarina           478
+CD03O015O 005197 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD03O015O 005197 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD03O015O 005197 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD03O015O 005197 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD03O015O 005197 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD03O015O 005197 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD03O015O 005197 ALMEIDA LIMA                            <-------> PPS       Sergipe                  173
+CD03O015O 005197 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD03O015O 005197 MILTON MONTI                            <-------> PR        São Paulo                374
+CD03O015O 005197 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD03O015O 005197 ALEXANDRE LEITE                         <-------> DEM       São Paulo                334
+CD03O015O 005197 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD03O015O 005197 BETO MANSUR                             <-------> PP        São Paulo                340
+CD03O015O 005197 KEIKO OTA                               <-------> PSB       São Paulo                356
+CD03O015O 005197 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD03O015O 005197 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD03O015O 005197 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD03O015O 005197 PAULO MALUF                             <-------> PP        São Paulo                373
+CD03O015O 005197 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD03O015O 005197 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD03O015O 005197 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD03O015O 005197 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD03O015O 005197 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD03O015O 005197 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD03O015O 005197 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD03O015O 005197 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD03O015O 005197 VICENTINHO                              <-------> PT        São Paulo                396
+CD03O015O 005197 JÚNIOR COIMBRA                          <-------> PMDB      Tocantins                66 
+CD03O015O 005197 LEOMAR QUINTANILHA                      <-------> PMDB      Tocantins                628
+CD03O015O 005197 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD03O015O 005197 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CD03O015O 005197 OSVALDO REIS                            <-------> PMDB      Tocantins                620

@@ -1,0 +1,510 @@
+CD01O011E 004527 BERINHO BANTIM                          Sim       PSDB      Roraima                  1
+CD01O011E 004527 CHICO DAS VERDURAS                      Sim       PRP       Roraima                  3  
+CD01O011E 004527 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD01O011E 004527 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CD01O011E 004527 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD01O011E 004527 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD01O011E 004527 RAUL LIMA                               Sim       PP        Roraima                  7  
+CD01O011E 004527 TERESA SURITA                           Sim       PMDB      Roraima                  8  
+CD01O011E 004527 DALVA FIGUEIREDO                        Sim       PT        Amapá                    9  
+CD01O011E 004527 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD01O011E 004527 FÁTIMA PELAES                           Sim       PMDB      Amapá                    12 
+CD01O011E 004527 PROFESSORA MARCIVANIA                   Sim       PT        Amapá                    15 
+CD01O011E 004527 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD01O011E 004527 ARNALDO JORDY                           Não       PPS       Pará                     18 
+CD01O011E 004527 BETO FARO                               Sim       PT        Pará                     19 
+CD01O011E 004527 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD01O011E 004527 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD01O011E 004527 ELCIONE BARBALHO                        Sim       PMDB      Pará                     21 
+CD01O011E 004527 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD01O011E 004527 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CD01O011E 004527 JOSUÉ BENGTSON                          Abstenção PTB       Pará                     30 
+CD01O011E 004527 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD01O011E 004527 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD01O011E 004527 LUIZ OTÁVIO                             Sim       PMDB      Pará                     526
+CD01O011E 004527 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD01O011E 004527 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CD01O011E 004527 ÁTILA LINS                              Sim       PMDB      Amazonas                 38 
+CD01O011E 004527 CARLOS SOUZA                            Sim       PP        Amazonas                 37 
+CD01O011E 004527 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD01O011E 004527 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD01O011E 004527 PAUDERNEY AVELINO                       Sim       DEM       Amazonas                 40 
+CD01O011E 004527 REBECCA GARCIA                          Sim       PP        Amazonas                 42 
+CD01O011E 004527 SABINO CASTELO BRANCO                   Sim       PTB       Amazonas                 43 
+CD01O011E 004527 SILAS CÂMARA                            Sim       PSC       Amazonas                 39 
+CD01O011E 004527 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD01O011E 004527 LINDOMAR GARÇON                         Não       PV        Rondonia                 45 
+CD01O011E 004527 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD01O011E 004527 MAURO NAZIF                             Sim       PSB       Rondonia                 46 
+CD01O011E 004527 MOREIRA MENDES                          Não       PPS       Rondonia                 49 
+CD01O011E 004527 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD01O011E 004527 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD01O011E 004527 PADRE TON                               Sim       PT        Rondonia                 48 
+CD01O011E 004527 ANTÔNIA LÚCIA                           Sim       PSC       Acre                     53 
+CD01O011E 004527 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD01O011E 004527 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD01O011E 004527 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD01O011E 004527 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD01O011E 004527 SIBA MACHADO                            Sim       PT        Acre                     58 
+CD01O011E 004527 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD01O011E 004527 AGNOLIN                                 Sim       PDT       Tocantins                61 
+CD01O011E 004527 CÉSAR HALUM                             Sim       PPS       Tocantins                64 
+CD01O011E 004527 IRAJÁ ABREU                             Sim       DEM       Tocantins                65 
+CD01O011E 004527 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD01O011E 004527 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD01O011E 004527 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD01O011E 004527 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD01O011E 004527 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD01O011E 004527 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD01O011E 004527 CLEBER VERDE                            Sim       PRB       Maranhão                 70 
+CD01O011E 004527 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CD01O011E 004527 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD01O011E 004527 EDIVALDO HOLANDA JUNIOR                 Sim       PTC       Maranhão                 73 
+CD01O011E 004527 HÉLIO SANTOS                            Sim       PSDB      Maranhão                 76 
+CD01O011E 004527 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD01O011E 004527 NICE LOBÃO                              Sim       DEM       Maranhão                 78 
+CD01O011E 004527 PEDRO FERNANDES                         Sim       PTB       Maranhão                 80 
+CD01O011E 004527 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD01O011E 004527 SARNEY FILHO                            Sim       PV        Maranhão                 85 
+CD01O011E 004527 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD01O011E 004527 ZÉ VIEIRA                               Sim       PR        Maranhão                 86 
+CD01O011E 004527 ANÍBAL GOMES                            Sim       PMDB      Ceará                    87 
+CD01O011E 004527 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CD01O011E 004527 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD01O011E 004527 ARNON BEZERRA                           Sim       PTB       Ceará                    90 
+CD01O011E 004527 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD01O011E 004527 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD01O011E 004527 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CD01O011E 004527 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD01O011E 004527 GENECIAS NORONHA                        Sim       PMDB      Ceará                    99 
+CD01O011E 004527 GORETE PEREIRA                          Sim       PR        Ceará                    100
+CD01O011E 004527 JOAO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD01O011E 004527 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD01O011E 004527 MANOEL SALVIANO                         Sim       PSDB      Ceará                    104
+CD01O011E 004527 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD01O011E 004527 RAIMUNDÃO                               Sim       PMDB      Ceará                    108
+CD01O011E 004527 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD01O011E 004527 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD01O011E 004527 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD01O011E 004527 HUGO NAPOLEÃO                           Sim       DEM       Piauí                    112
+CD01O011E 004527 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD01O011E 004527 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD01O011E 004527 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD01O011E 004527 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD01O011E 004527 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CD01O011E 004527 PAES LANDIM                             Sim       PTB       Piauí                    118
+CD01O011E 004527 FÁBIO FARIA                             Sim       PMN       Rio Grande do Norte      119
+CD01O011E 004527 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD01O011E 004527 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD01O011E 004527 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD01O011E 004527 JOÃO MAIA                               Sim       PR        Rio Grande do Norte      124
+CD01O011E 004527 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD01O011E 004527 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CD01O011E 004527 AGUINALDO RIBEIRO                       Sim       PP        Paraíba                  129
+CD01O011E 004527 BENJAMIN MARANHÃO                       Sim       PMDB      Paraíba                  131
+CD01O011E 004527 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD01O011E 004527 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD01O011E 004527 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD01O011E 004527 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD01O011E 004527 NILDA GONDIM                            Sim       PMDB      Paraíba                  134
+CD01O011E 004527 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD01O011E 004527 WELLINGTON ROBERTO                      Sim       PR        Paraíba                  136
+CD01O011E 004527 WILSON FILHO                            Sim       PMDB      Paraíba                  139
+CD01O011E 004527 ANA ARRAES                              Sim       PSB       Pernambuco               140
+CD01O011E 004527 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD01O011E 004527 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD01O011E 004527 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CD01O011E 004527 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD01O011E 004527 EDUARDO DA FONTE                        Sim       PP        Pernambuco               156
+CD01O011E 004527 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD01O011E 004527 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD01O011E 004527 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD01O011E 004527 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD01O011E 004527 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD01O011E 004527 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD01O011E 004527 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD01O011E 004527 PAULO RUBEM SANTIAGO                    Sim       PDT       Pernambuco               554
+CD01O011E 004527 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD01O011E 004527 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD01O011E 004527 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD01O011E 004527 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD01O011E 004527 WOLNEY QUEIROZ                          Sim       PDT       Pernambuco               164
+CD01O011E 004527 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD01O011E 004527 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD01O011E 004527 GIVALDO CARIMBÃO                        Sim       PSB       Alagoas                  166
+CD01O011E 004527 JOAQUIM BELTRÃO                         Sim       PMDB      Alagoas                  172
+CD01O011E 004527 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD01O011E 004527 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD01O011E 004527 ALMEIDA LIMA                            Sim       PMDB      Sergipe                  173
+CD01O011E 004527 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD01O011E 004527 HELENO SILVA                            Sim       PRB       Sergipe                  175
+CD01O011E 004527 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD01O011E 004527 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD01O011E 004527 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD01O011E 004527 ROGERIO CARVALHO                        Sim       PT        Sergipe                  178
+CD01O011E 004527 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD01O011E 004527 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CD01O011E 004527 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD01O011E 004527 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD01O011E 004527 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD01O011E 004527 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD01O011E 004527 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O011E 004527 ARTHUR OLIVEIRA MAIA                    Sim       PMDB      Bahia                    192
+CD01O011E 004527 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD01O011E 004527 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD01O011E 004527 EDSON PIMENTA                           Sim       PCdoB     Bahia                    193
+CD01O011E 004527 EMILIANO JOSÉ                           Sim       PT        Bahia                    523
+CD01O011E 004527 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD01O011E 004527 FELIX JÚNIOR                            Sim       PDT       Bahia                    195
+CD01O011E 004527 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD01O011E 004527 JÂNIO NATAL                             Sim       PRP       Bahia                    198
+CD01O011E 004527 JOÃO LEÃO                               Sim       PP        Bahia                    199
+CD01O011E 004527 JOSÉ CARLOS ARAÚJO                      Sim       PDT       Bahia                    197
+CD01O011E 004527 JOSÉ NUNES                              Sim       DEM       Bahia                    201
+CD01O011E 004527 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CD01O011E 004527 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD01O011E 004527 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD01O011E 004527 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD01O011E 004527 LUIZ ARGÔLO                             Sim       PP        Bahia                    207
+CD01O011E 004527 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD01O011E 004527 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD01O011E 004527 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD01O011E 004527 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD01O011E 004527 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD01O011E 004527 RUI COSTA                               Sim       PT        Bahia                    216
+CD01O011E 004527 SÉRGIO BARRADAS CARNEIRO                Sim       PT        Bahia                    524
+CD01O011E 004527 SÉRGIO BRITO                            Sim       PSC       Bahia                    213
+CD01O011E 004527 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD01O011E 004527 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD01O011E 004527 ADEMIR CAMILO                           Sim       PDT       Minas Gerais             220
+CD01O011E 004527 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD01O011E 004527 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD01O011E 004527 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD01O011E 004527 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CD01O011E 004527 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD01O011E 004527 DIEGO ANDRADE                           Sim       PR        Minas Gerais             228
+CD01O011E 004527 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD01O011E 004527 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD01O011E 004527 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD01O011E 004527 EROS BIONDINI                           Sim       PTB       Minas Gerais             242
+CD01O011E 004527 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD01O011E 004527 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD01O011E 004527 GERALDO THADEU                          Não       PPS       Minas Gerais             236
+CD01O011E 004527 JAIME MARTINS                           Sim       PR        Minas Gerais             240
+CD01O011E 004527 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD01O011E 004527 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD01O011E 004527 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD01O011E 004527 JOSE HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD01O011E 004527 LAEL VARELLA                            Sim       DEM       Minas Gerais             245
+CD01O011E 004527 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CD01O011E 004527 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD01O011E 004527 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD01O011E 004527 LUIS TIBÉ                               Sim       PTdoB     Minas Gerais             251
+CD01O011E 004527 LUIZ FERNANDO FARIA                     Sim       PP        Minas Gerais             256
+CD01O011E 004527 MARCOS MONTES                           Sim       DEM       Minas Gerais             257
+CD01O011E 004527 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD01O011E 004527 MÁRIO DE OLIVEIRA                       Sim       PSC       Minas Gerais             260
+CD01O011E 004527 MAURO LOPES                             Sim       PMDB      Minas Gerais             252
+CD01O011E 004527 NEWTON CARDOSO                          Sim       PMDB      Minas Gerais             258
+CD01O011E 004527 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CD01O011E 004527 PADRE JOAO                              Sim       PT        Minas Gerais             259
+CD01O011E 004527 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD01O011E 004527 PAULO PIAU                              Sim       PMDB      Minas Gerais             266
+CD01O011E 004527 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD01O011E 004527 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD01O011E 004527 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD01O011E 004527 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD01O011E 004527 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD01O011E 004527 AUDIFAX                                 Sim       PSB       Espírito Santo           274
+CD01O011E 004527 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD01O011E 004527 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD01O011E 004527 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD01O011E 004527 MANATO                                  Sim       PDT       Espírito Santo           275
+CD01O011E 004527 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD01O011E 004527 ROSE DE FREITAS                         Sim       PMDB      Espírito Santo           282
+CD01O011E 004527 SUELI VIDIGAL                           Sim       PDT       Espírito Santo           281
+CD01O011E 004527 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD01O011E 004527 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD01O011E 004527 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD01O011E 004527 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD01O011E 004527 AROLDE DE OLIVEIRA                      Sim       DEM       Rio de Janeiro           288
+CD01O011E 004527 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD01O011E 004527 CHICO ALENCAR                           Não       PSOL      Rio de Janeiro           295
+CD01O011E 004527 CHICO DANGELO                           Sim       PT        Rio de Janeiro           527
+CD01O011E 004527 CRISTIANO                               Sim       PTdoB     Rio de Janeiro           292
+CD01O011E 004527 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD01O011E 004527 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD01O011E 004527 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD01O011E 004527 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD01O011E 004527 ELIANE ROLIM                            Sim       PT        Rio de Janeiro           538
+CD01O011E 004527 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD01O011E 004527 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD01O011E 004527 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD01O011E 004527 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O011E 004527 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD01O011E 004527 JEAN WYLLYS                             Não       PSOL      Rio de Janeiro           307
+CD01O011E 004527 LILIAM SÁ                               Sim       PR        Rio de Janeiro           309
+CD01O011E 004527 MARCELO MATOS                           Sim       PDT       Rio de Janeiro           311
+CD01O011E 004527 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD01O011E 004527 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD01O011E 004527 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD01O011E 004527 ROMÁRIO                                 Sim       PSB       Rio de Janeiro           319
+CD01O011E 004527 SERGIO ZVEITER                          Sim       PDT       Rio de Janeiro           320
+CD01O011E 004527 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD01O011E 004527 STEPAN NERCESSIAN                       Não       PPS       Rio de Janeiro           323
+CD01O011E 004527 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD01O011E 004527 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD01O011E 004527 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD01O011E 004527 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD01O011E 004527 ABELARDO CAMARINHA                      Sim       PSB       São Paulo                329
+CD01O011E 004527 ALBERTO MOURÃO                          Sim       PSDB      São Paulo                552
+CD01O011E 004527 ALDO REBELO                             Sim       PCdoB     São Paulo                331
+CD01O011E 004527 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD01O011E 004527 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD01O011E 004527 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD01O011E 004527 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD01O011E 004527 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD01O011E 004527 ARNALDO JARDIM                          Não       PPS       São Paulo                339
+CD01O011E 004527 BETO MANSUR                             Não       PP        São Paulo                340
+CD01O011E 004527 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CD01O011E 004527 CÂNDIDO VACCAREZZA                      Sim       PT        São Paulo                389
+CD01O011E 004527 CARLOS SAMPAIO                          Sim       PSDB      São Paulo                338
+CD01O011E 004527 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD01O011E 004527 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD01O011E 004527 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD01O011E 004527 DIMAS RAMALHO                           Não       PPS       São Paulo                346
+CD01O011E 004527 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD01O011E 004527 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O011E 004527 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD01O011E 004527 ELEUSES PAIVA                           Sim       DEM       São Paulo                537
+CD01O011E 004527 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD01O011E 004527 GABRIEL CHALITA                         Sim       PSB       São Paulo                347
+CD01O011E 004527 GUILHERME CAMPOS                        Sim       DEM       São Paulo                357
+CD01O011E 004527 GUILHERME MUSSI                         Sim       PV        São Paulo                348
+CD01O011E 004527 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD01O011E 004527 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD01O011E 004527 JEFFERSON CAMPOS                        Sim       PSB       São Paulo                349
+CD01O011E 004527 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD01O011E 004527 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD01O011E 004527 JOÃO PAULO CUNHA                        Sim       PT        São Paulo                361
+CD01O011E 004527 JONAS DONIZETTE                         Sim       PSB       São Paulo                353
+CD01O011E 004527 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD01O011E 004527 JOSÉ DE FILIPPI JÚNIOR                  Sim       PT        São Paulo                354
+CD01O011E 004527 JOSÉ MENTOR                             Sim       PT        São Paulo                367
+CD01O011E 004527 JUNJI ABE                               Sim       DEM       São Paulo                355
+CD01O011E 004527 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD01O011E 004527 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD01O011E 004527 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD01O011E 004527 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD01O011E 004527 MARCELO AGUIAR                          Sim       PSC       São Paulo                370
+CD01O011E 004527 MILTON MONTI                            Sim       PR        São Paulo                374
+CD01O011E 004527 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD01O011E 004527 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD01O011E 004527 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD01O011E 004527 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD01O011E 004527 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD01O011E 004527 PAULO FREIRE                            Sim       PR        São Paulo                380
+CD01O011E 004527 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD01O011E 004527 PENNA                                   Não       PV        São Paulo                382
+CD01O011E 004527 RICARDO BERZOINI                        Sim       PT        São Paulo                390
+CD01O011E 004527 RICARDO IZAR                            Não       PV        São Paulo                383
+CD01O011E 004527 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD01O011E 004527 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O011E 004527 ROBERTO FREIRE                          Não       PPS       São Paulo                387
+CD01O011E 004527 ROBERTO SANTIAGO                        Não       PV        São Paulo                386
+CD01O011E 004527 RODRIGO GARCIA                          Sim       DEM       São Paulo                388
+CD01O011E 004527 TIRIRICA                                Sim       PR        São Paulo                392
+CD01O011E 004527 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD01O011E 004527 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD01O011E 004527 VICENTE CANDIDO                         Sim       PT        São Paulo                395
+CD01O011E 004527 VICENTINHO                              Sim       PT        São Paulo                396
+CD01O011E 004527 WALTER IHOSHI                           Sim       DEM       São Paulo                553
+CD01O011E 004527 WILLIAM DIB                             Abstenção PSDB      São Paulo                397
+CD01O011E 004527 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD01O011E 004527 HOMERO PEREIRA                          Sim       PR        Mato Grosso              402
+CD01O011E 004527 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD01O011E 004527 NERI GELLER                             Sim       PP        Mato Grosso              520
+CD01O011E 004527 ROBERTO DORNER                          Sim       PP        Mato Grosso              519
+CD01O011E 004527 SÁGUAS MORAES                           Sim       PT        Mato Grosso              405
+CD01O011E 004527 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD01O011E 004527 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD01O011E 004527 IZALCI                                  Sim       PR        Distrito Federal         408
+CD01O011E 004527 POLICARPO                               Sim       PT        Distrito Federal         539
+CD01O011E 004527 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O011E 004527 RICARDO QUIRINO                         Sim       PRB       Distrito Federal         551
+CD01O011E 004527 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD01O011E 004527 ARMANDO VERGÍLIO                        Sim       PMN       Goiás                    416
+CD01O011E 004527 CARLOS ALBERTO LERÉIA                   Sim       PSDB      Goiás                    415
+CD01O011E 004527 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD01O011E 004527 HEULER CRUVINEL                         Sim       DEM       Goiás                    423
+CD01O011E 004527 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD01O011E 004527 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD01O011E 004527 JORGE PINHEIRO                          Sim       PRB       Goiás                    548
+CD01O011E 004527 JOVAIR ARANTES                          Sim       PTB       Goiás                    419
+CD01O011E 004527 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CD01O011E 004527 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD01O011E 004527 SANDES JÚNIOR                           Sim       PP        Goiás                    426
+CD01O011E 004527 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD01O011E 004527 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CD01O011E 004527 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD01O011E 004527 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD01O011E 004527 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD01O011E 004527 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD01O011E 004527 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD01O011E 004527 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD01O011E 004527 ALEX CANZIANI                           Sim       PTB       Paraná                   445
+CD01O011E 004527 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD01O011E 004527 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD01O011E 004527 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD01O011E 004527 ANGELO VANHONI                          Sim       PT        Paraná                   453
+CD01O011E 004527 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD01O011E 004527 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD01O011E 004527 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD01O011E 004527 DR. ROSINHA                             Sim       PT        Paraná                   449
+CD01O011E 004527 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD01O011E 004527 EDUARDO SCIARRA                         Sim       DEM       Paraná                   461
+CD01O011E 004527 FERNANDO FRANCISCHINI                   Sim       PSDB      Paraná                   450
+CD01O011E 004527 GIACOBO                                 Sim       PR        Paraná                   466
+CD01O011E 004527 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD01O011E 004527 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD01O011E 004527 MOACIR MICHELETTO                       Sim       PMDB      Paraná                   462
+CD01O011E 004527 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD01O011E 004527 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD01O011E 004527 RATINHO JUNIOR                          Sim       PSC       Paraná                   464
+CD01O011E 004527 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD01O011E 004527 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD01O011E 004527 SANDRO ALEX                             Não       PPS       Paraná                   465
+CD01O011E 004527 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD01O011E 004527 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CD01O011E 004527 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD01O011E 004527 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD01O011E 004527 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD01O011E 004527 JORGE BOEIRA                            Sim       PT        Santa Catarina           474
+CD01O011E 004527 JORGINHO MELLO                          Abstenção PSDB      Santa Catarina           476
+CD01O011E 004527 LUCI CHOINACKI                          Sim       PT        Santa Catarina           477
+CD01O011E 004527 MARCO TEBALDI                           Sim       PSDB      Santa Catarina           478
+CD01O011E 004527 ONOFRE SANTO AGOSTINI                   Sim       DEM       Santa Catarina           479
+CD01O011E 004527 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CD01O011E 004527 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD01O011E 004527 ZONTA                                   Sim       PP        Santa Catarina           485
+CD01O011E 004527 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD01O011E 004527 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD01O011E 004527 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD01O011E 004527 DANRLEI DE DEUS HINTERHOLZ              Sim       PTB       Rio Grande do Sul        495
+CD01O011E 004527 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD01O011E 004527 ELVINO BOHN GASS                        Sim       PT        Rio Grande do Sul        499
+CD01O011E 004527 ENIO BACCI                              Sim       PDT       Rio Grande do Sul        493
+CD01O011E 004527 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD01O011E 004527 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD01O011E 004527 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD01O011E 004527 JOSÉ OTÁVIO GERMANO                     Sim       PP        Rio Grande do Sul        501
+CD01O011E 004527 JOSE STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD01O011E 004527 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD01O011E 004527 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD01O011E 004527 MANUELA D`ÁVILA                         Sim       PCdoB     Rio Grande do Sul        494
+CD01O011E 004527 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O011E 004527 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CD01O011E 004527 MENDES RIBEIRO FILHO                    Sim       PMDB      Rio Grande do Sul        504
+CD01O011E 004527 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD01O011E 004527 ONYX LORENZONI                          Não       DEM       Rio Grande do Sul        510
+CD01O011E 004527 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD01O011E 004527 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CD01O011E 004527 PEPE VARGAS                             Sim       PT        Rio Grande do Sul        503
+CD01O011E 004527 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD01O011E 004527 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD01O011E 004527 SÉRGIO MORAES                           Sim       PTB       Rio Grande do Sul        512
+CD01O011E 004527 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD01O011E 004527 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD01O011E 004527 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O011E 004527 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O011E 004527 JOÃO LYRA                               <-------> PTB       Alagoas                  167
+CD01O011E 004527 RUI PALMEIRA                            <-------> PSDB      Alagoas                  171
+CD01O011E 004527 VINICIUS GURGEL                         <-------> PRTB      Amapá                    16 
+CD01O011E 004527 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O011E 004527 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD01O011E 004527 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O011E 004527 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD01O011E 004527 PAULO MAGALHÃES                         <-------> DEM       Bahia                    214
+CD01O011E 004527 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD01O011E 004527 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD01O011E 004527 FERNANDO TORRES                         <-------> DEM       Bahia                    196
+CD01O011E 004527 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O011E 004527 ANDRÉ FIGUEIREDO                        <-------> PDT       Ceará                    89 
+CD01O011E 004527 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O011E 004527 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD01O011E 004527 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD01O011E 004527 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD01O011E 004527 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD01O011E 004527 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD01O011E 004527 THIAGO PEIXOTO                          <-------> PMDB      Goiás                    424
+CD01O011E 004527 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O011E 004527 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O011E 004527 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD01O011E 004527 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD01O011E 004527 PROFESSOR SETIMO                        <-------> PMDB      Maranhão                 81 
+CD01O011E 004527 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O011E 004527 LUCIANO MOREIRA                         <-------> PMDB      Maranhão                 83 
+CD01O011E 004527 GASTÃO VIEIRA                           <-------> PMDB      Maranhão                 75 
+CD01O011E 004527 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD01O011E 004527 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD01O011E 004527 MÁRCIO REINALDO MOREIRA                 <-------> PP        Minas Gerais             247
+CD01O011E 004527 WALTER TOSTA                            <-------> PMN       Minas Gerais             267
+CD01O011E 004527 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O011E 004527 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD01O011E 004527 ZÉ SILVA                                <-------> PDT       Minas Gerais             271
+CD01O011E 004527 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD01O011E 004527 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O011E 004527 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O011E 004527 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O011E 004527 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O011E 004527 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD01O011E 004527 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD01O011E 004527 GIROTO                                  <-------> PR        Mato Grosso do Sul       434
+CD01O011E 004527 FABIO TRAD                              <-------> PMDB      Mato Grosso do Sul       433
+CD01O011E 004527 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O011E 004527 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD01O011E 004527 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O011E 004527 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O011E 004527 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O011E 004527 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O011E 004527 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD01O011E 004527 ROMERO RODRIGUES                        <-------> PSDB      Paraíba                  135
+CD01O011E 004527 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O011E 004527 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O011E 004527 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O011E 004527 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD01O011E 004527 FERNANDO FERRO                          <-------> PT        Pernambuco               141
+CD01O011E 004527 MARLLOS SAMPAIO                         <-------> PMDB      Piauí                    117
+CD01O011E 004527 JÚLIO CESAR                             <-------> DEM       Piauí                    114
+CD01O011E 004527 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O011E 004527 JOÃO ARRUDA                             <-------> PMDB      Paraná                   455
+CD01O011E 004527 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD01O011E 004527 NELSON MEURER                           <-------> PP        Paraná                   458
+CD01O011E 004527 REINHOLD STEPHANES                      <-------> PMDB      Paraná                   467
+CD01O011E 004527 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O011E 004527 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O011E 004527 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD01O011E 004527 DR. PAULO CÉSAR                         <-------> PR        Rio de Janeiro           296
+CD01O011E 004527 EDSON EZEQUIEL                          <-------> PMDB      Rio de Janeiro           298
+CD01O011E 004527 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD01O011E 004527 FELIPE BORNIER                          <-------> PHS       Rio de Janeiro           301
+CD01O011E 004527 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD01O011E 004527 JULIO LOPES                             <-------> PP        Rio de Janeiro           308
+CD01O011E 004527 LEONARDO PICCIANI                       <-------> PMDB      Rio de Janeiro           312
+CD01O011E 004527 NEILTON MULIM                           <-------> PR        Rio de Janeiro           315
+CD01O011E 004527 RODRIGO BETHLEM                         <-------> PMDB      Rio de Janeiro           318
+CD01O011E 004527 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD01O011E 004527 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O011E 004527 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD01O011E 004527 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O011E 004527 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD01O011E 004527 PAULO BORNHAUSEN                        <-------> DEM       Santa Catarina           482
+CD01O011E 004527 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD01O011E 004527 JOÃO RODRIGUES                          <-------> DEM       Santa Catarina           473
+CD01O011E 004527 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O011E 004527 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD01O011E 004527 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O011E 004527 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O011E 004527 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O011E 004527 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD01O011E 004527 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 

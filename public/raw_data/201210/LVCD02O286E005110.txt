@@ -1,0 +1,513 @@
+CD02O286E 005110 DALVA FIGUEIREDO                        Sim       PT        Amapá                    9
+CD02O286E 005110 FÁTIMA PELAES                           Sim       PMDB      Amapá                    12 
+CD02O286E 005110 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD02O286E 005110 ARNALDO JORDY                           Não       PPS       Pará                     18 
+CD02O286E 005110 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD02O286E 005110 BETO FARO                               Sim       PT        Pará                     19 
+CD02O286E 005110 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD02O286E 005110 ELCIONE BARBALHO                        Sim       PMDB      Pará                     21 
+CD02O286E 005110 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD02O286E 005110 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CD02O286E 005110 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD02O286E 005110 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD02O286E 005110 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD02O286E 005110 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD02O286E 005110 WLADIMIR COSTA                          Sim       PMDB      Pará                     23 
+CD02O286E 005110 CARLOS SOUZA                            Sim       PSD       Amazonas                 37 
+CD02O286E 005110 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD02O286E 005110 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD02O286E 005110 REBECCA GARCIA                          Sim       PP        Amazonas                 42 
+CD02O286E 005110 SILAS CÂMARA                            Sim       PSD       Amazonas                 39 
+CD02O286E 005110 MARCOS ROGÉRIO                          Sim       PDT       Rondonia                 583
+CD02O286E 005110 MAURO NAZIF                             Sim       PSB       Rondonia                 46 
+CD02O286E 005110 ANTÔNIA LÚCIA                           Sim       PSC       Acre                     53 
+CD02O286E 005110 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD02O286E 005110 GLADSON CAMELI                          Sim       PP        Acre                     55 
+CD02O286E 005110 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD02O286E 005110 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD02O286E 005110 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD02O286E 005110 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD02O286E 005110 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD02O286E 005110 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD02O286E 005110 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD02O286E 005110 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD02O286E 005110 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD02O286E 005110 CLEBER VERDE                            Sim       PRB       Maranhão                 70 
+CD02O286E 005110 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD02O286E 005110 EDIVALDO HOLANDA JUNIOR                 Sim       PTC       Maranhão                 73 
+CD02O286E 005110 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD02O286E 005110 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CD02O286E 005110 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD02O286E 005110 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD02O286E 005110 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD02O286E 005110 SARNEY FILHO                            Não       PV        Maranhão                 85 
+CD02O286E 005110 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD02O286E 005110 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD02O286E 005110 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CD02O286E 005110 ARNON BEZERRA                           Sim       PTB       Ceará                    90 
+CD02O286E 005110 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD02O286E 005110 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD02O286E 005110 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD02O286E 005110 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD02O286E 005110 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD02O286E 005110 JOSÉ LINHARES                           Sim       PP        Ceará                    96 
+CD02O286E 005110 MANOEL SALVIANO                         Sim       PSD       Ceará                    104
+CD02O286E 005110 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD02O286E 005110 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD02O286E 005110 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD02O286E 005110 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD02O286E 005110 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD02O286E 005110 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD02O286E 005110 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD02O286E 005110 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD02O286E 005110 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD02O286E 005110 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD02O286E 005110 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD02O286E 005110 ARMANDO ABÍLIO                          Sim       PTB       Paraíba                  589
+CD02O286E 005110 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CD02O286E 005110 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD02O286E 005110 LEONARDO GADELHA                        Sim       PSC       Paraíba                  586
+CD02O286E 005110 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD02O286E 005110 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD02O286E 005110 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD02O286E 005110 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD02O286E 005110 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD02O286E 005110 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD02O286E 005110 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD02O286E 005110 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD02O286E 005110 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD02O286E 005110 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD02O286E 005110 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD02O286E 005110 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD02O286E 005110 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CD02O286E 005110 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD02O286E 005110 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD02O286E 005110 GIVALDO CARIMBÃO                        Sim       PSB       Alagoas                  166
+CD02O286E 005110 JOÃO LYRA                               Sim       PSD       Alagoas                  167
+CD02O286E 005110 JOAQUIM BELTRÃO                         Sim       PMDB      Alagoas                  172
+CD02O286E 005110 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD02O286E 005110 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD02O286E 005110 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD02O286E 005110 HELENO SILVA                            Sim       PRB       Sergipe                  175
+CD02O286E 005110 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD02O286E 005110 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD02O286E 005110 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CD02O286E 005110 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD02O286E 005110 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD02O286E 005110 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD02O286E 005110 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD02O286E 005110 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD02O286E 005110 JOÃO LEÃO                               Sim       PP        Bahia                    199
+CD02O286E 005110 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CD02O286E 005110 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD02O286E 005110 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CD02O286E 005110 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD02O286E 005110 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD02O286E 005110 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD02O286E 005110 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD02O286E 005110 MÁRIO NEGROMONTE                        Sim       PP        Bahia                    210
+CD02O286E 005110 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CD02O286E 005110 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD02O286E 005110 SÉRGIO BARRADAS CARNEIRO                Sim       PT        Bahia                    524
+CD02O286E 005110 SÉRGIO BRITO                            Sim       PSD       Bahia                    213
+CD02O286E 005110 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD02O286E 005110 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD02O286E 005110 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CD02O286E 005110 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD02O286E 005110 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD02O286E 005110 ARACELY DE PAULA                        Sim       PR        Minas Gerais             223
+CD02O286E 005110 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD02O286E 005110 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD02O286E 005110 DIEGO ANDRADE                           Sim       PSD       Minas Gerais             228
+CD02O286E 005110 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD02O286E 005110 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD02O286E 005110 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD02O286E 005110 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD02O286E 005110 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD02O286E 005110 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD02O286E 005110 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD02O286E 005110 ISAIAS SILVESTRE                        Sim       PSB       Minas Gerais             604
+CD02O286E 005110 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CD02O286E 005110 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD02O286E 005110 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD02O286E 005110 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD02O286E 005110 LAEL VARELLA                            Sim       DEM       Minas Gerais             245
+CD02O286E 005110 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CD02O286E 005110 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD02O286E 005110 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD02O286E 005110 LUIS TIBÉ                               Sim       PTdoB     Minas Gerais             251
+CD02O286E 005110 MARCIO REINALDO MOREIRA                 Sim       PP        Minas Gerais             247
+CD02O286E 005110 MÁRIO DE OLIVEIRA                       Sim       PSC       Minas Gerais             260
+CD02O286E 005110 MAURO LOPES                             Sim       PMDB      Minas Gerais             252
+CD02O286E 005110 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD02O286E 005110 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD02O286E 005110 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD02O286E 005110 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD02O286E 005110 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD02O286E 005110 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD02O286E 005110 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD02O286E 005110 ZÉ SILVA                                Sim       PDT       Minas Gerais             271
+CD02O286E 005110 CAMILO COLA                             Sim       PMDB      Espírito Santo           543
+CD02O286E 005110 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD02O286E 005110 IRINY LOPES                             Sim       PT        Espírito Santo           273
+CD02O286E 005110 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD02O286E 005110 MANATO                                  Sim       PDT       Espírito Santo           275
+CD02O286E 005110 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD02O286E 005110 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD02O286E 005110 CHICO D`ANGELO                          Sim       PT        Rio de Janeiro           527
+CD02O286E 005110 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD02O286E 005110 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CD02O286E 005110 DR. PAULO CÉSAR                         Sim       PSD       Rio de Janeiro           296
+CD02O286E 005110 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD02O286E 005110 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD02O286E 005110 FELIPE BORNIER                          Sim       PSD       Rio de Janeiro           301
+CD02O286E 005110 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD02O286E 005110 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD02O286E 005110 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD02O286E 005110 JEAN WYLLYS                             Não       PSOL      Rio de Janeiro           307
+CD02O286E 005110 LEONARDO PICCIANI                       Sim       PMDB      Rio de Janeiro           312
+CD02O286E 005110 LUIZ SÉRGIO                             Sim       PT        Rio de Janeiro           313
+CD02O286E 005110 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD02O286E 005110 NEILTON MULIM                           Sim       PR        Rio de Janeiro           315
+CD02O286E 005110 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD02O286E 005110 PAULO FEIJÓ                             Sim       PR        Rio de Janeiro           577
+CD02O286E 005110 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD02O286E 005110 ROMÁRIO                                 Sim       PSB       Rio de Janeiro           319
+CD02O286E 005110 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD02O286E 005110 STEPAN NERCESSIAN                       Não       PPS       Rio de Janeiro           323
+CD02O286E 005110 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD02O286E 005110 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD02O286E 005110 ABELARDO CAMARINHA                      Sim       PSB       São Paulo                329
+CD02O286E 005110 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD02O286E 005110 ALINE CORRÊA                            Sim       PP        São Paulo                330
+CD02O286E 005110 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD02O286E 005110 ANTONIO CARLOS MENDES THAME             Abstenção PSDB      São Paulo                332
+CD02O286E 005110 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD02O286E 005110 ARNALDO JARDIM                          Não       PPS       São Paulo                339
+CD02O286E 005110 CARLINHOS ALMEIDA                       Sim       PT        São Paulo                341
+CD02O286E 005110 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD02O286E 005110 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD02O286E 005110 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD02O286E 005110 ELEUSES PAIVA                           Sim       PSD       São Paulo                537
+CD02O286E 005110 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD02O286E 005110 EMANUEL FERNANDES                       Sim       PSDB      São Paulo                352
+CD02O286E 005110 GABRIEL CHALITA                         Sim       PMDB      São Paulo                347
+CD02O286E 005110 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD02O286E 005110 GUILHERME MUSSI                         Sim       PSD       São Paulo                348
+CD02O286E 005110 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD02O286E 005110 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD02O286E 005110 JEFFERSON CAMPOS                        Sim       PSD       São Paulo                349
+CD02O286E 005110 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD02O286E 005110 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD02O286E 005110 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD02O286E 005110 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD02O286E 005110 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD02O286E 005110 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD02O286E 005110 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD02O286E 005110 MARCELO AGUIAR                          Sim       PSD       São Paulo                370
+CD02O286E 005110 MÁRCIO FRANÇA                           Sim       PSB       São Paulo                368
+CD02O286E 005110 MILTON MONTI                            Sim       PR        São Paulo                374
+CD02O286E 005110 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD02O286E 005110 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD02O286E 005110 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD02O286E 005110 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CD02O286E 005110 PENNA                                   Não       PV        São Paulo                382
+CD02O286E 005110 RICARDO BERZOINI                        Sim       PT        São Paulo                390
+CD02O286E 005110 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CD02O286E 005110 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD02O286E 005110 ROBERTO FREIRE                          Não       PPS       São Paulo                387
+CD02O286E 005110 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CD02O286E 005110 TIRIRICA                                Sim       PR        São Paulo                392
+CD02O286E 005110 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD02O286E 005110 VANDERLEI SIRAQUE                       Sim       PT        São Paulo                581
+CD02O286E 005110 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD02O286E 005110 VICENTE CANDIDO                         Sim       PT        São Paulo                395
+CD02O286E 005110 VICENTINHO                              Sim       PT        São Paulo                396
+CD02O286E 005110 WALTER FELDMAN                          Sim       PSDB      São Paulo                550
+CD02O286E 005110 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD02O286E 005110 NILSON LEITÃO                           Sim       PSDB      Mato Grosso              573
+CD02O286E 005110 PEDRO HENRY                             Sim       PP        Mato Grosso              403
+CD02O286E 005110 PROFESSOR VICTORIO GALLI                Sim       PMDB      Mato Grosso              601
+CD02O286E 005110 WELLINGTON FAGUNDES                     Sim       PR        Mato Grosso              406
+CD02O286E 005110 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD02O286E 005110 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD02O286E 005110 IZALCI                                  Sim       PSDB      Distrito Federal         408
+CD02O286E 005110 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD02O286E 005110 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD02O286E 005110 POLICARPO                               Sim       PT        Distrito Federal         539
+CD02O286E 005110 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD02O286E 005110 ARMANDO VERGÍLIO                        Sim       PSD       Goiás                    416
+CD02O286E 005110 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD02O286E 005110 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CD02O286E 005110 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD02O286E 005110 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD02O286E 005110 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD02O286E 005110 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD02O286E 005110 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CD02O286E 005110 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD02O286E 005110 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD02O286E 005110 GIROTO                                  Sim       PMDB      Mato Grosso do Sul       434
+CD02O286E 005110 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD02O286E 005110 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD02O286E 005110 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD02O286E 005110 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD02O286E 005110 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD02O286E 005110 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD02O286E 005110 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD02O286E 005110 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD02O286E 005110 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD02O286E 005110 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD02O286E 005110 NELSON MEURER                           Sim       PP        Paraná                   458
+CD02O286E 005110 ODÍLIO BALBINOTTI                       Sim       PMDB      Paraná                   588
+CD02O286E 005110 PROFESSOR SÉRGIO DE OLIVEIRA            Sim       PSC       Paraná                   603
+CD02O286E 005110 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD02O286E 005110 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD02O286E 005110 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD02O286E 005110 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CD02O286E 005110 CARMEN ZANOTTO                          Não       PPS       Santa Catarina           561
+CD02O286E 005110 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD02O286E 005110 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CD02O286E 005110 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD02O286E 005110 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD02O286E 005110 JORGE BOEIRA                            Sim       PSD       Santa Catarina           474
+CD02O286E 005110 JORGINHO MELLO                          Sim       PSDB      Santa Catarina           476
+CD02O286E 005110 LUCI CHOINACKI                          Sim       PT        Santa Catarina           477
+CD02O286E 005110 MARCO TEBALDI                           Sim       PSDB      Santa Catarina           478
+CD02O286E 005110 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD02O286E 005110 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CD02O286E 005110 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD02O286E 005110 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD02O286E 005110 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD02O286E 005110 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD02O286E 005110 ALEXANDRE ROSO                          Sim       PSB       Rio Grande do Sul        489
+CD02O286E 005110 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD02O286E 005110 DANRLEI DE DEUS HINTERHOLZ              Sim       PSD       Rio Grande do Sul        495
+CD02O286E 005110 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD02O286E 005110 ENIO BACCI                              Sim       PDT       Rio Grande do Sul        493
+CD02O286E 005110 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD02O286E 005110 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD02O286E 005110 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD02O286E 005110 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD02O286E 005110 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD02O286E 005110 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD02O286E 005110 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD02O286E 005110 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD02O286E 005110 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CD02O286E 005110 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD02O286E 005110 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CD02O286E 005110 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD02O286E 005110 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD02O286E 005110 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD02O286E 005110 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD02O286E 005110 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD02O286E 005110 CELIA ROCHA                             <-------> PTB       Alagoas                  165
+CD02O286E 005110 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD02O286E 005110 ÁTILA LINS                              <-------> PSD       Amazonas                 38 
+CD02O286E 005110 PAUDERNEY AVELINO                       <-------> DEM       Amazonas                 40 
+CD02O286E 005110 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD02O286E 005110 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD02O286E 005110 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD02O286E 005110 EVANDRO MILHOMEN                        <-------> PCdoB     Amapá                    11 
+CD02O286E 005110 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD02O286E 005110 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD02O286E 005110 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD02O286E 005110 AMAURI TEIXEIRA                         <-------> PT        Bahia                    184
+CD02O286E 005110 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD02O286E 005110 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD02O286E 005110 ANTONIO IMBASSAHY                       <-------> PSDB      Bahia                    191
+CD02O286E 005110 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD02O286E 005110 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD02O286E 005110 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD02O286E 005110 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD02O286E 005110 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD02O286E 005110 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD02O286E 005110 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD02O286E 005110 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD02O286E 005110 ZEZÉU RIBEIRO                           <-------> PT        Bahia                    217
+CD02O286E 005110 AFONSO FLORENCE                         <-------> PT        Bahia                    182
+CD02O286E 005110 EDSON PIMENTA                           <-------> PSD       Bahia                    193
+CD02O286E 005110 ANTONIO CARLOS MAGALHÃES NETO           <-------> DEM       Bahia                    181
+CD02O286E 005110 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD02O286E 005110 ARIOSTO HOLANDA                         <-------> PSB       Ceará                    92 
+CD02O286E 005110 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD02O286E 005110 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD02O286E 005110 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD02O286E 005110 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD02O286E 005110 RAIMUNDÃO                               <-------> PMDB      Ceará                    108
+CD02O286E 005110 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD02O286E 005110 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD02O286E 005110 RONALDO FONSECA                         <-------> PR        Distrito Federal         414
+CD02O286E 005110 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD02O286E 005110 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD02O286E 005110 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD02O286E 005110 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD02O286E 005110 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD02O286E 005110 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD02O286E 005110 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD02O286E 005110 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD02O286E 005110 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD02O286E 005110 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD02O286E 005110 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD02O286E 005110 HEULER CRUVINEL                         <-------> PSD       Goiás                    423
+CD02O286E 005110 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD02O286E 005110 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD02O286E 005110 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD02O286E 005110 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD02O286E 005110 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD02O286E 005110 PEDRO NOVAIS                            <-------> PMDB      Maranhão                 82 
+CD02O286E 005110 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD02O286E 005110 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD02O286E 005110 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD02O286E 005110 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD02O286E 005110 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD02O286E 005110 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD02O286E 005110 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD02O286E 005110 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD02O286E 005110 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD02O286E 005110 MARCOS MONTES                           <-------> PSD       Minas Gerais             257
+CD02O286E 005110 ADEMIR CAMILO                           <-------> PSD       Minas Gerais             220
+CD02O286E 005110 GERALDO THADEU                          <-------> PSD       Minas Gerais             236
+CD02O286E 005110 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD02O286E 005110 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD02O286E 005110 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD02O286E 005110 JÔ MORAES                               <-------> PCdoB     Minas Gerais             246
+CD02O286E 005110 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD02O286E 005110 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD02O286E 005110 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD02O286E 005110 JOSÉ HUMBERTO                           <-------> PHS       Minas Gerais             249
+CD02O286E 005110 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD02O286E 005110 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD02O286E 005110 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD02O286E 005110 MARÇAL FILHO                            <-------> PMDB      Mato Grosso do Sul       437
+CD02O286E 005110 ELIENE LIMA                             <-------> PSD       Mato Grosso              401
+CD02O286E 005110 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD02O286E 005110 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD02O286E 005110 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD02O286E 005110 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD02O286E 005110 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD02O286E 005110 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CD02O286E 005110 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD02O286E 005110 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD02O286E 005110 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD02O286E 005110 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD02O286E 005110 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD02O286E 005110 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD02O286E 005110 ROMERO RODRIGUES                        <-------> PSDB      Paraíba                  135
+CD02O286E 005110 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD02O286E 005110 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD02O286E 005110 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD02O286E 005110 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD02O286E 005110 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD02O286E 005110 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD02O286E 005110 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD02O286E 005110 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD02O286E 005110 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD02O286E 005110 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD02O286E 005110 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD02O286E 005110 VILALBA                                 <-------> PRB       Pernambuco               555
+CD02O286E 005110 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD02O286E 005110 MARLLOS SAMPAIO                         <-------> PMDB      Piauí                    117
+CD02O286E 005110 HUGO NAPOLEÃO                           <-------> PSD       Piauí                    112
+CD02O286E 005110 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD02O286E 005110 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD02O286E 005110 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD02O286E 005110 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD02O286E 005110 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD02O286E 005110 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD02O286E 005110 NELSON PADOVANI                         <-------> PSC       Paraná                   457
+CD02O286E 005110 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD02O286E 005110 GIACOBO                                 <-------> PR        Paraná                   466
+CD02O286E 005110 TAKAYAMA                                <-------> PSC       Paraná                   469
+CD02O286E 005110 REINHOLD STEPHANES                      <-------> PSD       Paraná                   467
+CD02O286E 005110 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD02O286E 005110 EDMAR ARRUDA                            <-------> PSC       Paraná                   446
+CD02O286E 005110 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD02O286E 005110 FERNANDO FRANCISCHINI                   <-------> PEN       Paraná                   450
+CD02O286E 005110 LUIZ CARLOS SETIM                       <-------> DEM       Paraná                   535
+CD02O286E 005110 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD02O286E 005110 PEDRO PAULO                             <-------> PMDB      Rio de Janeiro           314
+CD02O286E 005110 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD02O286E 005110 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD02O286E 005110 AROLDE DE OLIVEIRA                      <-------> PSD       Rio de Janeiro           288
+CD02O286E 005110 ALEXANDRE CARDOSO                       <-------> PSB       Rio de Janeiro           284
+CD02O286E 005110 LILIAM SÁ                               <-------> PSD       Rio de Janeiro           309
+CD02O286E 005110 DR. DILSON DRUMOND                      <-------> PDT       Rio de Janeiro           602
+CD02O286E 005110 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD02O286E 005110 VITOR PAULO                             <-------> PRB       Rio de Janeiro           324
+CD02O286E 005110 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD02O286E 005110 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD02O286E 005110 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD02O286E 005110 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD02O286E 005110 RODRIGO BETHLEM                         <-------> PMDB      Rio de Janeiro           318
+CD02O286E 005110 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD02O286E 005110 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD02O286E 005110 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD02O286E 005110 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD02O286E 005110 BENEDITA DA SILVA                       <-------> PT        Rio de Janeiro           291
+CD02O286E 005110 CHICO ALENCAR                           <-------> PSOL      Rio de Janeiro           295
+CD02O286E 005110 EDUARDO CUNHA                           <-------> PMDB      Rio de Janeiro           300
+CD02O286E 005110 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD02O286E 005110 FÁBIO FARIA                             <-------> PSD       Rio Grande do Norte      119
+CD02O286E 005110 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD02O286E 005110 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD02O286E 005110 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD02O286E 005110 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD02O286E 005110 PADRE TON                               <-------> PT        Rondonia                 48 
+CD02O286E 005110 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD02O286E 005110 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD02O286E 005110 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD02O286E 005110 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD02O286E 005110 FRANCISCO ARAÚJO                        <-------> PSD       Roraima                  570
+CD02O286E 005110 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD02O286E 005110 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD02O286E 005110 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD02O286E 005110 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD02O286E 005110 PAULO CESAR QUARTIERO                   <-------> DEM       Roraima                  6  
+CD02O286E 005110 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD02O286E 005110 BERINHO BANTIM                          <-------> PSDB      Roraima                  1  
+CD02O286E 005110 VICENTE SELISTRE                        <-------> PSB       Rio Grande do Sul        600
+CD02O286E 005110 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD02O286E 005110 RONALDO NOGUEIRA                        <-------> PTB       Rio Grande do Sul        556
+CD02O286E 005110 ELISEU PADILHA                          <-------> PMDB      Rio Grande do Sul        578
+CD02O286E 005110 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD02O286E 005110 PAULO FERREIRA                          <-------> PT        Rio Grande do Sul        591
+CD02O286E 005110 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD02O286E 005110 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD02O286E 005110 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD02O286E 005110 BOHN GASS                               <-------> PT        Rio Grande do Sul        499
+CD02O286E 005110 LUIZ NOÉ                                <-------> PSB       Rio Grande do Sul        536
+CD02O286E 005110 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD02O286E 005110 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD02O286E 005110 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD02O286E 005110 ALMEIDA LIMA                            <-------> PPS       Sergipe                  173
+CD02O286E 005110 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD02O286E 005110 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD02O286E 005110 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD02O286E 005110 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD02O286E 005110 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD02O286E 005110 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD02O286E 005110 CARLOS ZARATTINI                        <-------> PT        São Paulo                398
+CD02O286E 005110 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD02O286E 005110 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD02O286E 005110 BETO MANSUR                             <-------> PP        São Paulo                340
+CD02O286E 005110 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD02O286E 005110 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD02O286E 005110 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD02O286E 005110 JONAS DONIZETTE                         <-------> PSB       São Paulo                353
+CD02O286E 005110 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD02O286E 005110 EDSON APARECIDO                         <-------> PSDB      São Paulo                351
+CD02O286E 005110 JOSÉ DE FILIPPI                         <-------> PT        São Paulo                354
+CD02O286E 005110 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD02O286E 005110 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD02O286E 005110 OTONIEL LIMA                            <-------> PRB       São Paulo                378
+CD02O286E 005110 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD02O286E 005110 PAULO MALUF                             <-------> PP        São Paulo                373
+CD02O286E 005110 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD02O286E 005110 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD02O286E 005110 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD02O286E 005110 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD02O286E 005110 LAUREZ MOREIRA                          <-------> PSB       Tocantins                62 
+CD02O286E 005110 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD02O286E 005110 CÉSAR HALUM                             <-------> PSD       Tocantins                64 
+CD02O286E 005110 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CD02O286E 005110 LÁZARO BOTELHO                          <-------> PP        Tocantins                63 

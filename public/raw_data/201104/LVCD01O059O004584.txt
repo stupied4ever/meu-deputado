@@ -1,0 +1,512 @@
+CD01O059O 004584 BERINHO BANTIM                          Não       PSDB      Roraima                  1
+CD01O059O 004584 CHICO DAS VERDURAS                      Sim       PRP       Roraima                  3  
+CD01O059O 004584 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD01O059O 004584 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CD01O059O 004584 PAULO CESAR QUARTIERO                   Não       DEM       Roraima                  6  
+CD01O059O 004584 DALVA FIGUEIREDO                        Sim       PT        Amapá                    9  
+CD01O059O 004584 DAVI ALCOLUMBRE                         Não       DEM       Amapá                    10 
+CD01O059O 004584 FÁTIMA PELAES                           Sim       PMDB      Amapá                    12 
+CD01O059O 004584 ANDRÉ DIAS                              Não       PSDB      Pará                     517
+CD01O059O 004584 BETO FARO                               Sim       PT        Pará                     19 
+CD01O059O 004584 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD01O059O 004584 DUDIMAR PAXIÚBA                         Não       PSDB      Pará                     518
+CD01O059O 004584 ELCIONE BARBALHO                        Sim       PMDB      Pará                     21 
+CD01O059O 004584 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD01O059O 004584 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CD01O059O 004584 LIRA MAIA                               Não       DEM       Pará                     28 
+CD01O059O 004584 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD01O059O 004584 LUIZ OTÁVIO                             Sim       PMDB      Pará                     526
+CD01O059O 004584 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD01O059O 004584 CARLOS SOUZA                            Sim       PP        Amazonas                 37 
+CD01O059O 004584 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD01O059O 004584 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD01O059O 004584 PAUDERNEY AVELINO                       Não       DEM       Amazonas                 40 
+CD01O059O 004584 SABINO CASTELO BRANCO                   Sim       PTB       Amazonas                 43 
+CD01O059O 004584 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD01O059O 004584 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD01O059O 004584 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD01O059O 004584 MARCIO BITTAR                           Não       PSDB      Acre                     57 
+CD01O059O 004584 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD01O059O 004584 AGNOLIN                                 Sim       PDT       Tocantins                61 
+CD01O059O 004584 CÉSAR HALUM                             Não       PPS       Tocantins                64 
+CD01O059O 004584 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD01O059O 004584 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD01O059O 004584 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD01O059O 004584 PROFESSORA DORINHA SEABRA REZEN         Não       DEM       Tocantins                67 
+CD01O059O 004584 EDIVALDO HOLANDA JUNIOR                 Sim       PTC       Maranhão                 73 
+CD01O059O 004584 GASTÃO VIEIRA                           Sim       PMDB      Maranhão                 75 
+CD01O059O 004584 LUCIANO MOREIRA                         Sim       PMDB      Maranhão                 83 
+CD01O059O 004584 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD01O059O 004584 SARNEY FILHO                            Não       PV        Maranhão                 85 
+CD01O059O 004584 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD01O059O 004584 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CD01O059O 004584 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CD01O059O 004584 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD01O059O 004584 GORETE PEREIRA                          Sim       PR        Ceará                    100
+CD01O059O 004584 JOSÉ LINHARES                           Sim       PP        Ceará                    96 
+CD01O059O 004584 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD01O059O 004584 RAIMUNDO GOMES DE MATOS                 Não       PSDB      Ceará                    102
+CD01O059O 004584 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD01O059O 004584 HUGO NAPOLEÃO                           Não       DEM       Piauí                    112
+CD01O059O 004584 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD01O059O 004584 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD01O059O 004584 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD01O059O 004584 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD01O059O 004584 PAES LANDIM                             Sim       PTB       Piauí                    118
+CD01O059O 004584 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD01O059O 004584 FELIPE MAIA                             Não       DEM       Rio Grande do Norte      120
+CD01O059O 004584 JOÃO MAIA                               Sim       PR        Rio Grande do Norte      124
+CD01O059O 004584 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD01O059O 004584 AGUINALDO RIBEIRO                       Sim       PP        Paraíba                  129
+CD01O059O 004584 EFRAIM FILHO                            Não       DEM       Paraíba                  128
+CD01O059O 004584 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD01O059O 004584 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD01O059O 004584 ROMERO RODRIGUES                        Não       PSDB      Paraíba                  135
+CD01O059O 004584 RUY CARNEIRO                            Não       PSDB      Paraíba                  137
+CD01O059O 004584 WELLINGTON ROBERTO                      Sim       PR        Paraíba                  136
+CD01O059O 004584 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD01O059O 004584 AUGUSTO COUTINHO                        Não       DEM       Pernambuco               144
+CD01O059O 004584 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD01O059O 004584 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD01O059O 004584 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD01O059O 004584 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD01O059O 004584 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD01O059O 004584 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD01O059O 004584 MENDONÇA FILHO                          Não       DEM       Pernambuco               154
+CD01O059O 004584 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD01O059O 004584 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD01O059O 004584 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD01O059O 004584 SERGIO GUERRA                           Não       PSDB      Pernambuco               159
+CD01O059O 004584 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD01O059O 004584 VILALBA                                 Sim       PRB       Pernambuco               555
+CD01O059O 004584 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD01O059O 004584 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD01O059O 004584 ALMEIDA LIMA                            Sim       PMDB      Sergipe                  173
+CD01O059O 004584 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD01O059O 004584 HELENO SILVA                            Sim       PRB       Sergipe                  175
+CD01O059O 004584 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD01O059O 004584 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD01O059O 004584 MENDONÇA PRADO                          Não       DEM       Sergipe                  179
+CD01O059O 004584 ROGERIO CARVALHO                        Sim       PT        Sergipe                  178
+CD01O059O 004584 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD01O059O 004584 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CD01O059O 004584 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD01O059O 004584 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD01O059O 004584 ANTONIO CARLOS MAGALHÃES NETO           Não       DEM       Bahia                    181
+CD01O059O 004584 ANTONIO IMBASSAHY                       Não       PSDB      Bahia                    191
+CD01O059O 004584 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD01O059O 004584 EDSON PIMENTA                           Sim       PCdoB     Bahia                    193
+CD01O059O 004584 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD01O059O 004584 FELIX JÚNIOR                            Não       PDT       Bahia                    195
+CD01O059O 004584 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD01O059O 004584 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CD01O059O 004584 JOSEPH BANDEIRA                         Sim       PT        Bahia                    565
+CD01O059O 004584 JUTAHY JUNIOR                           Não       PSDB      Bahia                    206
+CD01O059O 004584 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD01O059O 004584 LUIZ ARGÔLO                             Sim       PP        Bahia                    207
+CD01O059O 004584 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD01O059O 004584 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD01O059O 004584 MAURÍCIO TRINDADE                       Sim       PR        Bahia                    208
+CD01O059O 004584 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD01O059O 004584 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD01O059O 004584 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD01O059O 004584 RUI COSTA                               Sim       PT        Bahia                    216
+CD01O059O 004584 SÉRGIO BARRADAS CARNEIRO                Sim       PT        Bahia                    524
+CD01O059O 004584 ADEMIR CAMILO                           Sim       PDT       Minas Gerais             220
+CD01O059O 004584 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD01O059O 004584 ANTÔNIO ROBERTO                         Não       PV        Minas Gerais             229
+CD01O059O 004584 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD01O059O 004584 BONIFÁCIO DE ANDRADA                    Não       PSDB      Minas Gerais             534
+CD01O059O 004584 CARLAILE PEDROSA                        Não       PSDB      Minas Gerais             222
+CD01O059O 004584 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD01O059O 004584 DOMINGOS SÁVIO                          Não       PSDB      Minas Gerais             233
+CD01O059O 004584 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD01O059O 004584 EDUARDO BARBOSA                         Não       PSDB      Minas Gerais             230
+CD01O059O 004584 EROS BIONDINI                           Sim       PTB       Minas Gerais             242
+CD01O059O 004584 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD01O059O 004584 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD01O059O 004584 GILMAR MACHADO                          Sim       PT        Minas Gerais             234
+CD01O059O 004584 JAIRO ATAIDE                            Não       DEM       Minas Gerais             533
+CD01O059O 004584 JOÃO BITTAR                             Não       DEM       Minas Gerais             531
+CD01O059O 004584 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD01O059O 004584 JOSE HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD01O059O 004584 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD01O059O 004584 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CD01O059O 004584 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD01O059O 004584 LUIZ FERNANDO FARIA                     Sim       PP        Minas Gerais             256
+CD01O059O 004584 MÁRCIO REINALDO MOREIRA                 Sim       PP        Minas Gerais             247
+CD01O059O 004584 MARCOS MONTES                           Não       DEM       Minas Gerais             257
+CD01O059O 004584 NEWTON CARDOSO                          Sim       PMDB      Minas Gerais             258
+CD01O059O 004584 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD01O059O 004584 PAULO ABI-ACKEL                         Não       PSDB      Minas Gerais             263
+CD01O059O 004584 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD01O059O 004584 RODRIGO DE CASTRO                       Não       PSDB      Minas Gerais             268
+CD01O059O 004584 STEFANO AGUIAR                          Sim       PSC       Minas Gerais             558
+CD01O059O 004584 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD01O059O 004584 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD01O059O 004584 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD01O059O 004584 MANATO                                  Sim       PDT       Espírito Santo           275
+CD01O059O 004584 ALFREDO SIRKIS                          Não       PV        Rio de Janeiro           321
+CD01O059O 004584 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD01O059O 004584 AUREO                                   Sim       PRTB      Rio de Janeiro           290
+CD01O059O 004584 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD01O059O 004584 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O059O 004584 CHICO D`ANGELO                          Sim       PT        Rio de Janeiro           527
+CD01O059O 004584 CRISTIANO                               Sim       PTdoB     Rio de Janeiro           292
+CD01O059O 004584 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD01O059O 004584 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CD01O059O 004584 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD01O059O 004584 DR. PAULO CÉSAR                         Sim       PR        Rio de Janeiro           296
+CD01O059O 004584 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD01O059O 004584 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD01O059O 004584 ELIANE ROLIM                            Sim       PT        Rio de Janeiro           538
+CD01O059O 004584 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD01O059O 004584 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD01O059O 004584 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O059O 004584 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD01O059O 004584 JEAN WYLLYS                             Obstrução PSOL      Rio de Janeiro           307
+CD01O059O 004584 LILIAM SÁ                               Sim       PR        Rio de Janeiro           309
+CD01O059O 004584 MARCELO MATOS                           Sim       PDT       Rio de Janeiro           311
+CD01O059O 004584 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD01O059O 004584 NELSON BORNIER                          Sim       PMDB      Rio de Janeiro           549
+CD01O059O 004584 OTAVIO LEITE                            Obstrução PSDB      Rio de Janeiro           316
+CD01O059O 004584 RODRIGO MAIA                            Não       DEM       Rio de Janeiro           322
+CD01O059O 004584 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD01O059O 004584 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD01O059O 004584 ALBERTO MOURÃO                          Sim       PSDB      São Paulo                552
+CD01O059O 004584 ALEXANDRE LEITE                         Não       DEM       São Paulo                334
+CD01O059O 004584 ALINE CORRÊA                            Sim       PP        São Paulo                330
+CD01O059O 004584 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD01O059O 004584 ANTONIO CARLOS MENDES THAME             Não       PSDB      São Paulo                332
+CD01O059O 004584 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD01O059O 004584 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD01O059O 004584 ARNALDO JARDIM                          Não       PPS       São Paulo                339
+CD01O059O 004584 BETO MANSUR                             Sim       PP        São Paulo                340
+CD01O059O 004584 BRUNA FURLAN                            Não       PSDB      São Paulo                335
+CD01O059O 004584 CÂNDIDO VACCAREZZA                      Sim       PT        São Paulo                389
+CD01O059O 004584 CARLINHOS ALMEIDA                       Sim       PT        São Paulo                341
+CD01O059O 004584 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD01O059O 004584 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD01O059O 004584 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD01O059O 004584 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD01O059O 004584 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD01O059O 004584 ELEUSES PAIVA                           Não       DEM       São Paulo                537
+CD01O059O 004584 ELI CORREA FILHO                        Não       DEM       São Paulo                345
+CD01O059O 004584 GUILHERME MUSSI                         Sim       PV        São Paulo                348
+CD01O059O 004584 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD01O059O 004584 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD01O059O 004584 JONAS DONIZETTE                         Sim       PSB       São Paulo                353
+CD01O059O 004584 JUNJI ABE                               Sim       DEM       São Paulo                355
+CD01O059O 004584 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD01O059O 004584 LUIZ FERNANDO MACHADO                   Não       PSDB      São Paulo                365
+CD01O059O 004584 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD01O059O 004584 MARCELO AGUIAR                          Sim       PSC       São Paulo                370
+CD01O059O 004584 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD01O059O 004584 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD01O059O 004584 PAULO FREIRE                            Sim       PR        São Paulo                380
+CD01O059O 004584 PAULO MALUF                             Sim       PP        São Paulo                373
+CD01O059O 004584 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD01O059O 004584 RICARDO BERZOINI                        Sim       PT        São Paulo                390
+CD01O059O 004584 RICARDO IZAR                            Sim       PV        São Paulo                383
+CD01O059O 004584 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD01O059O 004584 ROBERTO FREIRE                          Não       PPS       São Paulo                387
+CD01O059O 004584 ROBERTO SANTIAGO                        Não       PV        São Paulo                386
+CD01O059O 004584 RODRIGO GARCIA                          Não       DEM       São Paulo                388
+CD01O059O 004584 TIRIRICA                                Sim       PR        São Paulo                392
+CD01O059O 004584 VANDERLEI MACRIS                        Não       PSDB      São Paulo                521
+CD01O059O 004584 VAZ DE LIMA                             Não       PSDB      São Paulo                394
+CD01O059O 004584 WILLIAM DIB                             Não       PSDB      São Paulo                397
+CD01O059O 004584 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD01O059O 004584 JÚLIO CAMPOS                            Não       DEM       Mato Grosso              399
+CD01O059O 004584 NERI GELLER                             Sim       PP        Mato Grosso              520
+CD01O059O 004584 ROBERTO DORNER                          Sim       PP        Mato Grosso              519
+CD01O059O 004584 SÁGUAS MORAES                           Sim       PT        Mato Grosso              405
+CD01O059O 004584 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD01O059O 004584 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD01O059O 004584 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD01O059O 004584 IZALCI                                  Sim       PR        Distrito Federal         408
+CD01O059O 004584 POLICARPO                               Sim       PT        Distrito Federal         539
+CD01O059O 004584 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD01O059O 004584 RICARDO QUIRINO                         Sim       PRB       Distrito Federal         551
+CD01O059O 004584 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD01O059O 004584 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD01O059O 004584 HEULER CRUVINEL                         Não       DEM       Goiás                    423
+CD01O059O 004584 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD01O059O 004584 JORGE PINHEIRO                          Sim       PRB       Goiás                    548
+CD01O059O 004584 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CD01O059O 004584 MARINA SANTANNA                         Sim       PT        Goiás                    564
+CD01O059O 004584 RONALDO CAIADO                          Não       DEM       Goiás                    429
+CD01O059O 004584 RUBENS OTONI                            Sim       PT        Goiás                    425
+CD01O059O 004584 VALDIVINO DE OLIVEIRA                   Não       PSDB      Goiás                    547
+CD01O059O 004584 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CD01O059O 004584 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD01O059O 004584 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD01O059O 004584 GIROTO                                  Sim       PR        Mato Grosso do Sul       434
+CD01O059O 004584 MANDETTA                                Não       DEM       Mato Grosso do Sul       436
+CD01O059O 004584 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD01O059O 004584 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD01O059O 004584 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD01O059O 004584 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD01O059O 004584 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD01O059O 004584 DR. ROSINHA                             Sim       PT        Paraná                   449
+CD01O059O 004584 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD01O059O 004584 EDUARDO SCIARRA                         Não       DEM       Paraná                   461
+CD01O059O 004584 FERNANDO FRANCISCHINI                   Não       PSDB      Paraná                   450
+CD01O059O 004584 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD01O059O 004584 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD01O059O 004584 MOACIR MICHELETTO                       Sim       PMDB      Paraná                   462
+CD01O059O 004584 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD01O059O 004584 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD01O059O 004584 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD01O059O 004584 CARMEN ZANOTTO                          Não       PPS       Santa Catarina           561
+CD01O059O 004584 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD01O059O 004584 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD01O059O 004584 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CD01O059O 004584 ONOFRE SANTO AGOSTINI                   Obstrução DEM       Santa Catarina           479
+CD01O059O 004584 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CD01O059O 004584 ZONTA                                   Sim       PP        Santa Catarina           485
+CD01O059O 004584 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD01O059O 004584 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD01O059O 004584 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD01O059O 004584 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD01O059O 004584 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD01O059O 004584 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD01O059O 004584 JOSE STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD01O059O 004584 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD01O059O 004584 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O059O 004584 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CD01O059O 004584 MENDES RIBEIRO FILHO                    Sim       PMDB      Rio Grande do Sul        504
+CD01O059O 004584 NELSON MARCHEZAN JUNIOR                 Não       PSDB      Rio Grande do Sul        509
+CD01O059O 004584 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CD01O059O 004584 PEPE VARGAS                             Sim       PT        Rio Grande do Sul        503
+CD01O059O 004584 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD01O059O 004584 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD01O059O 004584 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD01O059O 004584 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD01O059O 004584 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O059O 004584 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD01O059O 004584 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O059O 004584 SIBÁ MACHADO                            <-------> PT        Acre                     58 
+CD01O059O 004584 RUI PALMEIRA                            <-------> PSDB      Alagoas                  171
+CD01O059O 004584 JOAQUIM BELTRÃO                         <-------> PMDB      Alagoas                  172
+CD01O059O 004584 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O059O 004584 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD01O059O 004584 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O059O 004584 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O059O 004584 JOÃO LYRA                               <-------> PTB       Alagoas                  167
+CD01O059O 004584 ÁTILA LINS                              <-------> PMDB      Amazonas                 38 
+CD01O059O 004584 SILAS CÂMARA                            <-------> PSC       Amazonas                 39 
+CD01O059O 004584 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD01O059O 004584 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD01O059O 004584 PROFESSORA MARCIVANIA                   <-------> PT        Amapá                    15 
+CD01O059O 004584 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O059O 004584 EVANDRO MILHOMEN                        <-------> PCdoB     Amapá                    11 
+CD01O059O 004584 VINICIUS GURGEL                         <-------> PRTB      Amapá                    16 
+CD01O059O 004584 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD01O059O 004584 PAULO MAGALHÃES                         <-------> DEM       Bahia                    214
+CD01O059O 004584 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD01O059O 004584 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD01O059O 004584 FERNANDO TORRES                         <-------> DEM       Bahia                    196
+CD01O059O 004584 JOSÉ CARLOS ARAÚJO                      <-------> PDT       Bahia                    197
+CD01O059O 004584 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD01O059O 004584 JOSÉ NUNES                              <-------> DEM       Bahia                    201
+CD01O059O 004584 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD01O059O 004584 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD01O059O 004584 SÉRGIO BRITO                            <-------> PSC       Bahia                    213
+CD01O059O 004584 VALMIR ASSUNÇÃO                         <-------> PT        Bahia                    218
+CD01O059O 004584 WALDENOR PEREIRA                        <-------> PT        Bahia                    219
+CD01O059O 004584 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD01O059O 004584 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD01O059O 004584 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O059O 004584 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD01O059O 004584 CHICO LOPES                             <-------> PCdoB     Ceará                    88 
+CD01O059O 004584 ANDRÉ FIGUEIREDO                        <-------> PDT       Ceará                    89 
+CD01O059O 004584 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD01O059O 004584 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD01O059O 004584 ARIOSTO HOLANDA                         <-------> PSB       Ceará                    92 
+CD01O059O 004584 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O059O 004584 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD01O059O 004584 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O059O 004584 JOSÉ GUIMARÃES                          <-------> PT        Ceará                    103
+CD01O059O 004584 MANOEL SALVIANO                         <-------> PSDB      Ceará                    104
+CD01O059O 004584 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD01O059O 004584 RAIMUNDÃO                               <-------> PMDB      Ceará                    108
+CD01O059O 004584 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD01O059O 004584 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD01O059O 004584 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD01O059O 004584 AUDIFAX                                 <-------> PSB       Espírito Santo           274
+CD01O059O 004584 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD01O059O 004584 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD01O059O 004584 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD01O059O 004584 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD01O059O 004584 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD01O059O 004584 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD01O059O 004584 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD01O059O 004584 DELEGADO WALDIR                         <-------> PSDB      Goiás                    559
+CD01O059O 004584 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O059O 004584 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O059O 004584 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O059O 004584 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O059O 004584 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD01O059O 004584 PEDRO CHAVES                            <-------> PMDB      Goiás                    428
+CD01O059O 004584 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O059O 004584 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O059O 004584 HÉLIO SANTOS                            <-------> PSDB      Maranhão                 76 
+CD01O059O 004584 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O059O 004584 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD01O059O 004584 ALBERTO FILHO                           <-------> PMDB      Maranhão                 71 
+CD01O059O 004584 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD01O059O 004584 LOURIVAL MENDES                         <-------> PTdoB     Maranhão                 77 
+CD01O059O 004584 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O059O 004584 WALDIR MARANHÃO                         <-------> PP        Maranhão                 84 
+CD01O059O 004584 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O059O 004584 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O059O 004584 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O059O 004584 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD01O059O 004584 WALTER TOSTA                            <-------> PMN       Minas Gerais             267
+CD01O059O 004584 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD01O059O 004584 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O059O 004584 ZÉ SILVA                                <-------> PDT       Minas Gerais             271
+CD01O059O 004584 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O059O 004584 SARAIVA FELIPE                          <-------> PMDB      Minas Gerais             265
+CD01O059O 004584 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O059O 004584 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD01O059O 004584 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O059O 004584 JÔ MORAES                               <-------> PCdoB     Minas Gerais             246
+CD01O059O 004584 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O059O 004584 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD01O059O 004584 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD01O059O 004584 GERALDO THADEU                          <-------> PPS       Minas Gerais             236
+CD01O059O 004584 DIEGO ANDRADE                           <-------> PR        Minas Gerais             228
+CD01O059O 004584 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O059O 004584 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O059O 004584 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD01O059O 004584 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O059O 004584 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O059O 004584 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD01O059O 004584 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O059O 004584 HOMERO PEREIRA                          <-------> PR        Mato Grosso              402
+CD01O059O 004584 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O059O 004584 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O059O 004584 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O059O 004584 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD01O059O 004584 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD01O059O 004584 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O059O 004584 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O059O 004584 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD01O059O 004584 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O059O 004584 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD01O059O 004584 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O059O 004584 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD01O059O 004584 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD01O059O 004584 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD01O059O 004584 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O059O 004584 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD01O059O 004584 ANA ARRAES                              <-------> PSB       Pernambuco               140
+CD01O059O 004584 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O059O 004584 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O059O 004584 JOÃO PAULO  LIMA                        <-------> PT        Pernambuco               149
+CD01O059O 004584 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD01O059O 004584 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD01O059O 004584 JÚLIO CESAR                             <-------> DEM       Piauí                    114
+CD01O059O 004584 MARCELO CASTRO                          <-------> PMDB      Piauí                    110
+CD01O059O 004584 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD01O059O 004584 ASSIS DO COUTO                          <-------> PT        Paraná                   443
+CD01O059O 004584 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O059O 004584 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD01O059O 004584 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O059O 004584 NELSON MEURER                           <-------> PP        Paraná                   458
+CD01O059O 004584 RUBENS BUENO                            <-------> PPS       Paraná                   460
+CD01O059O 004584 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD01O059O 004584 SANDRO ALEX                             <-------> PPS       Paraná                   465
+CD01O059O 004584 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O059O 004584 REINHOLD STEPHANES                      <-------> PMDB      Paraná                   467
+CD01O059O 004584 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD01O059O 004584 TAKAYAMA                                <-------> PSC       Paraná                   469
+CD01O059O 004584 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O059O 004584 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O059O 004584 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD01O059O 004584 LUIZ CARLOS SETIM                       <-------> DEM       Paraná                   535
+CD01O059O 004584 SOLANGE ALMEIDA                         <-------> PMDB      Rio de Janeiro           563
+CD01O059O 004584 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD01O059O 004584 ZOINHO                                  <-------> PR        Rio de Janeiro           328
+CD01O059O 004584 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD01O059O 004584 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD01O059O 004584 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD01O059O 004584 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD01O059O 004584 NEILTON MULIM                           <-------> PR        Rio de Janeiro           315
+CD01O059O 004584 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD01O059O 004584 FELIPE BORNIER                          <-------> PHS       Rio de Janeiro           301
+CD01O059O 004584 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD01O059O 004584 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD01O059O 004584 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O059O 004584 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD01O059O 004584 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O059O 004584 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O059O 004584 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O059O 004584 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD01O059O 004584 AROLDE DE OLIVEIRA                      <-------> DEM       Rio de Janeiro           288
+CD01O059O 004584 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O059O 004584 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O059O 004584 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD01O059O 004584 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O059O 004584 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD01O059O 004584 LINDOMAR GARÇON                         <-------> PV        Rondonia                 45 
+CD01O059O 004584 PADRE TON                               <-------> PT        Rondonia                 48 
+CD01O059O 004584 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O059O 004584 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD01O059O 004584 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD01O059O 004584 MAURO NAZIF                             <-------> PSB       Rondonia                 46 
+CD01O059O 004584 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD01O059O 004584 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD01O059O 004584 RAUL LIMA                               <-------> PP        Roraima                  7  
+CD01O059O 004584 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O059O 004584 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O059O 004584 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD01O059O 004584 DANRLEI DE DEUS HINTERHOLZ              <-------> PTB       Rio Grande do Sul        495
+CD01O059O 004584 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O059O 004584 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD01O059O 004584 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O059O 004584 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O059O 004584 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD01O059O 004584 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD01O059O 004584 LUIS CARLOS HEINZE                      <-------> PP        Rio Grande do Sul        500
+CD01O059O 004584 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O059O 004584 ASSIS MELO                              <-------> PCdoB     Rio Grande do Sul        492
+CD01O059O 004584 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD01O059O 004584 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O059O 004584 JORGE BOEIRA                            <-------> PT        Santa Catarina           474
+CD01O059O 004584 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD01O059O 004584 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O059O 004584 CELSO MALDANER                          <-------> PMDB      Santa Catarina           472
+CD01O059O 004584 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD01O059O 004584 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD01O059O 004584 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O059O 004584 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD01O059O 004584 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O059O 004584 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O059O 004584 VICENTINHO                              <-------> PT        São Paulo                396
+CD01O059O 004584 ALDO REBELO                             <-------> PCdoB     São Paulo                331
+CD01O059O 004584 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD01O059O 004584 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD01O059O 004584 GABRIEL CHALITA                         <-------> PSB       São Paulo                347
+CD01O059O 004584 JEFFERSON CAMPOS                        <-------> PSB       São Paulo                349
+CD01O059O 004584 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD01O059O 004584 GUILHERME CAMPOS                        <-------> DEM       São Paulo                357
+CD01O059O 004584 IVAN VALENTE                            <-------> PSOL      São Paulo                359
+CD01O059O 004584 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O059O 004584 JOÃO DADO                               <-------> PDT       São Paulo                362
+CD01O059O 004584 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD01O059O 004584 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD01O059O 004584 JOSÉ DE FILIPPI                         <-------> PT        São Paulo                354
+CD01O059O 004584 PENNA                                   <-------> PV        São Paulo                382
+CD01O059O 004584 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD01O059O 004584 OTONIEL LIMA                            <-------> PRB       São Paulo                378
+CD01O059O 004584 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD01O059O 004584 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O059O 004584 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD01O059O 004584 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O059O 004584 WALTER IHOSHI                           <-------> DEM       São Paulo                553
+CD01O059O 004584 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD01O059O 004584 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O059O 004584 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 

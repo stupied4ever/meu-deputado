@@ -1,0 +1,513 @@
+CD01O215O 004727 BERINHO BANTIM                          Não       PSDB      Roraima                  1
+CD01O215O 004727 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD01O215O 004727 FRANCISCO ARAÚJO                        Sim       PSL       Roraima                  570
+CD01O215O 004727 DALVA FIGUEIREDO                        Sim       PT        Amapá                    9  
+CD01O215O 004727 DAVI ALCOLUMBRE                         Não       DEM       Amapá                    10 
+CD01O215O 004727 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD01O215O 004727 LUIZ CARLOS                             Não       PSDB      Amapá                    14 
+CD01O215O 004727 VINICIUS GURGEL                         Sim       PRTB      Amapá                    16 
+CD01O215O 004727 BETO FARO                               Sim       PT        Pará                     19 
+CD01O215O 004727 DUDIMAR PAXIÚBA                         Não       PSDB      Pará                     518
+CD01O215O 004727 ELCIONE BARBALHO                        Abstenção PMDB      Pará                     21 
+CD01O215O 004727 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CD01O215O 004727 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O215O 004727 LUIZ OTÁVIO                             Sim       PMDB      Pará                     526
+CD01O215O 004727 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD01O215O 004727 WLADIMIR COSTA                          Sim       PMDB      Pará                     23 
+CD01O215O 004727 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CD01O215O 004727 ZEQUINHA MARINHO                        Sim       PSC       Pará                     33 
+CD01O215O 004727 ÁTILA LINS                              Sim       PMDB      Amazonas                 38 
+CD01O215O 004727 CARLOS SOUZA                            Não       PP        Amazonas                 37 
+CD01O215O 004727 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD01O215O 004727 HENRIQUE OLIVEIRA                       Não       PR        Amazonas                 36 
+CD01O215O 004727 PAUDERNEY AVELINO                       Não       DEM       Amazonas                 40 
+CD01O215O 004727 SABINO CASTELO BRANCO                   Sim       PTB       Amazonas                 43 
+CD01O215O 004727 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD01O215O 004727 LINDOMAR GARÇON                         Não       PV        Rondonia                 45 
+CD01O215O 004727 MAURO NAZIF                             Não       PSB       Rondonia                 46 
+CD01O215O 004727 MOREIRA MENDES                          Não       PPS       Rondonia                 49 
+CD01O215O 004727 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD01O215O 004727 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD01O215O 004727 PADRE TON                               Sim       PT        Rondonia                 48 
+CD01O215O 004727 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD01O215O 004727 MARCIO BITTAR                           Não       PSDB      Acre                     57 
+CD01O215O 004727 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD01O215O 004727 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD01O215O 004727 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD01O215O 004727 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD01O215O 004727 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD01O215O 004727 PROFESSORA DORINHA SEABRA REZEN         Não       DEM       Tocantins                67 
+CD01O215O 004727 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD01O215O 004727 CARLOS BRANDÃO                          Não       PSDB      Maranhão                 68 
+CD01O215O 004727 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD01O215O 004727 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD01O215O 004727 DAVI ALVES SILVA JÚNIOR                 Não       PR        Maranhão                 528
+CD01O215O 004727 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD01O215O 004727 GASTÃO VIEIRA                           Sim       PMDB      Maranhão                 75 
+CD01O215O 004727 HÉLIO SANTOS                            Não       PSDB      Maranhão                 76 
+CD01O215O 004727 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O215O 004727 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD01O215O 004727 RIBAMAR ALVES                           Não       PSB       Maranhão                 74 
+CD01O215O 004727 SARNEY FILHO                            Não       PV        Maranhão                 85 
+CD01O215O 004727 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD01O215O 004727 ZÉ VIEIRA                               Não       PR        Maranhão                 86 
+CD01O215O 004727 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD01O215O 004727 ANÍBAL GOMES                            Sim       PMDB      Ceará                    87 
+CD01O215O 004727 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CD01O215O 004727 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD01O215O 004727 ARNON BEZERRA                           Sim       PTB       Ceará                    90 
+CD01O215O 004727 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD01O215O 004727 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CD01O215O 004727 DOMINGOS NETO                           Sim       PSB       Ceará                    97 
+CD01O215O 004727 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CD01O215O 004727 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD01O215O 004727 GENECIAS NORONHA                        Sim       PMDB      Ceará                    99 
+CD01O215O 004727 GORETE PEREIRA                          Sim       PR        Ceará                    100
+CD01O215O 004727 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD01O215O 004727 JOSÉ AIRTON                             Sim       PT        Ceará                    101
+CD01O215O 004727 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD01O215O 004727 JOSÉ LINHARES                           Sim       PP        Ceará                    96 
+CD01O215O 004727 RAIMUNDÃO                               Sim       PMDB      Ceará                    108
+CD01O215O 004727 RAIMUNDO GOMES DE MATOS                 Não       PSDB      Ceará                    102
+CD01O215O 004727 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD01O215O 004727 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD01O215O 004727 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD01O215O 004727 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD01O215O 004727 JÚLIO CESAR                             Abstenção DEM       Piauí                    114
+CD01O215O 004727 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD01O215O 004727 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD01O215O 004727 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD01O215O 004727 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CD01O215O 004727 PAES LANDIM                             Sim       PTB       Piauí                    118
+CD01O215O 004727 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD01O215O 004727 FELIPE MAIA                             Não       DEM       Rio Grande do Norte      120
+CD01O215O 004727 ROGÉRIO MARINHO                         Não       PSDB      Rio Grande do Norte      540
+CD01O215O 004727 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CD01O215O 004727 BENJAMIN MARANHÃO                       Sim       PMDB      Paraíba                  131
+CD01O215O 004727 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CD01O215O 004727 EFRAIM FILHO                            Não       DEM       Paraíba                  128
+CD01O215O 004727 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD01O215O 004727 NILDA GONDIM                            Sim       PMDB      Paraíba                  134
+CD01O215O 004727 ROMERO RODRIGUES                        Não       PSDB      Paraíba                  135
+CD01O215O 004727 RUY CARNEIRO                            Não       PSDB      Paraíba                  137
+CD01O215O 004727 WELLINGTON ROBERTO                      Abstenção PR        Paraíba                  136
+CD01O215O 004727 WILSON FILHO                            Sim       PMDB      Paraíba                  139
+CD01O215O 004727 ANA ARRAES                              Sim       PSB       Pernambuco               140
+CD01O215O 004727 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD01O215O 004727 AUGUSTO COUTINHO                        Não       DEM       Pernambuco               144
+CD01O215O 004727 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD01O215O 004727 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD01O215O 004727 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD01O215O 004727 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD01O215O 004727 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD01O215O 004727 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD01O215O 004727 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD01O215O 004727 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD01O215O 004727 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD01O215O 004727 MENDONÇA FILHO                          Não       DEM       Pernambuco               154
+CD01O215O 004727 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD01O215O 004727 PAULO RUBEM SANTIAGO                    Abstenção PDT       Pernambuco               554
+CD01O215O 004727 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD01O215O 004727 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD01O215O 004727 SERGIO GUERRA                           Não       PSDB      Pernambuco               159
+CD01O215O 004727 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD01O215O 004727 VILALBA                                 Não       PRB       Pernambuco               555
+CD01O215O 004727 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD01O215O 004727 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD01O215O 004727 GIVALDO CARIMBÃO                        Sim       PSB       Alagoas                  166
+CD01O215O 004727 JOÃO LYRA                               Sim       PTB       Alagoas                  167
+CD01O215O 004727 JOAQUIM BELTRÃO                         Sim       PMDB      Alagoas                  172
+CD01O215O 004727 MAURÍCIO QUINTELLA LESSA                Não       PR        Alagoas                  168
+CD01O215O 004727 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD01O215O 004727 RUI PALMEIRA                            Não       PSDB      Alagoas                  171
+CD01O215O 004727 ALMEIDA LIMA                            Sim       PMDB      Sergipe                  173
+CD01O215O 004727 HELENO SILVA                            Não       PRB       Sergipe                  175
+CD01O215O 004727 LAERCIO OLIVEIRA                        Não       PR        Sergipe                  176
+CD01O215O 004727 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD01O215O 004727 ROGÉRIO CARVALHO                        Sim       PT        Sergipe                  178
+CD01O215O 004727 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD01O215O 004727 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD01O215O 004727 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD01O215O 004727 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD01O215O 004727 ANTONIO CARLOS MAGALHÃES NETO           Não       DEM       Bahia                    181
+CD01O215O 004727 ANTONIO IMBASSAHY                       Não       PSDB      Bahia                    191
+CD01O215O 004727 ARTHUR OLIVEIRA MAIA                    Sim       PMDB      Bahia                    192
+CD01O215O 004727 CLAUDIO CAJADO                          Não       DEM       Bahia                    186
+CD01O215O 004727 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD01O215O 004727 EMILIANO JOSÉ                           Sim       PT        Bahia                    523
+CD01O215O 004727 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD01O215O 004727 FÁBIO SOUTO                             Não       DEM       Bahia                    190
+CD01O215O 004727 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD01O215O 004727 FERNANDO TORRES                         Sim       DEM       Bahia                    196
+CD01O215O 004727 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD01O215O 004727 JÂNIO NATAL                             Não       PRP       Bahia                    198
+CD01O215O 004727 JOSÉ CARLOS ARAÚJO                      Sim       PDT       Bahia                    197
+CD01O215O 004727 JOSÉ NUNES                              Não       DEM       Bahia                    201
+CD01O215O 004727 JOSÉ ROCHA                              Não       PR        Bahia                    203
+CD01O215O 004727 JOSEPH BANDEIRA                         Sim       PT        Bahia                    565
+CD01O215O 004727 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD01O215O 004727 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O215O 004727 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD01O215O 004727 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD01O215O 004727 LUIZ ARGÔLO                             Sim       PP        Bahia                    207
+CD01O215O 004727 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD01O215O 004727 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD01O215O 004727 MAURÍCIO TRINDADE                       Não       PR        Bahia                    208
+CD01O215O 004727 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD01O215O 004727 PAULO MAGALHÃES                         Sim       DEM       Bahia                    214
+CD01O215O 004727 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD01O215O 004727 RUI COSTA                               Sim       PT        Bahia                    216
+CD01O215O 004727 SÉRGIO BARRADAS CARNEIRO                Sim       PT        Bahia                    524
+CD01O215O 004727 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD01O215O 004727 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD01O215O 004727 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD01O215O 004727 ARACELY DE PAULA                        Não       PR        Minas Gerais             223
+CD01O215O 004727 BERNARDO SANTANA DE VASCONCELLO         Não       PR        Minas Gerais             221
+CD01O215O 004727 BONIFÁCIO DE ANDRADA                    Não       PSDB      Minas Gerais             534
+CD01O215O 004727 CARLAILE PEDROSA                        Não       PSDB      Minas Gerais             222
+CD01O215O 004727 DIEGO ANDRADE                           Não       PR        Minas Gerais             228
+CD01O215O 004727 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD01O215O 004727 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD01O215O 004727 EDUARDO AZEREDO                         Não       PSDB      Minas Gerais             237
+CD01O215O 004727 EDUARDO BARBOSA                         Não       PSDB      Minas Gerais             230
+CD01O215O 004727 EROS BIONDINI                           Sim       PTB       Minas Gerais             242
+CD01O215O 004727 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD01O215O 004727 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD01O215O 004727 GERALDO THADEU                          Sim       PPS       Minas Gerais             236
+CD01O215O 004727 GILMAR MACHADO                          Sim       PT        Minas Gerais             234
+CD01O215O 004727 JAIRO ATAIDE                            Não       DEM       Minas Gerais             533
+CD01O215O 004727 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD01O215O 004727 JOÃO BITTAR                             Não       DEM       Minas Gerais             531
+CD01O215O 004727 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD01O215O 004727 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O215O 004727 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD01O215O 004727 LAEL VARELLA                            Sim       DEM       Minas Gerais             245
+CD01O215O 004727 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD01O215O 004727 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD01O215O 004727 LUIS TIBÉ                               Não       PTdoB     Minas Gerais             251
+CD01O215O 004727 LUIZ FERNANDO FARIA                     Sim       PP        Minas Gerais             256
+CD01O215O 004727 MÁRCIO REINALDO MOREIRA                 Sim       PP        Minas Gerais             247
+CD01O215O 004727 MARCOS MONTES                           Não       DEM       Minas Gerais             257
+CD01O215O 004727 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD01O215O 004727 MÁRIO DE OLIVEIRA                       Sim       PSC       Minas Gerais             260
+CD01O215O 004727 MAURO LOPES                             Sim       PMDB      Minas Gerais             252
+CD01O215O 004727 MIGUEL CORRÊA                           Sim       PT        Minas Gerais             261
+CD01O215O 004727 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CD01O215O 004727 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD01O215O 004727 PAULO ABI-ACKEL                         Não       PSDB      Minas Gerais             263
+CD01O215O 004727 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CD01O215O 004727 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD01O215O 004727 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD01O215O 004727 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD01O215O 004727 VITOR PENIDO                            Não       DEM       Minas Gerais             532
+CD01O215O 004727 WALTER TOSTA                            Sim       PMN       Minas Gerais             267
+CD01O215O 004727 ZÉ SILVA                                Sim       PDT       Minas Gerais             271
+CD01O215O 004727 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O215O 004727 CAMILO COLA                             Sim       PMDB      Espírito Santo           543
+CD01O215O 004727 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD01O215O 004727 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O215O 004727 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD01O215O 004727 ROSE DE FREITAS                         Sim       PMDB      Espírito Santo           282
+CD01O215O 004727 SUELI VIDIGAL                           Sim       PDT       Espírito Santo           281
+CD01O215O 004727 ADRIAN                                  Sim       PMDB      Rio de Janeiro           286
+CD01O215O 004727 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD01O215O 004727 ALEXANDRE SANTOS                        Sim       PMDB      Rio de Janeiro           285
+CD01O215O 004727 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD01O215O 004727 ANDREIA ZITO                            Não       PSDB      Rio de Janeiro           283
+CD01O215O 004727 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD01O215O 004727 AROLDE DE OLIVEIRA                      Não       DEM       Rio de Janeiro           288
+CD01O215O 004727 AUREO                                   Sim       PRTB      Rio de Janeiro           290
+CD01O215O 004727 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD01O215O 004727 CHICO ALENCAR                           Não       PSOL      Rio de Janeiro           295
+CD01O215O 004727 CHICO D`ANGELO                          Sim       PT        Rio de Janeiro           527
+CD01O215O 004727 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD01O215O 004727 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CD01O215O 004727 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD01O215O 004727 DR. PAULO CÉSAR                         Não       PR        Rio de Janeiro           296
+CD01O215O 004727 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD01O215O 004727 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD01O215O 004727 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD01O215O 004727 ELIANE ROLIM                            Sim       PT        Rio de Janeiro           538
+CD01O215O 004727 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD01O215O 004727 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD01O215O 004727 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD01O215O 004727 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD01O215O 004727 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD01O215O 004727 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD01O215O 004727 JEAN WYLLYS                             Não       PSOL      Rio de Janeiro           307
+CD01O215O 004727 LILIAM SÁ                               Não       PR        Rio de Janeiro           309
+CD01O215O 004727 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD01O215O 004727 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O215O 004727 NELSON BORNIER                          Não       PMDB      Rio de Janeiro           549
+CD01O215O 004727 OTAVIO LEITE                            Não       PSDB      Rio de Janeiro           316
+CD01O215O 004727 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CD01O215O 004727 RODRIGO MAIA                            Não       DEM       Rio de Janeiro           322
+CD01O215O 004727 ROMÁRIO                                 Sim       PSB       Rio de Janeiro           319
+CD01O215O 004727 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD01O215O 004727 SOLANGE ALMEIDA                         Sim       PMDB      Rio de Janeiro           563
+CD01O215O 004727 STEPAN NERCESSIAN                       Não       PPS       Rio de Janeiro           323
+CD01O215O 004727 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O215O 004727 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD01O215O 004727 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD01O215O 004727 ALBERTO MOURÃO                          Não       PSDB      São Paulo                552
+CD01O215O 004727 ALEXANDRE LEITE                         Não       DEM       São Paulo                334
+CD01O215O 004727 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD01O215O 004727 ANTONIO CARLOS MENDES THAME             Não       PSDB      São Paulo                332
+CD01O215O 004727 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD01O215O 004727 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD01O215O 004727 BETO MANSUR                             Sim       PP        São Paulo                340
+CD01O215O 004727 BRUNA FURLAN                            Não       PSDB      São Paulo                335
+CD01O215O 004727 CÂNDIDO VACCAREZZA                      Sim       PT        São Paulo                389
+CD01O215O 004727 CARLINHOS ALMEIDA                       Sim       PT        São Paulo                341
+CD01O215O 004727 CARLOS SAMPAIO                          Não       PSDB      São Paulo                338
+CD01O215O 004727 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD01O215O 004727 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD01O215O 004727 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD01O215O 004727 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD01O215O 004727 DRA.ELAINE ABISSAMRA                    Sim       PSB       São Paulo                576
+CD01O215O 004727 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD01O215O 004727 ELEUSES PAIVA                           Não       DEM       São Paulo                537
+CD01O215O 004727 GABRIEL CHALITA                         Sim       PMDB      São Paulo                347
+CD01O215O 004727 GUILHERME CAMPOS                        Não       DEM       São Paulo                357
+CD01O215O 004727 GUILHERME MUSSI                         Sim       PV        São Paulo                348
+CD01O215O 004727 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD01O215O 004727 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD01O215O 004727 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD01O215O 004727 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD01O215O 004727 JOÃO PAULO CUNHA                        Sim       PT        São Paulo                361
+CD01O215O 004727 JONAS DONIZETTE                         Sim       PSB       São Paulo                353
+CD01O215O 004727 JORGE TADEU MUDALEN                     Não       DEM       São Paulo                363
+CD01O215O 004727 JOSÉ DE FILIPPI                         Sim       PT        São Paulo                354
+CD01O215O 004727 JUNJI ABE                               Sim       DEM       São Paulo                355
+CD01O215O 004727 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD01O215O 004727 LUIZ FERNANDO MACHADO                   Não       PSDB      São Paulo                365
+CD01O215O 004727 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD01O215O 004727 MARA GABRILLI                           Não       PSDB      São Paulo                366
+CD01O215O 004727 MARCELO AGUIAR                          Sim       PSC       São Paulo                370
+CD01O215O 004727 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD01O215O 004727 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O215O 004727 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD01O215O 004727 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O215O 004727 PAULO MALUF                             Sim       PP        São Paulo                373
+CD01O215O 004727 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CD01O215O 004727 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD01O215O 004727 PENNA                                   Não       PV        São Paulo                382
+CD01O215O 004727 RICARDO BERZOINI                        Sim       PT        São Paulo                390
+CD01O215O 004727 RICARDO IZAR                            Sim       PV        São Paulo                383
+CD01O215O 004727 RICARDO TRIPOLI                         Não       PSDB      São Paulo                384
+CD01O215O 004727 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD01O215O 004727 ROBERTO FREIRE                          Não       PPS       São Paulo                387
+CD01O215O 004727 ROBERTO SANTIAGO                        Sim       PV        São Paulo                386
+CD01O215O 004727 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CD01O215O 004727 TIRIRICA                                Não       PR        São Paulo                392
+CD01O215O 004727 VANDERLEI MACRIS                        Não       PSDB      São Paulo                521
+CD01O215O 004727 VAZ DE LIMA                             Não       PSDB      São Paulo                394
+CD01O215O 004727 VICENTE CANDIDO                         Sim       PT        São Paulo                395
+CD01O215O 004727 VICENTINHO                              Sim       PT        São Paulo                396
+CD01O215O 004727 WALTER IHOSHI                           Não       DEM       São Paulo                553
+CD01O215O 004727 WILLIAM DIB                             Não       PSDB      São Paulo                397
+CD01O215O 004727 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD01O215O 004727 HOMERO PEREIRA                          Sim       PR        Mato Grosso              402
+CD01O215O 004727 JÚLIO CAMPOS                            Não       DEM       Mato Grosso              399
+CD01O215O 004727 NERI GELLER                             Sim       PP        Mato Grosso              520
+CD01O215O 004727 NILSON LEITÃO                           Não       PSDB      Mato Grosso              573
+CD01O215O 004727 ROBERTO DORNER                          Sim       PP        Mato Grosso              519
+CD01O215O 004727 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD01O215O 004727 WELLINGTON FAGUNDES                     Não       PR        Mato Grosso              406
+CD01O215O 004727 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD01O215O 004727 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD01O215O 004727 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O215O 004727 JAQUELINE RORIZ                         Não       PMN       Distrito Federal         409
+CD01O215O 004727 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD01O215O 004727 POLICARPO                               Sim       PT        Distrito Federal         539
+CD01O215O 004727 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD01O215O 004727 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O215O 004727 ARMANDO VERGÍLIO                        Sim       PMN       Goiás                    416
+CD01O215O 004727 CARLOS ALBERTO LERÉIA                   Não       PSDB      Goiás                    415
+CD01O215O 004727 ÍRIS DE ARAÚJO                          Abstenção PMDB      Goiás                    417
+CD01O215O 004727 JOÃO CAMPOS                             Não       PSDB      Goiás                    418
+CD01O215O 004727 JOVAIR ARANTES                          Sim       PTB       Goiás                    419
+CD01O215O 004727 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CD01O215O 004727 MARINA SANTANNA                         Sim       PT        Goiás                    564
+CD01O215O 004727 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD01O215O 004727 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD01O215O 004727 RONALDO CAIADO                          Não       DEM       Goiás                    429
+CD01O215O 004727 SANDES JÚNIOR                           Sim       PP        Goiás                    426
+CD01O215O 004727 VALDIVINO DE OLIVEIRA                   Não       PSDB      Goiás                    547
+CD01O215O 004727 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CD01O215O 004727 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD01O215O 004727 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD01O215O 004727 GIROTO                                  Abstenção PR        Mato Grosso do Sul       434
+CD01O215O 004727 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD01O215O 004727 REINALDO AZAMBUJA                       Não       PSDB      Mato Grosso do Sul       439
+CD01O215O 004727 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD01O215O 004727 ABELARDO LUPION                         Não       DEM       Paraná                   440
+CD01O215O 004727 ALEX CANZIANI                           Sim       PTB       Paraná                   445
+CD01O215O 004727 ALFREDO KAEFER                          Não       PSDB      Paraná                   451
+CD01O215O 004727 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD01O215O 004727 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD01O215O 004727 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD01O215O 004727 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD01O215O 004727 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD01O215O 004727 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD01O215O 004727 EDUARDO SCIARRA                         Não       DEM       Paraná                   461
+CD01O215O 004727 FERNANDO FRANCISCHINI                   Não       PSDB      Paraná                   450
+CD01O215O 004727 GIACOBO                                 Não       PR        Paraná                   466
+CD01O215O 004727 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD01O215O 004727 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD01O215O 004727 LUIZ CARLOS SETIM                       Não       DEM       Paraná                   535
+CD01O215O 004727 LUIZ NISHIMORI                          Não       PSDB      Paraná                   542
+CD01O215O 004727 MOACIR MICHELETTO                       Sim       PMDB      Paraná                   462
+CD01O215O 004727 NELSON MEURER                           Sim       PP        Paraná                   458
+CD01O215O 004727 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD01O215O 004727 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD01O215O 004727 RATINHO JUNIOR                          Sim       PSC       Paraná                   464
+CD01O215O 004727 REINHOLD STEPHANES                      Não       PMDB      Paraná                   467
+CD01O215O 004727 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD01O215O 004727 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD01O215O 004727 SANDRO ALEX                             Não       PPS       Paraná                   465
+CD01O215O 004727 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD01O215O 004727 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CD01O215O 004727 CARMEN ZANOTTO                          Não       PPS       Santa Catarina           561
+CD01O215O 004727 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD01O215O 004727 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CD01O215O 004727 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD01O215O 004727 ESPERIDIÃO AMIN                         Obstrução PP        Santa Catarina           471
+CD01O215O 004727 GEAN LOUREIRO                           Sim       PMDB      Santa Catarina           568
+CD01O215O 004727 JORGE BOEIRA                            Sim       PT        Santa Catarina           474
+CD01O215O 004727 JORGINHO MELLO                          Não       PSDB      Santa Catarina           476
+CD01O215O 004727 LUCI CHOINACKI                          Sim       PT        Santa Catarina           477
+CD01O215O 004727 ONOFRE SANTO AGOSTINI                   Não       DEM       Santa Catarina           479
+CD01O215O 004727 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD01O215O 004727 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD01O215O 004727 VALDIR COLATTO                          Não       PMDB      Santa Catarina           560
+CD01O215O 004727 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD01O215O 004727 ALEXANDRE ROSO                          Sim       PSB       Rio Grande do Sul        489
+CD01O215O 004727 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD01O215O 004727 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD01O215O 004727 DANRLEI DE DEUS HINTERHOLZ              Sim       PTB       Rio Grande do Sul        495
+CD01O215O 004727 DARCÍSIO PERONDI                        Não       PMDB      Rio Grande do Sul        491
+CD01O215O 004727 ELISEU PADILHA                          Sim       PMDB      Rio Grande do Sul        578
+CD01O215O 004727 ENIO BACCI                              Sim       PDT       Rio Grande do Sul        493
+CD01O215O 004727 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD01O215O 004727 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD01O215O 004727 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD01O215O 004727 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD01O215O 004727 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD01O215O 004727 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O215O 004727 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD01O215O 004727 MANUELA D`ÁVILA                         Sim       PCdoB     Rio Grande do Sul        494
+CD01O215O 004727 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O215O 004727 NELSON MARCHEZAN JUNIOR                 Não       PSDB      Rio Grande do Sul        509
+CD01O215O 004727 ONYX LORENZONI                          Não       DEM       Rio Grande do Sul        510
+CD01O215O 004727 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD01O215O 004727 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CD01O215O 004727 PEPE VARGAS                             Sim       PT        Rio Grande do Sul        503
+CD01O215O 004727 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD01O215O 004727 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD01O215O 004727 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD01O215O 004727 SÉRGIO MORAES                           Sim       PTB       Rio Grande do Sul        512
+CD01O215O 004727 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD01O215O 004727 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O215O 004727 SIBÁ MACHADO                            <-------> PT        Acre                     58 
+CD01O215O 004727 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD01O215O 004727 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O215O 004727 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD01O215O 004727 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O215O 004727 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD01O215O 004727 SILAS CÂMARA                            <-------> PSC       Amazonas                 39 
+CD01O215O 004727 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD01O215O 004727 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD01O215O 004727 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O215O 004727 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O215O 004727 EDSON PIMENTA                           <-------> PCdoB     Bahia                    193
+CD01O215O 004727 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD01O215O 004727 SÉRGIO BRITO                            <-------> PSC       Bahia                    213
+CD01O215O 004727 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O215O 004727 ARTUR BRUNO                             <-------> PT        Ceará                    94 
+CD01O215O 004727 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD01O215O 004727 MANOEL SALVIANO                         <-------> PSDB      Ceará                    104
+CD01O215O 004727 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD01O215O 004727 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD01O215O 004727 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD01O215O 004727 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD01O215O 004727 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD01O215O 004727 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O215O 004727 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O215O 004727 HEULER CRUVINEL                         <-------> DEM       Goiás                    423
+CD01O215O 004727 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD01O215O 004727 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O215O 004727 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O215O 004727 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O215O 004727 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD01O215O 004727 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O215O 004727 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O215O 004727 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD01O215O 004727 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD01O215O 004727 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O215O 004727 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O215O 004727 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O215O 004727 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD01O215O 004727 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O215O 004727 ADEMIR CAMILO                           <-------> PDT       Minas Gerais             220
+CD01O215O 004727 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD01O215O 004727 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O215O 004727 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O215O 004727 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O215O 004727 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD01O215O 004727 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O215O 004727 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O215O 004727 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD01O215O 004727 AGUINALDO RIBEIRO                       <-------> PP        Paraíba                  129
+CD01O215O 004727 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD01O215O 004727 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O215O 004727 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O215O 004727 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD01O215O 004727 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O215O 004727 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O215O 004727 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD01O215O 004727 HUGO NAPOLEÃO                           <-------> DEM       Piauí                    112
+CD01O215O 004727 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O215O 004727 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O215O 004727 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O215O 004727 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O215O 004727 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD01O215O 004727 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD01O215O 004727 FELIPE BORNIER                          <-------> PHS       Rio de Janeiro           301
+CD01O215O 004727 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD01O215O 004727 ZOINHO                                  <-------> PR        Rio de Janeiro           328
+CD01O215O 004727 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD01O215O 004727 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O215O 004727 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O215O 004727 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O215O 004727 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD01O215O 004727 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD01O215O 004727 RAUL LIMA                               <-------> PP        Roraima                  7  
+CD01O215O 004727 PAULO CESAR QUARTIERO                   <-------> DEM       Roraima                  6  
+CD01O215O 004727 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD01O215O 004727 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD01O215O 004727 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD01O215O 004727 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O215O 004727 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD01O215O 004727 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O215O 004727 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD01O215O 004727 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD01O215O 004727 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD01O215O 004727 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD01O215O 004727 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O215O 004727 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD01O215O 004727 JEFFERSON CAMPOS                        <-------> PSB       São Paulo                349
+CD01O215O 004727 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD01O215O 004727 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD01O215O 004727 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O215O 004727 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O215O 004727 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD01O215O 004727 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD01O215O 004727 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O215O 004727 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O215O 004727 ALDO REBELO                             <-------> PCdoB     São Paulo                331
+CD01O215O 004727 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O215O 004727 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O215O 004727 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 
+CD01O215O 004727 CÉSAR HALUM                             <-------> PPS       Tocantins                64 
+CD01O215O 004727 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 

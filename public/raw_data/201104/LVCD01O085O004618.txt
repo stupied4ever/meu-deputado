@@ -1,0 +1,512 @@
+CD01O085O 004618 BERINHO BANTIM                          Sim       PSDB      Roraima                  1
+CD01O085O 004618 CHICO DAS VERDURAS                      Não       PRP       Roraima                  3  
+CD01O085O 004618 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD01O085O 004618 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD01O085O 004618 TERESA SURITA                           Não       PMDB      Roraima                  8  
+CD01O085O 004618 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD01O085O 004618 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD01O085O 004618 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD01O085O 004618 PROFESSORA MARCIVANIA                   Não       PT        Amapá                    15 
+CD01O085O 004618 SEBASTIÃO BALA ROCHA                    Não       PDT       Amapá                    17 
+CD01O085O 004618 VINICIUS GURGEL                         Não       PRTB      Amapá                    16 
+CD01O085O 004618 ANDRÉ DIAS                              Sim       PSDB      Pará                     517
+CD01O085O 004618 BETO FARO                               Não       PT        Pará                     19 
+CD01O085O 004618 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD01O085O 004618 GIOVANNI QUEIROZ                        Não       PDT       Pará                     27 
+CD01O085O 004618 JOSÉ PRIANTE                            Não       PMDB      Pará                     26 
+CD01O085O 004618 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD01O085O 004618 LIRA MAIA                               Obstrução DEM       Pará                     28 
+CD01O085O 004618 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O085O 004618 LUIZ OTÁVIO                             Não       PMDB      Pará                     526
+CD01O085O 004618 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O085O 004618 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD01O085O 004618 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD01O085O 004618 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD01O085O 004618 HENRIQUE OLIVEIRA                       Não       PR        Amazonas                 36 
+CD01O085O 004618 PAUDERNEY AVELINO                       Não       DEM       Amazonas                 40 
+CD01O085O 004618 SILAS CÂMARA                            Não       PSC       Amazonas                 39 
+CD01O085O 004618 CARLOS MAGNO                            Não       PP        Rondonia                 44 
+CD01O085O 004618 LINDOMAR GARÇON                         Não       PV        Rondonia                 45 
+CD01O085O 004618 MARINHA RAUPP                           Não       PMDB      Rondonia                 50 
+CD01O085O 004618 MAURO NAZIF                             Não       PSB       Rondonia                 46 
+CD01O085O 004618 NATAN DONADON                           Não       PMDB      Rondonia                 51 
+CD01O085O 004618 NILTON CAPIXABA                         Não       PTB       Rondonia                 47 
+CD01O085O 004618 PADRE TON                               Não       PT        Rondonia                 48 
+CD01O085O 004618 ANTÔNIA LÚCIA                           Sim       PSC       Acre                     53 
+CD01O085O 004618 FLAVIANO MELO                           Não       PMDB      Acre                     54 
+CD01O085O 004618 GLADSON CAMELI                          Não       PP        Acre                     55 
+CD01O085O 004618 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD01O085O 004618 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD01O085O 004618 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD01O085O 004618 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD01O085O 004618 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD01O085O 004618 AGNOLIN                                 Não       PDT       Tocantins                61 
+CD01O085O 004618 CÉSAR HALUM                             Não       PPS       Tocantins                64 
+CD01O085O 004618 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD01O085O 004618 LAUREZ MOREIRA                          Não       PSB       Tocantins                62 
+CD01O085O 004618 LÁZARO BOTELHO                          Não       PP        Tocantins                63 
+CD01O085O 004618 PROFESSORA DORINHA SEABRA REZEN         Não       DEM       Tocantins                67 
+CD01O085O 004618 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O085O 004618 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD01O085O 004618 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD01O085O 004618 DAVI ALVES SILVA JÚNIOR                 Não       PR        Maranhão                 528
+CD01O085O 004618 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD01O085O 004618 EDIVALDO HOLANDA JUNIOR                 Não       PTC       Maranhão                 73 
+CD01O085O 004618 GASTÃO VIEIRA                           Não       PMDB      Maranhão                 75 
+CD01O085O 004618 HÉLIO SANTOS                            Sim       PSDB      Maranhão                 76 
+CD01O085O 004618 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O085O 004618 LUCIANO MOREIRA                         Não       PMDB      Maranhão                 83 
+CD01O085O 004618 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD01O085O 004618 RIBAMAR ALVES                           Não       PSB       Maranhão                 74 
+CD01O085O 004618 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD01O085O 004618 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O085O 004618 ANÍBAL GOMES                            Não       PMDB      Ceará                    87 
+CD01O085O 004618 ANTONIO BALHMANN                        Não       PSB       Ceará                    93 
+CD01O085O 004618 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD01O085O 004618 ARNON BEZERRA                           Não       PTB       Ceará                    90 
+CD01O085O 004618 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD01O085O 004618 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD01O085O 004618 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD01O085O 004618 DOMINGOS NETO                           Não       PSB       Ceará                    97 
+CD01O085O 004618 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD01O085O 004618 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD01O085O 004618 GENECIAS NORONHA                        Não       PMDB      Ceará                    99 
+CD01O085O 004618 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD01O085O 004618 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD01O085O 004618 JOSÉ LINHARES                           Não       PP        Ceará                    96 
+CD01O085O 004618 MANOEL SALVIANO                         Sim       PSDB      Ceará                    104
+CD01O085O 004618 RAIMUNDÃO                               Não       PMDB      Ceará                    108
+CD01O085O 004618 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD01O085O 004618 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD01O085O 004618 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD01O085O 004618 HUGO NAPOLEÃO                           Obstrução DEM       Piauí                    112
+CD01O085O 004618 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O085O 004618 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD01O085O 004618 JÚLIO CESAR                             Não       DEM       Piauí                    114
+CD01O085O 004618 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD01O085O 004618 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD01O085O 004618 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD01O085O 004618 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD01O085O 004618 PAES LANDIM                             Não       PTB       Piauí                    118
+CD01O085O 004618 FÁBIO FARIA                             Não       PMN       Rio Grande do Norte      119
+CD01O085O 004618 FÁTIMA BEZERRA                          Não       PT        Rio Grande do Norte      121
+CD01O085O 004618 JOÃO MAIA                               Não       PR        Rio Grande do Norte      124
+CD01O085O 004618 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD01O085O 004618 ROGÉRIO MARINHO                         Sim       PSDB      Rio Grande do Norte      540
+CD01O085O 004618 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD01O085O 004618 AGUINALDO RIBEIRO                       Não       PP        Paraíba                  129
+CD01O085O 004618 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD01O085O 004618 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD01O085O 004618 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O085O 004618 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD01O085O 004618 ROMERO RODRIGUES                        Sim       PSDB      Paraíba                  135
+CD01O085O 004618 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD01O085O 004618 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD01O085O 004618 WILSON FILHO                            Não       PMDB      Paraíba                  139
+CD01O085O 004618 ANA ARRAES                              Não       PSB       Pernambuco               140
+CD01O085O 004618 CARLOS EDUARDO CADOCA                   Não       PSC       Pernambuco               152
+CD01O085O 004618 EDUARDO DA FONTE                        Não       PP        Pernambuco               156
+CD01O085O 004618 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD01O085O 004618 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD01O085O 004618 GONZAGA PATRIOTA                        Não       PSB       Pernambuco               143
+CD01O085O 004618 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD01O085O 004618 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD01O085O 004618 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD01O085O 004618 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD01O085O 004618 JOSÉ CHAVES                             Não       PTB       Pernambuco               147
+CD01O085O 004618 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD01O085O 004618 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD01O085O 004618 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD01O085O 004618 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD01O085O 004618 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD01O085O 004618 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD01O085O 004618 SERGIO GUERRA                           Sim       PSDB      Pernambuco               159
+CD01O085O 004618 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD01O085O 004618 VILALBA                                 Não       PRB       Pernambuco               555
+CD01O085O 004618 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD01O085O 004618 CELIA ROCHA                             Não       PTB       Alagoas                  165
+CD01O085O 004618 JOÃO LYRA                               Não       PTB       Alagoas                  167
+CD01O085O 004618 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD01O085O 004618 MAURÍCIO QUINTELLA LESSA                Não       PR        Alagoas                  168
+CD01O085O 004618 RENAN FILHO                             Não       PMDB      Alagoas                  169
+CD01O085O 004618 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD01O085O 004618 ANDRE MOURA                             Não       PSC       Sergipe                  174
+CD01O085O 004618 HELENO SILVA                            Não       PRB       Sergipe                  175
+CD01O085O 004618 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD01O085O 004618 ROGERIO CARVALHO                        Não       PT        Sergipe                  178
+CD01O085O 004618 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD01O085O 004618 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD01O085O 004618 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O085O 004618 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD01O085O 004618 ANTONIO CARLOS MAGALHÃES NETO           Obstrução DEM       Bahia                    181
+CD01O085O 004618 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O085O 004618 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD01O085O 004618 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD01O085O 004618 EDSON PIMENTA                           Não       PCdoB     Bahia                    193
+CD01O085O 004618 EMILIANO JOSÉ                           Não       PT        Bahia                    523
+CD01O085O 004618 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD01O085O 004618 FERNANDO TORRES                         Não       DEM       Bahia                    196
+CD01O085O 004618 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O085O 004618 JÂNIO NATAL                             Não       PRP       Bahia                    198
+CD01O085O 004618 JOSÉ CARLOS ARAÚJO                      Não       PDT       Bahia                    197
+CD01O085O 004618 JOSÉ NUNES                              Abstenção DEM       Bahia                    201
+CD01O085O 004618 JOSÉ ROCHA                              Não       PR        Bahia                    203
+CD01O085O 004618 JOSEPH BANDEIRA                         Não       PT        Bahia                    565
+CD01O085O 004618 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD01O085O 004618 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O085O 004618 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD01O085O 004618 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD01O085O 004618 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD01O085O 004618 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD01O085O 004618 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD01O085O 004618 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD01O085O 004618 PAULO MAGALHÃES                         Não       DEM       Bahia                    214
+CD01O085O 004618 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O085O 004618 RUI COSTA                               Não       PT        Bahia                    216
+CD01O085O 004618 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O085O 004618 SÉRGIO BRITO                            Não       PSC       Bahia                    213
+CD01O085O 004618 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD01O085O 004618 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O085O 004618 ADEMIR CAMILO                           Não       PDT       Minas Gerais             220
+CD01O085O 004618 AELTON FREITAS                          Não       PR        Minas Gerais             224
+CD01O085O 004618 ANTÔNIO ANDRADE                         Não       PMDB      Minas Gerais             227
+CD01O085O 004618 ANTÔNIO ROBERTO                         Não       PV        Minas Gerais             229
+CD01O085O 004618 BERNARDO SANTANA DE VASCONCELLO         Não       PR        Minas Gerais             221
+CD01O085O 004618 BONIFÁCIO DE ANDRADA                    Abstenção PSDB      Minas Gerais             534
+CD01O085O 004618 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD01O085O 004618 DIEGO ANDRADE                           Não       PR        Minas Gerais             228
+CD01O085O 004618 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O085O 004618 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD01O085O 004618 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD01O085O 004618 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD01O085O 004618 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD01O085O 004618 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD01O085O 004618 FÁBIO RAMALHO                           Não       PV        Minas Gerais             238
+CD01O085O 004618 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD01O085O 004618 GEORGE HILTON                           Não       PRB       Minas Gerais             241
+CD01O085O 004618 GERALDO THADEU                          Não       PPS       Minas Gerais             236
+CD01O085O 004618 GILMAR MACHADO                          Não       PT        Minas Gerais             234
+CD01O085O 004618 JAIME MARTINS                           Não       PR        Minas Gerais             240
+CD01O085O 004618 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD01O085O 004618 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD01O085O 004618 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD01O085O 004618 LAEL VARELLA                            Não       DEM       Minas Gerais             245
+CD01O085O 004618 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD01O085O 004618 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD01O085O 004618 LUIS TIBÉ                               Não       PTdoB     Minas Gerais             251
+CD01O085O 004618 LUIZ FERNANDO FARIA                     Não       PP        Minas Gerais             256
+CD01O085O 004618 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD01O085O 004618 MARCOS MONTES                           Obstrução DEM       Minas Gerais             257
+CD01O085O 004618 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD01O085O 004618 MAURO LOPES                             Não       PMDB      Minas Gerais             252
+CD01O085O 004618 MIGUEL CORRÊA                           Não       PT        Minas Gerais             261
+CD01O085O 004618 NEWTON CARDOSO                          Não       PMDB      Minas Gerais             258
+CD01O085O 004618 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O085O 004618 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD01O085O 004618 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD01O085O 004618 PAULO PIAU                              Não       PMDB      Minas Gerais             266
+CD01O085O 004618 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD01O085O 004618 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD01O085O 004618 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD01O085O 004618 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD01O085O 004618 STEFANO AGUIAR                          Não       PSC       Minas Gerais             558
+CD01O085O 004618 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O085O 004618 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD01O085O 004618 ZÉ SILVA                                Não       PDT       Minas Gerais             271
+CD01O085O 004618 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O085O 004618 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD01O085O 004618 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD01O085O 004618 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD01O085O 004618 LAURIETE                                Não       PSC       Espírito Santo           279
+CD01O085O 004618 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O085O 004618 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD01O085O 004618 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD01O085O 004618 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD01O085O 004618 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CD01O085O 004618 ALFREDO SIRKIS                          Não       PV        Rio de Janeiro           321
+CD01O085O 004618 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD01O085O 004618 AROLDE DE OLIVEIRA                      Sim       DEM       Rio de Janeiro           288
+CD01O085O 004618 AUREO                                   Não       PRTB      Rio de Janeiro           290
+CD01O085O 004618 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD01O085O 004618 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O085O 004618 CHICO D`ANGELO                          Não       PT        Rio de Janeiro           527
+CD01O085O 004618 CRISTIANO                               Não       PTdoB     Rio de Janeiro           292
+CD01O085O 004618 DELEY                                   Não       PSC       Rio de Janeiro           562
+CD01O085O 004618 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD01O085O 004618 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CD01O085O 004618 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD01O085O 004618 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD01O085O 004618 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD01O085O 004618 ELIANE ROLIM                            Não       PT        Rio de Janeiro           538
+CD01O085O 004618 FELIPE BORNIER                          Não       PHS       Rio de Janeiro           301
+CD01O085O 004618 FERNANDO JORDÃO                         Não       PMDB      Rio de Janeiro           557
+CD01O085O 004618 FRANCISCO FLORIANO                      Não       PR        Rio de Janeiro           297
+CD01O085O 004618 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD01O085O 004618 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD01O085O 004618 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O085O 004618 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD01O085O 004618 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD01O085O 004618 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD01O085O 004618 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD01O085O 004618 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O085O 004618 NELSON BORNIER                          Não       PMDB      Rio de Janeiro           549
+CD01O085O 004618 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD01O085O 004618 RODRIGO MAIA                            Obstrução DEM       Rio de Janeiro           322
+CD01O085O 004618 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD01O085O 004618 SOLANGE ALMEIDA                         Não       PMDB      Rio de Janeiro           563
+CD01O085O 004618 STEPAN NERCESSIAN                       Não       PPS       Rio de Janeiro           323
+CD01O085O 004618 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O085O 004618 WALNEY ROCHA                            Não       PTB       Rio de Janeiro           325
+CD01O085O 004618 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD01O085O 004618 ABELARDO CAMARINHA                      Não       PSB       São Paulo                329
+CD01O085O 004618 ALBERTO MOURÃO                          Não       PSDB      São Paulo                552
+CD01O085O 004618 ALDO REBELO                             Não       PCdoB     São Paulo                331
+CD01O085O 004618 ALEXANDRE LEITE                         Obstrução DEM       São Paulo                334
+CD01O085O 004618 ALINE CORRÊA                            Não       PP        São Paulo                330
+CD01O085O 004618 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD01O085O 004618 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD01O085O 004618 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD01O085O 004618 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD01O085O 004618 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD01O085O 004618 BETO MANSUR                             Não       PP        São Paulo                340
+CD01O085O 004618 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CD01O085O 004618 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD01O085O 004618 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD01O085O 004618 CARLOS SAMPAIO                          Sim       PSDB      São Paulo                338
+CD01O085O 004618 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD01O085O 004618 DELEGADO PROTÓGENES                     Não       PCdoB     São Paulo                343
+CD01O085O 004618 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD01O085O 004618 DR. UBIALI                              Não       PSB       São Paulo                541
+CD01O085O 004618 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O085O 004618 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD01O085O 004618 ELEUSES PAIVA                           Obstrução DEM       São Paulo                537
+CD01O085O 004618 ELI CORREA FILHO                        Obstrução DEM       São Paulo                345
+CD01O085O 004618 GUILHERME CAMPOS                        Obstrução DEM       São Paulo                357
+CD01O085O 004618 GUILHERME MUSSI                         Não       PV        São Paulo                348
+CD01O085O 004618 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD01O085O 004618 JEFFERSON CAMPOS                        Não       PSB       São Paulo                349
+CD01O085O 004618 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O085O 004618 JOÃO DADO                               Não       PDT       São Paulo                362
+CD01O085O 004618 JOÃO PAULO CUNHA                        Não       PT        São Paulo                361
+CD01O085O 004618 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD01O085O 004618 JORGE TADEU MUDALEN                     Obstrução DEM       São Paulo                363
+CD01O085O 004618 JOSÉ DE FILIPPI                         Não       PT        São Paulo                354
+CD01O085O 004618 JUNJI ABE                               Não       DEM       São Paulo                355
+CD01O085O 004618 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O085O 004618 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD01O085O 004618 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O085O 004618 MILTON MONTI                            Não       PR        São Paulo                374
+CD01O085O 004618 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD01O085O 004618 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD01O085O 004618 NEWTON LIMA                             Não       PT        São Paulo                377
+CD01O085O 004618 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O085O 004618 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD01O085O 004618 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O085O 004618 PAULO MALUF                             Não       PP        São Paulo                373
+CD01O085O 004618 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD01O085O 004618 PENNA                                   Não       PV        São Paulo                382
+CD01O085O 004618 RICARDO IZAR                            Não       PV        São Paulo                383
+CD01O085O 004618 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD01O085O 004618 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD01O085O 004618 ROBERTO FREIRE                          Não       PPS       São Paulo                387
+CD01O085O 004618 ROBERTO SANTIAGO                        Não       PV        São Paulo                386
+CD01O085O 004618 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD01O085O 004618 TIRIRICA                                Não       PR        São Paulo                392
+CD01O085O 004618 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD01O085O 004618 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD01O085O 004618 VICENTINHO                              Não       PT        São Paulo                396
+CD01O085O 004618 WALTER IHOSHI                           Obstrução DEM       São Paulo                553
+CD01O085O 004618 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD01O085O 004618 HOMERO PEREIRA                          Não       PR        Mato Grosso              402
+CD01O085O 004618 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD01O085O 004618 NERI GELLER                             Não       PP        Mato Grosso              520
+CD01O085O 004618 ROBERTO DORNER                          Não       PP        Mato Grosso              519
+CD01O085O 004618 SÁGUAS MORAES                           Não       PT        Mato Grosso              405
+CD01O085O 004618 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD01O085O 004618 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD01O085O 004618 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD01O085O 004618 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O085O 004618 JAQUELINE RORIZ                         Não       PMN       Distrito Federal         409
+CD01O085O 004618 POLICARPO                               Não       PT        Distrito Federal         539
+CD01O085O 004618 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD01O085O 004618 RICARDO QUIRINO                         Não       PRB       Distrito Federal         551
+CD01O085O 004618 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O085O 004618 CARLOS ALBERTO LERÉIA                   Sim       PSDB      Goiás                    415
+CD01O085O 004618 DELEGADO WALDIR                         Sim       PSDB      Goiás                    559
+CD01O085O 004618 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD01O085O 004618 HEULER CRUVINEL                         Não       DEM       Goiás                    423
+CD01O085O 004618 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O085O 004618 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD01O085O 004618 JORGE PINHEIRO                          Não       PRB       Goiás                    548
+CD01O085O 004618 JOVAIR ARANTES                          Não       PTB       Goiás                    419
+CD01O085O 004618 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD01O085O 004618 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD01O085O 004618 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD01O085O 004618 RUBENS OTONI                            Não       PT        Goiás                    425
+CD01O085O 004618 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD01O085O 004618 ANTÔNIO CARLOS BIFFI                    Não       PT        Mato Grosso do Sul       432
+CD01O085O 004618 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD01O085O 004618 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD01O085O 004618 GIROTO                                  Não       PR        Mato Grosso do Sul       434
+CD01O085O 004618 MANDETTA                                Obstrução DEM       Mato Grosso do Sul       436
+CD01O085O 004618 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O085O 004618 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD01O085O 004618 ABELARDO LUPION                         Obstrução DEM       Paraná                   440
+CD01O085O 004618 ALEX CANZIANI                           Não       PTB       Paraná                   445
+CD01O085O 004618 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD01O085O 004618 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD01O085O 004618 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD01O085O 004618 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD01O085O 004618 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD01O085O 004618 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O085O 004618 DR. ROSINHA                             Não       PT        Paraná                   449
+CD01O085O 004618 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD01O085O 004618 FERNANDO FRANCISCHINI                   Sim       PSDB      Paraná                   450
+CD01O085O 004618 GIACOBO                                 Não       PR        Paraná                   466
+CD01O085O 004618 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O085O 004618 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O085O 004618 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD01O085O 004618 MOACIR MICHELETTO                       Não       PMDB      Paraná                   462
+CD01O085O 004618 NELSON MEURER                           Não       PP        Paraná                   458
+CD01O085O 004618 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD01O085O 004618 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD01O085O 004618 RATINHO JUNIOR                          Não       PSC       Paraná                   464
+CD01O085O 004618 REINHOLD STEPHANES                      Não       PMDB      Paraná                   467
+CD01O085O 004618 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD01O085O 004618 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD01O085O 004618 SANDRO ALEX                             Não       PPS       Paraná                   465
+CD01O085O 004618 TAKAYAMA                                Não       PSC       Paraná                   469
+CD01O085O 004618 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD01O085O 004618 CARMEN ZANOTTO                          Não       PPS       Santa Catarina           561
+CD01O085O 004618 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD01O085O 004618 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD01O085O 004618 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O085O 004618 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD01O085O 004618 ONOFRE SANTO AGOSTINI                   Obstrução DEM       Santa Catarina           479
+CD01O085O 004618 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD01O085O 004618 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD01O085O 004618 VALDIR COLATTO                          Não       PMDB      Santa Catarina           560
+CD01O085O 004618 ZONTA                                   Não       PP        Santa Catarina           485
+CD01O085O 004618 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD01O085O 004618 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD01O085O 004618 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD01O085O 004618 DANRLEI DE DEUS HINTERHOLZ              Não       PTB       Rio Grande do Sul        495
+CD01O085O 004618 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD01O085O 004618 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD01O085O 004618 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD01O085O 004618 JOSE STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD01O085O 004618 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O085O 004618 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD01O085O 004618 MANUELA D`ÁVILA                         Não       PCdoB     Rio Grande do Sul        494
+CD01O085O 004618 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O085O 004618 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD01O085O 004618 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD01O085O 004618 ONYX LORENZONI                          Obstrução DEM       Rio Grande do Sul        510
+CD01O085O 004618 OSMAR TERRA                             Não       PMDB      Rio Grande do Sul        497
+CD01O085O 004618 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD01O085O 004618 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD01O085O 004618 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O085O 004618 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD01O085O 004618 SÉRGIO MORAES                           Não       PTB       Rio Grande do Sul        512
+CD01O085O 004618 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD01O085O 004618 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD01O085O 004618 ARTHUR LIRA                             <-------> PP        Alagoas                  162
+CD01O085O 004618 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O085O 004618 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O085O 004618 CARLOS SOUZA                            <-------> PP        Amazonas                 37 
+CD01O085O 004618 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O085O 004618 ÁTILA LINS                              <-------> PMDB      Amazonas                 38 
+CD01O085O 004618 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD01O085O 004618 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD01O085O 004618 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O085O 004618 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD01O085O 004618 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O085O 004618 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD01O085O 004618 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD01O085O 004618 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD01O085O 004618 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O085O 004618 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD01O085O 004618 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O085O 004618 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD01O085O 004618 JOSÉ GUIMARÃES                          <-------> PT        Ceará                    103
+CD01O085O 004618 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD01O085O 004618 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD01O085O 004618 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O085O 004618 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O085O 004618 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD01O085O 004618 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD01O085O 004618 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O085O 004618 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O085O 004618 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O085O 004618 PROFESSOR SETIMO                        <-------> PMDB      Maranhão                 81 
+CD01O085O 004618 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O085O 004618 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O085O 004618 JOSÉ HUMBERTO                           <-------> PHS       Minas Gerais             249
+CD01O085O 004618 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD01O085O 004618 WALTER TOSTA                            <-------> PMN       Minas Gerais             267
+CD01O085O 004618 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O085O 004618 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD01O085O 004618 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD01O085O 004618 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O085O 004618 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O085O 004618 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD01O085O 004618 DUDIMAR PAXIÚBA                         <-------> PSDB      Pará                     518
+CD01O085O 004618 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O085O 004618 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD01O085O 004618 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O085O 004618 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O085O 004618 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD01O085O 004618 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O085O 004618 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD01O085O 004618 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD01O085O 004618 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD01O085O 004618 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O085O 004618 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD01O085O 004618 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O085O 004618 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O085O 004618 EDUARDO SCIARRA                         <-------> DEM       Paraná                   461
+CD01O085O 004618 LUIZ CARLOS SETIM                       <-------> DEM       Paraná                   535
+CD01O085O 004618 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD01O085O 004618 DR. CARLOS ALBERTO                      <-------> PMN       Rio de Janeiro           529
+CD01O085O 004618 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O085O 004618 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD01O085O 004618 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD01O085O 004618 LILIAM SÁ                               <-------> PR        Rio de Janeiro           309
+CD01O085O 004618 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O085O 004618 ANTHONY GAROTINHO                       <-------> PR        Rio de Janeiro           289
+CD01O085O 004618 DR. PAULO CÉSAR                         <-------> PR        Rio de Janeiro           296
+CD01O085O 004618 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O085O 004618 FELIPE MAIA                             <-------> DEM       Rio Grande do Norte      120
+CD01O085O 004618 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O085O 004618 RAUL LIMA                               <-------> PP        Roraima                  7  
+CD01O085O 004618 PAULO CESAR QUARTIERO                   <-------> DEM       Roraima                  6  
+CD01O085O 004618 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD01O085O 004618 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD01O085O 004618 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O085O 004618 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O085O 004618 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD01O085O 004618 ASSIS MELO                              <-------> PCdoB     Rio Grande do Sul        492
+CD01O085O 004618 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O085O 004618 PEPE VARGAS                             <-------> PT        Rio Grande do Sul        503
+CD01O085O 004618 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD01O085O 004618 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD01O085O 004618 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD01O085O 004618 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD01O085O 004618 JORGE BOEIRA                            <-------> PT        Santa Catarina           474
+CD01O085O 004618 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O085O 004618 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O085O 004618 ALMEIDA LIMA                            <-------> PMDB      Sergipe                  173
+CD01O085O 004618 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD01O085O 004618 RODRIGO GARCIA                          <-------> DEM       São Paulo                388
+CD01O085O 004618 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD01O085O 004618 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O085O 004618 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O085O 004618 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD01O085O 004618 GABRIEL CHALITA                         <-------> PSB       São Paulo                347
+CD01O085O 004618 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD01O085O 004618 JANETE ROCHA PIETÁ                      <-------> PT        São Paulo                358
+CD01O085O 004618 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD01O085O 004618 MARCELO AGUIAR                          <-------> PSC       São Paulo                370
+CD01O085O 004618 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O085O 004618 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 
+CD01O085O 004618 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 

@@ -1,0 +1,513 @@
+CD02O236E 005083 BERINHO BANTIM                          Não       PSDB      Roraima                  1
+CD02O236E 005083 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD02O236E 005083 FRANCISCO ARAÚJO                        Sim       PSD       Roraima                  570
+CD02O236E 005083 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CD02O236E 005083 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD02O236E 005083 PAULO CESAR QUARTIERO                   Obstrução DEM       Roraima                  6  
+CD02O236E 005083 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD02O236E 005083 LUIZ CARLOS                             Não       PSDB      Amapá                    14 
+CD02O236E 005083 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD02O236E 005083 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD02O236E 005083 BETO FARO                               Sim       PT        Pará                     19 
+CD02O236E 005083 DUDIMAR PAXIÚBA                         Não       PSDB      Pará                     518
+CD02O236E 005083 GIOVANNI QUEIROZ                        Não       PDT       Pará                     27 
+CD02O236E 005083 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD02O236E 005083 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD02O236E 005083 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD02O236E 005083 VALRY MORAIS                            Sim       PRP       Pará                     598
+CD02O236E 005083 WANDENKOLK GONÇALVES                    Não       PSDB      Pará                     32 
+CD02O236E 005083 WLADIMIR COSTA                          Sim       PMDB      Pará                     23 
+CD02O236E 005083 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CD02O236E 005083 ÁTILA LINS                              Sim       PSD       Amazonas                 38 
+CD02O236E 005083 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD02O236E 005083 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD02O236E 005083 PAUDERNEY AVELINO                       Não       DEM       Amazonas                 40 
+CD02O236E 005083 REBECCA GARCIA                          Sim       PP        Amazonas                 42 
+CD02O236E 005083 SABINO CASTELO BRANCO                   Sim       PTB       Amazonas                 43 
+CD02O236E 005083 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD02O236E 005083 MARCOS ROGÉRIO                          Não       PDT       Rondonia                 583
+CD02O236E 005083 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD02O236E 005083 MOREIRA MENDES                          Não       PSD       Rondonia                 49 
+CD02O236E 005083 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD02O236E 005083 PADRE TON                               Sim       PT        Rondonia                 48 
+CD02O236E 005083 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD02O236E 005083 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD02O236E 005083 MARCIO BITTAR                           Não       PSDB      Acre                     57 
+CD02O236E 005083 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD02O236E 005083 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD02O236E 005083 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD02O236E 005083 CÉSAR HALUM                             Sim       PSD       Tocantins                64 
+CD02O236E 005083 IRAJÁ ABREU                             Não       PSD       Tocantins                65 
+CD02O236E 005083 CARLOS BRANDÃO                          Não       PSDB      Maranhão                 68 
+CD02O236E 005083 COSTA FERREIRA                          Não       PSC       Maranhão                 571
+CD02O236E 005083 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD02O236E 005083 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD02O236E 005083 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CD02O236E 005083 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD02O236E 005083 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD02O236E 005083 RICARDO ARCHER                          Sim       PMDB      Maranhão                 593
+CD02O236E 005083 SARNEY FILHO                            Sim       PV        Maranhão                 85 
+CD02O236E 005083 WEVERTON ROCHA                          Não       PDT       Maranhão                 579
+CD02O236E 005083 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD02O236E 005083 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD02O236E 005083 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD02O236E 005083 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD02O236E 005083 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CD02O236E 005083 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD02O236E 005083 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD02O236E 005083 JOSÉ AIRTON                             Sim       PT        Ceará                    101
+CD02O236E 005083 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD02O236E 005083 RAIMUNDO GOMES DE MATOS                 Não       PSDB      Ceará                    102
+CD02O236E 005083 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD02O236E 005083 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD02O236E 005083 HUGO NAPOLEÃO                           Não       PSD       Piauí                    112
+CD02O236E 005083 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD02O236E 005083 JÚLIO CESAR                             Obstrução PSD       Piauí                    114
+CD02O236E 005083 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD02O236E 005083 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD02O236E 005083 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD02O236E 005083 PAES LANDIM                             Sim       PTB       Piauí                    118
+CD02O236E 005083 FÁBIO FARIA                             Sim       PSD       Rio Grande do Norte      119
+CD02O236E 005083 FELIPE MAIA                             Obstrução DEM       Rio Grande do Norte      120
+CD02O236E 005083 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD02O236E 005083 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD02O236E 005083 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CD02O236E 005083 ARMANDO ABÍLIO                          Sim       PTB       Paraíba                  589
+CD02O236E 005083 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD02O236E 005083 EFRAIM FILHO                            Não       DEM       Paraíba                  128
+CD02O236E 005083 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD02O236E 005083 LEONARDO GADELHA                        Não       PSC       Paraíba                  586
+CD02O236E 005083 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD02O236E 005083 MAJOR FÁBIO                             Obstrução DEM       Paraíba                  599
+CD02O236E 005083 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD02O236E 005083 NILDA GONDIM                            Sim       PMDB      Paraíba                  134
+CD02O236E 005083 RUY CARNEIRO                            Não       PSDB      Paraíba                  137
+CD02O236E 005083 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD02O236E 005083 AUGUSTO COUTINHO                        Obstrução DEM       Pernambuco               144
+CD02O236E 005083 BRUNO ARAÚJO                            Não       PSDB      Pernambuco               146
+CD02O236E 005083 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD02O236E 005083 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD02O236E 005083 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD02O236E 005083 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD02O236E 005083 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD02O236E 005083 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD02O236E 005083 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CD02O236E 005083 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD02O236E 005083 VILALBA                                 Sim       PRB       Pernambuco               555
+CD02O236E 005083 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD02O236E 005083 JOÃO CALDAS                             Sim       PEN       Alagoas                  597
+CD02O236E 005083 JOAQUIM BELTRÃO                         Sim       PMDB      Alagoas                  172
+CD02O236E 005083 MAURÍCIO QUINTELLA LESSA                Sim       PR        Alagoas                  168
+CD02O236E 005083 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD02O236E 005083 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD02O236E 005083 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD02O236E 005083 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD02O236E 005083 MENDONÇA PRADO                          Obstrução DEM       Sergipe                  179
+CD02O236E 005083 ROGÉRIO CARVALHO                        Sim       PT        Sergipe                  178
+CD02O236E 005083 AFONSO FLORENCE                         Sim       PT        Bahia                    182
+CD02O236E 005083 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD02O236E 005083 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD02O236E 005083 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD02O236E 005083 ANTONIO IMBASSAHY                       Não       PSDB      Bahia                    191
+CD02O236E 005083 ARTHUR OLIVEIRA MAIA                    Sim       PMDB      Bahia                    192
+CD02O236E 005083 CLAUDIO CAJADO                          Não       DEM       Bahia                    186
+CD02O236E 005083 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD02O236E 005083 EDSON PIMENTA                           Sim       PSD       Bahia                    193
+CD02O236E 005083 EMILIANO JOSÉ                           Sim       PT        Bahia                    523
+CD02O236E 005083 FÁBIO SOUTO                             Não       DEM       Bahia                    190
+CD02O236E 005083 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD02O236E 005083 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD02O236E 005083 JOÃO CARLOS BACELAR                     Sim       PR        Bahia                    187
+CD02O236E 005083 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CD02O236E 005083 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD02O236E 005083 JUTAHY JUNIOR                           Não       PSDB      Bahia                    206
+CD02O236E 005083 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD02O236E 005083 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD02O236E 005083 LUIZ ARGÔLO                             Sim       PP        Bahia                    207
+CD02O236E 005083 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD02O236E 005083 MÁRIO NEGROMONTE                        Sim       PP        Bahia                    210
+CD02O236E 005083 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD02O236E 005083 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CD02O236E 005083 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD02O236E 005083 SÉRGIO BRITO                            Sim       PSD       Bahia                    213
+CD02O236E 005083 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD02O236E 005083 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD02O236E 005083 ADEMIR CAMILO                           Sim       PSD       Minas Gerais             220
+CD02O236E 005083 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD02O236E 005083 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD02O236E 005083 BERNARDO SANTANA DE VASCONCELLO         Não       PR        Minas Gerais             221
+CD02O236E 005083 DIEGO ANDRADE                           Sim       PSD       Minas Gerais             228
+CD02O236E 005083 DOMINGOS SÁVIO                          Não       PSDB      Minas Gerais             233
+CD02O236E 005083 EDUARDO AZEREDO                         Não       PSDB      Minas Gerais             237
+CD02O236E 005083 EDUARDO BARBOSA                         Não       PSDB      Minas Gerais             230
+CD02O236E 005083 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD02O236E 005083 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD02O236E 005083 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD02O236E 005083 GERALDO THADEU                          Não       PSD       Minas Gerais             236
+CD02O236E 005083 GILMAR MACHADO                          Sim       PT        Minas Gerais             234
+CD02O236E 005083 JAIME MARTINS                           Sim       PR        Minas Gerais             240
+CD02O236E 005083 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD02O236E 005083 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD02O236E 005083 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD02O236E 005083 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD02O236E 005083 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CD02O236E 005083 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD02O236E 005083 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD02O236E 005083 LUIS TIBÉ                               Sim       PTdoB     Minas Gerais             251
+CD02O236E 005083 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD02O236E 005083 MARCUS PESTANA                          Não       PSDB      Minas Gerais             254
+CD02O236E 005083 NEWTON CARDOSO                          Abstenção PMDB      Minas Gerais             258
+CD02O236E 005083 PAULO ABI-ACKEL                         Não       PSDB      Minas Gerais             263
+CD02O236E 005083 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CD02O236E 005083 RODRIGO DE CASTRO                       Não       PSDB      Minas Gerais             268
+CD02O236E 005083 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD02O236E 005083 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD02O236E 005083 ZÉ SILVA                                Não       PDT       Minas Gerais             271
+CD02O236E 005083 CAMILO COLA                             Sim       PMDB      Espírito Santo           543
+CD02O236E 005083 CESAR COLNAGO                           Não       PSDB      Espírito Santo           276
+CD02O236E 005083 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD02O236E 005083 LAURIETE                                Não       PSC       Espírito Santo           279
+CD02O236E 005083 MANATO                                  Não       PDT       Espírito Santo           275
+CD02O236E 005083 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD02O236E 005083 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD02O236E 005083 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD02O236E 005083 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD02O236E 005083 ANDREIA ZITO                            Não       PSDB      Rio de Janeiro           283
+CD02O236E 005083 AROLDE DE OLIVEIRA                      Não       PSD       Rio de Janeiro           288
+CD02O236E 005083 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD02O236E 005083 CHICO ALENCAR                           Não       PSOL      Rio de Janeiro           295
+CD02O236E 005083 CHICO D`ANGELO                          Sim       PT        Rio de Janeiro           527
+CD02O236E 005083 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD02O236E 005083 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD02O236E 005083 DR. DILSON DRUMOND                      Não       PDT       Rio de Janeiro           602
+CD02O236E 005083 DR. PAULO CÉSAR                         Sim       PSD       Rio de Janeiro           296
+CD02O236E 005083 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD02O236E 005083 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD02O236E 005083 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD02O236E 005083 FELIPE BORNIER                          Sim       PSD       Rio de Janeiro           301
+CD02O236E 005083 FILIPE PEREIRA                          Não       PSC       Rio de Janeiro           303
+CD02O236E 005083 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD02O236E 005083 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD02O236E 005083 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD02O236E 005083 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD02O236E 005083 LEONARDO PICCIANI                       Sim       PMDB      Rio de Janeiro           312
+CD02O236E 005083 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD02O236E 005083 NEILTON MULIM                           Sim       PR        Rio de Janeiro           315
+CD02O236E 005083 OTAVIO LEITE                            Não       PSDB      Rio de Janeiro           316
+CD02O236E 005083 PAULO FEIJÓ                             Sim       PR        Rio de Janeiro           577
+CD02O236E 005083 PEDRO PAULO                             Sim       PMDB      Rio de Janeiro           314
+CD02O236E 005083 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD02O236E 005083 STEPAN NERCESSIAN                       Não       PPS       Rio de Janeiro           323
+CD02O236E 005083 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD02O236E 005083 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD02O236E 005083 ALBERTO MOURÃO                          Não       PSDB      São Paulo                552
+CD02O236E 005083 ALEXANDRE LEITE                         Obstrução DEM       São Paulo                334
+CD02O236E 005083 ALINE CORRÊA                            Sim       PP        São Paulo                330
+CD02O236E 005083 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD02O236E 005083 ANTONIO CARLOS MENDES THAME             Não       PSDB      São Paulo                332
+CD02O236E 005083 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD02O236E 005083 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD02O236E 005083 ARNALDO JARDIM                          Não       PPS       São Paulo                339
+CD02O236E 005083 BRUNA FURLAN                            Não       PSDB      São Paulo                335
+CD02O236E 005083 CÂNDIDO VACCAREZZA                      Sim       PT        São Paulo                389
+CD02O236E 005083 CARLOS SAMPAIO                          Não       PSDB      São Paulo                338
+CD02O236E 005083 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD02O236E 005083 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD02O236E 005083 DUARTE NOGUEIRA                         Não       PSDB      São Paulo                350
+CD02O236E 005083 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD02O236E 005083 EDSON APARECIDO                         Não       PSDB      São Paulo                351
+CD02O236E 005083 ELEUSES PAIVA                           Não       PSD       São Paulo                537
+CD02O236E 005083 EMANUEL FERNANDES                       Não       PSDB      São Paulo                352
+CD02O236E 005083 GUILHERME CAMPOS                        Não       PSD       São Paulo                357
+CD02O236E 005083 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD02O236E 005083 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD02O236E 005083 JEFFERSON CAMPOS                        Sim       PSD       São Paulo                349
+CD02O236E 005083 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD02O236E 005083 JOÃO DADO                               Não       PDT       São Paulo                362
+CD02O236E 005083 JOSÉ DE FILIPPI                         Sim       PT        São Paulo                354
+CD02O236E 005083 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD02O236E 005083 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD02O236E 005083 MÁRCIO FRANÇA                           Sim       PSB       São Paulo                368
+CD02O236E 005083 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD02O236E 005083 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD02O236E 005083 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD02O236E 005083 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD02O236E 005083 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD02O236E 005083 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD02O236E 005083 PENNA                                   Não       PV        São Paulo                382
+CD02O236E 005083 RICARDO BERZOINI                        Sim       PT        São Paulo                390
+CD02O236E 005083 RICARDO IZAR                            Não       PSD       São Paulo                383
+CD02O236E 005083 RICARDO TRIPOLI                         Não       PSDB      São Paulo                384
+CD02O236E 005083 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD02O236E 005083 ROBERTO FREIRE                          Não       PPS       São Paulo                387
+CD02O236E 005083 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CD02O236E 005083 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD02O236E 005083 TIRIRICA                                Sim       PR        São Paulo                392
+CD02O236E 005083 VANDERLEI MACRIS                        Não       PSDB      São Paulo                521
+CD02O236E 005083 VANDERLEI SIRAQUE                       Sim       PT        São Paulo                581
+CD02O236E 005083 VAZ DE LIMA                             Não       PSDB      São Paulo                394
+CD02O236E 005083 VICENTE CANDIDO                         Sim       PT        São Paulo                395
+CD02O236E 005083 WALTER FELDMAN                          Não       PSDB      São Paulo                550
+CD02O236E 005083 WILLIAM DIB                             Não       PSDB      São Paulo                397
+CD02O236E 005083 ELIENE LIMA                             Sim       PSD       Mato Grosso              401
+CD02O236E 005083 HOMERO PEREIRA                          Sim       PSD       Mato Grosso              402
+CD02O236E 005083 NILSON LEITÃO                           Sim       PSDB      Mato Grosso              573
+CD02O236E 005083 PEDRO HENRY                             Sim       PP        Mato Grosso              403
+CD02O236E 005083 PROFESSOR VICTORIO GALLI                Sim       PMDB      Mato Grosso              601
+CD02O236E 005083 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD02O236E 005083 IZALCI                                  Não       PR        Distrito Federal         408
+CD02O236E 005083 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD02O236E 005083 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD02O236E 005083 PAULO TADEU                             Sim       PT        Distrito Federal         412
+CD02O236E 005083 POLICARPO                               Sim       PT        Distrito Federal         539
+CD02O236E 005083 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD02O236E 005083 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD02O236E 005083 ARMANDO VERGÍLIO                        Não       PSD       Goiás                    416
+CD02O236E 005083 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD02O236E 005083 HEULER CRUVINEL                         Não       PSD       Goiás                    423
+CD02O236E 005083 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD02O236E 005083 JOÃO CAMPOS                             Não       PSDB      Goiás                    418
+CD02O236E 005083 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CD02O236E 005083 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD02O236E 005083 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD02O236E 005083 RONALDO CAIADO                          Não       DEM       Goiás                    429
+CD02O236E 005083 SANDRO MABEL                            Sim       PMDB      Goiás                    431
+CD02O236E 005083 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CD02O236E 005083 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD02O236E 005083 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD02O236E 005083 GIROTO                                  Sim       PMDB      Mato Grosso do Sul       434
+CD02O236E 005083 MANDETTA                                Não       DEM       Mato Grosso do Sul       436
+CD02O236E 005083 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD02O236E 005083 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD02O236E 005083 ABELARDO LUPION                         Não       DEM       Paraná                   440
+CD02O236E 005083 ALEX CANZIANI                           Sim       PTB       Paraná                   445
+CD02O236E 005083 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD02O236E 005083 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD02O236E 005083 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD02O236E 005083 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD02O236E 005083 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD02O236E 005083 EDUARDO SCIARRA                         Não       PSD       Paraná                   461
+CD02O236E 005083 FERNANDO FRANCISCHINI                   Não       PEN       Paraná                   450
+CD02O236E 005083 GIACOBO                                 Sim       PR        Paraná                   466
+CD02O236E 005083 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD02O236E 005083 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD02O236E 005083 LUIZ NISHIMORI                          Não       PSDB      Paraná                   542
+CD02O236E 005083 NELSON MEURER                           Sim       PP        Paraná                   458
+CD02O236E 005083 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD02O236E 005083 ODÍLIO BALBINOTTI                       Sim       PMDB      Paraná                   588
+CD02O236E 005083 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD02O236E 005083 PROFESSOR SÉRGIO DE OLIVEIRA            Não       PSC       Paraná                   603
+CD02O236E 005083 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD02O236E 005083 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD02O236E 005083 SANDRO ALEX                             Não       PPS       Paraná                   465
+CD02O236E 005083 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CD02O236E 005083 CARMEN ZANOTTO                          Não       PPS       Santa Catarina           561
+CD02O236E 005083 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD02O236E 005083 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CD02O236E 005083 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD02O236E 005083 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD02O236E 005083 JORGE BOEIRA                            Sim       PSD       Santa Catarina           474
+CD02O236E 005083 JORGINHO MELLO                          Sim       PSDB      Santa Catarina           476
+CD02O236E 005083 MARCO TEBALDI                           Não       PSDB      Santa Catarina           478
+CD02O236E 005083 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CD02O236E 005083 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD02O236E 005083 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CD02O236E 005083 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD02O236E 005083 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD02O236E 005083 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD02O236E 005083 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD02O236E 005083 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD02O236E 005083 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD02O236E 005083 DANRLEI DE DEUS HINTERHOLZ              Não       PSD       Rio Grande do Sul        495
+CD02O236E 005083 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD02O236E 005083 ENIO BACCI                              Sim       PDT       Rio Grande do Sul        493
+CD02O236E 005083 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD02O236E 005083 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD02O236E 005083 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD02O236E 005083 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD02O236E 005083 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD02O236E 005083 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD02O236E 005083 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD02O236E 005083 NELSON MARCHEZAN JUNIOR                 Não       PSDB      Rio Grande do Sul        509
+CD02O236E 005083 PAULO FERREIRA                          Sim       PT        Rio Grande do Sul        591
+CD02O236E 005083 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CD02O236E 005083 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD02O236E 005083 VICENTE SELISTRE                        Sim       PSB       Rio Grande do Sul        600
+CD02O236E 005083 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD02O236E 005083 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD02O236E 005083 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD02O236E 005083 TAUMATURGO LIMA                         <-------> PT        Acre                     59 
+CD02O236E 005083 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD02O236E 005083 CELIA ROCHA                             <-------> PTB       Alagoas                  165
+CD02O236E 005083 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD02O236E 005083 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD02O236E 005083 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD02O236E 005083 CARLOS SOUZA                            <-------> PSD       Amazonas                 37 
+CD02O236E 005083 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD02O236E 005083 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD02O236E 005083 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD02O236E 005083 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD02O236E 005083 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD02O236E 005083 ANTONIO CARLOS MAGALHÃES NETO           <-------> DEM       Bahia                    181
+CD02O236E 005083 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD02O236E 005083 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD02O236E 005083 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD02O236E 005083 SÉRGIO BARRADAS CARNEIRO                <-------> PT        Bahia                    524
+CD02O236E 005083 JOÃO LEÃO                               <-------> PP        Bahia                    199
+CD02O236E 005083 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD02O236E 005083 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD02O236E 005083 ZEZÉU RIBEIRO                           <-------> PT        Bahia                    217
+CD02O236E 005083 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD02O236E 005083 JOSÉ NUNES                              <-------> PSD       Bahia                    201
+CD02O236E 005083 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD02O236E 005083 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD02O236E 005083 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD02O236E 005083 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD02O236E 005083 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD02O236E 005083 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD02O236E 005083 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD02O236E 005083 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD02O236E 005083 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD02O236E 005083 RAIMUNDÃO                               <-------> PMDB      Ceará                    108
+CD02O236E 005083 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD02O236E 005083 ERIKA KOKAY                             <-------> PT        Distrito Federal         407
+CD02O236E 005083 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD02O236E 005083 IRINY LOPES                             <-------> PT        Espírito Santo           273
+CD02O236E 005083 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD02O236E 005083 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD02O236E 005083 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD02O236E 005083 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD02O236E 005083 LEONARDO VILELA                         <-------> PSDB      Goiás                    421
+CD02O236E 005083 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD02O236E 005083 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD02O236E 005083 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD02O236E 005083 PAULO MARINHO JÚNIOR                    <-------> PMDB      Maranhão                 594
+CD02O236E 005083 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD02O236E 005083 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD02O236E 005083 WALDIR MARANHÃO                         <-------> PP        Maranhão                 84 
+CD02O236E 005083 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD02O236E 005083 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD02O236E 005083 PEDRO NOVAIS                            <-------> PMDB      Maranhão                 82 
+CD02O236E 005083 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD02O236E 005083 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD02O236E 005083 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD02O236E 005083 TONINHO PINHEIRO                        <-------> PP        Minas Gerais             264
+CD02O236E 005083 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD02O236E 005083 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD02O236E 005083 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CD02O236E 005083 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD02O236E 005083 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD02O236E 005083 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD02O236E 005083 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD02O236E 005083 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD02O236E 005083 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD02O236E 005083 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD02O236E 005083 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD02O236E 005083 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD02O236E 005083 MÁRCIO REINALDO MOREIRA                 <-------> PP        Minas Gerais             247
+CD02O236E 005083 EROS BIONDINI                           <-------> PTB       Minas Gerais             242
+CD02O236E 005083 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD02O236E 005083 DIMAS FABIANO                           <-------> PP        Minas Gerais             231
+CD02O236E 005083 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD02O236E 005083 CARLAILE PEDROSA                        <-------> PSDB      Minas Gerais             222
+CD02O236E 005083 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD02O236E 005083 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD02O236E 005083 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD02O236E 005083 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD02O236E 005083 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD02O236E 005083 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD02O236E 005083 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD02O236E 005083 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD02O236E 005083 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD02O236E 005083 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD02O236E 005083 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD02O236E 005083 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD02O236E 005083 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD02O236E 005083 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD02O236E 005083 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD02O236E 005083 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD02O236E 005083 RAUL HENRY                              <-------> PMDB      Pernambuco               163
+CD02O236E 005083 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD02O236E 005083 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD02O236E 005083 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD02O236E 005083 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD02O236E 005083 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD02O236E 005083 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD02O236E 005083 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD02O236E 005083 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD02O236E 005083 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD02O236E 005083 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD02O236E 005083 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD02O236E 005083 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD02O236E 005083 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD02O236E 005083 TAKAYAMA                                <-------> PSC       Paraná                   469
+CD02O236E 005083 REINHOLD STEPHANES                      <-------> PSD       Paraná                   467
+CD02O236E 005083 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD02O236E 005083 LUIZ CARLOS SETIM                       <-------> DEM       Paraná                   535
+CD02O236E 005083 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD02O236E 005083 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD02O236E 005083 LILIAM SÁ                               <-------> PSD       Rio de Janeiro           309
+CD02O236E 005083 ALEXANDRE CARDOSO                       <-------> PSB       Rio de Janeiro           284
+CD02O236E 005083 LUIZ SÉRGIO                             <-------> PT        Rio de Janeiro           313
+CD02O236E 005083 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD02O236E 005083 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD02O236E 005083 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD02O236E 005083 ANTHONY GAROTINHO                       <-------> PR        Rio de Janeiro           289
+CD02O236E 005083 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD02O236E 005083 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD02O236E 005083 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD02O236E 005083 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD02O236E 005083 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD02O236E 005083 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD02O236E 005083 RODRIGO BETHLEM                         <-------> PMDB      Rio de Janeiro           318
+CD02O236E 005083 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD02O236E 005083 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD02O236E 005083 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD02O236E 005083 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD02O236E 005083 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD02O236E 005083 MAURO NAZIF                             <-------> PSB       Rondonia                 46 
+CD02O236E 005083 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD02O236E 005083 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD02O236E 005083 JOSÉ STÉDILE                            <-------> PSB       Rio Grande do Sul        506
+CD02O236E 005083 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD02O236E 005083 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD02O236E 005083 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD02O236E 005083 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD02O236E 005083 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD02O236E 005083 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD02O236E 005083 RONALDO ZULKE                           <-------> PT        Rio Grande do Sul        515
+CD02O236E 005083 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD02O236E 005083 ELISEU PADILHA                          <-------> PMDB      Rio Grande do Sul        578
+CD02O236E 005083 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD02O236E 005083 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD02O236E 005083 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD02O236E 005083 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD02O236E 005083 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD02O236E 005083 HELENO SILVA                            <-------> PRB       Sergipe                  175
+CD02O236E 005083 ALMEIDA LIMA                            <-------> PPS       Sergipe                  173
+CD02O236E 005083 MILTON MONTI                            <-------> PR        São Paulo                374
+CD02O236E 005083 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD02O236E 005083 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD02O236E 005083 VICENTINHO                              <-------> PT        São Paulo                396
+CD02O236E 005083 BETO MANSUR                             <-------> PP        São Paulo                340
+CD02O236E 005083 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD02O236E 005083 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD02O236E 005083 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD02O236E 005083 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CD02O236E 005083 CARLINHOS ALMEIDA                       <-------> PT        São Paulo                341
+CD02O236E 005083 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD02O236E 005083 JUNJI ABE                               <-------> PSD       São Paulo                355
+CD02O236E 005083 MARCELO AGUIAR                          <-------> PSD       São Paulo                370
+CD02O236E 005083 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD02O236E 005083 PASTOR MARCO FELICIANO                  <-------> PSC       São Paulo                379
+CD02O236E 005083 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD02O236E 005083 JONAS DONIZETTE                         <-------> PSB       São Paulo                353
+CD02O236E 005083 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD02O236E 005083 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD02O236E 005083 PAULO MALUF                             <-------> PP        São Paulo                373
+CD02O236E 005083 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD02O236E 005083 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD02O236E 005083 LAUREZ MOREIRA                          <-------> PSB       Tocantins                62 
+CD02O236E 005083 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD02O236E 005083 JÚNIOR COIMBRA                          <-------> PMDB      Tocantins                66 
+CD02O236E 005083 LÁZARO BOTELHO                          <-------> PP        Tocantins                63 

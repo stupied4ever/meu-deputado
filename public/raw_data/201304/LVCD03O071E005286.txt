@@ -1,0 +1,513 @@
+CD03O071E 005286 MARCIO JUNQUEIRA                        Sim       DEM       Roraima                  625
+CD03O071E 005286 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD03O071E 005286 RAUL LIMA                               Sim       PSD       Roraima                  7  
+CD03O071E 005286 DALVA FIGUEIREDO                        Sim       PT        Amapá                    9  
+CD03O071E 005286 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD03O071E 005286 FÁTIMA PELAES                           Sim       PMDB      Amapá                    12 
+CD03O071E 005286 LUIZ CARLOS                             Obstrução PSDB      Amapá                    14 
+CD03O071E 005286 ARNALDO JORDY                           Não       PPS       Pará                     18 
+CD03O071E 005286 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD03O071E 005286 BETO FARO                               Sim       PT        Pará                     19 
+CD03O071E 005286 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD03O071E 005286 DUDIMAR PAXIÚBA                         Obstrução PSDB      Pará                     518
+CD03O071E 005286 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD03O071E 005286 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CD03O071E 005286 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD03O071E 005286 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD03O071E 005286 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD03O071E 005286 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CD03O071E 005286 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CD03O071E 005286 ZEQUINHA MARINHO                        Sim       PSC       Pará                     33 
+CD03O071E 005286 ÁTILA LINS                              Sim       PSD       Amazonas                 38 
+CD03O071E 005286 CARLOS SOUZA                            Sim       PSD       Amazonas                 37 
+CD03O071E 005286 DR. LUIZ FERNANDO                       Sim       PSD       Amazonas                 605
+CD03O071E 005286 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD03O071E 005286 HENRIQUE OLIVEIRA                       Não       PR        Amazonas                 36 
+CD03O071E 005286 PLÍNIO VALÉRIO                          Obstrução PSDB      Amazonas                 633
+CD03O071E 005286 ANSELMO DE JESUS                        Sim       PT        Rondonia                 615
+CD03O071E 005286 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD03O071E 005286 MARCOS ROGÉRIO                          Obstrução PDT       Rondonia                 583
+CD03O071E 005286 MOREIRA MENDES                          Sim       PSD       Rondonia                 49 
+CD03O071E 005286 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD03O071E 005286 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD03O071E 005286 PADRE TON                               Sim       PT        Rondonia                 48 
+CD03O071E 005286 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD03O071E 005286 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD03O071E 005286 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD03O071E 005286 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD03O071E 005286 CÉSAR HALUM                             Sim       PSD       Tocantins                64 
+CD03O071E 005286 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD03O071E 005286 NILMAR RUIZ                             Obstrução PEN       Tocantins                634
+CD03O071E 005286 OSVALDO REIS                            Sim       PMDB      Tocantins                620
+CD03O071E 005286 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD03O071E 005286 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD03O071E 005286 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD03O071E 005286 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD03O071E 005286 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD03O071E 005286 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CD03O071E 005286 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD03O071E 005286 NICE LOBÃO                              Sim       PSD       Maranhão                 78 
+CD03O071E 005286 PINTO ITAMARATY                         Obstrução PSDB      Maranhão                 79 
+CD03O071E 005286 WALDIR MARANHÃO                         Obstrução PP        Maranhão                 84 
+CD03O071E 005286 WEVERTON ROCHA                          Sim       PDT       Maranhão                 579
+CD03O071E 005286 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD03O071E 005286 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD03O071E 005286 ARNON BEZERRA                           Sim       PTB       Ceará                    90 
+CD03O071E 005286 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD03O071E 005286 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD03O071E 005286 ILÁRIO MARQUES                          Sim       PT        Ceará                    637
+CD03O071E 005286 JOSÉ AIRTON                             Sim       PT        Ceará                    101
+CD03O071E 005286 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD03O071E 005286 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD03O071E 005286 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CD03O071E 005286 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD03O071E 005286 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD03O071E 005286 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD03O071E 005286 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD03O071E 005286 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD03O071E 005286 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD03O071E 005286 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CD03O071E 005286 FÁBIO FARIA                             Sim       PSD       Rio Grande do Norte      119
+CD03O071E 005286 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD03O071E 005286 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD03O071E 005286 HENRIQUE EDUARDO ALVES                  Art. 17   PMDB      Rio Grande do Norte      123
+CD03O071E 005286 BENJAMIN MARANHÃO                       Abstenção PMDB      Paraíba                  131
+CD03O071E 005286 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD03O071E 005286 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD03O071E 005286 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD03O071E 005286 LEONARDO GADELHA                        Sim       PSC       Paraíba                  586
+CD03O071E 005286 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD03O071E 005286 MAJOR FÁBIO                             Não       DEM       Paraíba                  599
+CD03O071E 005286 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD03O071E 005286 WILSON FILHO                            Abstenção PMDB      Paraíba                  139
+CD03O071E 005286 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD03O071E 005286 AUGUSTO COUTINHO                        Não       DEM       Pernambuco               144
+CD03O071E 005286 CARLOS EDUARDO CADOCA                   Não       PSC       Pernambuco               152
+CD03O071E 005286 EDUARDO DA FONTE                        Sim       PP        Pernambuco               156
+CD03O071E 005286 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD03O071E 005286 GONZAGA PATRIOTA                        Sim       PSB       Pernambuco               143
+CD03O071E 005286 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD03O071E 005286 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD03O071E 005286 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD03O071E 005286 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD03O071E 005286 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD03O071E 005286 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD03O071E 005286 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD03O071E 005286 ROBERTO TEIXEIRA                        Sim       PP        Pernambuco               157
+CD03O071E 005286 SEVERINO NINHO                          Não       PSB       Pernambuco               580
+CD03O071E 005286 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD03O071E 005286 VILALBA                                 Obstrução PRB       Pernambuco               555
+CD03O071E 005286 ALEXANDRE TOLEDO                        Obstrução PSDB      Alagoas                  596
+CD03O071E 005286 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD03O071E 005286 MAURÍCIO QUINTELLA LESSA                Sim       PR        Alagoas                  168
+CD03O071E 005286 PAULÃO                                  Sim       PT        Alagoas                  608
+CD03O071E 005286 ROSINHA DA ADEFAL                       Não       PTdoB     Alagoas                  170
+CD03O071E 005286 ALMEIDA LIMA                            Obstrução PPS       Sergipe                  173
+CD03O071E 005286 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD03O071E 005286 FABIO REIS                              Sim       PMDB      Sergipe                  619
+CD03O071E 005286 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD03O071E 005286 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD03O071E 005286 ROGÉRIO CARVALHO                        Sim       PT        Sergipe                  178
+CD03O071E 005286 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD03O071E 005286 AFONSO FLORENCE                         Sim       PT        Bahia                    182
+CD03O071E 005286 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD03O071E 005286 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD03O071E 005286 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD03O071E 005286 ARTHUR OLIVEIRA MAIA                    Obstrução PMDB      Bahia                    192
+CD03O071E 005286 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD03O071E 005286 COLBERT MARTINS                         Sim       PMDB      Bahia                    622
+CD03O071E 005286 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD03O071E 005286 EDSON PIMENTA                           Sim       PSD       Bahia                    193
+CD03O071E 005286 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD03O071E 005286 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD03O071E 005286 FERNANDO TORRES                         Sim       PSD       Bahia                    196
+CD03O071E 005286 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD03O071E 005286 JÂNIO NATAL                             Obstrução PRP       Bahia                    198
+CD03O071E 005286 JOÃO LEÃO                               Sim       PP        Bahia                    199
+CD03O071E 005286 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CD03O071E 005286 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD03O071E 005286 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CD03O071E 005286 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD03O071E 005286 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD03O071E 005286 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD03O071E 005286 LUIZ ARGÔLO                             Sim       PP        Bahia                    207
+CD03O071E 005286 LUIZ DE DEUS                            Sim       DEM       Bahia                    609
+CD03O071E 005286 MARCELO GUIMARÃES FILHO                 Sim       PMDB      Bahia                    627
+CD03O071E 005286 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD03O071E 005286 MÁRIO NEGROMONTE                        Sim       PP        Bahia                    210
+CD03O071E 005286 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD03O071E 005286 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CD03O071E 005286 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD03O071E 005286 SÉRGIO BRITO                            Sim       PSD       Bahia                    213
+CD03O071E 005286 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD03O071E 005286 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD03O071E 005286 ZEZÉU RIBEIRO                           Sim       PT        Bahia                    217
+CD03O071E 005286 ADEMIR CAMILO                           Não       PSD       Minas Gerais             220
+CD03O071E 005286 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CD03O071E 005286 DOMINGOS SÁVIO                          Não       PSDB      Minas Gerais             233
+CD03O071E 005286 DR. GRILO                               Obstrução PSL       Minas Gerais             235
+CD03O071E 005286 EDUARDO AZEREDO                         Obstrução PSDB      Minas Gerais             237
+CD03O071E 005286 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CD03O071E 005286 ISAIAS SILVESTRE                        Não       PSB       Minas Gerais             604
+CD03O071E 005286 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CD03O071E 005286 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD03O071E 005286 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD03O071E 005286 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD03O071E 005286 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD03O071E 005286 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CD03O071E 005286 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD03O071E 005286 LUIZ FERNANDO FARIA                     Obstrução PP        Minas Gerais             256
+CD03O071E 005286 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD03O071E 005286 MARCUS PESTANA                          Não       PSDB      Minas Gerais             254
+CD03O071E 005286 MARGARIDA SALOMÃO                       Sim       PT        Minas Gerais             610
+CD03O071E 005286 MÁRIO HERINGER                          Abstenção PDT       Minas Gerais             629
+CD03O071E 005286 NILMÁRIO MIRANDA                        Sim       PT        Minas Gerais             611
+CD03O071E 005286 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CD03O071E 005286 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD03O071E 005286 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CD03O071E 005286 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD03O071E 005286 STEFANO AGUIAR                          Sim       PSC       Minas Gerais             558
+CD03O071E 005286 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD03O071E 005286 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD03O071E 005286 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD03O071E 005286 CAMILO COLA                             Sim       PMDB      Espírito Santo           543
+CD03O071E 005286 CESAR COLNAGO                           Não       PSDB      Espírito Santo           276
+CD03O071E 005286 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD03O071E 005286 IRINY LOPES                             Sim       PT        Espírito Santo           273
+CD03O071E 005286 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD03O071E 005286 MANATO                                  Não       PDT       Espírito Santo           275
+CD03O071E 005286 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD03O071E 005286 ROSE DE FREITAS                         Sim       PMDB      Espírito Santo           282
+CD03O071E 005286 SUELI VIDIGAL                           Sim       PDT       Espírito Santo           281
+CD03O071E 005286 ALEXANDRE SANTOS                        Sim       PMDB      Rio de Janeiro           285
+CD03O071E 005286 ALFREDO SIRKIS                          Não       PV        Rio de Janeiro           321
+CD03O071E 005286 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD03O071E 005286 AROLDE DE OLIVEIRA                      Sim       PSD       Rio de Janeiro           288
+CD03O071E 005286 AUREO                                   Não       PRTB      Rio de Janeiro           290
+CD03O071E 005286 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD03O071E 005286 CELSO JACOB                             Sim       PMDB      Rio de Janeiro           632
+CD03O071E 005286 CHICO ALENCAR                           Obstrução PSOL      Rio de Janeiro           295
+CD03O071E 005286 DELEY                                   Não       PSC       Rio de Janeiro           562
+CD03O071E 005286 DR. ADILSON SOARES                      Sim       PR        Rio de Janeiro           293
+CD03O071E 005286 DR. PAULO CÉSAR                         Sim       PSD       Rio de Janeiro           296
+CD03O071E 005286 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD03O071E 005286 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD03O071E 005286 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD03O071E 005286 EURICO JÚNIOR                           Não       PV        Rio de Janeiro           613
+CD03O071E 005286 FELIPE BORNIER                          Sim       PSD       Rio de Janeiro           301
+CD03O071E 005286 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD03O071E 005286 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD03O071E 005286 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD03O071E 005286 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD03O071E 005286 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD03O071E 005286 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD03O071E 005286 JEAN WYLLYS                             Obstrução PSOL      Rio de Janeiro           307
+CD03O071E 005286 JORGE BITTAR                            Sim       PT        Rio de Janeiro           310
+CD03O071E 005286 LEONARDO PICCIANI                       Sim       PMDB      Rio de Janeiro           312
+CD03O071E 005286 LILIAM SÁ                               Obstrução PSD       Rio de Janeiro           309
+CD03O071E 005286 LUIZ SÉRGIO                             Sim       PT        Rio de Janeiro           313
+CD03O071E 005286 MANUEL ROSA NECA                        Sim       PR        Rio de Janeiro           614
+CD03O071E 005286 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD03O071E 005286 PAULO FEIJÓ                             Sim       PR        Rio de Janeiro           577
+CD03O071E 005286 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD03O071E 005286 ROMÁRIO                                 Obstrução PSB       Rio de Janeiro           319
+CD03O071E 005286 SERGIO ZVEITER                          Sim       PSD       Rio de Janeiro           320
+CD03O071E 005286 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD03O071E 005286 STEPAN NERCESSIAN                       Não       PPS       Rio de Janeiro           323
+CD03O071E 005286 VITOR PAULO                             Obstrução PRB       Rio de Janeiro           324
+CD03O071E 005286 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD03O071E 005286 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD03O071E 005286 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD03O071E 005286 ALINE CORRÊA                            Sim       PP        São Paulo                330
+CD03O071E 005286 ANTONIO BULHÕES                         Abstenção PRB       São Paulo                333
+CD03O071E 005286 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD03O071E 005286 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD03O071E 005286 ARNALDO JARDIM                          Não       PPS       São Paulo                339
+CD03O071E 005286 CÂNDIDO VACCAREZZA                      Sim       PT        São Paulo                389
+CD03O071E 005286 CARLOS SAMPAIO                          Não       PSDB      São Paulo                338
+CD03O071E 005286 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD03O071E 005286 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD03O071E 005286 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD03O071E 005286 DR. UBIALI                              Obstrução PSB       São Paulo                541
+CD03O071E 005286 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD03O071E 005286 ELEUSES PAIVA                           Sim       PSD       São Paulo                537
+CD03O071E 005286 EMANUEL FERNANDES                       Não       PSDB      São Paulo                352
+CD03O071E 005286 FRANCISCO CHAGAS                        Sim       PT        São Paulo                626
+CD03O071E 005286 GABRIEL CHALITA                         Sim       PMDB      São Paulo                347
+CD03O071E 005286 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD03O071E 005286 IARA BERNARDI                           Sim       PT        São Paulo                618
+CD03O071E 005286 IVAN VALENTE                            Obstrução PSOL      São Paulo                359
+CD03O071E 005286 JEFFERSON CAMPOS                        Sim       PSD       São Paulo                349
+CD03O071E 005286 JOÃO DADO                               Obstrução PDT       São Paulo                362
+CD03O071E 005286 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD03O071E 005286 JOSÉ GENOÍNO                            Sim       PT        São Paulo                617
+CD03O071E 005286 JOSÉ MENTOR                             Sim       PT        São Paulo                367
+CD03O071E 005286 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD03O071E 005286 KEIKO OTA                               Não       PSB       São Paulo                356
+CD03O071E 005286 LUIZA ERUNDINA                          Obstrução PSB       São Paulo                371
+CD03O071E 005286 MARCELO AGUIAR                          Sim       PSD       São Paulo                370
+CD03O071E 005286 MÁRCIO FRANÇA                           Não       PSB       São Paulo                368
+CD03O071E 005286 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD03O071E 005286 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD03O071E 005286 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD03O071E 005286 OTONIEL LIMA                            Obstrução PRB       São Paulo                378
+CD03O071E 005286 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD03O071E 005286 PAULO FREIRE                            Sim       PR        São Paulo                380
+CD03O071E 005286 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD03O071E 005286 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD03O071E 005286 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CD03O071E 005286 ROBERTO DE LUCENA                       Obstrução PV        São Paulo                385
+CD03O071E 005286 ROBERTO FREIRE                          Não       PPS       São Paulo                387
+CD03O071E 005286 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CD03O071E 005286 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CD03O071E 005286 TIRIRICA                                Sim       PR        São Paulo                392
+CD03O071E 005286 VANDERLEI SIRAQUE                       Sim       PT        São Paulo                581
+CD03O071E 005286 VICENTE CANDIDO                         Sim       PT        São Paulo                395
+CD03O071E 005286 VICENTINHO                              Sim       PT        São Paulo                396
+CD03O071E 005286 WALTER FELDMAN                          Não       PSDB      São Paulo                550
+CD03O071E 005286 WALTER IHOSHI                           Sim       PSD       São Paulo                553
+CD03O071E 005286 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD03O071E 005286 ELIENE LIMA                             Sim       PSD       Mato Grosso              401
+CD03O071E 005286 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD03O071E 005286 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD03O071E 005286 IZALCI                                  Não       PSDB      Distrito Federal         408
+CD03O071E 005286 LUIZ PITIMAN                            Obstrução PMDB      Distrito Federal         410
+CD03O071E 005286 POLICARPO                               Sim       PT        Distrito Federal         539
+CD03O071E 005286 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD03O071E 005286 ARMANDO VERGÍLIO                        Sim       PSD       Goiás                    416
+CD03O071E 005286 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD03O071E 005286 HEULER CRUVINEL                         Sim       PSD       Goiás                    423
+CD03O071E 005286 ÍRIS DE ARAÚJO                          Sim       PMDB      Goiás                    417
+CD03O071E 005286 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CD03O071E 005286 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD03O071E 005286 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD03O071E 005286 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD03O071E 005286 SANDES JÚNIOR                           Sim       PP        Goiás                    426
+CD03O071E 005286 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD03O071E 005286 AKIRA OTSUBO                            Sim       PMDB      Mato Grosso do Sul       638
+CD03O071E 005286 BIFFI                                   Sim       PT        Mato Grosso do Sul       432
+CD03O071E 005286 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD03O071E 005286 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD03O071E 005286 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD03O071E 005286 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD03O071E 005286 REINALDO AZAMBUJA                       Não       PSDB      Mato Grosso do Sul       439
+CD03O071E 005286 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD03O071E 005286 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD03O071E 005286 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD03O071E 005286 ANGELO VANHONI                          Sim       PT        Paraná                   453
+CD03O071E 005286 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD03O071E 005286 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD03O071E 005286 DR. ROSINHA                             Sim       PT        Paraná                   449
+CD03O071E 005286 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD03O071E 005286 HERMES PARCIANELLO                      Sim       PMDB      Paraná                   448
+CD03O071E 005286 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD03O071E 005286 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD03O071E 005286 LUIZ NISHIMORI                          Não       PSDB      Paraná                   542
+CD03O071E 005286 MARCELO ALMEIDA                         Sim       PMDB      Paraná                   631
+CD03O071E 005286 NELSON MEURER                           Sim       PP        Paraná                   458
+CD03O071E 005286 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD03O071E 005286 OLIVEIRA FILHO                          Obstrução PRB       Paraná                   621
+CD03O071E 005286 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD03O071E 005286 PROFESSOR SÉRGIO DE OLIVEIRA            Sim       PSC       Paraná                   603
+CD03O071E 005286 RICARDO ARRUDA                          Sim       PSC       Paraná                   635
+CD03O071E 005286 ROSANE FERREIRA                         Obstrução PV        Paraná                   459
+CD03O071E 005286 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD03O071E 005286 SANDRO ALEX                             Não       PPS       Paraná                   465
+CD03O071E 005286 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD03O071E 005286 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CD03O071E 005286 CARMEN ZANOTTO                          Não       PPS       Santa Catarina           561
+CD03O071E 005286 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD03O071E 005286 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CD03O071E 005286 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD03O071E 005286 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD03O071E 005286 JORGE BOEIRA                            Não       PSD       Santa Catarina           474
+CD03O071E 005286 JORGINHO MELLO                          Sim       PR        Santa Catarina           476
+CD03O071E 005286 MARCO TEBALDI                           Não       PSDB      Santa Catarina           478
+CD03O071E 005286 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CD03O071E 005286 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD03O071E 005286 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CD03O071E 005286 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD03O071E 005286 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD03O071E 005286 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD03O071E 005286 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD03O071E 005286 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD03O071E 005286 BETO ALBUQUERQUE                        Não       PSB       Rio Grande do Sul        490
+CD03O071E 005286 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD03O071E 005286 DANRLEI DE DEUS HINTERHOLZ              Sim       PSD       Rio Grande do Sul        495
+CD03O071E 005286 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD03O071E 005286 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD03O071E 005286 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD03O071E 005286 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD03O071E 005286 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD03O071E 005286 MANUELA D`ÁVILA                         Sim       PCdoB     Rio Grande do Sul        494
+CD03O071E 005286 MARCO MAIA                              Sim       PT        Rio Grande do Sul        496
+CD03O071E 005286 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CD03O071E 005286 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CD03O071E 005286 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD03O071E 005286 PAULO FERREIRA                          Sim       PT        Rio Grande do Sul        591
+CD03O071E 005286 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD03O071E 005286 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD03O071E 005286 SÉRGIO MORAES                           Não       PTB       Rio Grande do Sul        512
+CD03O071E 005286 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD03O071E 005286 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD03O071E 005286 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD03O071E 005286 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD03O071E 005286 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD03O071E 005286 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD03O071E 005286 FRANCISCO TENÓRIO                       <-------> PMN       Alagoas                  607
+CD03O071E 005286 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD03O071E 005286 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD03O071E 005286 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD03O071E 005286 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD03O071E 005286 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD03O071E 005286 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD03O071E 005286 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD03O071E 005286 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD03O071E 005286 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD03O071E 005286 ANTONIO IMBASSAHY                       <-------> PSDB      Bahia                    191
+CD03O071E 005286 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD03O071E 005286 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD03O071E 005286 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD03O071E 005286 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD03O071E 005286 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD03O071E 005286 MÁRIO FEITOZA                           <-------> PMDB      Ceará                    590
+CD03O071E 005286 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD03O071E 005286 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD03O071E 005286 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD03O071E 005286 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD03O071E 005286 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD03O071E 005286 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD03O071E 005286 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD03O071E 005286 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD03O071E 005286 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD03O071E 005286 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD03O071E 005286 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD03O071E 005286 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD03O071E 005286 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD03O071E 005286 RONALDO FONSECA                         <-------> PR        Distrito Federal         414
+CD03O071E 005286 MAGELA                                  <-------> PT        Distrito Federal         411
+CD03O071E 005286 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD03O071E 005286 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD03O071E 005286 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD03O071E 005286 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD03O071E 005286 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD03O071E 005286 MAGDA MOFATTO                           <-------> PTB       Goiás                    575
+CD03O071E 005286 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD03O071E 005286 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD03O071E 005286 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD03O071E 005286 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD03O071E 005286 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD03O071E 005286 SIMPLÍCIO ARAÚJO                        <-------> PPS       Maranhão                 585
+CD03O071E 005286 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD03O071E 005286 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD03O071E 005286 PEDRO NOVAIS                            <-------> PMDB      Maranhão                 82 
+CD03O071E 005286 PROFESSOR SETIMO                        <-------> PMDB      Maranhão                 81 
+CD03O071E 005286 ALBERTO FILHO                           <-------> PMDB      Maranhão                 71 
+CD03O071E 005286 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD03O071E 005286 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD03O071E 005286 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD03O071E 005286 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD03O071E 005286 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD03O071E 005286 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD03O071E 005286 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD03O071E 005286 SILAS BRASILEIRO                        <-------> PMDB      Minas Gerais             636
+CD03O071E 005286 HUMBERTO SOUTO                          <-------> PPS       Minas Gerais             606
+CD03O071E 005286 RENATO ANDRADE                          <-------> PP        Minas Gerais             612
+CD03O071E 005286 JOSÉ HUMBERTO                           <-------> PHS       Minas Gerais             249
+CD03O071E 005286 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD03O071E 005286 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD03O071E 005286 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD03O071E 005286 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD03O071E 005286 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD03O071E 005286 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD03O071E 005286 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD03O071E 005286 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD03O071E 005286 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD03O071E 005286 DIMAS FABIANO                           <-------> PP        Minas Gerais             231
+CD03O071E 005286 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD03O071E 005286 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD03O071E 005286 DIEGO ANDRADE                           <-------> PSD       Minas Gerais             228
+CD03O071E 005286 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD03O071E 005286 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD03O071E 005286 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD03O071E 005286 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD03O071E 005286 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD03O071E 005286 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD03O071E 005286 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD03O071E 005286 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD03O071E 005286 MIRIQUINHO BATISTA                      <-------> PT        Pará                     35 
+CD03O071E 005286 NILSON PINTO                            <-------> PSDB      Pará                     31 
+CD03O071E 005286 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD03O071E 005286 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD03O071E 005286 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD03O071E 005286 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD03O071E 005286 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD03O071E 005286 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD03O071E 005286 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD03O071E 005286 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD03O071E 005286 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD03O071E 005286 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD03O071E 005286 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD03O071E 005286 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD03O071E 005286 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD03O071E 005286 FERNANDO FRANCISCHINI                   <-------> PEN       Paraná                   450
+CD03O071E 005286 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD03O071E 005286 ODÍLIO BALBINOTTI                       <-------> PMDB      Paraná                   588
+CD03O071E 005286 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD03O071E 005286 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD03O071E 005286 GIACOBO                                 <-------> PR        Paraná                   466
+CD03O071E 005286 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD03O071E 005286 DR. CARLOS ALBERTO                      <-------> PMN       Rio de Janeiro           529
+CD03O071E 005286 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD03O071E 005286 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD03O071E 005286 FERNANDO LOPES                          <-------> PMDB      Rio de Janeiro           623
+CD03O071E 005286 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD03O071E 005286 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD03O071E 005286 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD03O071E 005286 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD03O071E 005286 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD03O071E 005286 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD03O071E 005286 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD03O071E 005286 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD03O071E 005286 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD03O071E 005286 URZENI ROCHA                            <-------> PSDB      Roraima                  616
+CD03O071E 005286 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD03O071E 005286 CHICO DAS VERDURAS                      <-------> PRP       Roraima                  3  
+CD03O071E 005286 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD03O071E 005286 FERNANDO MARRONI                        <-------> PT        Rio Grande do Sul        525
+CD03O071E 005286 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD03O071E 005286 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD03O071E 005286 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD03O071E 005286 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD03O071E 005286 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD03O071E 005286 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD03O071E 005286 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD03O071E 005286 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD03O071E 005286 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD03O071E 005286 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD03O071E 005286 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD03O071E 005286 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD03O071E 005286 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD03O071E 005286 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD03O071E 005286 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD03O071E 005286 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD03O071E 005286 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD03O071E 005286 JANETE ROCHA PIETÁ                      <-------> PT        São Paulo                358
+CD03O071E 005286 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD03O071E 005286 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD03O071E 005286 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD03O071E 005286 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD03O071E 005286 BETO MANSUR                             <-------> PP        São Paulo                340
+CD03O071E 005286 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD03O071E 005286 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD03O071E 005286 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD03O071E 005286 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD03O071E 005286 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD03O071E 005286 MILTON MONTI                            <-------> PR        São Paulo                374
+CD03O071E 005286 PAULO MALUF                             <-------> PP        São Paulo                373
+CD03O071E 005286 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD03O071E 005286 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD03O071E 005286 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD03O071E 005286 PENNA                                   <-------> PV        São Paulo                382
+CD03O071E 005286 LEOMAR QUINTANILHA                      <-------> PMDB      Tocantins                628
+CD03O071E 005286 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 

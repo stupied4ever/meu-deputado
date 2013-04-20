@@ -1,0 +1,513 @@
+CD03O073E 005298 CHICO DAS VERDURAS                      Não       PRP       Roraima                  3
+CD03O073E 005298 MARCIO JUNQUEIRA                        Não       DEM       Roraima                  625
+CD03O073E 005298 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD03O073E 005298 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD03O073E 005298 BETO FARO                               Não       PT        Pará                     19 
+CD03O073E 005298 LIRA MAIA                               Não       DEM       Pará                     28 
+CD03O073E 005298 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD03O073E 005298 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD03O073E 005298 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD03O073E 005298 ÁTILA LINS                              Não       PSD       Amazonas                 38 
+CD03O073E 005298 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD03O073E 005298 PLÍNIO VALÉRIO                          Sim       PSDB      Amazonas                 633
+CD03O073E 005298 ANSELMO DE JESUS                        Não       PT        Rondonia                 615
+CD03O073E 005298 PADRE TON                               Obstrução PT        Rondonia                 48 
+CD03O073E 005298 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD03O073E 005298 IRAJÁ ABREU                             Não       PSD       Tocantins                65 
+CD03O073E 005298 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD03O073E 005298 OSVALDO REIS                            Obstrução PMDB      Tocantins                620
+CD03O073E 005298 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD03O073E 005298 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD03O073E 005298 HÉLIO SANTOS                            Obstrução PSD       Maranhão                 76 
+CD03O073E 005298 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD03O073E 005298 NICE LOBÃO                              Não       PSD       Maranhão                 78 
+CD03O073E 005298 PEDRO NOVAIS                            Obstrução PMDB      Maranhão                 82 
+CD03O073E 005298 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD03O073E 005298 ANÍBAL GOMES                            Obstrução PMDB      Ceará                    87 
+CD03O073E 005298 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD03O073E 005298 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD03O073E 005298 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD03O073E 005298 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD03O073E 005298 ILÁRIO MARQUES                          Não       PT        Ceará                    637
+CD03O073E 005298 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD03O073E 005298 JOSÉ LINHARES                           Obstrução PP        Ceará                    96 
+CD03O073E 005298 MÁRIO FEITOZA                           Obstrução PMDB      Ceará                    590
+CD03O073E 005298 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD03O073E 005298 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD03O073E 005298 JÚLIO CESAR                             Não       PSD       Piauí                    114
+CD03O073E 005298 MARCELO CASTRO                          Obstrução PMDB      Piauí                    110
+CD03O073E 005298 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD03O073E 005298 FELIPE MAIA                             Obstrução DEM       Rio Grande do Norte      120
+CD03O073E 005298 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD03O073E 005298 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD03O073E 005298 EFRAIM FILHO                            Não       DEM       Paraíba                  128
+CD03O073E 005298 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD03O073E 005298 LEONARDO GADELHA                        Obstrução PSC       Paraíba                  586
+CD03O073E 005298 MANOEL JUNIOR                           Obstrução PMDB      Paraíba                  130
+CD03O073E 005298 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD03O073E 005298 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD03O073E 005298 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD03O073E 005298 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD03O073E 005298 EDUARDO DA FONTE                        Não       PP        Pernambuco               156
+CD03O073E 005298 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD03O073E 005298 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD03O073E 005298 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD03O073E 005298 MENDONÇA FILHO                          Não       DEM       Pernambuco               154
+CD03O073E 005298 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD03O073E 005298 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD03O073E 005298 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CD03O073E 005298 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD03O073E 005298 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD03O073E 005298 ALEXANDRE TOLEDO                        Obstrução PSDB      Alagoas                  596
+CD03O073E 005298 JOÃO LYRA                               Não       PSD       Alagoas                  167
+CD03O073E 005298 MAURÍCIO QUINTELLA LESSA                Não       PR        Alagoas                  168
+CD03O073E 005298 PAULÃO                                  Não       PT        Alagoas                  608
+CD03O073E 005298 ALMEIDA LIMA                            Sim       PPS       Sergipe                  173
+CD03O073E 005298 ANDRE MOURA                             Não       PSC       Sergipe                  174
+CD03O073E 005298 FABIO REIS                              Não       PMDB      Sergipe                  619
+CD03O073E 005298 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD03O073E 005298 AFONSO FLORENCE                         Não       PT        Bahia                    182
+CD03O073E 005298 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD03O073E 005298 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD03O073E 005298 COLBERT MARTINS                         Obstrução PMDB      Bahia                    622
+CD03O073E 005298 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD03O073E 005298 FELIX MENDONÇA JÚNIOR                   Obstrução PDT       Bahia                    195
+CD03O073E 005298 JÂNIO NATAL                             Obstrução PRP       Bahia                    198
+CD03O073E 005298 JOÃO LEÃO                               Obstrução PP        Bahia                    199
+CD03O073E 005298 JOSÉ NUNES                              Não       PSD       Bahia                    201
+CD03O073E 005298 JOSÉ ROCHA                              Não       PR        Bahia                    203
+CD03O073E 005298 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD03O073E 005298 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD03O073E 005298 LUIZ DE DEUS                            Não       DEM       Bahia                    609
+CD03O073E 005298 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD03O073E 005298 MÁRIO NEGROMONTE                        Obstrução PP        Bahia                    210
+CD03O073E 005298 PAULO MAGALHÃES                         Não       PSD       Bahia                    214
+CD03O073E 005298 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD03O073E 005298 SÉRGIO BRITO                            Não       PSD       Bahia                    213
+CD03O073E 005298 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD03O073E 005298 ADEMIR CAMILO                           Não       PSD       Minas Gerais             220
+CD03O073E 005298 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD03O073E 005298 DR. GRILO                               Obstrução PSL       Minas Gerais             235
+CD03O073E 005298 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD03O073E 005298 EDUARDO BARBOSA                         Obstrução PSDB      Minas Gerais             230
+CD03O073E 005298 JAIRO ATAIDE                            Obstrução DEM       Minas Gerais             533
+CD03O073E 005298 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD03O073E 005298 LUIZ FERNANDO FARIA                     Não       PP        Minas Gerais             256
+CD03O073E 005298 MARCUS PESTANA                          Obstrução PSDB      Minas Gerais             254
+CD03O073E 005298 MAURO LOPES                             Não       PMDB      Minas Gerais             252
+CD03O073E 005298 NILMÁRIO MIRANDA                        Não       PT        Minas Gerais             611
+CD03O073E 005298 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD03O073E 005298 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD03O073E 005298 RENATO ANDRADE                          Não       PP        Minas Gerais             612
+CD03O073E 005298 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD03O073E 005298 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD03O073E 005298 VITOR PENIDO                            Não       DEM       Minas Gerais             532
+CD03O073E 005298 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD03O073E 005298 IRINY LOPES                             Não       PT        Espírito Santo           273
+CD03O073E 005298 LAURIETE                                Obstrução PSC       Espírito Santo           279
+CD03O073E 005298 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD03O073E 005298 MANATO                                  Não       PDT       Espírito Santo           275
+CD03O073E 005298 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CD03O073E 005298 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD03O073E 005298 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD03O073E 005298 AROLDE DE OLIVEIRA                      Não       PSD       Rio de Janeiro           288
+CD03O073E 005298 AUREO                                   Obstrução PRTB      Rio de Janeiro           290
+CD03O073E 005298 CELSO JACOB                             Obstrução PMDB      Rio de Janeiro           632
+CD03O073E 005298 DELEY                                   Obstrução PSC       Rio de Janeiro           562
+CD03O073E 005298 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD03O073E 005298 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD03O073E 005298 FERNANDO JORDÃO                         Obstrução PMDB      Rio de Janeiro           557
+CD03O073E 005298 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD03O073E 005298 JORGE BITTAR                            Não       PT        Rio de Janeiro           310
+CD03O073E 005298 LEONARDO PICCIANI                       Obstrução PMDB      Rio de Janeiro           312
+CD03O073E 005298 LILIAM SÁ                               Obstrução PSD       Rio de Janeiro           309
+CD03O073E 005298 LUIZ SÉRGIO                             Não       PT        Rio de Janeiro           313
+CD03O073E 005298 MANUEL ROSA NECA                        Não       PR        Rio de Janeiro           614
+CD03O073E 005298 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD03O073E 005298 ROMÁRIO                                 Sim       PSB       Rio de Janeiro           319
+CD03O073E 005298 SERGIO ZVEITER                          Não       PSD       Rio de Janeiro           320
+CD03O073E 005298 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD03O073E 005298 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD03O073E 005298 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD03O073E 005298 ANTONIO CARLOS MENDES THAME             Obstrução PSDB      São Paulo                332
+CD03O073E 005298 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD03O073E 005298 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD03O073E 005298 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD03O073E 005298 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD03O073E 005298 DUARTE NOGUEIRA                         Obstrução PSDB      São Paulo                350
+CD03O073E 005298 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD03O073E 005298 EMANUEL FERNANDES                       Obstrução PSDB      São Paulo                352
+CD03O073E 005298 FRANCISCO CHAGAS                        Não       PT        São Paulo                626
+CD03O073E 005298 GABRIEL CHALITA                         Obstrução PMDB      São Paulo                347
+CD03O073E 005298 IARA BERNARDI                           Não       PT        São Paulo                618
+CD03O073E 005298 JOSÉ GENOÍNO                            Obstrução PT        São Paulo                617
+CD03O073E 005298 JUNJI ABE                               Não       PSD       São Paulo                355
+CD03O073E 005298 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD03O073E 005298 MARCELO AGUIAR                          Não       PSD       São Paulo                370
+CD03O073E 005298 MÁRCIO FRANÇA                           Não       PSB       São Paulo                368
+CD03O073E 005298 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD03O073E 005298 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD03O073E 005298 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD03O073E 005298 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD03O073E 005298 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD03O073E 005298 RICARDO IZAR                            Obstrução PSD       São Paulo                383
+CD03O073E 005298 TIRIRICA                                Não       PR        São Paulo                392
+CD03O073E 005298 VANDERLEI MACRIS                        Obstrução PSDB      São Paulo                521
+CD03O073E 005298 VANDERLEI SIRAQUE                       Não       PT        São Paulo                581
+CD03O073E 005298 WALTER FELDMAN                          Obstrução PSDB      São Paulo                550
+CD03O073E 005298 WALTER IHOSHI                           Não       PSD       São Paulo                553
+CD03O073E 005298 ELIENE LIMA                             Não       PSD       Mato Grosso              401
+CD03O073E 005298 JÚLIO CAMPOS                            Obstrução DEM       Mato Grosso              399
+CD03O073E 005298 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD03O073E 005298 IZALCI                                  Obstrução PSDB      Distrito Federal         408
+CD03O073E 005298 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD03O073E 005298 MAGELA                                  Sim       PT        Distrito Federal         411
+CD03O073E 005298 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD03O073E 005298 CARLOS ALBERTO LERÉIA                   Obstrução PSDB      Goiás                    415
+CD03O073E 005298 HEULER CRUVINEL                         Não       PSD       Goiás                    423
+CD03O073E 005298 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD03O073E 005298 RUBENS OTONI                            Não       PT        Goiás                    425
+CD03O073E 005298 VALDIVINO DE OLIVEIRA                   Obstrução PSDB      Goiás                    547
+CD03O073E 005298 AKIRA OTSUBO                            Não       PMDB      Mato Grosso do Sul       638
+CD03O073E 005298 BIFFI                                   Não       PT        Mato Grosso do Sul       432
+CD03O073E 005298 GERALDO RESENDE                         Obstrução PMDB      Mato Grosso do Sul       435
+CD03O073E 005298 MANDETTA                                Não       DEM       Mato Grosso do Sul       436
+CD03O073E 005298 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD03O073E 005298 ANDRÉ VARGAS                            Art. 17   PT        Paraná                   452
+CD03O073E 005298 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD03O073E 005298 NELSON MEURER                           Não       PP        Paraná                   458
+CD03O073E 005298 ODÍLIO BALBINOTTI                       Não       PMDB      Paraná                   588
+CD03O073E 005298 PROFESSOR SÉRGIO DE OLIVEIRA            Não       PSC       Paraná                   603
+CD03O073E 005298 RICARDO ARRUDA                          Não       PSC       Paraná                   635
+CD03O073E 005298 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD03O073E 005298 TAKAYAMA                                Não       PSC       Paraná                   469
+CD03O073E 005298 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD03O073E 005298 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD03O073E 005298 JORGE BOEIRA                            Sim       PSD       Santa Catarina           474
+CD03O073E 005298 ONOFRE SANTO AGOSTINI                   Não       PSD       Santa Catarina           479
+CD03O073E 005298 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD03O073E 005298 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD03O073E 005298 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD03O073E 005298 ALEXANDRE ROSO                          Sim       PSB       Rio Grande do Sul        489
+CD03O073E 005298 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD03O073E 005298 GIOVANI CHERINI                         Obstrução PDT       Rio Grande do Sul        502
+CD03O073E 005298 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD03O073E 005298 MARCON                                  Abstenção PT        Rio Grande do Sul        507
+CD03O073E 005298 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD03O073E 005298 PAULO FERREIRA                          Não       PT        Rio Grande do Sul        591
+CD03O073E 005298 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD03O073E 005298 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD03O073E 005298 SÉRGIO MORAES                           Sim       PTB       Rio Grande do Sul        512
+CD03O073E 005298 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD03O073E 005298 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD03O073E 005298 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD03O073E 005298 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD03O073E 005298 SIBÁ MACHADO                            <-------> PT        Acre                     58 
+CD03O073E 005298 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD03O073E 005298 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD03O073E 005298 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD03O073E 005298 FRANCISCO TENÓRIO                       <-------> PMN       Alagoas                  607
+CD03O073E 005298 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD03O073E 005298 ARTHUR LIRA                             <-------> PP        Alagoas                  162
+CD03O073E 005298 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD03O073E 005298 CARLOS SOUZA                            <-------> PSD       Amazonas                 37 
+CD03O073E 005298 DR. LUIZ FERNANDO                       <-------> PSD       Amazonas                 605
+CD03O073E 005298 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD03O073E 005298 FRANCISCO PRACIANO                      <-------> PT        Amazonas                 41 
+CD03O073E 005298 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD03O073E 005298 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD03O073E 005298 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD03O073E 005298 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD03O073E 005298 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD03O073E 005298 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD03O073E 005298 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD03O073E 005298 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD03O073E 005298 JOSÉ CARLOS ARAÚJO                      <-------> PSD       Bahia                    197
+CD03O073E 005298 ANTONIO IMBASSAHY                       <-------> PSDB      Bahia                    191
+CD03O073E 005298 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD03O073E 005298 LUIZ ALBERTO                            <-------> PT        Bahia                    204
+CD03O073E 005298 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD03O073E 005298 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD03O073E 005298 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD03O073E 005298 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD03O073E 005298 WALDENOR PEREIRA                        <-------> PT        Bahia                    219
+CD03O073E 005298 MARCELO GUIMARÃES FILHO                 <-------> PMDB      Bahia                    627
+CD03O073E 005298 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD03O073E 005298 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD03O073E 005298 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD03O073E 005298 EDSON PIMENTA                           <-------> PSD       Bahia                    193
+CD03O073E 005298 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD03O073E 005298 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD03O073E 005298 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD03O073E 005298 ZEZÉU RIBEIRO                           <-------> PT        Bahia                    217
+CD03O073E 005298 GERALDO SIMÕES                          <-------> PT        Bahia                    185
+CD03O073E 005298 ARTUR BRUNO                             <-------> PT        Ceará                    94 
+CD03O073E 005298 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD03O073E 005298 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD03O073E 005298 ANDRÉ FIGUEIREDO                        <-------> PDT       Ceará                    89 
+CD03O073E 005298 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD03O073E 005298 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD03O073E 005298 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD03O073E 005298 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD03O073E 005298 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD03O073E 005298 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD03O073E 005298 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD03O073E 005298 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD03O073E 005298 RONALDO FONSECA                         <-------> PR        Distrito Federal         414
+CD03O073E 005298 POLICARPO                               <-------> PT        Distrito Federal         539
+CD03O073E 005298 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD03O073E 005298 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD03O073E 005298 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD03O073E 005298 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD03O073E 005298 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD03O073E 005298 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD03O073E 005298 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD03O073E 005298 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD03O073E 005298 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD03O073E 005298 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD03O073E 005298 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD03O073E 005298 ARMANDO VERGÍLIO                        <-------> PSD       Goiás                    416
+CD03O073E 005298 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD03O073E 005298 MAGDA MOFATTO                           <-------> PTB       Goiás                    575
+CD03O073E 005298 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD03O073E 005298 PEDRO CHAVES                            <-------> PMDB      Goiás                    428
+CD03O073E 005298 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD03O073E 005298 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD03O073E 005298 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD03O073E 005298 SIMPLÍCIO ARAÚJO                        <-------> PPS       Maranhão                 585
+CD03O073E 005298 WALDIR MARANHÃO                         <-------> PP        Maranhão                 84 
+CD03O073E 005298 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD03O073E 005298 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD03O073E 005298 WEVERTON ROCHA                          <-------> PDT       Maranhão                 579
+CD03O073E 005298 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD03O073E 005298 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD03O073E 005298 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD03O073E 005298 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD03O073E 005298 ALBERTO FILHO                           <-------> PMDB      Maranhão                 71 
+CD03O073E 005298 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD03O073E 005298 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD03O073E 005298 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD03O073E 005298 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD03O073E 005298 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD03O073E 005298 SARAIVA FELIPE                          <-------> PMDB      Minas Gerais             265
+CD03O073E 005298 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD03O073E 005298 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD03O073E 005298 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD03O073E 005298 SILAS BRASILEIRO                        <-------> PMDB      Minas Gerais             636
+CD03O073E 005298 HUMBERTO SOUTO                          <-------> PPS       Minas Gerais             606
+CD03O073E 005298 GERALDO THADEU                          <-------> PSD       Minas Gerais             236
+CD03O073E 005298 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD03O073E 005298 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD03O073E 005298 JÔ MORAES                               <-------> PCdoB     Minas Gerais             246
+CD03O073E 005298 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD03O073E 005298 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD03O073E 005298 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD03O073E 005298 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD03O073E 005298 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD03O073E 005298 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD03O073E 005298 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD03O073E 005298 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD03O073E 005298 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD03O073E 005298 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD03O073E 005298 MARGARIDA SALOMÃO                       <-------> PT        Minas Gerais             610
+CD03O073E 005298 MARCOS MONTES                           <-------> PSD       Minas Gerais             257
+CD03O073E 005298 DIEGO ANDRADE                           <-------> PSD       Minas Gerais             228
+CD03O073E 005298 STEFANO AGUIAR                          <-------> PSC       Minas Gerais             558
+CD03O073E 005298 MÁRIO HERINGER                          <-------> PDT       Minas Gerais             629
+CD03O073E 005298 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD03O073E 005298 ISAIAS SILVESTRE                        <-------> PSB       Minas Gerais             604
+CD03O073E 005298 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD03O073E 005298 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD03O073E 005298 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD03O073E 005298 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD03O073E 005298 FABIO TRAD                              <-------> PMDB      Mato Grosso do Sul       433
+CD03O073E 005298 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD03O073E 005298 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD03O073E 005298 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD03O073E 005298 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD03O073E 005298 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD03O073E 005298 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD03O073E 005298 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD03O073E 005298 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD03O073E 005298 ASDRUBAL BENTES                         <-------> PMDB      Pará                     20 
+CD03O073E 005298 DUDIMAR PAXIÚBA                         <-------> PSDB      Pará                     518
+CD03O073E 005298 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD03O073E 005298 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD03O073E 005298 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD03O073E 005298 LÚCIO VALE                              <-------> PR        Pará                     29 
+CD03O073E 005298 NILSON PINTO                            <-------> PSDB      Pará                     31 
+CD03O073E 005298 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD03O073E 005298 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD03O073E 005298 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD03O073E 005298 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD03O073E 005298 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD03O073E 005298 MAJOR FÁBIO                             <-------> DEM       Paraíba                  599
+CD03O073E 005298 LUIZ COUTO                              <-------> PT        Paraíba                  133
+CD03O073E 005298 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD03O073E 005298 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD03O073E 005298 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD03O073E 005298 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD03O073E 005298 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD03O073E 005298 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD03O073E 005298 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD03O073E 005298 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD03O073E 005298 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD03O073E 005298 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD03O073E 005298 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD03O073E 005298 VILALBA                                 <-------> PRB       Pernambuco               555
+CD03O073E 005298 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD03O073E 005298 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD03O073E 005298 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD03O073E 005298 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD03O073E 005298 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD03O073E 005298 NAZARENO FONTELES                       <-------> PT        Piauí                    530
+CD03O073E 005298 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD03O073E 005298 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD03O073E 005298 ASSIS CARVALHO                          <-------> PT        Piauí                    111
+CD03O073E 005298 HUGO NAPOLEÃO                           <-------> PSD       Piauí                    112
+CD03O073E 005298 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD03O073E 005298 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD03O073E 005298 GIACOBO                                 <-------> PR        Paraná                   466
+CD03O073E 005298 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD03O073E 005298 DILCEU SPERAFICO                        <-------> PP        Paraná                   444
+CD03O073E 005298 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD03O073E 005298 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD03O073E 005298 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD03O073E 005298 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD03O073E 005298 JOÃO ARRUDA                             <-------> PMDB      Paraná                   455
+CD03O073E 005298 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD03O073E 005298 ROSANE FERREIRA                         <-------> PV        Paraná                   459
+CD03O073E 005298 NELSON PADOVANI                         <-------> PSC       Paraná                   457
+CD03O073E 005298 RUBENS BUENO                            <-------> PPS       Paraná                   460
+CD03O073E 005298 EDUARDO SCIARRA                         <-------> PSD       Paraná                   461
+CD03O073E 005298 FERNANDO FRANCISCHINI                   <-------> PEN       Paraná                   450
+CD03O073E 005298 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD03O073E 005298 MARCELO ALMEIDA                         <-------> PMDB      Paraná                   631
+CD03O073E 005298 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD03O073E 005298 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD03O073E 005298 OLIVEIRA FILHO                          <-------> PRB       Paraná                   621
+CD03O073E 005298 ASSIS DO COUTO                          <-------> PT        Paraná                   443
+CD03O073E 005298 FERNANDO LOPES                          <-------> PMDB      Rio de Janeiro           623
+CD03O073E 005298 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD03O073E 005298 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD03O073E 005298 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD03O073E 005298 PAULO FEIJÓ                             <-------> PR        Rio de Janeiro           577
+CD03O073E 005298 DR. CARLOS ALBERTO                      <-------> PMN       Rio de Janeiro           529
+CD03O073E 005298 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD03O073E 005298 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD03O073E 005298 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD03O073E 005298 BENEDITA DA SILVA                       <-------> PT        Rio de Janeiro           291
+CD03O073E 005298 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CD03O073E 005298 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD03O073E 005298 JAIR BOLSONARO                          <-------> PP        Rio de Janeiro           302
+CD03O073E 005298 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD03O073E 005298 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CD03O073E 005298 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD03O073E 005298 EURICO JÚNIOR                           <-------> PV        Rio de Janeiro           613
+CD03O073E 005298 FELIPE BORNIER                          <-------> PSD       Rio de Janeiro           301
+CD03O073E 005298 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD03O073E 005298 VITOR PAULO                             <-------> PRB       Rio de Janeiro           324
+CD03O073E 005298 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD03O073E 005298 CHICO ALENCAR                           <-------> PSOL      Rio de Janeiro           295
+CD03O073E 005298 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD03O073E 005298 DR. PAULO CÉSAR                         <-------> PSD       Rio de Janeiro           296
+CD03O073E 005298 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD03O073E 005298 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD03O073E 005298 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD03O073E 005298 FÁBIO FARIA                             <-------> PSD       Rio Grande do Norte      119
+CD03O073E 005298 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD03O073E 005298 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD03O073E 005298 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD03O073E 005298 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD03O073E 005298 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD03O073E 005298 MARCOS ROGÉRIO                          <-------> PDT       Rondonia                 583
+CD03O073E 005298 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD03O073E 005298 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD03O073E 005298 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD03O073E 005298 URZENI ROCHA                            <-------> PSDB      Roraima                  616
+CD03O073E 005298 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD03O073E 005298 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD03O073E 005298 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD03O073E 005298 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD03O073E 005298 PAULO CESAR QUARTIERO                   <-------> DEM       Roraima                  6  
+CD03O073E 005298 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD03O073E 005298 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD03O073E 005298 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD03O073E 005298 DANRLEI DE DEUS HINTERHOLZ              <-------> PSD       Rio Grande do Sul        495
+CD03O073E 005298 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD03O073E 005298 BOHN GASS                               <-------> PT        Rio Grande do Sul        499
+CD03O073E 005298 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD03O073E 005298 FERNANDO MARRONI                        <-------> PT        Rio Grande do Sul        525
+CD03O073E 005298 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD03O073E 005298 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD03O073E 005298 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD03O073E 005298 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD03O073E 005298 LUIS CARLOS HEINZE                      <-------> PP        Rio Grande do Sul        500
+CD03O073E 005298 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD03O073E 005298 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD03O073E 005298 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD03O073E 005298 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD03O073E 005298 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD03O073E 005298 BETO ALBUQUERQUE                        <-------> PSB       Rio Grande do Sul        490
+CD03O073E 005298 JORGINHO MELLO                          <-------> PR        Santa Catarina           476
+CD03O073E 005298 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD03O073E 005298 MARCO TEBALDI                           <-------> PSDB      Santa Catarina           478
+CD03O073E 005298 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD03O073E 005298 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD03O073E 005298 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD03O073E 005298 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD03O073E 005298 CELSO MALDANER                          <-------> PMDB      Santa Catarina           472
+CD03O073E 005298 EDINHO BEZ                              <-------> PMDB      Santa Catarina           470
+CD03O073E 005298 CARMEN ZANOTTO                          <-------> PPS       Santa Catarina           561
+CD03O073E 005298 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD03O073E 005298 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD03O073E 005298 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD03O073E 005298 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD03O073E 005298 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD03O073E 005298 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD03O073E 005298 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD03O073E 005298 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD03O073E 005298 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD03O073E 005298 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD03O073E 005298 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD03O073E 005298 VICENTINHO                              <-------> PT        São Paulo                396
+CD03O073E 005298 CARLOS ZARATTINI                        <-------> PT        São Paulo                398
+CD03O073E 005298 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD03O073E 005298 ALEXANDRE LEITE                         <-------> DEM       São Paulo                334
+CD03O073E 005298 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD03O073E 005298 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD03O073E 005298 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD03O073E 005298 BETO MANSUR                             <-------> PP        São Paulo                340
+CD03O073E 005298 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD03O073E 005298 KEIKO OTA                               <-------> PSB       São Paulo                356
+CD03O073E 005298 IVAN VALENTE                            <-------> PSOL      São Paulo                359
+CD03O073E 005298 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD03O073E 005298 JOÃO DADO                               <-------> PDT       São Paulo                362
+CD03O073E 005298 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD03O073E 005298 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD03O073E 005298 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD03O073E 005298 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD03O073E 005298 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD03O073E 005298 MILTON MONTI                            <-------> PR        São Paulo                374
+CD03O073E 005298 ELEUSES PAIVA                           <-------> PSD       São Paulo                537
+CD03O073E 005298 GUILHERME CAMPOS                        <-------> PSD       São Paulo                357
+CD03O073E 005298 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD03O073E 005298 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD03O073E 005298 PAULO MALUF                             <-------> PP        São Paulo                373
+CD03O073E 005298 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD03O073E 005298 JEFFERSON CAMPOS                        <-------> PSD       São Paulo                349
+CD03O073E 005298 JANETE ROCHA PIETÁ                      <-------> PT        São Paulo                358
+CD03O073E 005298 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD03O073E 005298 PENNA                                   <-------> PV        São Paulo                382
+CD03O073E 005298 ROBERTO DE LUCENA                       <-------> PV        São Paulo                385
+CD03O073E 005298 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD03O073E 005298 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD03O073E 005298 ROBERTO SANTIAGO                        <-------> PSD       São Paulo                386
+CD03O073E 005298 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD03O073E 005298 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD03O073E 005298 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD03O073E 005298 CÉSAR HALUM                             <-------> PSD       Tocantins                64 
+CD03O073E 005298 LEOMAR QUINTANILHA                      <-------> PMDB      Tocantins                628
+CD03O073E 005298 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD03O073E 005298 ÂNGELO AGNOLIN                          <-------> PDT       Tocantins                61 
+CD03O073E 005298 NILMAR RUIZ                             <-------> PEN       Tocantins                634

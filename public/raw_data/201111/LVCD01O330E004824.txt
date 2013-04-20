@@ -1,0 +1,513 @@
+CD01O330E 004824 BERINHO BANTIM                          Não       PSDB      Roraima                  1
+CD01O330E 004824 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD01O330E 004824 FRANCISCO ARAÚJO                        Sim       PSD       Roraima                  570
+CD01O330E 004824 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CD01O330E 004824 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD01O330E 004824 PAULO CESAR QUARTIERO                   Não       DEM       Roraima                  6  
+CD01O330E 004824 TERESA SURITA                           Sim       PMDB      Roraima                  8  
+CD01O330E 004824 DALVA FIGUEIREDO                        Sim       PT        Amapá                    9  
+CD01O330E 004824 DAVI ALCOLUMBRE                         Não       DEM       Amapá                    10 
+CD01O330E 004824 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD01O330E 004824 FÁTIMA PELAES                           Sim       PMDB      Amapá                    12 
+CD01O330E 004824 JANETE CAPIBERIBE                       Sim       PSB       Amapá                    572
+CD01O330E 004824 LUIZ CARLOS                             Não       PSDB      Amapá                    14 
+CD01O330E 004824 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD01O330E 004824 VINICIUS GURGEL                         Sim       PR        Amapá                    16 
+CD01O330E 004824 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD01O330E 004824 BETO FARO                               Sim       PT        Pará                     19 
+CD01O330E 004824 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD01O330E 004824 ELCIONE BARBALHO                        Sim       PMDB      Pará                     21 
+CD01O330E 004824 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD01O330E 004824 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CD01O330E 004824 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD01O330E 004824 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD01O330E 004824 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD01O330E 004824 WANDENKOLK GONÇALVES                    Não       PSDB      Pará                     32 
+CD01O330E 004824 ZÉ GERALDO                              Sim       PT        Pará                     25 
+CD01O330E 004824 ZEQUINHA MARINHO                        Sim       PSC       Pará                     33 
+CD01O330E 004824 ÁTILA LINS                              Sim       PSD       Amazonas                 38 
+CD01O330E 004824 CARLOS SOUZA                            Sim       PSD       Amazonas                 37 
+CD01O330E 004824 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD01O330E 004824 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD01O330E 004824 PAUDERNEY AVELINO                       Não       DEM       Amazonas                 40 
+CD01O330E 004824 REBECCA GARCIA                          Sim       PP        Amazonas                 42 
+CD01O330E 004824 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD01O330E 004824 MARCOS ROGÉRIO                          Sim       PDT       Rondonia                 583
+CD01O330E 004824 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD01O330E 004824 MAURO NAZIF                             Sim       PSB       Rondonia                 46 
+CD01O330E 004824 MOREIRA MENDES                          Sim       PSD       Rondonia                 49 
+CD01O330E 004824 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD01O330E 004824 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD01O330E 004824 PADRE TON                               Sim       PT        Rondonia                 48 
+CD01O330E 004824 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD01O330E 004824 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD01O330E 004824 MARCIO BITTAR                           Não       PSDB      Acre                     57 
+CD01O330E 004824 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD01O330E 004824 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD01O330E 004824 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD01O330E 004824 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD01O330E 004824 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD01O330E 004824 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD01O330E 004824 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD01O330E 004824 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD01O330E 004824 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD01O330E 004824 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD01O330E 004824 EDIVALDO HOLANDA JUNIOR                 Sim       PTC       Maranhão                 73 
+CD01O330E 004824 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD01O330E 004824 HÉLIO SANTOS                            Sim       PSD       Maranhão                 76 
+CD01O330E 004824 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD01O330E 004824 PEDRO NOVAIS                            Sim       PMDB      Maranhão                 82 
+CD01O330E 004824 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD01O330E 004824 RIBAMAR ALVES                           Sim       PSB       Maranhão                 74 
+CD01O330E 004824 SARNEY FILHO                            Sim       PV        Maranhão                 85 
+CD01O330E 004824 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD01O330E 004824 WEVERTON ROCHA                          Sim       PDT       Maranhão                 579
+CD01O330E 004824 ZÉ VIEIRA                               Não       PR        Maranhão                 86 
+CD01O330E 004824 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD01O330E 004824 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CD01O330E 004824 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD01O330E 004824 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD01O330E 004824 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD01O330E 004824 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CD01O330E 004824 DOMINGOS NETO                           Sim       PSB       Ceará                    97 
+CD01O330E 004824 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CD01O330E 004824 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD01O330E 004824 GENECIAS NORONHA                        Sim       PMDB      Ceará                    99 
+CD01O330E 004824 JOSÉ AIRTON                             Sim       PT        Ceará                    101
+CD01O330E 004824 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD01O330E 004824 JOSÉ LINHARES                           Sim       PP        Ceará                    96 
+CD01O330E 004824 MANOEL SALVIANO                         Sim       PSD       Ceará                    104
+CD01O330E 004824 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD01O330E 004824 RAIMUNDÃO                               Sim       PMDB      Ceará                    108
+CD01O330E 004824 RAIMUNDO GOMES DE MATOS                 Não       PSDB      Ceará                    102
+CD01O330E 004824 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD01O330E 004824 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD01O330E 004824 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CD01O330E 004824 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD01O330E 004824 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD01O330E 004824 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD01O330E 004824 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD01O330E 004824 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD01O330E 004824 PAES LANDIM                             Sim       PTB       Piauí                    118
+CD01O330E 004824 FÁBIO FARIA                             Sim       PSD       Rio Grande do Norte      119
+CD01O330E 004824 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD01O330E 004824 FELIPE MAIA                             Não       DEM       Rio Grande do Norte      120
+CD01O330E 004824 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD01O330E 004824 JOÃO MAIA                               Sim       PR        Rio Grande do Norte      124
+CD01O330E 004824 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD01O330E 004824 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CD01O330E 004824 AGUINALDO RIBEIRO                       Sim       PP        Paraíba                  129
+CD01O330E 004824 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CD01O330E 004824 EFRAIM FILHO                            Não       DEM       Paraíba                  128
+CD01O330E 004824 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD01O330E 004824 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD01O330E 004824 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD01O330E 004824 ROMERO RODRIGUES                        Não       PSDB      Paraíba                  135
+CD01O330E 004824 WILSON FILHO                            Sim       PMDB      Paraíba                  139
+CD01O330E 004824 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD01O330E 004824 AUGUSTO COUTINHO                        Não       DEM       Pernambuco               144
+CD01O330E 004824 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD01O330E 004824 EDUARDO DA FONTE                        Sim       PP        Pernambuco               156
+CD01O330E 004824 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD01O330E 004824 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD01O330E 004824 GONZAGA PATRIOTA                        Sim       PSB       Pernambuco               143
+CD01O330E 004824 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD01O330E 004824 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD01O330E 004824 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD01O330E 004824 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD01O330E 004824 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD01O330E 004824 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD01O330E 004824 MENDONÇA FILHO                          Não       DEM       Pernambuco               154
+CD01O330E 004824 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD01O330E 004824 PAULO RUBEM SANTIAGO                    Abstenção PDT       Pernambuco               554
+CD01O330E 004824 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD01O330E 004824 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD01O330E 004824 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CD01O330E 004824 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD01O330E 004824 VILALBA                                 Sim       PRB       Pernambuco               555
+CD01O330E 004824 WOLNEY QUEIROZ                          Sim       PDT       Pernambuco               164
+CD01O330E 004824 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD01O330E 004824 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD01O330E 004824 GIVALDO CARIMBÃO                        Sim       PSB       Alagoas                  166
+CD01O330E 004824 JOÃO LYRA                               Sim       PSD       Alagoas                  167
+CD01O330E 004824 JOAQUIM BELTRÃO                         Sim       PMDB      Alagoas                  172
+CD01O330E 004824 MAURÍCIO QUINTELLA LESSA                Sim       PR        Alagoas                  168
+CD01O330E 004824 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD01O330E 004824 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD01O330E 004824 RUI PALMEIRA                            Não       PSDB      Alagoas                  171
+CD01O330E 004824 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD01O330E 004824 HELENO SILVA                            Sim       PRB       Sergipe                  175
+CD01O330E 004824 LAERCIO OLIVEIRA                        Sim       PR        Sergipe                  176
+CD01O330E 004824 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD01O330E 004824 ROGÉRIO CARVALHO                        Sim       PT        Sergipe                  178
+CD01O330E 004824 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD01O330E 004824 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD01O330E 004824 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD01O330E 004824 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD01O330E 004824 ANTONIO CARLOS MAGALHÃES NETO           Não       DEM       Bahia                    181
+CD01O330E 004824 ANTONIO IMBASSAHY                       Não       PSDB      Bahia                    191
+CD01O330E 004824 CLAUDIO CAJADO                          Não       DEM       Bahia                    186
+CD01O330E 004824 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD01O330E 004824 EDSON PIMENTA                           Sim       PSD       Bahia                    193
+CD01O330E 004824 EMILIANO JOSÉ                           Sim       PT        Bahia                    523
+CD01O330E 004824 ERIVELTON SANTANA                       Sim       PSC       Bahia                    194
+CD01O330E 004824 FÁBIO SOUTO                             Não       DEM       Bahia                    190
+CD01O330E 004824 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD01O330E 004824 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD01O330E 004824 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CD01O330E 004824 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD01O330E 004824 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CD01O330E 004824 JOSEPH BANDEIRA                         Sim       PT        Bahia                    565
+CD01O330E 004824 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD01O330E 004824 JUTAHY JUNIOR                           Não       PSDB      Bahia                    206
+CD01O330E 004824 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD01O330E 004824 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD01O330E 004824 LUIZ ARGÔLO                             Sim       PP        Bahia                    207
+CD01O330E 004824 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD01O330E 004824 MAURÍCIO TRINDADE                       Sim       PR        Bahia                    208
+CD01O330E 004824 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD01O330E 004824 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CD01O330E 004824 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD01O330E 004824 RUI COSTA                               Sim       PT        Bahia                    216
+CD01O330E 004824 SÉRGIO BARRADAS CARNEIRO                Sim       PT        Bahia                    524
+CD01O330E 004824 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD01O330E 004824 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD01O330E 004824 ADEMIR CAMILO                           Sim       PSD       Minas Gerais             220
+CD01O330E 004824 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CD01O330E 004824 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD01O330E 004824 ARACELY DE PAULA                        Sim       PR        Minas Gerais             223
+CD01O330E 004824 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD01O330E 004824 BONIFÁCIO DE ANDRADA                    Não       PSDB      Minas Gerais             534
+CD01O330E 004824 CARLAILE PEDROSA                        Não       PSDB      Minas Gerais             222
+CD01O330E 004824 DIEGO ANDRADE                           Sim       PSD       Minas Gerais             228
+CD01O330E 004824 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD01O330E 004824 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD01O330E 004824 EDUARDO AZEREDO                         Não       PSDB      Minas Gerais             237
+CD01O330E 004824 EDUARDO BARBOSA                         Não       PSDB      Minas Gerais             230
+CD01O330E 004824 EROS BIONDINI                           Sim       PTB       Minas Gerais             242
+CD01O330E 004824 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD01O330E 004824 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD01O330E 004824 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD01O330E 004824 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CD01O330E 004824 GILMAR MACHADO                          Sim       PT        Minas Gerais             234
+CD01O330E 004824 JAIME MARTINS                           Sim       PR        Minas Gerais             240
+CD01O330E 004824 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CD01O330E 004824 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD01O330E 004824 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD01O330E 004824 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD01O330E 004824 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD01O330E 004824 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD01O330E 004824 LAEL VARELLA                            Sim       DEM       Minas Gerais             245
+CD01O330E 004824 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CD01O330E 004824 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD01O330E 004824 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD01O330E 004824 LUIS TIBÉ                               Sim       PTdoB     Minas Gerais             251
+CD01O330E 004824 LUIZ FERNANDO FARIA                     Sim       PP        Minas Gerais             256
+CD01O330E 004824 MÁRCIO REINALDO MOREIRA                 Sim       PP        Minas Gerais             247
+CD01O330E 004824 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD01O330E 004824 MARCUS PESTANA                          Não       PSDB      Minas Gerais             254
+CD01O330E 004824 MÁRIO DE OLIVEIRA                       Sim       PSC       Minas Gerais             260
+CD01O330E 004824 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CD01O330E 004824 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD01O330E 004824 PAULO ABI-ACKEL                         Obstrução PSDB      Minas Gerais             263
+CD01O330E 004824 PAULO PIAU                              Sim       PMDB      Minas Gerais             266
+CD01O330E 004824 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD01O330E 004824 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD01O330E 004824 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD01O330E 004824 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD01O330E 004824 WALTER TOSTA                            Sim       PSD       Minas Gerais             267
+CD01O330E 004824 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD01O330E 004824 ZÉ SILVA                                Sim       PDT       Minas Gerais             271
+CD01O330E 004824 AUDIFAX                                 Sim       PSB       Espírito Santo           274
+CD01O330E 004824 CAMILO COLA                             Sim       PMDB      Espírito Santo           543
+CD01O330E 004824 CESAR COLNAGO                           Não       PSDB      Espírito Santo           276
+CD01O330E 004824 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD01O330E 004824 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD01O330E 004824 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD01O330E 004824 MANATO                                  Sim       PDT       Espírito Santo           275
+CD01O330E 004824 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD01O330E 004824 ROSE DE FREITAS                         Sim       PMDB      Espírito Santo           282
+CD01O330E 004824 SUELI VIDIGAL                           Sim       PDT       Espírito Santo           281
+CD01O330E 004824 ADRIAN                                  Sim       PMDB      Rio de Janeiro           286
+CD01O330E 004824 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD01O330E 004824 ALEXANDRE SANTOS                        Sim       PMDB      Rio de Janeiro           285
+CD01O330E 004824 ANDREIA ZITO                            Não       PSDB      Rio de Janeiro           283
+CD01O330E 004824 AROLDE DE OLIVEIRA                      Sim       PSD       Rio de Janeiro           288
+CD01O330E 004824 AUREO                                   Sim       PRTB      Rio de Janeiro           290
+CD01O330E 004824 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD01O330E 004824 BRIZOLA NETO                            Sim       PDT       Rio de Janeiro           566
+CD01O330E 004824 CHICO D`ANGELO                          Sim       PT        Rio de Janeiro           527
+CD01O330E 004824 DELEY                                   Sim       PSC       Rio de Janeiro           562
+CD01O330E 004824 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD01O330E 004824 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD01O330E 004824 DR. PAULO CÉSAR                         Sim       PSD       Rio de Janeiro           296
+CD01O330E 004824 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD01O330E 004824 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD01O330E 004824 ELIANE ROLIM                            Sim       PT        Rio de Janeiro           538
+CD01O330E 004824 FELIPE BORNIER                          Sim       PSD       Rio de Janeiro           301
+CD01O330E 004824 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD01O330E 004824 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD01O330E 004824 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD01O330E 004824 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD01O330E 004824 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD01O330E 004824 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD01O330E 004824 JEAN WYLLYS                             Não       PSOL      Rio de Janeiro           307
+CD01O330E 004824 LILIAM SÁ                               Sim       PSD       Rio de Janeiro           309
+CD01O330E 004824 MARCELO MATOS                           Sim       PDT       Rio de Janeiro           311
+CD01O330E 004824 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD01O330E 004824 NEILTON MULIM                           Sim       PR        Rio de Janeiro           315
+CD01O330E 004824 NELSON BORNIER                          Sim       PMDB      Rio de Janeiro           549
+CD01O330E 004824 PAULO FEIJÓ                             Sim       PR        Rio de Janeiro           577
+CD01O330E 004824 RODRIGO MAIA                            Não       DEM       Rio de Janeiro           322
+CD01O330E 004824 ROMÁRIO                                 Sim       PSB       Rio de Janeiro           319
+CD01O330E 004824 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD01O330E 004824 STEPAN NERCESSIAN                       Não       PPS       Rio de Janeiro           323
+CD01O330E 004824 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD01O330E 004824 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD01O330E 004824 ALEXANDRE LEITE                         Não       DEM       São Paulo                334
+CD01O330E 004824 ALINE CORRÊA                            Sim       PP        São Paulo                330
+CD01O330E 004824 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD01O330E 004824 ANTONIO CARLOS MENDES THAME             Não       PSDB      São Paulo                332
+CD01O330E 004824 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD01O330E 004824 CÂNDIDO VACCAREZZA                      Sim       PT        São Paulo                389
+CD01O330E 004824 CARLINHOS ALMEIDA                       Sim       PT        São Paulo                341
+CD01O330E 004824 CARLOS SAMPAIO                          Não       PSDB      São Paulo                338
+CD01O330E 004824 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD01O330E 004824 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD01O330E 004824 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD01O330E 004824 DRA.ELAINE ABISSAMRA                    Sim       PSB       São Paulo                576
+CD01O330E 004824 DUARTE NOGUEIRA                         Não       PSDB      São Paulo                350
+CD01O330E 004824 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD01O330E 004824 ELEUSES PAIVA                           Sim       PSD       São Paulo                537
+CD01O330E 004824 ELI CORREA FILHO                        Não       DEM       São Paulo                345
+CD01O330E 004824 EMANUEL FERNANDES                       Não       PSDB      São Paulo                352
+CD01O330E 004824 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD01O330E 004824 IVAN VALENTE                            Não       PSOL      São Paulo                359
+CD01O330E 004824 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD01O330E 004824 JEFFERSON CAMPOS                        Sim       PSD       São Paulo                349
+CD01O330E 004824 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD01O330E 004824 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD01O330E 004824 JOÃO PAULO CUNHA                        Sim       PT        São Paulo                361
+CD01O330E 004824 JONAS DONIZETTE                         Sim       PSB       São Paulo                353
+CD01O330E 004824 JOSÉ DE FILIPPI                         Sim       PT        São Paulo                354
+CD01O330E 004824 JOSÉ MENTOR                             Sim       PT        São Paulo                367
+CD01O330E 004824 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD01O330E 004824 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD01O330E 004824 LUIZ FERNANDO MACHADO                   Não       PSDB      São Paulo                365
+CD01O330E 004824 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O330E 004824 MARA GABRILLI                           Não       PSDB      São Paulo                366
+CD01O330E 004824 MARCELO AGUIAR                          Sim       PSD       São Paulo                370
+CD01O330E 004824 MILTON MONTI                            Sim       PR        São Paulo                374
+CD01O330E 004824 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD01O330E 004824 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD01O330E 004824 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD01O330E 004824 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD01O330E 004824 PAULO FREIRE                            Sim       PR        São Paulo                380
+CD01O330E 004824 PAULO MALUF                             Sim       PP        São Paulo                373
+CD01O330E 004824 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CD01O330E 004824 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD01O330E 004824 PENNA                                   Sim       PV        São Paulo                382
+CD01O330E 004824 RICARDO BERZOINI                        Sim       PT        São Paulo                390
+CD01O330E 004824 RICARDO TRIPOLI                         Não       PSDB      São Paulo                384
+CD01O330E 004824 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O330E 004824 ROBERTO FREIRE                          Não       PPS       São Paulo                387
+CD01O330E 004824 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CD01O330E 004824 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CD01O330E 004824 TIRIRICA                                Sim       PR        São Paulo                392
+CD01O330E 004824 VALDEMAR COSTA NETO                     Sim       PR        São Paulo                393
+CD01O330E 004824 VANDERLEI MACRIS                        Não       PSDB      São Paulo                521
+CD01O330E 004824 VANDERLEI SIRAQUE                       Sim       PT        São Paulo                581
+CD01O330E 004824 VAZ DE LIMA                             Não       PSDB      São Paulo                394
+CD01O330E 004824 VICENTE CANDIDO                         Sim       PT        São Paulo                395
+CD01O330E 004824 VICENTINHO                              Sim       PT        São Paulo                396
+CD01O330E 004824 WALTER IHOSHI                           Sim       PSD       São Paulo                553
+CD01O330E 004824 WILLIAM DIB                             Não       PSDB      São Paulo                397
+CD01O330E 004824 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD01O330E 004824 ELIENE LIMA                             Sim       PSD       Mato Grosso              401
+CD01O330E 004824 HOMERO PEREIRA                          Sim       PSD       Mato Grosso              402
+CD01O330E 004824 JÚLIO CAMPOS                            Abstenção DEM       Mato Grosso              399
+CD01O330E 004824 NILSON LEITÃO                           Não       PSDB      Mato Grosso              573
+CD01O330E 004824 PEDRO HENRY                             Sim       PP        Mato Grosso              403
+CD01O330E 004824 VALTENIR PEREIRA                        Sim       PSB       Mato Grosso              404
+CD01O330E 004824 WELLINGTON FAGUNDES                     Sim       PR        Mato Grosso              406
+CD01O330E 004824 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD01O330E 004824 IZALCI                                  Sim       PR        Distrito Federal         408
+CD01O330E 004824 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD01O330E 004824 MAGELA                                  Sim       PT        Distrito Federal         411
+CD01O330E 004824 POLICARPO                               Sim       PT        Distrito Federal         539
+CD01O330E 004824 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD01O330E 004824 ARMANDO VERGÍLIO                        Sim       PSD       Goiás                    416
+CD01O330E 004824 CARLOS ALBERTO LERÉIA                   Não       PSDB      Goiás                    415
+CD01O330E 004824 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD01O330E 004824 HEULER CRUVINEL                         Sim       PSD       Goiás                    423
+CD01O330E 004824 JOVAIR ARANTES                          Sim       PTB       Goiás                    419
+CD01O330E 004824 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CD01O330E 004824 LEONARDO VILELA                         Não       PSDB      Goiás                    421
+CD01O330E 004824 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD01O330E 004824 RONALDO CAIADO                          Não       DEM       Goiás                    429
+CD01O330E 004824 RUBENS OTONI                            Sim       PT        Goiás                    425
+CD01O330E 004824 SANDES JÚNIOR                           Sim       PP        Goiás                    426
+CD01O330E 004824 SANDRO MABEL                            Sim       PMDB      Goiás                    431
+CD01O330E 004824 THIAGO PEIXOTO                          Sim       PSD       Goiás                    424
+CD01O330E 004824 VILMAR ROCHA                            Sim       PSD       Goiás                    430
+CD01O330E 004824 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CD01O330E 004824 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD01O330E 004824 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD01O330E 004824 GIROTO                                  Sim       PMDB      Mato Grosso do Sul       434
+CD01O330E 004824 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD01O330E 004824 REINALDO AZAMBUJA                       Não       PSDB      Mato Grosso do Sul       439
+CD01O330E 004824 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD01O330E 004824 ABELARDO LUPION                         Não       DEM       Paraná                   440
+CD01O330E 004824 ALEX CANZIANI                           Sim       PTB       Paraná                   445
+CD01O330E 004824 ALFREDO KAEFER                          Não       PSDB      Paraná                   451
+CD01O330E 004824 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD01O330E 004824 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD01O330E 004824 ANGELO VANHONI                          Sim       PT        Paraná                   453
+CD01O330E 004824 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD01O330E 004824 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD01O330E 004824 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD01O330E 004824 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD01O330E 004824 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD01O330E 004824 FERNANDO FRANCISCHINI                   Não       PSDB      Paraná                   450
+CD01O330E 004824 GIACOBO                                 Sim       PR        Paraná                   466
+CD01O330E 004824 HERMES PARCIANELLO                      Sim       PMDB      Paraná                   448
+CD01O330E 004824 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD01O330E 004824 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD01O330E 004824 LUIZ CARLOS SETIM                       Não       DEM       Paraná                   535
+CD01O330E 004824 LUIZ NISHIMORI                          Não       PSDB      Paraná                   542
+CD01O330E 004824 MOACIR MICHELETTO                       Sim       PMDB      Paraná                   462
+CD01O330E 004824 NELSON MEURER                           Sim       PP        Paraná                   458
+CD01O330E 004824 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD01O330E 004824 RATINHO JUNIOR                          Sim       PSC       Paraná                   464
+CD01O330E 004824 REINHOLD STEPHANES                      Sim       PSD       Paraná                   467
+CD01O330E 004824 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD01O330E 004824 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD01O330E 004824 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O330E 004824 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD01O330E 004824 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CD01O330E 004824 CARMEN ZANOTTO                          Não       PPS       Santa Catarina           561
+CD01O330E 004824 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD01O330E 004824 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CD01O330E 004824 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD01O330E 004824 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD01O330E 004824 JOÃO PIZZOLATTI                         Sim       PP        Santa Catarina           574
+CD01O330E 004824 JORGE BOEIRA                            Sim       PSD       Santa Catarina           474
+CD01O330E 004824 JORGINHO MELLO                          Sim       PSDB      Santa Catarina           476
+CD01O330E 004824 LUCI CHOINACKI                          Sim       PT        Santa Catarina           477
+CD01O330E 004824 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CD01O330E 004824 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD01O330E 004824 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CD01O330E 004824 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD01O330E 004824 ROMANNA REMOR                           Sim       PMDB      Santa Catarina           582
+CD01O330E 004824 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD01O330E 004824 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD01O330E 004824 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD01O330E 004824 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD01O330E 004824 ALEXANDRE ROSO                          Sim       PSB       Rio Grande do Sul        489
+CD01O330E 004824 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD01O330E 004824 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD01O330E 004824 DANRLEI DE DEUS HINTERHOLZ              Sim       PSD       Rio Grande do Sul        495
+CD01O330E 004824 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD01O330E 004824 ELISEU PADILHA                          Sim       PMDB      Rio Grande do Sul        578
+CD01O330E 004824 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD01O330E 004824 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD01O330E 004824 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD01O330E 004824 JOSÉ OTÁVIO GERMANO                     Sim       PP        Rio Grande do Sul        501
+CD01O330E 004824 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD01O330E 004824 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD01O330E 004824 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD01O330E 004824 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O330E 004824 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CD01O330E 004824 ONYX LORENZONI                          Não       DEM       Rio Grande do Sul        510
+CD01O330E 004824 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD01O330E 004824 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CD01O330E 004824 PEPE VARGAS                             Sim       PT        Rio Grande do Sul        503
+CD01O330E 004824 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD01O330E 004824 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD01O330E 004824 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD01O330E 004824 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD01O330E 004824 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD01O330E 004824 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O330E 004824 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O330E 004824 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD01O330E 004824 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O330E 004824 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD01O330E 004824 SÉRGIO BRITO                            <-------> PSD       Bahia                    213
+CD01O330E 004824 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD01O330E 004824 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O330E 004824 MARCOS MEDRADO                          <-------> PDT       Bahia                    200
+CD01O330E 004824 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD01O330E 004824 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD01O330E 004824 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD01O330E 004824 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD01O330E 004824 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD01O330E 004824 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD01O330E 004824 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O330E 004824 RONALDO FONSECA                         <-------> PR        Distrito Federal         414
+CD01O330E 004824 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD01O330E 004824 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O330E 004824 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD01O330E 004824 ÍRIS DE ARAÚJO                          <-------> PMDB      Goiás                    417
+CD01O330E 004824 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O330E 004824 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O330E 004824 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD01O330E 004824 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD01O330E 004824 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD01O330E 004824 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O330E 004824 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O330E 004824 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O330E 004824 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O330E 004824 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O330E 004824 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O330E 004824 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD01O330E 004824 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O330E 004824 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O330E 004824 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CD01O330E 004824 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O330E 004824 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O330E 004824 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD01O330E 004824 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD01O330E 004824 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD01O330E 004824 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD01O330E 004824 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD01O330E 004824 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O330E 004824 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O330E 004824 NAZARENO FONTELES                       <-------> PT        Piauí                    530
+CD01O330E 004824 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD01O330E 004824 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O330E 004824 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD01O330E 004824 EDSON EZEQUIEL                          <-------> PMDB      Rio de Janeiro           298
+CD01O330E 004824 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD01O330E 004824 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD01O330E 004824 ZOINHO                                  <-------> PR        Rio de Janeiro           328
+CD01O330E 004824 CHICO ALENCAR                           <-------> PSOL      Rio de Janeiro           295
+CD01O330E 004824 ANTHONY GAROTINHO                       <-------> PR        Rio de Janeiro           289
+CD01O330E 004824 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD01O330E 004824 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CD01O330E 004824 LEONARDO PICCIANI                       <-------> PMDB      Rio de Janeiro           312
+CD01O330E 004824 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD01O330E 004824 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD01O330E 004824 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD01O330E 004824 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD01O330E 004824 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O330E 004824 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O330E 004824 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O330E 004824 GIOVANI CHERINI                         <-------> PDT       Rio Grande do Sul        502
+CD01O330E 004824 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O330E 004824 ALMEIDA LIMA                            <-------> PPS       Sergipe                  173
+CD01O330E 004824 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CD01O330E 004824 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O330E 004824 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD01O330E 004824 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD01O330E 004824 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD01O330E 004824 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD01O330E 004824 ARNALDO FARIA DE SÁ                     <-------> PTB       São Paulo                337
+CD01O330E 004824 RICARDO IZAR                            <-------> PSD       São Paulo                383
+CD01O330E 004824 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O330E 004824 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O330E 004824 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD01O330E 004824 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD01O330E 004824 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD01O330E 004824 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O330E 004824 CÉSAR HALUM                             <-------> PSD       Tocantins                64 
+CD01O330E 004824 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 

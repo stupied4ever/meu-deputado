@@ -1,0 +1,513 @@
+CD01O126E 004662 BERINHO BANTIM                          Sim       PSDB      Roraima                  1
+CD01O126E 004662 DR. FRANCISCO ARAÚJO                    Não       PSL       Roraima                  570
+CD01O126E 004662 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD01O126E 004662 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD01O126E 004662 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD01O126E 004662 RAUL LIMA                               Não       PP        Roraima                  7  
+CD01O126E 004662 TERESA SURITA                           Não       PMDB      Roraima                  8  
+CD01O126E 004662 PROFESSORA MARCIVANIA                   Não       PT        Amapá                    15 
+CD01O126E 004662 VINICIUS GURGEL                         Não       PRTB      Amapá                    16 
+CD01O126E 004662 ANDRÉ DIAS                              Sim       PSDB      Pará                     517
+CD01O126E 004662 ARNALDO JORDY                           Sim       PPS       Pará                     18 
+CD01O126E 004662 BETO FARO                               Não       PT        Pará                     19 
+CD01O126E 004662 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD01O126E 004662 GIOVANNI QUEIROZ                        Não       PDT       Pará                     27 
+CD01O126E 004662 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD01O126E 004662 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD01O126E 004662 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O126E 004662 LUIZ OTÁVIO                             Não       PMDB      Pará                     526
+CD01O126E 004662 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O126E 004662 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD01O126E 004662 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD01O126E 004662 ÁTILA LINS                              Não       PMDB      Amazonas                 38 
+CD01O126E 004662 CARLOS SOUZA                            Não       PP        Amazonas                 37 
+CD01O126E 004662 HENRIQUE OLIVEIRA                       Não       PR        Amazonas                 36 
+CD01O126E 004662 REBECCA GARCIA                          Não       PP        Amazonas                 42 
+CD01O126E 004662 CARLOS MAGNO                            Não       PP        Rondonia                 44 
+CD01O126E 004662 LINDOMAR GARÇON                         Não       PV        Rondonia                 45 
+CD01O126E 004662 MAURO NAZIF                             Não       PSB       Rondonia                 46 
+CD01O126E 004662 NATAN DONADON                           Não       PMDB      Rondonia                 51 
+CD01O126E 004662 NILTON CAPIXABA                         Não       PTB       Rondonia                 47 
+CD01O126E 004662 PADRE TON                               Não       PT        Rondonia                 48 
+CD01O126E 004662 FLAVIANO MELO                           Sim       PMDB      Acre                     54 
+CD01O126E 004662 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD01O126E 004662 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD01O126E 004662 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD01O126E 004662 CÉSAR HALUM                             Sim       PPS       Tocantins                64 
+CD01O126E 004662 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD01O126E 004662 LAUREZ MOREIRA                          Não       PSB       Tocantins                62 
+CD01O126E 004662 LÁZARO BOTELHO                          Não       PP        Tocantins                63 
+CD01O126E 004662 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O126E 004662 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD01O126E 004662 DAVI ALVES SILVA JÚNIOR                 Não       PR        Maranhão                 528
+CD01O126E 004662 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD01O126E 004662 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD01O126E 004662 GASTÃO VIEIRA                           Não       PMDB      Maranhão                 75 
+CD01O126E 004662 HÉLIO SANTOS                            Sim       PSDB      Maranhão                 76 
+CD01O126E 004662 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O126E 004662 LUCIANO MOREIRA                         Não       PMDB      Maranhão                 83 
+CD01O126E 004662 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD01O126E 004662 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD01O126E 004662 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD01O126E 004662 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O126E 004662 ANÍBAL GOMES                            Não       PMDB      Ceará                    87 
+CD01O126E 004662 ANTONIO BALHMANN                        Não       PSB       Ceará                    93 
+CD01O126E 004662 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD01O126E 004662 ARNON BEZERRA                           Não       PTB       Ceará                    90 
+CD01O126E 004662 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD01O126E 004662 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD01O126E 004662 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD01O126E 004662 GENECIAS NORONHA                        Não       PMDB      Ceará                    99 
+CD01O126E 004662 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O126E 004662 JOSÉ LINHARES                           Não       PP        Ceará                    96 
+CD01O126E 004662 MANOEL SALVIANO                         Não       PSDB      Ceará                    104
+CD01O126E 004662 MAURO BENEVIDES                         Não       PMDB      Ceará                    105
+CD01O126E 004662 RAIMUNDÃO                               Não       PMDB      Ceará                    108
+CD01O126E 004662 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD01O126E 004662 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD01O126E 004662 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD01O126E 004662 HUGO NAPOLEÃO                           Sim       DEM       Piauí                    112
+CD01O126E 004662 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O126E 004662 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD01O126E 004662 JÚLIO CESAR                             Sim       DEM       Piauí                    114
+CD01O126E 004662 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD01O126E 004662 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD01O126E 004662 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD01O126E 004662 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD01O126E 004662 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD01O126E 004662 HENRIQUE EDUARDO ALVES                  Não       PMDB      Rio Grande do Norte      123
+CD01O126E 004662 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD01O126E 004662 ROGÉRIO MARINHO                         Sim       PSDB      Rio Grande do Norte      540
+CD01O126E 004662 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD01O126E 004662 AGUINALDO RIBEIRO                       Não       PP        Paraíba                  129
+CD01O126E 004662 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD01O126E 004662 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD01O126E 004662 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD01O126E 004662 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O126E 004662 MANOEL JUNIOR                           Não       PMDB      Paraíba                  130
+CD01O126E 004662 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD01O126E 004662 ROMERO RODRIGUES                        Sim       PSDB      Paraíba                  135
+CD01O126E 004662 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD01O126E 004662 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD01O126E 004662 WILSON FILHO                            Não       PMDB      Paraíba                  139
+CD01O126E 004662 ANA ARRAES                              Não       PSB       Pernambuco               140
+CD01O126E 004662 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD01O126E 004662 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CD01O126E 004662 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD01O126E 004662 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD01O126E 004662 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD01O126E 004662 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD01O126E 004662 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD01O126E 004662 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD01O126E 004662 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD01O126E 004662 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD01O126E 004662 VILALBA                                 Não       PRB       Pernambuco               555
+CD01O126E 004662 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD01O126E 004662 CELIA ROCHA                             Não       PTB       Alagoas                  165
+CD01O126E 004662 GIVALDO CARIMBÃO                        Não       PSB       Alagoas                  166
+CD01O126E 004662 JOÃO LYRA                               Não       PTB       Alagoas                  167
+CD01O126E 004662 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD01O126E 004662 RENAN FILHO                             Não       PMDB      Alagoas                  169
+CD01O126E 004662 ROSINHA DA ADEFAL                       Não       PTdoB     Alagoas                  170
+CD01O126E 004662 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD01O126E 004662 ALMEIDA LIMA                            Não       PMDB      Sergipe                  173
+CD01O126E 004662 HELENO SILVA                            Não       PRB       Sergipe                  175
+CD01O126E 004662 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD01O126E 004662 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD01O126E 004662 ACELINO POPÓ                            Não       PRB       Bahia                    522
+CD01O126E 004662 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD01O126E 004662 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O126E 004662 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD01O126E 004662 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O126E 004662 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD01O126E 004662 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD01O126E 004662 EDSON PIMENTA                           Não       PCdoB     Bahia                    193
+CD01O126E 004662 EMILIANO JOSÉ                           Não       PT        Bahia                    523
+CD01O126E 004662 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD01O126E 004662 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD01O126E 004662 FERNANDO TORRES                         Não       DEM       Bahia                    196
+CD01O126E 004662 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O126E 004662 JÂNIO NATAL                             Não       PRP       Bahia                    198
+CD01O126E 004662 JOÃO CARLOS BACELAR                     Não       PR        Bahia                    187
+CD01O126E 004662 JOSÉ CARLOS ARAÚJO                      Não       PDT       Bahia                    197
+CD01O126E 004662 JOSÉ NUNES                              Sim       DEM       Bahia                    201
+CD01O126E 004662 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD01O126E 004662 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O126E 004662 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD01O126E 004662 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD01O126E 004662 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD01O126E 004662 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD01O126E 004662 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD01O126E 004662 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD01O126E 004662 PAULO MAGALHÃES                         Não       DEM       Bahia                    214
+CD01O126E 004662 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O126E 004662 RUI COSTA                               Não       PT        Bahia                    216
+CD01O126E 004662 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O126E 004662 SÉRGIO BRITO                            Não       PSC       Bahia                    213
+CD01O126E 004662 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O126E 004662 ADEMIR CAMILO                           Sim       PDT       Minas Gerais             220
+CD01O126E 004662 AELTON FREITAS                          Não       PR        Minas Gerais             224
+CD01O126E 004662 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD01O126E 004662 ARACELY DE PAULA                        Não       PR        Minas Gerais             223
+CD01O126E 004662 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD01O126E 004662 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CD01O126E 004662 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD01O126E 004662 DIEGO ANDRADE                           Não       PR        Minas Gerais             228
+CD01O126E 004662 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O126E 004662 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD01O126E 004662 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD01O126E 004662 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD01O126E 004662 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD01O126E 004662 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD01O126E 004662 GEORGE HILTON                           Não       PRB       Minas Gerais             241
+CD01O126E 004662 GERALDO THADEU                          Sim       PPS       Minas Gerais             236
+CD01O126E 004662 GILMAR MACHADO                          Não       PT        Minas Gerais             234
+CD01O126E 004662 JAIME MARTINS                           Não       PR        Minas Gerais             240
+CD01O126E 004662 JAIRO ATAIDE                            Não       DEM       Minas Gerais             533
+CD01O126E 004662 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD01O126E 004662 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O126E 004662 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD01O126E 004662 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD01O126E 004662 LUIS TIBÉ                               Não       PTdoB     Minas Gerais             251
+CD01O126E 004662 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD01O126E 004662 MARCOS MONTES                           Sim       DEM       Minas Gerais             257
+CD01O126E 004662 MIGUEL CORRÊA                           Não       PT        Minas Gerais             261
+CD01O126E 004662 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O126E 004662 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD01O126E 004662 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD01O126E 004662 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD01O126E 004662 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD01O126E 004662 STEFANO AGUIAR                          Não       PSC       Minas Gerais             558
+CD01O126E 004662 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O126E 004662 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD01O126E 004662 WALTER TOSTA                            Sim       PMN       Minas Gerais             267
+CD01O126E 004662 ZÉ SILVA                                Não       PDT       Minas Gerais             271
+CD01O126E 004662 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O126E 004662 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD01O126E 004662 LAURIETE                                Não       PSC       Espírito Santo           279
+CD01O126E 004662 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD01O126E 004662 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O126E 004662 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD01O126E 004662 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD01O126E 004662 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CD01O126E 004662 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD01O126E 004662 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD01O126E 004662 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD01O126E 004662 BRIZOLA NETO                            Não       PDT       Rio de Janeiro           566
+CD01O126E 004662 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O126E 004662 CHICO D`ANGELO                          Não       PT        Rio de Janeiro           527
+CD01O126E 004662 CRISTIANO                               Não       PTdoB     Rio de Janeiro           292
+CD01O126E 004662 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD01O126E 004662 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD01O126E 004662 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O126E 004662 DR. PAULO CÉSAR                         Não       PR        Rio de Janeiro           296
+CD01O126E 004662 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD01O126E 004662 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD01O126E 004662 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD01O126E 004662 ELIANE ROLIM                            Não       PT        Rio de Janeiro           538
+CD01O126E 004662 FERNANDO JORDÃO                         Não       PMDB      Rio de Janeiro           557
+CD01O126E 004662 FILIPE PEREIRA                          Não       PSC       Rio de Janeiro           303
+CD01O126E 004662 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD01O126E 004662 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD01O126E 004662 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O126E 004662 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD01O126E 004662 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD01O126E 004662 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD01O126E 004662 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O126E 004662 NELSON BORNIER                          Não       PMDB      Rio de Janeiro           549
+CD01O126E 004662 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD01O126E 004662 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD01O126E 004662 SOLANGE ALMEIDA                         Não       PMDB      Rio de Janeiro           563
+CD01O126E 004662 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD01O126E 004662 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O126E 004662 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD01O126E 004662 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD01O126E 004662 ABELARDO CAMARINHA                      Não       PSB       São Paulo                329
+CD01O126E 004662 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD01O126E 004662 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD01O126E 004662 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD01O126E 004662 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD01O126E 004662 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD01O126E 004662 BETO MANSUR                             Não       PP        São Paulo                340
+CD01O126E 004662 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD01O126E 004662 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD01O126E 004662 CARLOS ROBERTO                          Sim       PSDB      São Paulo                569
+CD01O126E 004662 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD01O126E 004662 DELEGADO PROTÓGENES                     Não       PCdoB     São Paulo                343
+CD01O126E 004662 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD01O126E 004662 DIMAS RAMALHO                           Sim       PPS       São Paulo                346
+CD01O126E 004662 DR. UBIALI                              Não       PSB       São Paulo                541
+CD01O126E 004662 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD01O126E 004662 ELEUSES PAIVA                           Sim       DEM       São Paulo                537
+CD01O126E 004662 GABRIEL CHALITA                         Não       PSB       São Paulo                347
+CD01O126E 004662 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD01O126E 004662 JEFFERSON CAMPOS                        Não       PSB       São Paulo                349
+CD01O126E 004662 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O126E 004662 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD01O126E 004662 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD01O126E 004662 JUNJI ABE                               Sim       DEM       São Paulo                355
+CD01O126E 004662 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O126E 004662 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD01O126E 004662 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O126E 004662 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD01O126E 004662 MARCELO AGUIAR                          Sim       PSC       São Paulo                370
+CD01O126E 004662 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD01O126E 004662 NEWTON LIMA                             Não       PT        São Paulo                377
+CD01O126E 004662 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O126E 004662 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD01O126E 004662 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O126E 004662 PAULO MALUF                             Não       PP        São Paulo                373
+CD01O126E 004662 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD01O126E 004662 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD01O126E 004662 RICARDO IZAR                            Sim       PV        São Paulo                383
+CD01O126E 004662 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD01O126E 004662 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O126E 004662 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD01O126E 004662 TIRIRICA                                Não       PR        São Paulo                392
+CD01O126E 004662 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD01O126E 004662 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD01O126E 004662 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CD01O126E 004662 VICENTINHO                              Não       PT        São Paulo                396
+CD01O126E 004662 WALTER IHOSHI                           Sim       DEM       São Paulo                553
+CD01O126E 004662 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD01O126E 004662 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD01O126E 004662 HOMERO PEREIRA                          Não       PR        Mato Grosso              402
+CD01O126E 004662 NERI GELLER                             Não       PP        Mato Grosso              520
+CD01O126E 004662 ROBERTO DORNER                          Não       PP        Mato Grosso              519
+CD01O126E 004662 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD01O126E 004662 WELLINGTON FAGUNDES                     Não       PR        Mato Grosso              406
+CD01O126E 004662 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O126E 004662 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O126E 004662 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD01O126E 004662 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O126E 004662 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O126E 004662 DELEGADO WALDIR                         Sim       PSDB      Goiás                    559
+CD01O126E 004662 HEULER CRUVINEL                         Sim       DEM       Goiás                    423
+CD01O126E 004662 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O126E 004662 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD01O126E 004662 JORGE PINHEIRO                          Não       PRB       Goiás                    548
+CD01O126E 004662 JOVAIR ARANTES                          Não       PTB       Goiás                    419
+CD01O126E 004662 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD01O126E 004662 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD01O126E 004662 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD01O126E 004662 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD01O126E 004662 RUBENS OTONI                            Não       PT        Goiás                    425
+CD01O126E 004662 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD01O126E 004662 ANTÔNIO CARLOS BIFFI                    Não       PT        Mato Grosso do Sul       432
+CD01O126E 004662 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD01O126E 004662 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD01O126E 004662 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD01O126E 004662 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD01O126E 004662 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD01O126E 004662 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD01O126E 004662 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD01O126E 004662 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O126E 004662 DR. ROSINHA                             Não       PT        Paraná                   449
+CD01O126E 004662 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD01O126E 004662 EDUARDO SCIARRA                         Sim       DEM       Paraná                   461
+CD01O126E 004662 FERNANDO FRANCISCHINI                   Sim       PSDB      Paraná                   450
+CD01O126E 004662 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O126E 004662 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O126E 004662 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD01O126E 004662 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD01O126E 004662 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD01O126E 004662 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD01O126E 004662 RATINHO JUNIOR                          Não       PSC       Paraná                   464
+CD01O126E 004662 REINHOLD STEPHANES                      Não       PMDB      Paraná                   467
+CD01O126E 004662 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD01O126E 004662 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD01O126E 004662 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O126E 004662 TAKAYAMA                                Não       PSC       Paraná                   469
+CD01O126E 004662 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD01O126E 004662 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD01O126E 004662 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD01O126E 004662 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O126E 004662 GEAN LOUREIRO                           Não       PMDB      Santa Catarina           568
+CD01O126E 004662 JORGE BOEIRA                            Não       PT        Santa Catarina           474
+CD01O126E 004662 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD01O126E 004662 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD01O126E 004662 ONOFRE SANTO AGOSTINI                   Sim       DEM       Santa Catarina           479
+CD01O126E 004662 PEDRO UCZAI                             Não       PT        Santa Catarina           481
+CD01O126E 004662 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD01O126E 004662 ZONTA                                   Não       PP        Santa Catarina           485
+CD01O126E 004662 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD01O126E 004662 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD01O126E 004662 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD01O126E 004662 DANRLEI DE DEUS HINTERHOLZ              Não       PTB       Rio Grande do Sul        495
+CD01O126E 004662 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD01O126E 004662 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD01O126E 004662 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD01O126E 004662 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD01O126E 004662 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD01O126E 004662 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O126E 004662 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD01O126E 004662 MANUELA D`ÁVILA                         Não       PCdoB     Rio Grande do Sul        494
+CD01O126E 004662 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O126E 004662 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD01O126E 004662 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD01O126E 004662 OSMAR TERRA                             Não       PMDB      Rio Grande do Sul        497
+CD01O126E 004662 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O126E 004662 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD01O126E 004662 SÉRGIO MORAES                           Não       PTB       Rio Grande do Sul        512
+CD01O126E 004662 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD01O126E 004662 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD01O126E 004662 SIBÁ MACHADO                            <-------> PT        Acre                     58 
+CD01O126E 004662 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O126E 004662 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD01O126E 004662 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O126E 004662 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O126E 004662 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O126E 004662 PAUDERNEY AVELINO                       <-------> DEM       Amazonas                 40 
+CD01O126E 004662 SILAS CÂMARA                            <-------> PSC       Amazonas                 39 
+CD01O126E 004662 FRANCISCO PRACIANO                      <-------> PT        Amazonas                 41 
+CD01O126E 004662 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD01O126E 004662 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD01O126E 004662 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O126E 004662 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O126E 004662 EVANDRO MILHOMEN                        <-------> PCdoB     Amapá                    11 
+CD01O126E 004662 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD01O126E 004662 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD01O126E 004662 ANTONIO BRITO                           <-------> PTB       Bahia                    189
+CD01O126E 004662 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD01O126E 004662 JOSEPH BANDEIRA                         <-------> PT        Bahia                    565
+CD01O126E 004662 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD01O126E 004662 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O126E 004662 VALMIR ASSUNÇÃO                         <-------> PT        Bahia                    218
+CD01O126E 004662 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD01O126E 004662 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD01O126E 004662 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD01O126E 004662 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O126E 004662 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD01O126E 004662 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O126E 004662 ARTUR BRUNO                             <-------> PT        Ceará                    94 
+CD01O126E 004662 POLICARPO                               <-------> PT        Distrito Federal         539
+CD01O126E 004662 RICARDO QUIRINO                         <-------> PRB       Distrito Federal         551
+CD01O126E 004662 ERIKA KOKAY                             <-------> PT        Distrito Federal         407
+CD01O126E 004662 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD01O126E 004662 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD01O126E 004662 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD01O126E 004662 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD01O126E 004662 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O126E 004662 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD01O126E 004662 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O126E 004662 PEDRO CHAVES                            <-------> PMDB      Goiás                    428
+CD01O126E 004662 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O126E 004662 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O126E 004662 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD01O126E 004662 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O126E 004662 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O126E 004662 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O126E 004662 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD01O126E 004662 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD01O126E 004662 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O126E 004662 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O126E 004662 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD01O126E 004662 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O126E 004662 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD01O126E 004662 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD01O126E 004662 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O126E 004662 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD01O126E 004662 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O126E 004662 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD01O126E 004662 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD01O126E 004662 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O126E 004662 ANTÔNIO ANDRADE                         <-------> PMDB      Minas Gerais             227
+CD01O126E 004662 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O126E 004662 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O126E 004662 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O126E 004662 GIROTO                                  <-------> PR        Mato Grosso do Sul       434
+CD01O126E 004662 MARÇAL FILHO                            <-------> PMDB      Mato Grosso do Sul       437
+CD01O126E 004662 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD01O126E 004662 SÁGUAS MORAES                           <-------> PT        Mato Grosso              405
+CD01O126E 004662 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD01O126E 004662 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD01O126E 004662 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O126E 004662 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O126E 004662 DUDIMAR PAXIÚBA                         <-------> PSDB      Pará                     518
+CD01O126E 004662 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD01O126E 004662 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD01O126E 004662 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD01O126E 004662 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD01O126E 004662 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD01O126E 004662 RAUL HENRY                              <-------> PMDB      Pernambuco               163
+CD01O126E 004662 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O126E 004662 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD01O126E 004662 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD01O126E 004662 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD01O126E 004662 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O126E 004662 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O126E 004662 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD01O126E 004662 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O126E 004662 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD01O126E 004662 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD01O126E 004662 ASSIS DO COUTO                          <-------> PT        Paraná                   443
+CD01O126E 004662 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O126E 004662 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD01O126E 004662 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O126E 004662 NELSON MEURER                           <-------> PP        Paraná                   458
+CD01O126E 004662 MOACIR MICHELETTO                       <-------> PMDB      Paraná                   462
+CD01O126E 004662 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O126E 004662 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O126E 004662 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD01O126E 004662 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD01O126E 004662 LILIAM SÁ                               <-------> PR        Rio de Janeiro           309
+CD01O126E 004662 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O126E 004662 AROLDE DE OLIVEIRA                      <-------> DEM       Rio de Janeiro           288
+CD01O126E 004662 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD01O126E 004662 BENEDITA DA SILVA                       <-------> PT        Rio de Janeiro           291
+CD01O126E 004662 FELIPE BORNIER                          <-------> PHS       Rio de Janeiro           301
+CD01O126E 004662 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD01O126E 004662 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD01O126E 004662 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD01O126E 004662 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD01O126E 004662 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD01O126E 004662 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O126E 004662 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O126E 004662 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD01O126E 004662 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O126E 004662 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD01O126E 004662 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O126E 004662 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O126E 004662 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD01O126E 004662 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O126E 004662 PEPE VARGAS                             <-------> PT        Rio Grande do Sul        503
+CD01O126E 004662 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD01O126E 004662 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O126E 004662 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD01O126E 004662 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD01O126E 004662 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD01O126E 004662 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O126E 004662 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD01O126E 004662 EDINHO BEZ                              <-------> PMDB      Santa Catarina           470
+CD01O126E 004662 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O126E 004662 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD01O126E 004662 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O126E 004662 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O126E 004662 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD01O126E 004662 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD01O126E 004662 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD01O126E 004662 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD01O126E 004662 PENNA                                   <-------> PV        São Paulo                382
+CD01O126E 004662 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O126E 004662 ALDO REBELO                             <-------> PCdoB     São Paulo                331
+CD01O126E 004662 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD01O126E 004662 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O126E 004662 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD01O126E 004662 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O126E 004662 GUILHERME MUSSI                         <-------> PV        São Paulo                348
+CD01O126E 004662 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD01O126E 004662 GUILHERME CAMPOS                        <-------> DEM       São Paulo                357
+CD01O126E 004662 IVAN VALENTE                            <-------> PSOL      São Paulo                359
+CD01O126E 004662 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O126E 004662 JOÃO DADO                               <-------> PDT       São Paulo                362
+CD01O126E 004662 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD01O126E 004662 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O126E 004662 JOSÉ DE FILIPPI                         <-------> PT        São Paulo                354
+CD01O126E 004662 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD01O126E 004662 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD01O126E 004662 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O126E 004662 ROBERTO SANTIAGO                        <-------> PV        São Paulo                386
+CD01O126E 004662 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O126E 004662 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD01O126E 004662 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O126E 004662 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 

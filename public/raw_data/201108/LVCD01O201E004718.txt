@@ -1,0 +1,513 @@
+CD01O201E 004718 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62
+CD01O201E 004718 PROFESSORA DORINHA SEABRA REZEN         Obstrução DEM       Tocantins                67 
+CD01O201E 004718 CLEBER VERDE                            Obstrução PRB       Maranhão                 70 
+CD01O201E 004718 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD01O201E 004718 SARNEY FILHO                            Sim       PV        Maranhão                 85 
+CD01O201E 004718 ANDRÉ FIGUEIREDO                        Obstrução PDT       Ceará                    89 
+CD01O201E 004718 EDUARDO DA FONTE                        Obstrução PP        Pernambuco               156
+CD01O201E 004718 INOCÊNCIO OLIVEIRA                      Art. 17   PR        Pernambuco               145
+CD01O201E 004718 PAULO RUBEM SANTIAGO                    Sim       PDT       Pernambuco               554
+CD01O201E 004718 RAUL HENRY                              Obstrução PMDB      Pernambuco               163
+CD01O201E 004718 ARTHUR LIRA                             Abstenção PP        Alagoas                  162
+CD01O201E 004718 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O201E 004718 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O201E 004718 WALDENOR PEREIRA                        Abstenção PT        Bahia                    219
+CD01O201E 004718 CARLAILE PEDROSA                        Obstrução PSDB      Minas Gerais             222
+CD01O201E 004718 JOSÉ HUMBERTO                           Obstrução PHS       Minas Gerais             249
+CD01O201E 004718 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O201E 004718 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD01O201E 004718 DR. PAULO CÉSAR                         Obstrução PR        Rio de Janeiro           296
+CD01O201E 004718 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD01O201E 004718 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O201E 004718 NEILTON MULIM                           Abstenção PR        Rio de Janeiro           315
+CD01O201E 004718 ZOINHO                                  Obstrução PR        Rio de Janeiro           328
+CD01O201E 004718 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD01O201E 004718 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O201E 004718 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD01O201E 004718 JANETE ROCHA PIETÁ                      Obstrução PT        São Paulo                358
+CD01O201E 004718 TIRIRICA                                Obstrução PR        São Paulo                392
+CD01O201E 004718 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O201E 004718 ERIKA KOKAY                             Obstrução PT        Distrito Federal         407
+CD01O201E 004718 IZALCI                                  Obstrução PR        Distrito Federal         408
+CD01O201E 004718 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O201E 004718 RONALDO FONSECA                         Obstrução PR        Distrito Federal         414
+CD01O201E 004718 TAKAYAMA                                Obstrução PSC       Paraná                   469
+CD01O201E 004718 ONOFRE SANTO AGOSTINI                   Obstrução DEM       Santa Catarina           479
+CD01O201E 004718 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD01O201E 004718 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O201E 004718 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD01O201E 004718 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O201E 004718 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD01O201E 004718 TAUMATURGO LIMA                         <-------> PT        Acre                     59 
+CD01O201E 004718 SIBÁ MACHADO                            <-------> PT        Acre                     58 
+CD01O201E 004718 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD01O201E 004718 JOAQUIM BELTRÃO                         <-------> PMDB      Alagoas                  172
+CD01O201E 004718 RUI PALMEIRA                            <-------> PSDB      Alagoas                  171
+CD01O201E 004718 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O201E 004718 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD01O201E 004718 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O201E 004718 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O201E 004718 JOÃO LYRA                               <-------> PTB       Alagoas                  167
+CD01O201E 004718 CELIA ROCHA                             <-------> PTB       Alagoas                  165
+CD01O201E 004718 SILAS CÂMARA                            <-------> PSC       Amazonas                 39 
+CD01O201E 004718 CARLOS SOUZA                            <-------> PP        Amazonas                 37 
+CD01O201E 004718 FRANCISCO PRACIANO                      <-------> PT        Amazonas                 41 
+CD01O201E 004718 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD01O201E 004718 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O201E 004718 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD01O201E 004718 PAUDERNEY AVELINO                       <-------> DEM       Amazonas                 40 
+CD01O201E 004718 ÁTILA LINS                              <-------> PMDB      Amazonas                 38 
+CD01O201E 004718 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O201E 004718 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O201E 004718 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD01O201E 004718 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD01O201E 004718 EVANDRO MILHOMEN                        <-------> PCdoB     Amapá                    11 
+CD01O201E 004718 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD01O201E 004718 VINICIUS GURGEL                         <-------> PRTB      Amapá                    16 
+CD01O201E 004718 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD01O201E 004718 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD01O201E 004718 JOSEPH BANDEIRA                         <-------> PT        Bahia                    565
+CD01O201E 004718 AMAURI TEIXEIRA                         <-------> PT        Bahia                    184
+CD01O201E 004718 GERALDO SIMÕES                          <-------> PT        Bahia                    185
+CD01O201E 004718 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD01O201E 004718 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O201E 004718 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD01O201E 004718 ANTONIO BRITO                           <-------> PTB       Bahia                    189
+CD01O201E 004718 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD01O201E 004718 EDSON PIMENTA                           <-------> PCdoB     Bahia                    193
+CD01O201E 004718 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD01O201E 004718 FERNANDO TORRES                         <-------> DEM       Bahia                    196
+CD01O201E 004718 JOSÉ CARLOS ARAÚJO                      <-------> PDT       Bahia                    197
+CD01O201E 004718 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD01O201E 004718 MARCOS MEDRADO                          <-------> PDT       Bahia                    200
+CD01O201E 004718 JOSÉ NUNES                              <-------> DEM       Bahia                    201
+CD01O201E 004718 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD01O201E 004718 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD01O201E 004718 LUIZ ALBERTO                            <-------> PT        Bahia                    204
+CD01O201E 004718 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD01O201E 004718 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD01O201E 004718 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD01O201E 004718 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O201E 004718 ROBERTO BRITTO                          <-------> PP        Bahia                    211
+CD01O201E 004718 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD01O201E 004718 SÉRGIO BRITO                            <-------> PSC       Bahia                    213
+CD01O201E 004718 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD01O201E 004718 RUI COSTA                               <-------> PT        Bahia                    216
+CD01O201E 004718 VALMIR ASSUNÇÃO                         <-------> PT        Bahia                    218
+CD01O201E 004718 FELIX MENDONÇA JÚNIOR                   <-------> PDT       Bahia                    195
+CD01O201E 004718 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD01O201E 004718 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD01O201E 004718 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD01O201E 004718 SÉRGIO BARRADAS CARNEIRO                <-------> PT        Bahia                    524
+CD01O201E 004718 PAULO MAGALHÃES                         <-------> DEM       Bahia                    214
+CD01O201E 004718 ANTONIO CARLOS MAGALHÃES NETO           <-------> DEM       Bahia                    181
+CD01O201E 004718 ARTUR BRUNO                             <-------> PT        Ceará                    94 
+CD01O201E 004718 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O201E 004718 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD01O201E 004718 CHICO LOPES                             <-------> PCdoB     Ceará                    88 
+CD01O201E 004718 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD01O201E 004718 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD01O201E 004718 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD01O201E 004718 ARIOSTO HOLANDA                         <-------> PSB       Ceará                    92 
+CD01O201E 004718 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD01O201E 004718 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD01O201E 004718 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD01O201E 004718 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD01O201E 004718 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O201E 004718 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O201E 004718 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD01O201E 004718 JOSÉ GUIMARÃES                          <-------> PT        Ceará                    103
+CD01O201E 004718 MANOEL SALVIANO                         <-------> PSDB      Ceará                    104
+CD01O201E 004718 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD01O201E 004718 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD01O201E 004718 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O201E 004718 RAIMUNDÃO                               <-------> PMDB      Ceará                    108
+CD01O201E 004718 POLICARPO                               <-------> PT        Distrito Federal         539
+CD01O201E 004718 LUIZ PITIMAN                            <-------> PMDB      Distrito Federal         410
+CD01O201E 004718 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD01O201E 004718 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD01O201E 004718 AUDIFAX                                 <-------> PSB       Espírito Santo           274
+CD01O201E 004718 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD01O201E 004718 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD01O201E 004718 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD01O201E 004718 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD01O201E 004718 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD01O201E 004718 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD01O201E 004718 MANATO                                  <-------> PDT       Espírito Santo           275
+CD01O201E 004718 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD01O201E 004718 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O201E 004718 MAGDA MOFATTO                           <-------> PTB       Goiás                    575
+CD01O201E 004718 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O201E 004718 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O201E 004718 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD01O201E 004718 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD01O201E 004718 HEULER CRUVINEL                         <-------> DEM       Goiás                    423
+CD01O201E 004718 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O201E 004718 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD01O201E 004718 VALDIVINO DE OLIVEIRA                   <-------> PSDB      Goiás                    547
+CD01O201E 004718 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD01O201E 004718 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O201E 004718 PEDRO CHAVES                            <-------> PMDB      Goiás                    428
+CD01O201E 004718 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD01O201E 004718 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O201E 004718 ARMANDO VERGÍLIO                        <-------> PMN       Goiás                    416
+CD01O201E 004718 ÍRIS DE ARAÚJO                          <-------> PMDB      Goiás                    417
+CD01O201E 004718 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O201E 004718 COSTA FERREIRA                          <-------> PSC       Maranhão                 571
+CD01O201E 004718 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD01O201E 004718 ALBERTO FILHO                           <-------> PMDB      Maranhão                 71 
+CD01O201E 004718 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD01O201E 004718 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD01O201E 004718 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O201E 004718 GASTÃO VIEIRA                           <-------> PMDB      Maranhão                 75 
+CD01O201E 004718 HÉLIO SANTOS                            <-------> PSDB      Maranhão                 76 
+CD01O201E 004718 LOURIVAL MENDES                         <-------> PTdoB     Maranhão                 77 
+CD01O201E 004718 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O201E 004718 WALDIR MARANHÃO                         <-------> PP        Maranhão                 84 
+CD01O201E 004718 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O201E 004718 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O201E 004718 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O201E 004718 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CD01O201E 004718 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD01O201E 004718 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD01O201E 004718 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD01O201E 004718 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD01O201E 004718 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD01O201E 004718 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O201E 004718 ADEMIR CAMILO                           <-------> PDT       Minas Gerais             220
+CD01O201E 004718 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O201E 004718 ANTÔNIO ANDRADE                         <-------> PMDB      Minas Gerais             227
+CD01O201E 004718 DIEGO ANDRADE                           <-------> PR        Minas Gerais             228
+CD01O201E 004718 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD01O201E 004718 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD01O201E 004718 DIMAS FABIANO                           <-------> PP        Minas Gerais             231
+CD01O201E 004718 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O201E 004718 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD01O201E 004718 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD01O201E 004718 GERALDO THADEU                          <-------> PPS       Minas Gerais             236
+CD01O201E 004718 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD01O201E 004718 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD01O201E 004718 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD01O201E 004718 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O201E 004718 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD01O201E 004718 EROS BIONDINI                           <-------> PTB       Minas Gerais             242
+CD01O201E 004718 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD01O201E 004718 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD01O201E 004718 JÔ MORAES                               <-------> PCdoB     Minas Gerais             246
+CD01O201E 004718 MÁRCIO REINALDO MOREIRA                 <-------> PP        Minas Gerais             247
+CD01O201E 004718 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O201E 004718 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD01O201E 004718 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD01O201E 004718 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD01O201E 004718 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O201E 004718 MARCOS MONTES                           <-------> DEM       Minas Gerais             257
+CD01O201E 004718 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O201E 004718 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O201E 004718 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD01O201E 004718 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD01O201E 004718 TONINHO PINHEIRO                        <-------> PP        Minas Gerais             264
+CD01O201E 004718 SARAIVA FELIPE                          <-------> PMDB      Minas Gerais             265
+CD01O201E 004718 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O201E 004718 WALTER TOSTA                            <-------> PMN       Minas Gerais             267
+CD01O201E 004718 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O201E 004718 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD01O201E 004718 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O201E 004718 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD01O201E 004718 ZÉ SILVA                                <-------> PDT       Minas Gerais             271
+CD01O201E 004718 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD01O201E 004718 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O201E 004718 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O201E 004718 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O201E 004718 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O201E 004718 GERALDO RESENDE                         <-------> PMDB      Mato Grosso do Sul       435
+CD01O201E 004718 MARÇAL FILHO                            <-------> PMDB      Mato Grosso do Sul       437
+CD01O201E 004718 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD01O201E 004718 GIROTO                                  <-------> PR        Mato Grosso do Sul       434
+CD01O201E 004718 FABIO TRAD                              <-------> PMDB      Mato Grosso do Sul       433
+CD01O201E 004718 ANTÔNIO CARLOS BIFFI                    <-------> PT        Mato Grosso do Sul       432
+CD01O201E 004718 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD01O201E 004718 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD01O201E 004718 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O201E 004718 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD01O201E 004718 HOMERO PEREIRA                          <-------> PR        Mato Grosso              402
+CD01O201E 004718 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD01O201E 004718 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD01O201E 004718 ROBERTO DORNER                          <-------> PP        Mato Grosso              519
+CD01O201E 004718 NERI GELLER                             <-------> PP        Mato Grosso              520
+CD01O201E 004718 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD01O201E 004718 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O201E 004718 DUDIMAR PAXIÚBA                         <-------> PSDB      Pará                     518
+CD01O201E 004718 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O201E 004718 LUIZ OTÁVIO                             <-------> PMDB      Pará                     526
+CD01O201E 004718 MIRIQUINHO BATISTA                      <-------> PT        Pará                     35 
+CD01O201E 004718 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O201E 004718 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O201E 004718 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD01O201E 004718 LÚCIO VALE                              <-------> PR        Pará                     29 
+CD01O201E 004718 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O201E 004718 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O201E 004718 BETO FARO                               <-------> PT        Pará                     19 
+CD01O201E 004718 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD01O201E 004718 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD01O201E 004718 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O201E 004718 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O201E 004718 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD01O201E 004718 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O201E 004718 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD01O201E 004718 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD01O201E 004718 ROMERO RODRIGUES                        <-------> PSDB      Paraíba                  135
+CD01O201E 004718 AGUINALDO RIBEIRO                       <-------> PP        Paraíba                  129
+CD01O201E 004718 LUIZ COUTO                              <-------> PT        Paraíba                  133
+CD01O201E 004718 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD01O201E 004718 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O201E 004718 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD01O201E 004718 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD01O201E 004718 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD01O201E 004718 VILALBA                                 <-------> PRB       Pernambuco               555
+CD01O201E 004718 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD01O201E 004718 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD01O201E 004718 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD01O201E 004718 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD01O201E 004718 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD01O201E 004718 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD01O201E 004718 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD01O201E 004718 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD01O201E 004718 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD01O201E 004718 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD01O201E 004718 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O201E 004718 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD01O201E 004718 JOÃO PAULO  LIMA                        <-------> PT        Pernambuco               149
+CD01O201E 004718 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O201E 004718 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O201E 004718 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD01O201E 004718 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O201E 004718 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD01O201E 004718 FERNANDO FERRO                          <-------> PT        Pernambuco               141
+CD01O201E 004718 ANA ARRAES                              <-------> PSB       Pernambuco               140
+CD01O201E 004718 MARCELO CASTRO                          <-------> PMDB      Piauí                    110
+CD01O201E 004718 NAZARENO FONTELES                       <-------> PT        Piauí                    530
+CD01O201E 004718 ASSIS CARVALHO                          <-------> PT        Piauí                    111
+CD01O201E 004718 HUGO NAPOLEÃO                           <-------> DEM       Piauí                    112
+CD01O201E 004718 MARLLOS SAMPAIO                         <-------> PMDB      Piauí                    117
+CD01O201E 004718 JÚLIO CESAR                             <-------> DEM       Piauí                    114
+CD01O201E 004718 JESUS RODRIGUES                         <-------> PT        Piauí                    115
+CD01O201E 004718 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD01O201E 004718 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD01O201E 004718 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD01O201E 004718 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD01O201E 004718 ASSIS DO COUTO                          <-------> PT        Paraná                   443
+CD01O201E 004718 DILCEU SPERAFICO                        <-------> PP        Paraná                   444
+CD01O201E 004718 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O201E 004718 EDMAR ARRUDA                            <-------> PSC       Paraná                   446
+CD01O201E 004718 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O201E 004718 FERNANDO FRANCISCHINI                   <-------> PSDB      Paraná                   450
+CD01O201E 004718 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD01O201E 004718 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O201E 004718 JOÃO ARRUDA                             <-------> PMDB      Paraná                   455
+CD01O201E 004718 LEOPOLDO MEYER                          <-------> PSB       Paraná                   456
+CD01O201E 004718 NELSON PADOVANI                         <-------> PSC       Paraná                   457
+CD01O201E 004718 NELSON MEURER                           <-------> PP        Paraná                   458
+CD01O201E 004718 ROSANE FERREIRA                         <-------> PV        Paraná                   459
+CD01O201E 004718 RUBENS BUENO                            <-------> PPS       Paraná                   460
+CD01O201E 004718 EDUARDO SCIARRA                         <-------> DEM       Paraná                   461
+CD01O201E 004718 MOACIR MICHELETTO                       <-------> PMDB      Paraná                   462
+CD01O201E 004718 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD01O201E 004718 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD01O201E 004718 SANDRO ALEX                             <-------> PPS       Paraná                   465
+CD01O201E 004718 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O201E 004718 REINHOLD STEPHANES                      <-------> PMDB      Paraná                   467
+CD01O201E 004718 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD01O201E 004718 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD01O201E 004718 LUIZ CARLOS SETIM                       <-------> DEM       Paraná                   535
+CD01O201E 004718 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD01O201E 004718 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O201E 004718 ANDRÉ VARGAS                            <-------> PT        Paraná                   452
+CD01O201E 004718 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O201E 004718 ELIANE ROLIM                            <-------> PT        Rio de Janeiro           538
+CD01O201E 004718 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD01O201E 004718 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O201E 004718 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O201E 004718 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O201E 004718 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD01O201E 004718 AROLDE DE OLIVEIRA                      <-------> DEM       Rio de Janeiro           288
+CD01O201E 004718 ANTHONY GAROTINHO                       <-------> PR        Rio de Janeiro           289
+CD01O201E 004718 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD01O201E 004718 BENEDITA DA SILVA                       <-------> PT        Rio de Janeiro           291
+CD01O201E 004718 CRISTIANO                               <-------> PTdoB     Rio de Janeiro           292
+CD01O201E 004718 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CD01O201E 004718 DR. ALUIZIO                             <-------> PV        Rio de Janeiro           294
+CD01O201E 004718 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD01O201E 004718 EDSON EZEQUIEL                          <-------> PMDB      Rio de Janeiro           298
+CD01O201E 004718 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD01O201E 004718 EDUARDO CUNHA                           <-------> PMDB      Rio de Janeiro           300
+CD01O201E 004718 FELIPE BORNIER                          <-------> PHS       Rio de Janeiro           301
+CD01O201E 004718 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD01O201E 004718 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CD01O201E 004718 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD01O201E 004718 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD01O201E 004718 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD01O201E 004718 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD01O201E 004718 MIRO TEIXEIRA                           <-------> PDT       Rio de Janeiro           317
+CD01O201E 004718 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD01O201E 004718 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD01O201E 004718 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD01O201E 004718 VITOR PAULO                             <-------> PRB       Rio de Janeiro           324
+CD01O201E 004718 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD01O201E 004718 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD01O201E 004718 CHICO D`ANGELO                          <-------> PT        Rio de Janeiro           527
+CD01O201E 004718 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD01O201E 004718 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD01O201E 004718 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD01O201E 004718 SOLANGE ALMEIDA                         <-------> PMDB      Rio de Janeiro           563
+CD01O201E 004718 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD01O201E 004718 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O201E 004718 LILIAM SÁ                               <-------> PR        Rio de Janeiro           309
+CD01O201E 004718 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O201E 004718 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD01O201E 004718 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD01O201E 004718 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O201E 004718 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O201E 004718 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O201E 004718 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD01O201E 004718 FELIPE MAIA                             <-------> DEM       Rio Grande do Norte      120
+CD01O201E 004718 PADRE TON                               <-------> PT        Rondonia                 48 
+CD01O201E 004718 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD01O201E 004718 MAURO NAZIF                             <-------> PSB       Rondonia                 46 
+CD01O201E 004718 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD01O201E 004718 LINDOMAR GARÇON                         <-------> PV        Rondonia                 45 
+CD01O201E 004718 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD01O201E 004718 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O201E 004718 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD01O201E 004718 FRANCISCO ARAÚJO                        <-------> PSL       Roraima                  570
+CD01O201E 004718 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD01O201E 004718 RAUL LIMA                               <-------> PP        Roraima                  7  
+CD01O201E 004718 PAULO CESAR QUARTIERO                   <-------> DEM       Roraima                  6  
+CD01O201E 004718 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD01O201E 004718 BERINHO BANTIM                          <-------> PSDB      Roraima                  1  
+CD01O201E 004718 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD01O201E 004718 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD01O201E 004718 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O201E 004718 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O201E 004718 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O201E 004718 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD01O201E 004718 RONALDO NOGUEIRA                        <-------> PTB       Rio Grande do Sul        556
+CD01O201E 004718 JOSÉ STÉDILE                            <-------> PSB       Rio Grande do Sul        506
+CD01O201E 004718 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD01O201E 004718 DANRLEI DE DEUS HINTERHOLZ              <-------> PTB       Rio Grande do Sul        495
+CD01O201E 004718 FERNANDO MARRONI                        <-------> PT        Rio Grande do Sul        525
+CD01O201E 004718 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD01O201E 004718 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O201E 004718 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O201E 004718 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD01O201E 004718 ASSIS MELO                              <-------> PCdoB     Rio Grande do Sul        492
+CD01O201E 004718 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O201E 004718 LUIZ NOÉ                                <-------> PSB       Rio Grande do Sul        536
+CD01O201E 004718 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD01O201E 004718 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD01O201E 004718 LUIS CARLOS HEINZE                      <-------> PP        Rio Grande do Sul        500
+CD01O201E 004718 GIOVANI CHERINI                         <-------> PDT       Rio Grande do Sul        502
+CD01O201E 004718 PEPE VARGAS                             <-------> PT        Rio Grande do Sul        503
+CD01O201E 004718 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD01O201E 004718 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD01O201E 004718 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD01O201E 004718 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O201E 004718 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD01O201E 004718 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD01O201E 004718 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD01O201E 004718 RONALDO ZULKE                           <-------> PT        Rio Grande do Sul        515
+CD01O201E 004718 BOHN GASS                               <-------> PT        Rio Grande do Sul        499
+CD01O201E 004718 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD01O201E 004718 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD01O201E 004718 CARMEN ZANOTTO                          <-------> PPS       Santa Catarina           561
+CD01O201E 004718 GEAN LOUREIRO                           <-------> PMDB      Santa Catarina           568
+CD01O201E 004718 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD01O201E 004718 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD01O201E 004718 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD01O201E 004718 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O201E 004718 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD01O201E 004718 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD01O201E 004718 EDINHO BEZ                              <-------> PMDB      Santa Catarina           470
+CD01O201E 004718 ESPERIDIÃO AMIN                         <-------> PP        Santa Catarina           471
+CD01O201E 004718 CELSO MALDANER                          <-------> PMDB      Santa Catarina           472
+CD01O201E 004718 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O201E 004718 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD01O201E 004718 JORGE BOEIRA                            <-------> PT        Santa Catarina           474
+CD01O201E 004718 ALMEIDA LIMA                            <-------> PMDB      Sergipe                  173
+CD01O201E 004718 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD01O201E 004718 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O201E 004718 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD01O201E 004718 HELENO SILVA                            <-------> PRB       Sergipe                  175
+CD01O201E 004718 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD01O201E 004718 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CD01O201E 004718 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD01O201E 004718 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD01O201E 004718 ELEUSES PAIVA                           <-------> DEM       São Paulo                537
+CD01O201E 004718 JOSÉ DE FILIPPI                         <-------> PT        São Paulo                354
+CD01O201E 004718 EDINHO ARAÚJO                           <-------> PMDB      São Paulo                344
+CD01O201E 004718 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD01O201E 004718 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD01O201E 004718 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O201E 004718 DRA.ELAINE ABISSAMRA                    <-------> PSB       São Paulo                576
+CD01O201E 004718 PENNA                                   <-------> PV        São Paulo                382
+CD01O201E 004718 WALTER IHOSHI                           <-------> DEM       São Paulo                553
+CD01O201E 004718 CARLINHOS ALMEIDA                       <-------> PT        São Paulo                341
+CD01O201E 004718 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD01O201E 004718 DR. UBIALI                              <-------> PSB       São Paulo                541
+CD01O201E 004718 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD01O201E 004718 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD01O201E 004718 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD01O201E 004718 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O201E 004718 MARCELO AGUIAR                          <-------> PSC       São Paulo                370
+CD01O201E 004718 LUIZA ERUNDINA                          <-------> PSB       São Paulo                371
+CD01O201E 004718 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD01O201E 004718 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O201E 004718 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O201E 004718 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD01O201E 004718 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD01O201E 004718 OTONIEL LIMA                            <-------> PRB       São Paulo                378
+CD01O201E 004718 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD01O201E 004718 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD01O201E 004718 RICARDO IZAR                            <-------> PV        São Paulo                383
+CD01O201E 004718 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O201E 004718 ROBERTO DE LUCENA                       <-------> PV        São Paulo                385
+CD01O201E 004718 ROBERTO SANTIAGO                        <-------> PV        São Paulo                386
+CD01O201E 004718 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD01O201E 004718 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD01O201E 004718 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD01O201E 004718 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O201E 004718 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD01O201E 004718 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O201E 004718 VICENTINHO                              <-------> PT        São Paulo                396
+CD01O201E 004718 CARLOS ZARATTINI                        <-------> PT        São Paulo                398
+CD01O201E 004718 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O201E 004718 ALDO REBELO                             <-------> PCdoB     São Paulo                331
+CD01O201E 004718 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD01O201E 004718 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD01O201E 004718 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O201E 004718 ARNALDO FARIA DE SÁ                     <-------> PTB       São Paulo                337
+CD01O201E 004718 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD01O201E 004718 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD01O201E 004718 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O201E 004718 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD01O201E 004718 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O201E 004718 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O201E 004718 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD01O201E 004718 GUILHERME MUSSI                         <-------> PV        São Paulo                348
+CD01O201E 004718 JEFFERSON CAMPOS                        <-------> PSB       São Paulo                349
+CD01O201E 004718 JONAS DONIZETTE                         <-------> PSB       São Paulo                353
+CD01O201E 004718 JUNJI ABE                               <-------> DEM       São Paulo                355
+CD01O201E 004718 KEIKO OTA                               <-------> PSB       São Paulo                356
+CD01O201E 004718 GUILHERME CAMPOS                        <-------> DEM       São Paulo                357
+CD01O201E 004718 JILMAR TATTO                            <-------> PT        São Paulo                360
+CD01O201E 004718 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O201E 004718 JOÃO DADO                               <-------> PDT       São Paulo                362
+CD01O201E 004718 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD01O201E 004718 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CD01O201E 004718 PASTOR MARCO FELICIANO                  <-------> PSC       São Paulo                379
+CD01O201E 004718 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD01O201E 004718 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O201E 004718 LÁZARO BOTELHO                          <-------> PP        Tocantins                63 
+CD01O201E 004718 ÂNGELO AGNOLIN                          <-------> PDT       Tocantins                61 
+CD01O201E 004718 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 
+CD01O201E 004718 JÚNIOR COIMBRA                          <-------> PMDB      Tocantins                66 
+CD01O201E 004718 CÉSAR HALUM                             <-------> PPS       Tocantins                64 

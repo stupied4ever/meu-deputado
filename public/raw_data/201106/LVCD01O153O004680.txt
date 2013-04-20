@@ -1,0 +1,513 @@
+CD01O153O 004680 BERINHO BANTIM                          Obstrução PSDB      Roraima                  1
+CD01O153O 004680 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD01O153O 004680 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD01O153O 004680 PAULO CESAR QUARTIERO                   Obstrução DEM       Roraima                  6  
+CD01O153O 004680 RAUL LIMA                               Não       PP        Roraima                  7  
+CD01O153O 004680 TERESA SURITA                           Não       PMDB      Roraima                  8  
+CD01O153O 004680 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD01O153O 004680 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD01O153O 004680 FÁTIMA PELAES                           Não       PMDB      Amapá                    12 
+CD01O153O 004680 VINICIUS GURGEL                         Não       PRTB      Amapá                    16 
+CD01O153O 004680 BETO FARO                               Não       PT        Pará                     19 
+CD01O153O 004680 DUDIMAR PAXIÚBA                         Obstrução PSDB      Pará                     518
+CD01O153O 004680 GIOVANNI QUEIROZ                        Não       PDT       Pará                     27 
+CD01O153O 004680 JOSÉ PRIANTE                            Não       PMDB      Pará                     26 
+CD01O153O 004680 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD01O153O 004680 LIRA MAIA                               Obstrução DEM       Pará                     28 
+CD01O153O 004680 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O153O 004680 LUIZ OTÁVIO                             Não       PMDB      Pará                     526
+CD01O153O 004680 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O153O 004680 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD01O153O 004680 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD01O153O 004680 ÁTILA LINS                              Não       PMDB      Amazonas                 38 
+CD01O153O 004680 CARLOS SOUZA                            Não       PP        Amazonas                 37 
+CD01O153O 004680 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD01O153O 004680 REBECCA GARCIA                          Não       PP        Amazonas                 42 
+CD01O153O 004680 LINDOMAR GARÇON                         Não       PV        Rondonia                 45 
+CD01O153O 004680 MARINHA RAUPP                           Não       PMDB      Rondonia                 50 
+CD01O153O 004680 MOREIRA MENDES                          Obstrução PPS       Rondonia                 49 
+CD01O153O 004680 NILTON CAPIXABA                         Não       PTB       Rondonia                 47 
+CD01O153O 004680 PADRE TON                               Não       PT        Rondonia                 48 
+CD01O153O 004680 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD01O153O 004680 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD01O153O 004680 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD01O153O 004680 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD01O153O 004680 CÉSAR HALUM                             Não       PPS       Tocantins                64 
+CD01O153O 004680 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD01O153O 004680 LAUREZ MOREIRA                          Não       PSB       Tocantins                62 
+CD01O153O 004680 LÁZARO BOTELHO                          Não       PP        Tocantins                63 
+CD01O153O 004680 PROFESSORA DORINHA SEABRA REZEN         Obstrução DEM       Tocantins                67 
+CD01O153O 004680 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O153O 004680 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD01O153O 004680 EDIVALDO HOLANDA JUNIOR                 Não       PTC       Maranhão                 73 
+CD01O153O 004680 FRANCISCO ESCÓRCIO                      Não       PMDB      Maranhão                 567
+CD01O153O 004680 GASTÃO VIEIRA                           Não       PMDB      Maranhão                 75 
+CD01O153O 004680 HÉLIO SANTOS                            Obstrução PSDB      Maranhão                 76 
+CD01O153O 004680 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O153O 004680 LUCIANO MOREIRA                         Não       PMDB      Maranhão                 83 
+CD01O153O 004680 PINTO ITAMARATY                         Obstrução PSDB      Maranhão                 79 
+CD01O153O 004680 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD01O153O 004680 SARNEY FILHO                            Não       PV        Maranhão                 85 
+CD01O153O 004680 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD01O153O 004680 ZÉ VIEIRA                               Não       PR        Maranhão                 86 
+CD01O153O 004680 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O153O 004680 ANÍBAL GOMES                            Não       PMDB      Ceará                    87 
+CD01O153O 004680 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD01O153O 004680 ARNON BEZERRA                           Não       PTB       Ceará                    90 
+CD01O153O 004680 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD01O153O 004680 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD01O153O 004680 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD01O153O 004680 DOMINGOS NETO                           Não       PSB       Ceará                    97 
+CD01O153O 004680 GENECIAS NORONHA                        Não       PMDB      Ceará                    99 
+CD01O153O 004680 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD01O153O 004680 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD01O153O 004680 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O153O 004680 MAURO BENEVIDES                         Não       PMDB      Ceará                    105
+CD01O153O 004680 RAIMUNDÃO                               Não       PMDB      Ceará                    108
+CD01O153O 004680 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD01O153O 004680 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD01O153O 004680 HUGO NAPOLEÃO                           Obstrução DEM       Piauí                    112
+CD01O153O 004680 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O153O 004680 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD01O153O 004680 JÚLIO CESAR                             Obstrução DEM       Piauí                    114
+CD01O153O 004680 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD01O153O 004680 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD01O153O 004680 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD01O153O 004680 FÁTIMA BEZERRA                          Não       PT        Rio Grande do Norte      121
+CD01O153O 004680 FELIPE MAIA                             Obstrução DEM       Rio Grande do Norte      120
+CD01O153O 004680 JOÃO MAIA                               Não       PR        Rio Grande do Norte      124
+CD01O153O 004680 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD01O153O 004680 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD01O153O 004680 AGUINALDO RIBEIRO                       Não       PP        Paraíba                  129
+CD01O153O 004680 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD01O153O 004680 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD01O153O 004680 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O153O 004680 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD01O153O 004680 WILSON FILHO                            Não       PMDB      Paraíba                  139
+CD01O153O 004680 ANA ARRAES                              Não       PSB       Pernambuco               140
+CD01O153O 004680 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD01O153O 004680 AUGUSTO COUTINHO                        Obstrução DEM       Pernambuco               144
+CD01O153O 004680 BRUNO ARAÚJO                            Obstrução PSDB      Pernambuco               146
+CD01O153O 004680 CARLOS EDUARDO CADOCA                   Não       PSC       Pernambuco               152
+CD01O153O 004680 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD01O153O 004680 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD01O153O 004680 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD01O153O 004680 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD01O153O 004680 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD01O153O 004680 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD01O153O 004680 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD01O153O 004680 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD01O153O 004680 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD01O153O 004680 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD01O153O 004680 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD01O153O 004680 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD01O153O 004680 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD01O153O 004680 CELIA ROCHA                             Não       PTB       Alagoas                  165
+CD01O153O 004680 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD01O153O 004680 MAURÍCIO QUINTELLA LESSA                Não       PR        Alagoas                  168
+CD01O153O 004680 RENAN FILHO                             Não       PMDB      Alagoas                  169
+CD01O153O 004680 ROSINHA DA ADEFAL                       Não       PTdoB     Alagoas                  170
+CD01O153O 004680 ANDRE MOURA                             Não       PSC       Sergipe                  174
+CD01O153O 004680 HELENO SILVA                            Não       PRB       Sergipe                  175
+CD01O153O 004680 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD01O153O 004680 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD01O153O 004680 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O153O 004680 ANTONIO CARLOS MAGALHÃES NETO           Obstrução DEM       Bahia                    181
+CD01O153O 004680 ANTONIO IMBASSAHY                       Obstrução PSDB      Bahia                    191
+CD01O153O 004680 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD01O153O 004680 CLAUDIO CAJADO                          Obstrução DEM       Bahia                    186
+CD01O153O 004680 EDSON PIMENTA                           Não       PCdoB     Bahia                    193
+CD01O153O 004680 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O153O 004680 JOSÉ ROCHA                              Não       PR        Bahia                    203
+CD01O153O 004680 JOSEPH BANDEIRA                         Não       PT        Bahia                    565
+CD01O153O 004680 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD01O153O 004680 JUTAHY JUNIOR                           Obstrução PSDB      Bahia                    206
+CD01O153O 004680 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD01O153O 004680 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD01O153O 004680 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD01O153O 004680 MAURÍCIO TRINDADE                       Não       PR        Bahia                    208
+CD01O153O 004680 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD01O153O 004680 PAULO MAGALHÃES                         Não       DEM       Bahia                    214
+CD01O153O 004680 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O153O 004680 RUI COSTA                               Não       PT        Bahia                    216
+CD01O153O 004680 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O153O 004680 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD01O153O 004680 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O153O 004680 ADEMIR CAMILO                           Não       PDT       Minas Gerais             220
+CD01O153O 004680 ANTÔNIO ANDRADE                         Não       PMDB      Minas Gerais             227
+CD01O153O 004680 CARLAILE PEDROSA                        Obstrução PSDB      Minas Gerais             222
+CD01O153O 004680 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O153O 004680 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD01O153O 004680 EDUARDO BARBOSA                         Obstrução PSDB      Minas Gerais             230
+CD01O153O 004680 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD01O153O 004680 FÁBIO RAMALHO                           Não       PV        Minas Gerais             238
+CD01O153O 004680 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD01O153O 004680 GEORGE HILTON                           Não       PRB       Minas Gerais             241
+CD01O153O 004680 GERALDO THADEU                          Não       PPS       Minas Gerais             236
+CD01O153O 004680 GILMAR MACHADO                          Não       PT        Minas Gerais             234
+CD01O153O 004680 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD01O153O 004680 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O153O 004680 LAEL VARELLA                            Não       DEM       Minas Gerais             245
+CD01O153O 004680 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD01O153O 004680 LEONARDO QUINTÃO                        Não       PMDB      Minas Gerais             255
+CD01O153O 004680 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD01O153O 004680 LUIZ FERNANDO FARIA                     Não       PP        Minas Gerais             256
+CD01O153O 004680 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD01O153O 004680 MARCUS PESTANA                          Obstrução PSDB      Minas Gerais             254
+CD01O153O 004680 MAURO LOPES                             Não       PMDB      Minas Gerais             252
+CD01O153O 004680 MIGUEL CORRÊA                           Não       PT        Minas Gerais             261
+CD01O153O 004680 NEWTON CARDOSO                          Não       PMDB      Minas Gerais             258
+CD01O153O 004680 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O153O 004680 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD01O153O 004680 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD01O153O 004680 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD01O153O 004680 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O153O 004680 VITOR PENIDO                            Não       DEM       Minas Gerais             532
+CD01O153O 004680 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD01O153O 004680 ZÉ SILVA                                Não       PDT       Minas Gerais             271
+CD01O153O 004680 LAURIETE                                Não       PSC       Espírito Santo           279
+CD01O153O 004680 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O153O 004680 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD01O153O 004680 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD01O153O 004680 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CD01O153O 004680 ALFREDO SIRKIS                          Não       PV        Rio de Janeiro           321
+CD01O153O 004680 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD01O153O 004680 AROLDE DE OLIVEIRA                      Obstrução DEM       Rio de Janeiro           288
+CD01O153O 004680 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD01O153O 004680 BRIZOLA NETO                            Não       PDT       Rio de Janeiro           566
+CD01O153O 004680 CHICO ALENCAR                           Obstrução PSOL      Rio de Janeiro           295
+CD01O153O 004680 DELEY                                   Não       PSC       Rio de Janeiro           562
+CD01O153O 004680 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O153O 004680 DR. PAULO CÉSAR                         Não       PR        Rio de Janeiro           296
+CD01O153O 004680 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD01O153O 004680 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD01O153O 004680 FELIPE BORNIER                          Não       PHS       Rio de Janeiro           301
+CD01O153O 004680 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD01O153O 004680 JAIR BOLSONARO                          Não       PP        Rio de Janeiro           302
+CD01O153O 004680 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD01O153O 004680 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD01O153O 004680 LILIAM SÁ                               Não       PR        Rio de Janeiro           309
+CD01O153O 004680 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD01O153O 004680 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O153O 004680 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD01O153O 004680 SOLANGE ALMEIDA                         Não       PMDB      Rio de Janeiro           563
+CD01O153O 004680 STEPAN NERCESSIAN                       Obstrução PPS       Rio de Janeiro           323
+CD01O153O 004680 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O153O 004680 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD01O153O 004680 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD01O153O 004680 ABELARDO CAMARINHA                      Não       PSB       São Paulo                329
+CD01O153O 004680 ALBERTO MOURÃO                          Sim       PSDB      São Paulo                552
+CD01O153O 004680 ALEXANDRE LEITE                         Obstrução DEM       São Paulo                334
+CD01O153O 004680 ALINE CORRÊA                            Não       PP        São Paulo                330
+CD01O153O 004680 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD01O153O 004680 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD01O153O 004680 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD01O153O 004680 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD01O153O 004680 BRUNA FURLAN                            Obstrução PSDB      São Paulo                335
+CD01O153O 004680 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD01O153O 004680 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD01O153O 004680 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD01O153O 004680 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD01O153O 004680 DUARTE NOGUEIRA                         Obstrução PSDB      São Paulo                350
+CD01O153O 004680 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD01O153O 004680 ELEUSES PAIVA                           Obstrução DEM       São Paulo                537
+CD01O153O 004680 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD01O153O 004680 GUILHERME MUSSI                         Não       PV        São Paulo                348
+CD01O153O 004680 IVAN VALENTE                            Obstrução PSOL      São Paulo                359
+CD01O153O 004680 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD01O153O 004680 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O153O 004680 JOÃO DADO                               Não       PDT       São Paulo                362
+CD01O153O 004680 JORGE TADEU MUDALEN                     Art. 17   DEM       São Paulo                363
+CD01O153O 004680 JOSÉ DE FILIPPI                         Não       PT        São Paulo                354
+CD01O153O 004680 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD01O153O 004680 JUNJI ABE                               Não       DEM       São Paulo                355
+CD01O153O 004680 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O153O 004680 LUIZ FERNANDO MACHADO                   Obstrução PSDB      São Paulo                365
+CD01O153O 004680 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O153O 004680 MARCELO AGUIAR                          Não       PSC       São Paulo                370
+CD01O153O 004680 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD01O153O 004680 NEWTON LIMA                             Não       PT        São Paulo                377
+CD01O153O 004680 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O153O 004680 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD01O153O 004680 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O153O 004680 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD01O153O 004680 PENNA                                   Sim       PV        São Paulo                382
+CD01O153O 004680 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD01O153O 004680 RICARDO IZAR                            Não       PV        São Paulo                383
+CD01O153O 004680 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD01O153O 004680 ROBERTO FREIRE                          Obstrução PPS       São Paulo                387
+CD01O153O 004680 ROBERTO SANTIAGO                        Não       PV        São Paulo                386
+CD01O153O 004680 TIRIRICA                                Não       PR        São Paulo                392
+CD01O153O 004680 VANDERLEI MACRIS                        Obstrução PSDB      São Paulo                521
+CD01O153O 004680 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD01O153O 004680 HOMERO PEREIRA                          Não       PR        Mato Grosso              402
+CD01O153O 004680 NERI GELLER                             Não       PP        Mato Grosso              520
+CD01O153O 004680 ROBERTO DORNER                          Não       PP        Mato Grosso              519
+CD01O153O 004680 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD01O153O 004680 WELLINGTON FAGUNDES                     Não       PR        Mato Grosso              406
+CD01O153O 004680 AUGUSTO CARVALHO                        Obstrução PPS       Distrito Federal         545
+CD01O153O 004680 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD01O153O 004680 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O153O 004680 JAQUELINE RORIZ                         Não       PMN       Distrito Federal         409
+CD01O153O 004680 POLICARPO                               Não       PT        Distrito Federal         539
+CD01O153O 004680 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O153O 004680 RICARDO QUIRINO                         Não       PRB       Distrito Federal         551
+CD01O153O 004680 DELEGADO WALDIR                         Abstenção PSDB      Goiás                    559
+CD01O153O 004680 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O153O 004680 JOVAIR ARANTES                          Não       PTB       Goiás                    419
+CD01O153O 004680 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD01O153O 004680 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD01O153O 004680 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD01O153O 004680 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD01O153O 004680 RONALDO CAIADO                          Obstrução DEM       Goiás                    429
+CD01O153O 004680 RUBENS OTONI                            Não       PT        Goiás                    425
+CD01O153O 004680 VALDIVINO DE OLIVEIRA                   Obstrução PSDB      Goiás                    547
+CD01O153O 004680 ANTÔNIO CARLOS BIFFI                    Não       PT        Mato Grosso do Sul       432
+CD01O153O 004680 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD01O153O 004680 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD01O153O 004680 GIROTO                                  Não       PR        Mato Grosso do Sul       434
+CD01O153O 004680 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O153O 004680 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD01O153O 004680 ABELARDO LUPION                         Obstrução DEM       Paraná                   440
+CD01O153O 004680 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD01O153O 004680 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD01O153O 004680 ANGELO VANHONI                          Não       PT        Paraná                   453
+CD01O153O 004680 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD01O153O 004680 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD01O153O 004680 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O153O 004680 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O153O 004680 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O153O 004680 LUIZ CARLOS SETIM                       Não       DEM       Paraná                   535
+CD01O153O 004680 LUIZ NISHIMORI                          Obstrução PSDB      Paraná                   542
+CD01O153O 004680 MOACIR MICHELETTO                       Não       PMDB      Paraná                   462
+CD01O153O 004680 NELSON MEURER                           Não       PP        Paraná                   458
+CD01O153O 004680 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD01O153O 004680 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD01O153O 004680 RATINHO JUNIOR                          Não       PSC       Paraná                   464
+CD01O153O 004680 REINHOLD STEPHANES                      Não       PMDB      Paraná                   467
+CD01O153O 004680 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD01O153O 004680 RUBENS BUENO                            Obstrução PPS       Paraná                   460
+CD01O153O 004680 SANDRO ALEX                             Obstrução PPS       Paraná                   465
+CD01O153O 004680 TAKAYAMA                                Não       PSC       Paraná                   469
+CD01O153O 004680 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD01O153O 004680 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD01O153O 004680 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD01O153O 004680 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O153O 004680 JORGE BOEIRA                            Não       PT        Santa Catarina           474
+CD01O153O 004680 JORGINHO MELLO                          Sim       PSDB      Santa Catarina           476
+CD01O153O 004680 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD01O153O 004680 ONOFRE SANTO AGOSTINI                   Obstrução DEM       Santa Catarina           479
+CD01O153O 004680 PEDRO UCZAI                             Não       PT        Santa Catarina           481
+CD01O153O 004680 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD01O153O 004680 VALDIR COLATTO                          Não       PMDB      Santa Catarina           560
+CD01O153O 004680 ZONTA                                   Não       PP        Santa Catarina           485
+CD01O153O 004680 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD01O153O 004680 ALEXANDRE ROSO                          Não       PSB       Rio Grande do Sul        489
+CD01O153O 004680 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD01O153O 004680 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD01O153O 004680 DANRLEI DE DEUS HINTERHOLZ              Não       PTB       Rio Grande do Sul        495
+CD01O153O 004680 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD01O153O 004680 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD01O153O 004680 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O153O 004680 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD01O153O 004680 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD01O153O 004680 MENDES RIBEIRO FILHO                    Não       PMDB      Rio Grande do Sul        504
+CD01O153O 004680 ONYX LORENZONI                          Obstrução DEM       Rio Grande do Sul        510
+CD01O153O 004680 OSMAR TERRA                             Não       PMDB      Rio Grande do Sul        497
+CD01O153O 004680 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O153O 004680 SÉRGIO MORAES                           Não       PTB       Rio Grande do Sul        512
+CD01O153O 004680 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD01O153O 004680 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD01O153O 004680 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O153O 004680 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O153O 004680 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD01O153O 004680 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD01O153O 004680 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD01O153O 004680 RUI PALMEIRA                            <-------> PSDB      Alagoas                  171
+CD01O153O 004680 JOÃO LYRA                               <-------> PTB       Alagoas                  167
+CD01O153O 004680 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O153O 004680 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O153O 004680 PAUDERNEY AVELINO                       <-------> DEM       Amazonas                 40 
+CD01O153O 004680 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD01O153O 004680 SILAS CÂMARA                            <-------> PSC       Amazonas                 39 
+CD01O153O 004680 PROFESSORA MARCIVANIA                   <-------> PT        Amapá                    15 
+CD01O153O 004680 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O153O 004680 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD01O153O 004680 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD01O153O 004680 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD01O153O 004680 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD01O153O 004680 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD01O153O 004680 ANTONIO BRITO                           <-------> PTB       Bahia                    189
+CD01O153O 004680 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD01O153O 004680 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD01O153O 004680 FERNANDO TORRES                         <-------> DEM       Bahia                    196
+CD01O153O 004680 JOSÉ CARLOS ARAÚJO                      <-------> PDT       Bahia                    197
+CD01O153O 004680 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD01O153O 004680 JOSÉ NUNES                              <-------> DEM       Bahia                    201
+CD01O153O 004680 LUIZ ALBERTO                            <-------> PT        Bahia                    204
+CD01O153O 004680 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O153O 004680 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD01O153O 004680 SÉRGIO BRITO                            <-------> PSC       Bahia                    213
+CD01O153O 004680 FELIX MENDONÇA JÚNIOR                   <-------> PDT       Bahia                    195
+CD01O153O 004680 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD01O153O 004680 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O153O 004680 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD01O153O 004680 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD01O153O 004680 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD01O153O 004680 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O153O 004680 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD01O153O 004680 MANOEL SALVIANO                         <-------> PSDB      Ceará                    104
+CD01O153O 004680 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O153O 004680 RONALDO FONSECA                         <-------> PR        Distrito Federal         414
+CD01O153O 004680 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD01O153O 004680 AUDIFAX                                 <-------> PSB       Espírito Santo           274
+CD01O153O 004680 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD01O153O 004680 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD01O153O 004680 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD01O153O 004680 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD01O153O 004680 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD01O153O 004680 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O153O 004680 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O153O 004680 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD01O153O 004680 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O153O 004680 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O153O 004680 JORGE PINHEIRO                          <-------> PRB       Goiás                    548
+CD01O153O 004680 HEULER CRUVINEL                         <-------> DEM       Goiás                    423
+CD01O153O 004680 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD01O153O 004680 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O153O 004680 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O153O 004680 CARLOS BRANDÃO                          <-------> PSDB      Maranhão                 68 
+CD01O153O 004680 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O153O 004680 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD01O153O 004680 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O153O 004680 MARCOS MONTES                           <-------> DEM       Minas Gerais             257
+CD01O153O 004680 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD01O153O 004680 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O153O 004680 WALTER TOSTA                            <-------> PMN       Minas Gerais             267
+CD01O153O 004680 STEFANO AGUIAR                          <-------> PSC       Minas Gerais             558
+CD01O153O 004680 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O153O 004680 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD01O153O 004680 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD01O153O 004680 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O153O 004680 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD01O153O 004680 DIEGO ANDRADE                           <-------> PR        Minas Gerais             228
+CD01O153O 004680 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O153O 004680 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O153O 004680 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O153O 004680 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD01O153O 004680 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD01O153O 004680 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O153O 004680 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O153O 004680 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD01O153O 004680 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD01O153O 004680 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD01O153O 004680 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD01O153O 004680 SÁGUAS MORAES                           <-------> PT        Mato Grosso              405
+CD01O153O 004680 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O153O 004680 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD01O153O 004680 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD01O153O 004680 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O153O 004680 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O153O 004680 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O153O 004680 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD01O153O 004680 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O153O 004680 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD01O153O 004680 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD01O153O 004680 ROMERO RODRIGUES                        <-------> PSDB      Paraíba                  135
+CD01O153O 004680 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD01O153O 004680 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD01O153O 004680 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O153O 004680 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD01O153O 004680 VILALBA                                 <-------> PRB       Pernambuco               555
+CD01O153O 004680 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O153O 004680 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O153O 004680 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD01O153O 004680 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O153O 004680 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD01O153O 004680 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD01O153O 004680 EDMAR ARRUDA                            <-------> PSC       Paraná                   446
+CD01O153O 004680 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD01O153O 004680 FERNANDO FRANCISCHINI                   <-------> PSDB      Paraná                   450
+CD01O153O 004680 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD01O153O 004680 EDUARDO SCIARRA                         <-------> DEM       Paraná                   461
+CD01O153O 004680 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O153O 004680 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O153O 004680 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O153O 004680 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O153O 004680 ELIANE ROLIM                            <-------> PT        Rio de Janeiro           538
+CD01O153O 004680 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD01O153O 004680 CHICO D`ANGELO                          <-------> PT        Rio de Janeiro           527
+CD01O153O 004680 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD01O153O 004680 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD01O153O 004680 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD01O153O 004680 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD01O153O 004680 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD01O153O 004680 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD01O153O 004680 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD01O153O 004680 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD01O153O 004680 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD01O153O 004680 DR. ALUIZIO                             <-------> PV        Rio de Janeiro           294
+CD01O153O 004680 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CD01O153O 004680 CRISTIANO                               <-------> PTdoB     Rio de Janeiro           292
+CD01O153O 004680 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD01O153O 004680 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O153O 004680 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O153O 004680 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD01O153O 004680 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O153O 004680 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O153O 004680 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O153O 004680 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD01O153O 004680 MAURO NAZIF                             <-------> PSB       Rondonia                 46 
+CD01O153O 004680 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD01O153O 004680 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD01O153O 004680 DR. FRANCISCO ARAÚJO                    <-------> PSL       Roraima                  570
+CD01O153O 004680 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O153O 004680 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD01O153O 004680 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD01O153O 004680 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD01O153O 004680 RONALDO ZULKE                           <-------> PT        Rio Grande do Sul        515
+CD01O153O 004680 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O153O 004680 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD01O153O 004680 FERNANDO MARRONI                        <-------> PT        Rio Grande do Sul        525
+CD01O153O 004680 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O153O 004680 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD01O153O 004680 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O153O 004680 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD01O153O 004680 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD01O153O 004680 PEPE VARGAS                             <-------> PT        Rio Grande do Sul        503
+CD01O153O 004680 GEAN LOUREIRO                           <-------> PMDB      Santa Catarina           568
+CD01O153O 004680 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD01O153O 004680 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD01O153O 004680 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD01O153O 004680 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O153O 004680 ALMEIDA LIMA                            <-------> PMDB      Sergipe                  173
+CD01O153O 004680 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD01O153O 004680 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD01O153O 004680 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O153O 004680 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD01O153O 004680 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD01O153O 004680 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O153O 004680 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD01O153O 004680 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O153O 004680 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD01O153O 004680 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O153O 004680 VICENTINHO                              <-------> PT        São Paulo                396
+CD01O153O 004680 ALDO REBELO                             <-------> PCdoB     São Paulo                331
+CD01O153O 004680 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD01O153O 004680 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O153O 004680 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O153O 004680 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD01O153O 004680 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD01O153O 004680 JEFFERSON CAMPOS                        <-------> PSB       São Paulo                349
+CD01O153O 004680 JONAS DONIZETTE                         <-------> PSB       São Paulo                353
+CD01O153O 004680 GUILHERME CAMPOS                        <-------> DEM       São Paulo                357
+CD01O153O 004680 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O153O 004680 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD01O153O 004680 WALTER IHOSHI                           <-------> DEM       São Paulo                553
+CD01O153O 004680 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD01O153O 004680 DR. UBIALI                              <-------> PSB       São Paulo                541
+CD01O153O 004680 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD01O153O 004680 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD01O153O 004680 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O153O 004680 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O153O 004680 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 

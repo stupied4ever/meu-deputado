@@ -1,0 +1,512 @@
+CD01O013E 004536 BERINHO BANTIM                          Sim       PSDB      Roraima                  1
+CD01O013E 004536 CHICO DAS VERDURAS                      Não       PRP       Roraima                  3  
+CD01O013E 004536 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD01O013E 004536 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD01O013E 004536 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD01O013E 004536 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD01O013E 004536 RAUL LIMA                               Não       PP        Roraima                  7  
+CD01O013E 004536 TERESA SURITA                           Não       PMDB      Roraima                  8  
+CD01O013E 004536 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD01O013E 004536 DAVI ALCOLUMBRE                         Sim       DEM       Amapá                    10 
+CD01O013E 004536 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD01O013E 004536 FÁTIMA PELAES                           Não       PMDB      Amapá                    12 
+CD01O013E 004536 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD01O013E 004536 PROFESSORA MARCIVANIA                   Não       PT        Amapá                    15 
+CD01O013E 004536 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD01O013E 004536 VINICIUS GURGEL                         Não       PRTB      Amapá                    16 
+CD01O013E 004536 ANDRÉ DIAS                              Sim       PSDB      Pará                     517
+CD01O013E 004536 ARNALDO JORDY                           Sim       PPS       Pará                     18 
+CD01O013E 004536 BETO FARO                               Não       PT        Pará                     19 
+CD01O013E 004536 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD01O013E 004536 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD01O013E 004536 ELCIONE BARBALHO                        Não       PMDB      Pará                     21 
+CD01O013E 004536 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD01O013E 004536 JOSÉ PRIANTE                            Não       PMDB      Pará                     26 
+CD01O013E 004536 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD01O013E 004536 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD01O013E 004536 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O013E 004536 LUIZ OTÁVIO                             Não       PMDB      Pará                     526
+CD01O013E 004536 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O013E 004536 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CD01O013E 004536 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD01O013E 004536 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD01O013E 004536 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD01O013E 004536 ÁTILA LINS                              Não       PMDB      Amazonas                 38 
+CD01O013E 004536 CARLOS SOUZA                            Não       PP        Amazonas                 37 
+CD01O013E 004536 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD01O013E 004536 HENRIQUE OLIVEIRA                       Não       PR        Amazonas                 36 
+CD01O013E 004536 PAUDERNEY AVELINO                       Sim       DEM       Amazonas                 40 
+CD01O013E 004536 REBECCA GARCIA                          Não       PP        Amazonas                 42 
+CD01O013E 004536 SABINO CASTELO BRANCO                   Não       PTB       Amazonas                 43 
+CD01O013E 004536 SILAS CÂMARA                            Não       PSC       Amazonas                 39 
+CD01O013E 004536 CARLOS MAGNO                            Não       PP        Rondonia                 44 
+CD01O013E 004536 LINDOMAR GARÇON                         Abstenção PV        Rondonia                 45 
+CD01O013E 004536 MARINHA RAUPP                           Não       PMDB      Rondonia                 50 
+CD01O013E 004536 MAURO NAZIF                             Não       PSB       Rondonia                 46 
+CD01O013E 004536 MOREIRA MENDES                          Sim       PPS       Rondonia                 49 
+CD01O013E 004536 NATAN DONADON                           Não       PMDB      Rondonia                 51 
+CD01O013E 004536 NILTON CAPIXABA                         Não       PTB       Rondonia                 47 
+CD01O013E 004536 PADRE TON                               Não       PT        Rondonia                 48 
+CD01O013E 004536 ANTÔNIA LÚCIA                           Não       PSC       Acre                     53 
+CD01O013E 004536 FLAVIANO MELO                           Não       PMDB      Acre                     54 
+CD01O013E 004536 GLADSON CAMELI                          Não       PP        Acre                     55 
+CD01O013E 004536 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD01O013E 004536 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD01O013E 004536 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD01O013E 004536 SIBA MACHADO                            Não       PT        Acre                     58 
+CD01O013E 004536 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD01O013E 004536 AGNOLIN                                 Não       PDT       Tocantins                61 
+CD01O013E 004536 CÉSAR HALUM                             Sim       PPS       Tocantins                64 
+CD01O013E 004536 EDUARDO GOMES                           Sim       PSDB      Tocantins                60 
+CD01O013E 004536 IRAJÁ ABREU                             Sim       DEM       Tocantins                65 
+CD01O013E 004536 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD01O013E 004536 LAUREZ MOREIRA                          Não       PSB       Tocantins                62 
+CD01O013E 004536 LÁZARO BOTELHO                          Não       PP        Tocantins                63 
+CD01O013E 004536 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD01O013E 004536 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O013E 004536 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD01O013E 004536 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD01O013E 004536 DAVI ALVES SILVA JÚNIOR                 Não       PR        Maranhão                 528
+CD01O013E 004536 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD01O013E 004536 EDIVALDO HOLANDA JUNIOR                 Não       PTC       Maranhão                 73 
+CD01O013E 004536 GASTÃO VIEIRA                           Não       PMDB      Maranhão                 75 
+CD01O013E 004536 HÉLIO SANTOS                            Sim       PSDB      Maranhão                 76 
+CD01O013E 004536 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O013E 004536 LUCIANO MOREIRA                         Não       PMDB      Maranhão                 83 
+CD01O013E 004536 PEDRO FERNANDES                         Não       PTB       Maranhão                 80 
+CD01O013E 004536 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD01O013E 004536 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD01O013E 004536 RIBAMAR ALVES                           Não       PSB       Maranhão                 74 
+CD01O013E 004536 SARNEY FILHO                            Abstenção PV        Maranhão                 85 
+CD01O013E 004536 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD01O013E 004536 ZÉ VIEIRA                               Não       PR        Maranhão                 86 
+CD01O013E 004536 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O013E 004536 ANÍBAL GOMES                            Não       PMDB      Ceará                    87 
+CD01O013E 004536 ANTONIO BALHMANN                        Não       PSB       Ceará                    93 
+CD01O013E 004536 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD01O013E 004536 ARNON BEZERRA                           Não       PTB       Ceará                    90 
+CD01O013E 004536 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD01O013E 004536 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD01O013E 004536 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD01O013E 004536 DOMINGOS NETO                           Não       PSB       Ceará                    97 
+CD01O013E 004536 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD01O013E 004536 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD01O013E 004536 GENECIAS NORONHA                        Não       PMDB      Ceará                    99 
+CD01O013E 004536 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD01O013E 004536 JOAO ANANIAS                            Não       PCdoB     Ceará                    106
+CD01O013E 004536 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD01O013E 004536 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O013E 004536 MANOEL SALVIANO                         Não       PSDB      Ceará                    104
+CD01O013E 004536 MAURO BENEVIDES                         Não       PMDB      Ceará                    105
+CD01O013E 004536 RAIMUNDÃO                               Não       PMDB      Ceará                    108
+CD01O013E 004536 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD01O013E 004536 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD01O013E 004536 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD01O013E 004536 HUGO NAPOLEÃO                           Sim       DEM       Piauí                    112
+CD01O013E 004536 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O013E 004536 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD01O013E 004536 JÚLIO CESAR                             Sim       DEM       Piauí                    114
+CD01O013E 004536 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD01O013E 004536 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD01O013E 004536 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD01O013E 004536 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD01O013E 004536 PAES LANDIM                             Não       PTB       Piauí                    118
+CD01O013E 004536 FÁBIO FARIA                             Não       PMN       Rio Grande do Norte      119
+CD01O013E 004536 FÁTIMA BEZERRA                          Não       PT        Rio Grande do Norte      121
+CD01O013E 004536 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD01O013E 004536 HENRIQUE EDUARDO ALVES                  Não       PMDB      Rio Grande do Norte      123
+CD01O013E 004536 PAULO WAGNER                            Abstenção PV        Rio Grande do Norte      126
+CD01O013E 004536 ROGÉRIO MARINHO                         Sim       PSDB      Rio Grande do Norte      540
+CD01O013E 004536 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD01O013E 004536 AGUINALDO RIBEIRO                       Não       PP        Paraíba                  129
+CD01O013E 004536 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD01O013E 004536 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD01O013E 004536 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD01O013E 004536 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD01O013E 004536 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O013E 004536 MANOEL JUNIOR                           Não       PMDB      Paraíba                  130
+CD01O013E 004536 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD01O013E 004536 ROMERO RODRIGUES                        Sim       PSDB      Paraíba                  135
+CD01O013E 004536 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD01O013E 004536 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD01O013E 004536 WILSON FILHO                            Não       PMDB      Paraíba                  139
+CD01O013E 004536 ANA ARRAES                              Não       PSB       Pernambuco               140
+CD01O013E 004536 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD01O013E 004536 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD01O013E 004536 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CD01O013E 004536 CARLOS EDUARDO CADOCA                   Não       PSC       Pernambuco               152
+CD01O013E 004536 EDUARDO DA FONTE                        Não       PP        Pernambuco               156
+CD01O013E 004536 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD01O013E 004536 GONZAGA PATRIOTA                        Não       PSB       Pernambuco               143
+CD01O013E 004536 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD01O013E 004536 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD01O013E 004536 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD01O013E 004536 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD01O013E 004536 JOSÉ CHAVES                             Não       PTB       Pernambuco               147
+CD01O013E 004536 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD01O013E 004536 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD01O013E 004536 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD01O013E 004536 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD01O013E 004536 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD01O013E 004536 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD01O013E 004536 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD01O013E 004536 SERGIO GUERRA                           Sim       PSDB      Pernambuco               159
+CD01O013E 004536 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD01O013E 004536 VILALBA                                 Não       PRB       Pernambuco               555
+CD01O013E 004536 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD01O013E 004536 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD01O013E 004536 CELIA ROCHA                             Não       PTB       Alagoas                  165
+CD01O013E 004536 GIVALDO CARIMBÃO                        Não       PSB       Alagoas                  166
+CD01O013E 004536 JOÃO LYRA                               Não       PTB       Alagoas                  167
+CD01O013E 004536 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD01O013E 004536 MAURÍCIO QUINTELLA LESSA                Não       PR        Alagoas                  168
+CD01O013E 004536 RENAN FILHO                             Não       PMDB      Alagoas                  169
+CD01O013E 004536 ROSINHA DA ADEFAL                       Não       PTdoB     Alagoas                  170
+CD01O013E 004536 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD01O013E 004536 ALMEIDA LIMA                            Não       PMDB      Sergipe                  173
+CD01O013E 004536 ANDRE MOURA                             Não       PSC       Sergipe                  174
+CD01O013E 004536 HELENO SILVA                            Não       PRB       Sergipe                  175
+CD01O013E 004536 LAERCIO OLIVEIRA                        Não       PR        Sergipe                  176
+CD01O013E 004536 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD01O013E 004536 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD01O013E 004536 ROGERIO CARVALHO                        Não       PT        Sergipe                  178
+CD01O013E 004536 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD01O013E 004536 ACELINO POPÓ                            Não       PRB       Bahia                    522
+CD01O013E 004536 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD01O013E 004536 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O013E 004536 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD01O013E 004536 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD01O013E 004536 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O013E 004536 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD01O013E 004536 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD01O013E 004536 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD01O013E 004536 EDSON PIMENTA                           Não       PCdoB     Bahia                    193
+CD01O013E 004536 EMILIANO JOSÉ                           Não       PT        Bahia                    523
+CD01O013E 004536 ERIVELTON SANTANA                       Não       PSC       Bahia                    194
+CD01O013E 004536 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD01O013E 004536 FELIX JÚNIOR                            Não       PDT       Bahia                    195
+CD01O013E 004536 FERNANDO TORRES                         Sim       DEM       Bahia                    196
+CD01O013E 004536 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O013E 004536 JÂNIO NATAL                             Não       PRP       Bahia                    198
+CD01O013E 004536 JOÃO CARLOS BACELAR                     Não       PR        Bahia                    187
+CD01O013E 004536 JOÃO LEÃO                               Não       PP        Bahia                    199
+CD01O013E 004536 JOSÉ CARLOS ARAÚJO                      Não       PDT       Bahia                    197
+CD01O013E 004536 JOSÉ NUNES                              Sim       DEM       Bahia                    201
+CD01O013E 004536 JOSÉ ROCHA                              Não       PR        Bahia                    203
+CD01O013E 004536 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD01O013E 004536 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O013E 004536 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD01O013E 004536 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD01O013E 004536 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD01O013E 004536 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD01O013E 004536 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD01O013E 004536 MAURÍCIO TRINDADE                       Não       PR        Bahia                    208
+CD01O013E 004536 NELSON PELLEGRINO                       Não       PT        Bahia                    209
+CD01O013E 004536 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD01O013E 004536 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O013E 004536 RUI COSTA                               Não       PT        Bahia                    216
+CD01O013E 004536 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O013E 004536 SÉRGIO BRITO                            Não       PSC       Bahia                    213
+CD01O013E 004536 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD01O013E 004536 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O013E 004536 AELTON FREITAS                          Não       PR        Minas Gerais             224
+CD01O013E 004536 ANTÔNIO ANDRADE                         Não       PMDB      Minas Gerais             227
+CD01O013E 004536 ANTÔNIO ROBERTO                         Não       PV        Minas Gerais             229
+CD01O013E 004536 ARACELY DE PAULA                        Não       PR        Minas Gerais             223
+CD01O013E 004536 BERNARDO SANTANA DE VASCONCELLO         Não       PR        Minas Gerais             221
+CD01O013E 004536 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CD01O013E 004536 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD01O013E 004536 DIEGO ANDRADE                           Não       PR        Minas Gerais             228
+CD01O013E 004536 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O013E 004536 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD01O013E 004536 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD01O013E 004536 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD01O013E 004536 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD01O013E 004536 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD01O013E 004536 FÁBIO RAMALHO                           Não       PV        Minas Gerais             238
+CD01O013E 004536 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD01O013E 004536 GEORGE HILTON                           Não       PRB       Minas Gerais             241
+CD01O013E 004536 GERALDO THADEU                          Sim       PPS       Minas Gerais             236
+CD01O013E 004536 JAIME MARTINS                           Não       PR        Minas Gerais             240
+CD01O013E 004536 JAIRO ATAIDE                            Não       DEM       Minas Gerais             533
+CD01O013E 004536 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD01O013E 004536 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD01O013E 004536 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD01O013E 004536 JOSE HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O013E 004536 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD01O013E 004536 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD01O013E 004536 LEONARDO QUINTÃO                        Não       PMDB      Minas Gerais             255
+CD01O013E 004536 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD01O013E 004536 LUIS TIBÉ                               Não       PTdoB     Minas Gerais             251
+CD01O013E 004536 LUIZ FERNANDO FARIA                     Não       PP        Minas Gerais             256
+CD01O013E 004536 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD01O013E 004536 MARCOS MONTES                           Sim       DEM       Minas Gerais             257
+CD01O013E 004536 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD01O013E 004536 MÁRIO DE OLIVEIRA                       Não       PSC       Minas Gerais             260
+CD01O013E 004536 MAURO LOPES                             Não       PMDB      Minas Gerais             252
+CD01O013E 004536 MIGUEL CORRÊA                           Não       PT        Minas Gerais             261
+CD01O013E 004536 NEWTON CARDOSO                          Não       PMDB      Minas Gerais             258
+CD01O013E 004536 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O013E 004536 PADRE JOAO                              Não       PT        Minas Gerais             259
+CD01O013E 004536 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD01O013E 004536 PAULO PIAU                              Não       PMDB      Minas Gerais             266
+CD01O013E 004536 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD01O013E 004536 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD01O013E 004536 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD01O013E 004536 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O013E 004536 VITOR PENIDO                            Não       DEM       Minas Gerais             532
+CD01O013E 004536 WALTER TOSTA                            Não       PMN       Minas Gerais             267
+CD01O013E 004536 ZÉ SILVA                                Abstenção PDT       Minas Gerais             271
+CD01O013E 004536 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O013E 004536 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD01O013E 004536 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD01O013E 004536 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD01O013E 004536 LAURIETE                                Não       PSC       Espírito Santo           279
+CD01O013E 004536 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD01O013E 004536 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O013E 004536 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD01O013E 004536 ROSE DE FREITAS                         Não       PMDB      Espírito Santo           282
+CD01O013E 004536 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD01O013E 004536 ADRIAN                                  Não       PMDB      Rio de Janeiro           286
+CD01O013E 004536 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD01O013E 004536 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CD01O013E 004536 ALFREDO SIRKIS                          Abstenção PV        Rio de Janeiro           321
+CD01O013E 004536 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD01O013E 004536 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD01O013E 004536 AROLDE DE OLIVEIRA                      Sim       DEM       Rio de Janeiro           288
+CD01O013E 004536 AUREO                                   Não       PRTB      Rio de Janeiro           290
+CD01O013E 004536 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD01O013E 004536 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O013E 004536 CHICO DANGELO                           Não       PT        Rio de Janeiro           527
+CD01O013E 004536 CRISTIANO                               Não       PTdoB     Rio de Janeiro           292
+CD01O013E 004536 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD01O013E 004536 DR. ALUIZIO                             Abstenção PV        Rio de Janeiro           294
+CD01O013E 004536 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O013E 004536 DR. PAULO CÉSAR                         Não       PR        Rio de Janeiro           296
+CD01O013E 004536 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD01O013E 004536 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD01O013E 004536 ELIANE ROLIM                            Não       PT        Rio de Janeiro           538
+CD01O013E 004536 FELIPE BORNIER                          Sim       PHS       Rio de Janeiro           301
+CD01O013E 004536 FILIPE PEREIRA                          Não       PSC       Rio de Janeiro           303
+CD01O013E 004536 FRANCISCO FLORIANO                      Não       PR        Rio de Janeiro           297
+CD01O013E 004536 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD01O013E 004536 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD01O013E 004536 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O013E 004536 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD01O013E 004536 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD01O013E 004536 JULIO LOPES                             Não       PP        Rio de Janeiro           308
+CD01O013E 004536 LEONARDO PICCIANI                       Não       PMDB      Rio de Janeiro           312
+CD01O013E 004536 LILIAM SÁ                               Não       PR        Rio de Janeiro           309
+CD01O013E 004536 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD01O013E 004536 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD01O013E 004536 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O013E 004536 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD01O013E 004536 PEDRO PAULO                             Não       PMDB      Rio de Janeiro           314
+CD01O013E 004536 RODRIGO BETHLEM                         Não       PMDB      Rio de Janeiro           318
+CD01O013E 004536 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD01O013E 004536 SERGIO ZVEITER                          Não       PDT       Rio de Janeiro           320
+CD01O013E 004536 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD01O013E 004536 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD01O013E 004536 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O013E 004536 WALNEY ROCHA                            Não       PTB       Rio de Janeiro           325
+CD01O013E 004536 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD01O013E 004536 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD01O013E 004536 ALBERTO MOURÃO                          Sim       PSDB      São Paulo                552
+CD01O013E 004536 ALDO REBELO                             Não       PCdoB     São Paulo                331
+CD01O013E 004536 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD01O013E 004536 ALINE CORRÊA                            Não       PP        São Paulo                330
+CD01O013E 004536 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD01O013E 004536 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD01O013E 004536 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD01O013E 004536 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD01O013E 004536 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD01O013E 004536 BETO MANSUR                             Não       PP        São Paulo                340
+CD01O013E 004536 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CD01O013E 004536 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD01O013E 004536 CARLOS SAMPAIO                          Sim       PSDB      São Paulo                338
+CD01O013E 004536 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD01O013E 004536 DELEGADO PROTÓGENES                     Não       PCdoB     São Paulo                343
+CD01O013E 004536 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD01O013E 004536 DIMAS RAMALHO                           Sim       PPS       São Paulo                346
+CD01O013E 004536 DR. UBIALI                              Não       PSB       São Paulo                541
+CD01O013E 004536 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O013E 004536 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD01O013E 004536 ELEUSES PAIVA                           Sim       DEM       São Paulo                537
+CD01O013E 004536 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD01O013E 004536 GABRIEL CHALITA                         Não       PSB       São Paulo                347
+CD01O013E 004536 GUILHERME CAMPOS                        Sim       DEM       São Paulo                357
+CD01O013E 004536 GUILHERME MUSSI                         Abstenção PV        São Paulo                348
+CD01O013E 004536 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD01O013E 004536 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD01O013E 004536 JEFFERSON CAMPOS                        Não       PSB       São Paulo                349
+CD01O013E 004536 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O013E 004536 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD01O013E 004536 JOÃO PAULO CUNHA                        Não       PT        São Paulo                361
+CD01O013E 004536 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD01O013E 004536 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD01O013E 004536 JOSÉ DE FILIPPI JÚNIOR                  Não       PT        São Paulo                354
+CD01O013E 004536 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD01O013E 004536 JUNJI ABE                               Sim       DEM       São Paulo                355
+CD01O013E 004536 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O013E 004536 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD01O013E 004536 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O013E 004536 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD01O013E 004536 MARCELO AGUIAR                          Não       PSC       São Paulo                370
+CD01O013E 004536 MILTON MONTI                            Não       PR        São Paulo                374
+CD01O013E 004536 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD01O013E 004536 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD01O013E 004536 NEWTON LIMA                             Não       PT        São Paulo                377
+CD01O013E 004536 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O013E 004536 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD01O013E 004536 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O013E 004536 PAULO MALUF                             Sim       PP        São Paulo                373
+CD01O013E 004536 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CD01O013E 004536 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD01O013E 004536 PENNA                                   Abstenção PV        São Paulo                382
+CD01O013E 004536 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD01O013E 004536 RICARDO IZAR                            Abstenção PV        São Paulo                383
+CD01O013E 004536 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD01O013E 004536 ROBERTO DE LUCENA                       Abstenção PV        São Paulo                385
+CD01O013E 004536 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CD01O013E 004536 ROBERTO SANTIAGO                        Sim       PV        São Paulo                386
+CD01O013E 004536 RODRIGO GARCIA                          Sim       DEM       São Paulo                388
+CD01O013E 004536 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CD01O013E 004536 TIRIRICA                                Não       PR        São Paulo                392
+CD01O013E 004536 VALDEMAR COSTA NETO                     Não       PR        São Paulo                393
+CD01O013E 004536 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD01O013E 004536 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD01O013E 004536 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CD01O013E 004536 VICENTINHO                              Não       PT        São Paulo                396
+CD01O013E 004536 WALTER IHOSHI                           Sim       DEM       São Paulo                553
+CD01O013E 004536 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD01O013E 004536 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD01O013E 004536 HOMERO PEREIRA                          Não       PR        Mato Grosso              402
+CD01O013E 004536 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD01O013E 004536 NERI GELLER                             Não       PP        Mato Grosso              520
+CD01O013E 004536 ROBERTO DORNER                          Não       PP        Mato Grosso              519
+CD01O013E 004536 SÁGUAS MORAES                           Não       PT        Mato Grosso              405
+CD01O013E 004536 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD01O013E 004536 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O013E 004536 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD01O013E 004536 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O013E 004536 POLICARPO                               Não       PT        Distrito Federal         539
+CD01O013E 004536 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O013E 004536 RICARDO QUIRINO                         Não       PRB       Distrito Federal         551
+CD01O013E 004536 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O013E 004536 ARMANDO VERGÍLIO                        Não       PMN       Goiás                    416
+CD01O013E 004536 CARLOS ALBERTO LERÉIA                   Não       PSDB      Goiás                    415
+CD01O013E 004536 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD01O013E 004536 HEULER CRUVINEL                         Sim       DEM       Goiás                    423
+CD01O013E 004536 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O013E 004536 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD01O013E 004536 JORGE PINHEIRO                          Não       PRB       Goiás                    548
+CD01O013E 004536 JOVAIR ARANTES                          Não       PTB       Goiás                    419
+CD01O013E 004536 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD01O013E 004536 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD01O013E 004536 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD01O013E 004536 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD01O013E 004536 SANDES JÚNIOR                           Não       PP        Goiás                    426
+CD01O013E 004536 SANDRO MABEL                            Não       PR        Goiás                    431
+CD01O013E 004536 THIAGO PEIXOTO                          Não       PMDB      Goiás                    424
+CD01O013E 004536 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD01O013E 004536 ANTÔNIO CARLOS BIFFI                    Não       PT        Mato Grosso do Sul       432
+CD01O013E 004536 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD01O013E 004536 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD01O013E 004536 GIROTO                                  Não       PR        Mato Grosso do Sul       434
+CD01O013E 004536 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD01O013E 004536 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O013E 004536 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD01O013E 004536 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD01O013E 004536 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD01O013E 004536 ALEX CANZIANI                           Não       PTB       Paraná                   445
+CD01O013E 004536 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD01O013E 004536 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD01O013E 004536 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD01O013E 004536 ANGELO VANHONI                          Não       PT        Paraná                   453
+CD01O013E 004536 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD01O013E 004536 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD01O013E 004536 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O013E 004536 DR. ROSINHA                             Não       PT        Paraná                   449
+CD01O013E 004536 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD01O013E 004536 EDUARDO SCIARRA                         Sim       DEM       Paraná                   461
+CD01O013E 004536 FERNANDO FRANCISCHINI                   Sim       PSDB      Paraná                   450
+CD01O013E 004536 GIACOBO                                 Não       PR        Paraná                   466
+CD01O013E 004536 HERMES PARCIANELLO                      Não       PMDB      Paraná                   448
+CD01O013E 004536 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O013E 004536 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O013E 004536 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD01O013E 004536 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD01O013E 004536 MOACIR MICHELETTO                       Não       PMDB      Paraná                   462
+CD01O013E 004536 NELSON MEURER                           Não       PP        Paraná                   458
+CD01O013E 004536 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD01O013E 004536 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD01O013E 004536 RATINHO JUNIOR                          Não       PSC       Paraná                   464
+CD01O013E 004536 REINHOLD STEPHANES                      Não       PMDB      Paraná                   467
+CD01O013E 004536 ROSANE FERREIRA                         Abstenção PV        Paraná                   459
+CD01O013E 004536 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD01O013E 004536 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O013E 004536 TAKAYAMA                                Não       PSC       Paraná                   469
+CD01O013E 004536 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD01O013E 004536 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD01O013E 004536 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD01O013E 004536 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O013E 004536 JORGE BOEIRA                            Não       PT        Santa Catarina           474
+CD01O013E 004536 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD01O013E 004536 MARCO TEBALDI                           Sim       PSDB      Santa Catarina           478
+CD01O013E 004536 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD01O013E 004536 ONOFRE SANTO AGOSTINI                   Sim       DEM       Santa Catarina           479
+CD01O013E 004536 PAULO BORNHAUSEN                        Sim       DEM       Santa Catarina           482
+CD01O013E 004536 PEDRO UCZAI                             Não       PT        Santa Catarina           481
+CD01O013E 004536 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD01O013E 004536 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD01O013E 004536 ZONTA                                   Não       PP        Santa Catarina           485
+CD01O013E 004536 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD01O013E 004536 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD01O013E 004536 ALEXANDRE ROSO                          Não       PSB       Rio Grande do Sul        489
+CD01O013E 004536 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD01O013E 004536 DANRLEI DE DEUS HINTERHOLZ              Não       PTB       Rio Grande do Sul        495
+CD01O013E 004536 DARCÍSIO PERONDI                        Não       PMDB      Rio Grande do Sul        491
+CD01O013E 004536 ELVINO BOHN GASS                        Não       PT        Rio Grande do Sul        499
+CD01O013E 004536 ENIO BACCI                              Sim       PDT       Rio Grande do Sul        493
+CD01O013E 004536 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD01O013E 004536 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD01O013E 004536 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD01O013E 004536 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD01O013E 004536 JOSÉ OTÁVIO GERMANO                     Não       PP        Rio Grande do Sul        501
+CD01O013E 004536 JOSE STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD01O013E 004536 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O013E 004536 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD01O013E 004536 MANUELA D`ÁVILA                         Não       PCdoB     Rio Grande do Sul        494
+CD01O013E 004536 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O013E 004536 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD01O013E 004536 MENDES RIBEIRO FILHO                    Não       PMDB      Rio Grande do Sul        504
+CD01O013E 004536 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD01O013E 004536 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CD01O013E 004536 OSMAR TERRA                             Não       PMDB      Rio Grande do Sul        497
+CD01O013E 004536 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD01O013E 004536 PEPE VARGAS                             Não       PT        Rio Grande do Sul        503
+CD01O013E 004536 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD01O013E 004536 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O013E 004536 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD01O013E 004536 SÉRGIO MORAES                           Não       PTB       Rio Grande do Sul        512
+CD01O013E 004536 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD01O013E 004536 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD01O013E 004536 PAULO MAGALHÃES                         <-------> DEM       Bahia                    214
+CD01O013E 004536 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O013E 004536 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD01O013E 004536 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O013E 004536 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O013E 004536 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O013E 004536 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O013E 004536 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD01O013E 004536 ADEMIR CAMILO                           <-------> PDT       Minas Gerais             220
+CD01O013E 004536 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD01O013E 004536 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O013E 004536 FERNANDO FERRO                          <-------> PT        Pernambuco               141
+CD01O013E 004536 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD01O013E 004536 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD01O013E 004536 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O013E 004536 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD01O013E 004536 JOÃO RODRIGUES                          <-------> DEM       Santa Catarina           473
+CD01O013E 004536 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O013E 004536 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329

@@ -1,0 +1,513 @@
+CD01O363E 004838 EDIO LOPES                              Sim       PMDB      Roraima                  2
+CD01O363E 004838 FRANCISCO ARAÚJO                        Sim       PSD       Roraima                  570
+CD01O363E 004838 JHONATAN DE JESUS                       Sim       PRB       Roraima                  5  
+CD01O363E 004838 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD01O363E 004838 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD01O363E 004838 RAUL LIMA                               Sim       PSD       Roraima                  7  
+CD01O363E 004838 TERESA SURITA                           Sim       PMDB      Roraima                  8  
+CD01O363E 004838 DAVI ALCOLUMBRE                         Sim       DEM       Amapá                    10 
+CD01O363E 004838 EVANDRO MILHOMEN                        Sim       PCdoB     Amapá                    11 
+CD01O363E 004838 FÁTIMA PELAES                           Sim       PMDB      Amapá                    12 
+CD01O363E 004838 JANETE CAPIBERIBE                       Sim       PSB       Amapá                    572
+CD01O363E 004838 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD01O363E 004838 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD01O363E 004838 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD01O363E 004838 BETO FARO                               Sim       PT        Pará                     19 
+CD01O363E 004838 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD01O363E 004838 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD01O363E 004838 JOSÉ PRIANTE                            Sim       PMDB      Pará                     26 
+CD01O363E 004838 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD01O363E 004838 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD01O363E 004838 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CD01O363E 004838 ZEQUINHA MARINHO                        Sim       PSC       Pará                     33 
+CD01O363E 004838 ÁTILA LINS                              Não       PSD       Amazonas                 38 
+CD01O363E 004838 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD01O363E 004838 PAUDERNEY AVELINO                       Não       DEM       Amazonas                 40 
+CD01O363E 004838 REBECCA GARCIA                          Não       PP        Amazonas                 42 
+CD01O363E 004838 SILAS CÂMARA                            Não       PSD       Amazonas                 39 
+CD01O363E 004838 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD01O363E 004838 MARCOS ROGÉRIO                          Sim       PDT       Rondonia                 583
+CD01O363E 004838 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD01O363E 004838 MOREIRA MENDES                          Sim       PSD       Rondonia                 49 
+CD01O363E 004838 NATAN DONADON                           Sim       PMDB      Rondonia                 51 
+CD01O363E 004838 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD01O363E 004838 PADRE TON                               Sim       PT        Rondonia                 48 
+CD01O363E 004838 GLADSON CAMELI                          Sim       PP        Acre                     55 
+CD01O363E 004838 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD01O363E 004838 PERPÉTUA ALMEIDA                        Sim       PCdoB     Acre                     56 
+CD01O363E 004838 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD01O363E 004838 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD01O363E 004838 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD01O363E 004838 CÉSAR HALUM                             Sim       PSD       Tocantins                64 
+CD01O363E 004838 EDUARDO GOMES                           Sim       PSDB      Tocantins                60 
+CD01O363E 004838 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD01O363E 004838 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD01O363E 004838 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD01O363E 004838 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD01O363E 004838 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD01O363E 004838 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD01O363E 004838 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CD01O363E 004838 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD01O363E 004838 EDIVALDO HOLANDA JUNIOR                 Sim       PTC       Maranhão                 73 
+CD01O363E 004838 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD01O363E 004838 PEDRO NOVAIS                            Sim       PMDB      Maranhão                 82 
+CD01O363E 004838 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD01O363E 004838 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD01O363E 004838 RIBAMAR ALVES                           Sim       PSB       Maranhão                 74 
+CD01O363E 004838 SARNEY FILHO                            Sim       PV        Maranhão                 85 
+CD01O363E 004838 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD01O363E 004838 WEVERTON ROCHA                          Sim       PDT       Maranhão                 579
+CD01O363E 004838 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD01O363E 004838 ANÍBAL GOMES                            Sim       PMDB      Ceará                    87 
+CD01O363E 004838 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CD01O363E 004838 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD01O363E 004838 ARNON BEZERRA                           Sim       PTB       Ceará                    90 
+CD01O363E 004838 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD01O363E 004838 CHICO LOPES                             Sim       PCdoB     Ceará                    88 
+CD01O363E 004838 DANILO FORTE                            Sim       PMDB      Ceará                    95 
+CD01O363E 004838 EDSON SILVA                             Sim       PSB       Ceará                    98 
+CD01O363E 004838 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD01O363E 004838 GENECIAS NORONHA                        Sim       PMDB      Ceará                    99 
+CD01O363E 004838 GORETE PEREIRA                          Sim       PR        Ceará                    100
+CD01O363E 004838 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD01O363E 004838 JOSÉ AIRTON                             Sim       PT        Ceará                    101
+CD01O363E 004838 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD01O363E 004838 JOSÉ LINHARES                           Sim       PP        Ceará                    96 
+CD01O363E 004838 MANOEL SALVIANO                         Sim       PSD       Ceará                    104
+CD01O363E 004838 MAURO BENEVIDES                         Sim       PMDB      Ceará                    105
+CD01O363E 004838 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD01O363E 004838 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD01O363E 004838 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD01O363E 004838 HUGO NAPOLEÃO                           Sim       PSD       Piauí                    112
+CD01O363E 004838 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD01O363E 004838 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD01O363E 004838 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD01O363E 004838 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD01O363E 004838 MARLLOS SAMPAIO                         Sim       PMDB      Piauí                    117
+CD01O363E 004838 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD01O363E 004838 PAES LANDIM                             Sim       PTB       Piauí                    118
+CD01O363E 004838 FÁBIO FARIA                             Sim       PSD       Rio Grande do Norte      119
+CD01O363E 004838 FÁTIMA BEZERRA                          Sim       PT        Rio Grande do Norte      121
+CD01O363E 004838 JOÃO MAIA                               Sim       PR        Rio Grande do Norte      124
+CD01O363E 004838 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD01O363E 004838 ROGÉRIO MARINHO                         Sim       PSDB      Rio Grande do Norte      540
+CD01O363E 004838 AGUINALDO RIBEIRO                       Sim       PP        Paraíba                  129
+CD01O363E 004838 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CD01O363E 004838 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD01O363E 004838 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD01O363E 004838 MANOEL JUNIOR                           Sim       PMDB      Paraíba                  130
+CD01O363E 004838 ROMERO RODRIGUES                        Sim       PSDB      Paraíba                  135
+CD01O363E 004838 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD01O363E 004838 WELLINGTON ROBERTO                      Sim       PR        Paraíba                  136
+CD01O363E 004838 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD01O363E 004838 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD01O363E 004838 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CD01O363E 004838 CARLOS EDUARDO CADOCA                   Sim       PSC       Pernambuco               152
+CD01O363E 004838 EDUARDO DA FONTE                        Sim       PP        Pernambuco               156
+CD01O363E 004838 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD01O363E 004838 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD01O363E 004838 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD01O363E 004838 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD01O363E 004838 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD01O363E 004838 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD01O363E 004838 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD01O363E 004838 PAULO RUBEM SANTIAGO                    Sim       PDT       Pernambuco               554
+CD01O363E 004838 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD01O363E 004838 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD01O363E 004838 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CD01O363E 004838 VILALBA                                 Sim       PRB       Pernambuco               555
+CD01O363E 004838 WOLNEY QUEIROZ                          Sim       PDT       Pernambuco               164
+CD01O363E 004838 ARTHUR LIRA                             Sim       PP        Alagoas                  162
+CD01O363E 004838 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD01O363E 004838 GIVALDO CARIMBÃO                        Sim       PSB       Alagoas                  166
+CD01O363E 004838 JOÃO LYRA                               Sim       PSD       Alagoas                  167
+CD01O363E 004838 MAURÍCIO QUINTELLA LESSA                Sim       PR        Alagoas                  168
+CD01O363E 004838 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD01O363E 004838 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD01O363E 004838 ALMEIDA LIMA                            Sim       PPS       Sergipe                  173
+CD01O363E 004838 ANDRE MOURA                             Sim       PSC       Sergipe                  174
+CD01O363E 004838 HELENO SILVA                            Sim       PRB       Sergipe                  175
+CD01O363E 004838 MÁRCIO MACÊDO                           Sim       PT        Sergipe                  177
+CD01O363E 004838 MENDONÇA PRADO                          Sim       DEM       Sergipe                  179
+CD01O363E 004838 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD01O363E 004838 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD01O363E 004838 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD01O363E 004838 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD01O363E 004838 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD01O363E 004838 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O363E 004838 ARTHUR OLIVEIRA MAIA                    Sim       PMDB      Bahia                    192
+CD01O363E 004838 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD01O363E 004838 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD01O363E 004838 EDSON PIMENTA                           Sim       PSD       Bahia                    193
+CD01O363E 004838 EMILIANO JOSÉ                           Sim       PT        Bahia                    523
+CD01O363E 004838 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD01O363E 004838 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD01O363E 004838 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD01O363E 004838 JOÃO CARLOS BACELAR                     Sim       PR        Bahia                    187
+CD01O363E 004838 JOSÉ CARLOS ARAÚJO                      Sim       PSD       Bahia                    197
+CD01O363E 004838 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD01O363E 004838 JOSÉ ROCHA                              Sim       PR        Bahia                    203
+CD01O363E 004838 JOSEPH BANDEIRA                         Sim       PT        Bahia                    565
+CD01O363E 004838 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD01O363E 004838 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O363E 004838 LUCIO VIEIRA LIMA                       Sim       PMDB      Bahia                    205
+CD01O363E 004838 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD01O363E 004838 LUIZ ARGÔLO                             Sim       PP        Bahia                    207
+CD01O363E 004838 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD01O363E 004838 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD01O363E 004838 MAURÍCIO TRINDADE                       Sim       PR        Bahia                    208
+CD01O363E 004838 NELSON PELLEGRINO                       Sim       PT        Bahia                    209
+CD01O363E 004838 PAULO MAGALHÃES                         Sim       PSD       Bahia                    214
+CD01O363E 004838 SÉRGIO BARRADAS CARNEIRO                Sim       PT        Bahia                    524
+CD01O363E 004838 SÉRGIO BRITO                            Sim       PSD       Bahia                    213
+CD01O363E 004838 VALMIR ASSUNÇÃO                         Sim       PT        Bahia                    218
+CD01O363E 004838 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD01O363E 004838 ADEMIR CAMILO                           Sim       PSD       Minas Gerais             220
+CD01O363E 004838 ANTÔNIO ANDRADE                         Sim       PMDB      Minas Gerais             227
+CD01O363E 004838 ANTÔNIO ROBERTO                         Sim       PV        Minas Gerais             229
+CD01O363E 004838 ARACELY DE PAULA                        Sim       PR        Minas Gerais             223
+CD01O363E 004838 BERNARDO SANTANA DE VASCONCELLO         Sim       PR        Minas Gerais             221
+CD01O363E 004838 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD01O363E 004838 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD01O363E 004838 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD01O363E 004838 DR. GRILO                               Sim       PSL       Minas Gerais             235
+CD01O363E 004838 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD01O363E 004838 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD01O363E 004838 GEORGE HILTON                           Sim       PRB       Minas Gerais             241
+CD01O363E 004838 GERALDO THADEU                          Sim       PSD       Minas Gerais             236
+CD01O363E 004838 GILMAR MACHADO                          Sim       PT        Minas Gerais             234
+CD01O363E 004838 JAIME MARTINS                           Sim       PR        Minas Gerais             240
+CD01O363E 004838 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CD01O363E 004838 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD01O363E 004838 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD01O363E 004838 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD01O363E 004838 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD01O363E 004838 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD01O363E 004838 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD01O363E 004838 LUIS TIBÉ                               Sim       PTdoB     Minas Gerais             251
+CD01O363E 004838 LUIZ FERNANDO FARIA                     Sim       PP        Minas Gerais             256
+CD01O363E 004838 MÁRCIO REINALDO MOREIRA                 Sim       PP        Minas Gerais             247
+CD01O363E 004838 MARCOS MONTES                           Sim       PSD       Minas Gerais             257
+CD01O363E 004838 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD01O363E 004838 MÁRIO DE OLIVEIRA                       Sim       PSC       Minas Gerais             260
+CD01O363E 004838 MAURO LOPES                             Sim       PMDB      Minas Gerais             252
+CD01O363E 004838 NEWTON CARDOSO                          Abstenção PMDB      Minas Gerais             258
+CD01O363E 004838 ODAIR CUNHA                             Sim       PT        Minas Gerais             269
+CD01O363E 004838 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD01O363E 004838 PAULO PIAU                              Sim       PMDB      Minas Gerais             266
+CD01O363E 004838 REGINALDO LOPES                         Sim       PT        Minas Gerais             272
+CD01O363E 004838 RENZO BRAZ                              Sim       PP        Minas Gerais             262
+CD01O363E 004838 RODRIGO DE CASTRO                       Sim       PSDB      Minas Gerais             268
+CD01O363E 004838 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD01O363E 004838 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD01O363E 004838 WALTER TOSTA                            Sim       PSD       Minas Gerais             267
+CD01O363E 004838 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD01O363E 004838 ZÉ SILVA                                Sim       PDT       Minas Gerais             271
+CD01O363E 004838 AUDIFAX                                 Sim       PSB       Espírito Santo           274
+CD01O363E 004838 CAMILO COLA                             Sim       PMDB      Espírito Santo           543
+CD01O363E 004838 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD01O363E 004838 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD01O363E 004838 LAURIETE                                Sim       PSC       Espírito Santo           279
+CD01O363E 004838 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD01O363E 004838 MANATO                                  Sim       PDT       Espírito Santo           275
+CD01O363E 004838 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD01O363E 004838 ROSE DE FREITAS                         Sim       PMDB      Espírito Santo           282
+CD01O363E 004838 SUELI VIDIGAL                           Sim       PDT       Espírito Santo           281
+CD01O363E 004838 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD01O363E 004838 ALEXANDRE SANTOS                        Sim       PMDB      Rio de Janeiro           285
+CD01O363E 004838 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD01O363E 004838 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD01O363E 004838 AROLDE DE OLIVEIRA                      Sim       PSD       Rio de Janeiro           288
+CD01O363E 004838 AUREO                                   Sim       PRTB      Rio de Janeiro           290
+CD01O363E 004838 BRIZOLA NETO                            Sim       PDT       Rio de Janeiro           566
+CD01O363E 004838 CHICO D`ANGELO                          Sim       PT        Rio de Janeiro           527
+CD01O363E 004838 DELEY                                   Sim       PSC       Rio de Janeiro           562
+CD01O363E 004838 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD01O363E 004838 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD01O363E 004838 DR. PAULO CÉSAR                         Sim       PSD       Rio de Janeiro           296
+CD01O363E 004838 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD01O363E 004838 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD01O363E 004838 ELIANE ROLIM                            Sim       PT        Rio de Janeiro           538
+CD01O363E 004838 FELIPE BORNIER                          Sim       PSD       Rio de Janeiro           301
+CD01O363E 004838 FILIPE PEREIRA                          Sim       PSC       Rio de Janeiro           303
+CD01O363E 004838 FRANCISCO FLORIANO                      Sim       PR        Rio de Janeiro           297
+CD01O363E 004838 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD01O363E 004838 HUGO LEAL                               Sim       PSC       Rio de Janeiro           306
+CD01O363E 004838 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O363E 004838 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD01O363E 004838 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD01O363E 004838 LILIAM SÁ                               Sim       PSD       Rio de Janeiro           309
+CD01O363E 004838 MARCELO MATOS                           Sim       PDT       Rio de Janeiro           311
+CD01O363E 004838 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD01O363E 004838 NEILTON MULIM                           Sim       PR        Rio de Janeiro           315
+CD01O363E 004838 NELSON BORNIER                          Sim       PMDB      Rio de Janeiro           549
+CD01O363E 004838 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD01O363E 004838 PAULO FEIJÓ                             Sim       PR        Rio de Janeiro           577
+CD01O363E 004838 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD01O363E 004838 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD01O363E 004838 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD01O363E 004838 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD01O363E 004838 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD01O363E 004838 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD01O363E 004838 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD01O363E 004838 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD01O363E 004838 ABELARDO CAMARINHA                      Sim       PSB       São Paulo                329
+CD01O363E 004838 ALBERTO MOURÃO                          Sim       PSDB      São Paulo                552
+CD01O363E 004838 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD01O363E 004838 ANTONIO BULHÕES                         Sim       PRB       São Paulo                333
+CD01O363E 004838 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD01O363E 004838 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD01O363E 004838 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD01O363E 004838 BETO MANSUR                             Sim       PP        São Paulo                340
+CD01O363E 004838 CARLOS SAMPAIO                          Sim       PSDB      São Paulo                338
+CD01O363E 004838 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD01O363E 004838 DELEGADO PROTÓGENES                     Sim       PCdoB     São Paulo                343
+CD01O363E 004838 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD01O363E 004838 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD01O363E 004838 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O363E 004838 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD01O363E 004838 ELEUSES PAIVA                           Sim       PSD       São Paulo                537
+CD01O363E 004838 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD01O363E 004838 EMANUEL FERNANDES                       Sim       PSDB      São Paulo                352
+CD01O363E 004838 GABRIEL CHALITA                         Sim       PMDB      São Paulo                347
+CD01O363E 004838 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD01O363E 004838 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD01O363E 004838 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD01O363E 004838 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD01O363E 004838 JOÃO PAULO CUNHA                        Sim       PT        São Paulo                361
+CD01O363E 004838 JONAS DONIZETTE                         Sim       PSB       São Paulo                353
+CD01O363E 004838 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD01O363E 004838 JOSÉ DE FILIPPI                         Sim       PT        São Paulo                354
+CD01O363E 004838 JOSÉ MENTOR                             Sim       PT        São Paulo                367
+CD01O363E 004838 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD01O363E 004838 KEIKO OTA                               Sim       PSB       São Paulo                356
+CD01O363E 004838 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD01O363E 004838 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD01O363E 004838 MARCELO AGUIAR                          Sim       PSD       São Paulo                370
+CD01O363E 004838 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD01O363E 004838 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD01O363E 004838 NEWTON LIMA                             Sim       PT        São Paulo                377
+CD01O363E 004838 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD01O363E 004838 PAULO FREIRE                            Sim       PR        São Paulo                380
+CD01O363E 004838 PAULO MALUF                             Sim       PP        São Paulo                373
+CD01O363E 004838 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CD01O363E 004838 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD01O363E 004838 RICARDO BERZOINI                        Sim       PT        São Paulo                390
+CD01O363E 004838 RICARDO IZAR                            Sim       PSD       São Paulo                383
+CD01O363E 004838 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD01O363E 004838 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O363E 004838 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CD01O363E 004838 ROBERTO SANTIAGO                        Sim       PSD       São Paulo                386
+CD01O363E 004838 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CD01O363E 004838 TIRIRICA                                Sim       PR        São Paulo                392
+CD01O363E 004838 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD01O363E 004838 VANDERLEI SIRAQUE                       Sim       PT        São Paulo                581
+CD01O363E 004838 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD01O363E 004838 VICENTE CANDIDO                         Sim       PT        São Paulo                395
+CD01O363E 004838 VICENTINHO                              Sim       PT        São Paulo                396
+CD01O363E 004838 WALTER IHOSHI                           Sim       PSD       São Paulo                553
+CD01O363E 004838 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD01O363E 004838 CABO JULIANO RABELO                     Sim       PSB       Mato Grosso              584
+CD01O363E 004838 CARLOS BEZERRA                          Sim       PMDB      Mato Grosso              400
+CD01O363E 004838 ELIENE LIMA                             Sim       PSD       Mato Grosso              401
+CD01O363E 004838 HOMERO PEREIRA                          Sim       PSD       Mato Grosso              402
+CD01O363E 004838 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD01O363E 004838 NILSON LEITÃO                           Sim       PSDB      Mato Grosso              573
+CD01O363E 004838 PEDRO HENRY                             Sim       PP        Mato Grosso              403
+CD01O363E 004838 WELLINGTON FAGUNDES                     Sim       PR        Mato Grosso              406
+CD01O363E 004838 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O363E 004838 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD01O363E 004838 IZALCI                                  Sim       PR        Distrito Federal         408
+CD01O363E 004838 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD01O363E 004838 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD01O363E 004838 POLICARPO                               Sim       PT        Distrito Federal         539
+CD01O363E 004838 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O363E 004838 CARLOS ALBERTO LERÉIA                   Sim       PSDB      Goiás                    415
+CD01O363E 004838 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD01O363E 004838 HEULER CRUVINEL                         Sim       PSD       Goiás                    423
+CD01O363E 004838 JOÃO CAMPOS                             Sim       PSDB      Goiás                    418
+CD01O363E 004838 MARINA SANTANNA                         Sim       PT        Goiás                    564
+CD01O363E 004838 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD01O363E 004838 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD01O363E 004838 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD01O363E 004838 SANDES JÚNIOR                           Sim       PP        Goiás                    426
+CD01O363E 004838 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD01O363E 004838 ANTÔNIO CARLOS BIFFI                    Sim       PT        Mato Grosso do Sul       432
+CD01O363E 004838 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD01O363E 004838 GIROTO                                  Sim       PMDB      Mato Grosso do Sul       434
+CD01O363E 004838 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD01O363E 004838 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD01O363E 004838 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD01O363E 004838 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD01O363E 004838 ABELARDO LUPION                         Sim       DEM       Paraná                   440
+CD01O363E 004838 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD01O363E 004838 ANDRÉ VARGAS                            Sim       PT        Paraná                   452
+CD01O363E 004838 ANGELO VANHONI                          Sim       PT        Paraná                   453
+CD01O363E 004838 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD01O363E 004838 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD01O363E 004838 DR. ROSINHA                             Sim       PT        Paraná                   449
+CD01O363E 004838 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD01O363E 004838 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD01O363E 004838 FERNANDO FRANCISCHINI                   Sim       PSDB      Paraná                   450
+CD01O363E 004838 GIACOBO                                 Sim       PR        Paraná                   466
+CD01O363E 004838 HERMES PARCIANELLO                      Sim       PMDB      Paraná                   448
+CD01O363E 004838 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD01O363E 004838 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD01O363E 004838 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD01O363E 004838 MOACIR MICHELETTO                       Sim       PMDB      Paraná                   462
+CD01O363E 004838 NELSON MEURER                           Sim       PP        Paraná                   458
+CD01O363E 004838 OSMAR SERRAGLIO                         Sim       PMDB      Paraná                   463
+CD01O363E 004838 RATINHO JUNIOR                          Sim       PSC       Paraná                   464
+CD01O363E 004838 REINHOLD STEPHANES                      Sim       PSD       Paraná                   467
+CD01O363E 004838 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD01O363E 004838 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD01O363E 004838 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O363E 004838 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD01O363E 004838 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD01O363E 004838 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD01O363E 004838 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD01O363E 004838 LUCI CHOINACKI                          Sim       PT        Santa Catarina           477
+CD01O363E 004838 MAURO MARIANI                           Sim       PMDB      Santa Catarina           480
+CD01O363E 004838 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD01O363E 004838 PEDRO UCZAI                             Sim       PT        Santa Catarina           481
+CD01O363E 004838 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD01O363E 004838 ROMANNA REMOR                           Sim       PMDB      Santa Catarina           582
+CD01O363E 004838 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD01O363E 004838 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD01O363E 004838 AFONSO HAMM                             Sim       PP        Rio Grande do Sul        487
+CD01O363E 004838 ALCEU MOREIRA                           Sim       PMDB      Rio Grande do Sul        486
+CD01O363E 004838 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD01O363E 004838 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD01O363E 004838 ELISEU PADILHA                          Sim       PMDB      Rio Grande do Sul        578
+CD01O363E 004838 ENIO BACCI                              Sim       PDT       Rio Grande do Sul        493
+CD01O363E 004838 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD01O363E 004838 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD01O363E 004838 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD01O363E 004838 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD01O363E 004838 LUIS CARLOS HEINZE                      Sim       PP        Rio Grande do Sul        500
+CD01O363E 004838 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD01O363E 004838 MANUELA D`ÁVILA                         Sim       PCdoB     Rio Grande do Sul        494
+CD01O363E 004838 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O363E 004838 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CD01O363E 004838 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD01O363E 004838 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CD01O363E 004838 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD01O363E 004838 PEPE VARGAS                             Sim       PT        Rio Grande do Sul        503
+CD01O363E 004838 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD01O363E 004838 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD01O363E 004838 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD01O363E 004838 SÉRGIO MORAES                           Sim       PTB       Rio Grande do Sul        512
+CD01O363E 004838 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD01O363E 004838 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD01O363E 004838 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD01O363E 004838 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O363E 004838 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD01O363E 004838 JOAQUIM BELTRÃO                         <-------> PMDB      Alagoas                  172
+CD01O363E 004838 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD01O363E 004838 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD01O363E 004838 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O363E 004838 CARLOS SOUZA                            <-------> PSD       Amazonas                 37 
+CD01O363E 004838 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD01O363E 004838 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD01O363E 004838 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD01O363E 004838 ROBERTO BRITTO                          <-------> PP        Bahia                    211
+CD01O363E 004838 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD01O363E 004838 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD01O363E 004838 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD01O363E 004838 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD01O363E 004838 RUI COSTA                               <-------> PT        Bahia                    216
+CD01O363E 004838 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD01O363E 004838 RAIMUNDÃO                               <-------> PMDB      Ceará                    108
+CD01O363E 004838 RONALDO FONSECA                         <-------> PR        Distrito Federal         414
+CD01O363E 004838 MAGDA MOFATTO                           <-------> PTB       Goiás                    575
+CD01O363E 004838 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O363E 004838 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD01O363E 004838 ARMANDO VERGÍLIO                        <-------> PSD       Goiás                    416
+CD01O363E 004838 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD01O363E 004838 ÍRIS DE ARAÚJO                          <-------> PMDB      Goiás                    417
+CD01O363E 004838 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O363E 004838 HÉLIO SANTOS                            <-------> PSD       Maranhão                 76 
+CD01O363E 004838 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD01O363E 004838 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O363E 004838 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O363E 004838 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD01O363E 004838 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O363E 004838 TONINHO PINHEIRO                        <-------> PP        Minas Gerais             264
+CD01O363E 004838 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD01O363E 004838 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O363E 004838 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD01O363E 004838 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD01O363E 004838 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD01O363E 004838 EROS BIONDINI                           <-------> PTB       Minas Gerais             242
+CD01O363E 004838 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD01O363E 004838 DIEGO ANDRADE                           <-------> PSD       Minas Gerais             228
+CD01O363E 004838 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O363E 004838 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD01O363E 004838 FABIO TRAD                              <-------> PMDB      Mato Grosso do Sul       433
+CD01O363E 004838 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD01O363E 004838 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CD01O363E 004838 MIRIQUINHO BATISTA                      <-------> PT        Pará                     35 
+CD01O363E 004838 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD01O363E 004838 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O363E 004838 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD01O363E 004838 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O363E 004838 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O363E 004838 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD01O363E 004838 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O363E 004838 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD01O363E 004838 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD01O363E 004838 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD01O363E 004838 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD01O363E 004838 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O363E 004838 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD01O363E 004838 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O363E 004838 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O363E 004838 FERNANDO FERRO                          <-------> PT        Pernambuco               141
+CD01O363E 004838 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD01O363E 004838 NELSON PADOVANI                         <-------> PSC       Paraná                   457
+CD01O363E 004838 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD01O363E 004838 TAKAYAMA                                <-------> PSC       Paraná                   469
+CD01O363E 004838 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD01O363E 004838 JOÃO ARRUDA                             <-------> PMDB      Paraná                   455
+CD01O363E 004838 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O363E 004838 DILCEU SPERAFICO                        <-------> PP        Paraná                   444
+CD01O363E 004838 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD01O363E 004838 LEONARDO PICCIANI                       <-------> PMDB      Rio de Janeiro           312
+CD01O363E 004838 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD01O363E 004838 CHICO ALENCAR                           <-------> PSOL      Rio de Janeiro           295
+CD01O363E 004838 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CD01O363E 004838 BENEDITA DA SILVA                       <-------> PT        Rio de Janeiro           291
+CD01O363E 004838 ANTHONY GAROTINHO                       <-------> PR        Rio de Janeiro           289
+CD01O363E 004838 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O363E 004838 FELIPE MAIA                             <-------> DEM       Rio Grande do Norte      120
+CD01O363E 004838 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O363E 004838 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD01O363E 004838 MAURO NAZIF                             <-------> PSB       Rondonia                 46 
+CD01O363E 004838 BERINHO BANTIM                          <-------> PSDB      Roraima                  1  
+CD01O363E 004838 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD01O363E 004838 BOHN GASS                               <-------> PT        Rio Grande do Sul        499
+CD01O363E 004838 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O363E 004838 DANRLEI DE DEUS HINTERHOLZ              <-------> PSD       Rio Grande do Sul        495
+CD01O363E 004838 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O363E 004838 FERNANDO MARRONI                        <-------> PT        Rio Grande do Sul        525
+CD01O363E 004838 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O363E 004838 JORGE BOEIRA                            <-------> PSD       Santa Catarina           474
+CD01O363E 004838 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD01O363E 004838 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD01O363E 004838 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD01O363E 004838 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD01O363E 004838 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD01O363E 004838 MILTON MONTI                            <-------> PR        São Paulo                374
+CD01O363E 004838 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O363E 004838 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O363E 004838 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD01O363E 004838 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O363E 004838 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD01O363E 004838 JOÃO DADO                               <-------> PDT       São Paulo                362
+CD01O363E 004838 PASTOR MARCO FELICIANO                  <-------> PSC       São Paulo                379
+CD01O363E 004838 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD01O363E 004838 JEFFERSON CAMPOS                        <-------> PSD       São Paulo                349
+CD01O363E 004838 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD01O363E 004838 PENNA                                   <-------> PV        São Paulo                382
+CD01O363E 004838 CARLINHOS ALMEIDA                       <-------> PT        São Paulo                341
+CD01O363E 004838 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 

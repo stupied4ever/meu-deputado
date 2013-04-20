@@ -1,0 +1,513 @@
+CD01O313E 004798 BERINHO BANTIM                          Obstrução PSDB      Roraima                  1
+CD01O313E 004798 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD01O313E 004798 FRANCISCO ARAÚJO                        Não       PSD       Roraima                  570
+CD01O313E 004798 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD01O313E 004798 PAULO CESAR QUARTIERO                   Obstrução DEM       Roraima                  6  
+CD01O313E 004798 TERESA SURITA                           Não       PMDB      Roraima                  8  
+CD01O313E 004798 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD01O313E 004798 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD01O313E 004798 FÁTIMA PELAES                           Não       PMDB      Amapá                    12 
+CD01O313E 004798 JANETE CAPIBERIBE                       Não       PSB       Amapá                    572
+CD01O313E 004798 LUIZ CARLOS                             Obstrução PSDB      Amapá                    14 
+CD01O313E 004798 SEBASTIÃO BALA ROCHA                    Não       PDT       Amapá                    17 
+CD01O313E 004798 ASDRUBAL BENTES                         Não       PMDB      Pará                     20 
+CD01O313E 004798 ELCIONE BARBALHO                        Não       PMDB      Pará                     21 
+CD01O313E 004798 GIOVANNI QUEIROZ                        Não       PDT       Pará                     27 
+CD01O313E 004798 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O313E 004798 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O313E 004798 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD01O313E 004798 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD01O313E 004798 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD01O313E 004798 ÁTILA LINS                              Não       PSD       Amazonas                 38 
+CD01O313E 004798 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD01O313E 004798 CARLOS MAGNO                            Não       PP        Rondonia                 44 
+CD01O313E 004798 LINDOMAR GARÇON                         Não       PV        Rondonia                 45 
+CD01O313E 004798 MARINHA RAUPP                           Não       PMDB      Rondonia                 50 
+CD01O313E 004798 MAURO NAZIF                             Não       PSB       Rondonia                 46 
+CD01O313E 004798 NATAN DONADON                           Não       PMDB      Rondonia                 51 
+CD01O313E 004798 NILTON CAPIXABA                         Não       PTB       Rondonia                 47 
+CD01O313E 004798 PADRE TON                               Não       PT        Rondonia                 48 
+CD01O313E 004798 FLAVIANO MELO                           Não       PMDB      Acre                     54 
+CD01O313E 004798 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD01O313E 004798 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD01O313E 004798 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD01O313E 004798 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD01O313E 004798 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD01O313E 004798 CÉSAR HALUM                             Não       PSD       Tocantins                64 
+CD01O313E 004798 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD01O313E 004798 LAUREZ MOREIRA                          Não       PSB       Tocantins                62 
+CD01O313E 004798 LÁZARO BOTELHO                          Não       PP        Tocantins                63 
+CD01O313E 004798 PROFESSORA DORINHA SEABRA REZEN         Obstrução DEM       Tocantins                67 
+CD01O313E 004798 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O313E 004798 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD01O313E 004798 COSTA FERREIRA                          Não       PSC       Maranhão                 571
+CD01O313E 004798 EDIVALDO HOLANDA JUNIOR                 Não       PTC       Maranhão                 73 
+CD01O313E 004798 HÉLIO SANTOS                            Não       PSD       Maranhão                 76 
+CD01O313E 004798 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O313E 004798 PEDRO NOVAIS                            Não       PMDB      Maranhão                 82 
+CD01O313E 004798 PINTO ITAMARATY                         Abstenção PSDB      Maranhão                 79 
+CD01O313E 004798 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD01O313E 004798 RIBAMAR ALVES                           Não       PSB       Maranhão                 74 
+CD01O313E 004798 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD01O313E 004798 WEVERTON ROCHA                          Não       PDT       Maranhão                 579
+CD01O313E 004798 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O313E 004798 ANÍBAL GOMES                            Não       PMDB      Ceará                    87 
+CD01O313E 004798 ANTONIO BALHMANN                        Não       PSB       Ceará                    93 
+CD01O313E 004798 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD01O313E 004798 ARNON BEZERRA                           Não       PTB       Ceará                    90 
+CD01O313E 004798 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD01O313E 004798 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD01O313E 004798 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD01O313E 004798 DOMINGOS NETO                           Não       PSB       Ceará                    97 
+CD01O313E 004798 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD01O313E 004798 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD01O313E 004798 GORETE PEREIRA                          Não       PR        Ceará                    100
+CD01O313E 004798 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD01O313E 004798 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O313E 004798 JOSÉ LINHARES                           Não       PP        Ceará                    96 
+CD01O313E 004798 MANOEL SALVIANO                         Não       PSD       Ceará                    104
+CD01O313E 004798 MAURO BENEVIDES                         Não       PMDB      Ceará                    105
+CD01O313E 004798 RAIMUNDÃO                               Não       PMDB      Ceará                    108
+CD01O313E 004798 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD01O313E 004798 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD01O313E 004798 HUGO NAPOLEÃO                           Não       PSD       Piauí                    112
+CD01O313E 004798 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O313E 004798 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD01O313E 004798 JÚLIO CESAR                             Não       PSD       Piauí                    114
+CD01O313E 004798 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD01O313E 004798 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD01O313E 004798 PAES LANDIM                             Não       PTB       Piauí                    118
+CD01O313E 004798 FÁTIMA BEZERRA                          Não       PT        Rio Grande do Norte      121
+CD01O313E 004798 FELIPE MAIA                             Obstrução DEM       Rio Grande do Norte      120
+CD01O313E 004798 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD01O313E 004798 ROGÉRIO MARINHO                         Obstrução PSDB      Rio Grande do Norte      540
+CD01O313E 004798 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD01O313E 004798 AGUINALDO RIBEIRO                       Não       PP        Paraíba                  129
+CD01O313E 004798 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD01O313E 004798 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD01O313E 004798 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O313E 004798 MANOEL JUNIOR                           Não       PMDB      Paraíba                  130
+CD01O313E 004798 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD01O313E 004798 WILSON FILHO                            Não       PMDB      Paraíba                  139
+CD01O313E 004798 EDUARDO DA FONTE                        Não       PP        Pernambuco               156
+CD01O313E 004798 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD01O313E 004798 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD01O313E 004798 GONZAGA PATRIOTA                        Não       PSB       Pernambuco               143
+CD01O313E 004798 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD01O313E 004798 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD01O313E 004798 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD01O313E 004798 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD01O313E 004798 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD01O313E 004798 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD01O313E 004798 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD01O313E 004798 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD01O313E 004798 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD01O313E 004798 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD01O313E 004798 SEVERINO NINHO                          Não       PSB       Pernambuco               580
+CD01O313E 004798 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD01O313E 004798 VILALBA                                 Não       PRB       Pernambuco               555
+CD01O313E 004798 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD01O313E 004798 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD01O313E 004798 CELIA ROCHA                             Não       PTB       Alagoas                  165
+CD01O313E 004798 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD01O313E 004798 MAURÍCIO QUINTELLA LESSA                Não       PR        Alagoas                  168
+CD01O313E 004798 RENAN FILHO                             Não       PMDB      Alagoas                  169
+CD01O313E 004798 ALMEIDA LIMA                            Obstrução PPS       Sergipe                  173
+CD01O313E 004798 ANDRE MOURA                             Não       PSC       Sergipe                  174
+CD01O313E 004798 HELENO SILVA                            Não       PRB       Sergipe                  175
+CD01O313E 004798 LAERCIO OLIVEIRA                        Não       PR        Sergipe                  176
+CD01O313E 004798 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD01O313E 004798 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD01O313E 004798 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD01O313E 004798 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O313E 004798 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD01O313E 004798 ANTONIO CARLOS MAGALHÃES NETO           Obstrução DEM       Bahia                    181
+CD01O313E 004798 ANTONIO IMBASSAHY                       Obstrução PSDB      Bahia                    191
+CD01O313E 004798 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD01O313E 004798 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD01O313E 004798 EDSON PIMENTA                           Não       PSD       Bahia                    193
+CD01O313E 004798 EMILIANO JOSÉ                           Não       PT        Bahia                    523
+CD01O313E 004798 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD01O313E 004798 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O313E 004798 JÂNIO NATAL                             Não       PRP       Bahia                    198
+CD01O313E 004798 JOÃO CARLOS BACELAR                     Não       PR        Bahia                    187
+CD01O313E 004798 JOSÉ CARLOS ARAÚJO                      Não       PSD       Bahia                    197
+CD01O313E 004798 JOSÉ ROCHA                              Não       PR        Bahia                    203
+CD01O313E 004798 JOSEPH BANDEIRA                         Não       PT        Bahia                    565
+CD01O313E 004798 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD01O313E 004798 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD01O313E 004798 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD01O313E 004798 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD01O313E 004798 MAURÍCIO TRINDADE                       Não       PR        Bahia                    208
+CD01O313E 004798 NELSON PELLEGRINO                       Não       PT        Bahia                    209
+CD01O313E 004798 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD01O313E 004798 PAULO MAGALHÃES                         Não       PSD       Bahia                    214
+CD01O313E 004798 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O313E 004798 RUI COSTA                               Não       PT        Bahia                    216
+CD01O313E 004798 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O313E 004798 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD01O313E 004798 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O313E 004798 ADEMIR CAMILO                           Não       PSD       Minas Gerais             220
+CD01O313E 004798 ANTÔNIO ANDRADE                         Não       PMDB      Minas Gerais             227
+CD01O313E 004798 ANTÔNIO ROBERTO                         Não       PV        Minas Gerais             229
+CD01O313E 004798 ARACELY DE PAULA                        Não       PR        Minas Gerais             223
+CD01O313E 004798 BONIFÁCIO DE ANDRADA                    Obstrução PSDB      Minas Gerais             534
+CD01O313E 004798 CARLAILE PEDROSA                        Obstrução PSDB      Minas Gerais             222
+CD01O313E 004798 DIEGO ANDRADE                           Não       PSD       Minas Gerais             228
+CD01O313E 004798 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O313E 004798 DOMINGOS SÁVIO                          Obstrução PSDB      Minas Gerais             233
+CD01O313E 004798 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD01O313E 004798 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD01O313E 004798 GERALDO THADEU                          Não       PSD       Minas Gerais             236
+CD01O313E 004798 GILMAR MACHADO                          Não       PT        Minas Gerais             234
+CD01O313E 004798 JAIME MARTINS                           Não       PR        Minas Gerais             240
+CD01O313E 004798 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD01O313E 004798 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD01O313E 004798 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O313E 004798 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD01O313E 004798 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD01O313E 004798 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD01O313E 004798 MARCOS MONTES                           Não       PSD       Minas Gerais             257
+CD01O313E 004798 MÁRIO DE OLIVEIRA                       Não       PSC       Minas Gerais             260
+CD01O313E 004798 MAURO LOPES                             Não       PMDB      Minas Gerais             252
+CD01O313E 004798 MIGUEL CORRÊA                           Não       PT        Minas Gerais             261
+CD01O313E 004798 NEWTON CARDOSO                          Não       PMDB      Minas Gerais             258
+CD01O313E 004798 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O313E 004798 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD01O313E 004798 PAULO ABI-ACKEL                         Obstrução PSDB      Minas Gerais             263
+CD01O313E 004798 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD01O313E 004798 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD01O313E 004798 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O313E 004798 WALTER TOSTA                            Não       PSD       Minas Gerais             267
+CD01O313E 004798 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O313E 004798 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD01O313E 004798 CESAR COLNAGO                           Obstrução PSDB      Espírito Santo           276
+CD01O313E 004798 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD01O313E 004798 LAURIETE                                Não       PSC       Espírito Santo           279
+CD01O313E 004798 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O313E 004798 ROSE DE FREITAS                         Não       PMDB      Espírito Santo           282
+CD01O313E 004798 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD01O313E 004798 AROLDE DE OLIVEIRA                      Não       PSD       Rio de Janeiro           288
+CD01O313E 004798 AUREO                                   Não       PRTB      Rio de Janeiro           290
+CD01O313E 004798 BRIZOLA NETO                            Não       PDT       Rio de Janeiro           566
+CD01O313E 004798 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O313E 004798 CHICO D`ANGELO                          Não       PT        Rio de Janeiro           527
+CD01O313E 004798 DELEY                                   Não       PSC       Rio de Janeiro           562
+CD01O313E 004798 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD01O313E 004798 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O313E 004798 DR. PAULO CÉSAR                         Não       PSD       Rio de Janeiro           296
+CD01O313E 004798 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD01O313E 004798 FILIPE PEREIRA                          Não       PSC       Rio de Janeiro           303
+CD01O313E 004798 FRANCISCO FLORIANO                      Não       PR        Rio de Janeiro           297
+CD01O313E 004798 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD01O313E 004798 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O313E 004798 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD01O313E 004798 LILIAM SÁ                               Não       PSD       Rio de Janeiro           309
+CD01O313E 004798 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD01O313E 004798 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD01O313E 004798 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O313E 004798 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD01O313E 004798 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD01O313E 004798 ALINE CORRÊA                            Não       PP        São Paulo                330
+CD01O313E 004798 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD01O313E 004798 BETO MANSUR                             Não       PP        São Paulo                340
+CD01O313E 004798 BRUNA FURLAN                            Obstrução PSDB      São Paulo                335
+CD01O313E 004798 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD01O313E 004798 CARLOS SAMPAIO                          Obstrução PSDB      São Paulo                338
+CD01O313E 004798 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD01O313E 004798 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O313E 004798 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD01O313E 004798 ELEUSES PAIVA                           Não       PSD       São Paulo                537
+CD01O313E 004798 ELI CORREA FILHO                        Obstrução DEM       São Paulo                345
+CD01O313E 004798 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD01O313E 004798 GUILHERME CAMPOS                        Não       PSD       São Paulo                357
+CD01O313E 004798 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD01O313E 004798 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD01O313E 004798 JEFFERSON CAMPOS                        Não       PSD       São Paulo                349
+CD01O313E 004798 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O313E 004798 JOÃO DADO                               Não       PDT       São Paulo                362
+CD01O313E 004798 JORGE TADEU MUDALEN                     Obstrução DEM       São Paulo                363
+CD01O313E 004798 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD01O313E 004798 JUNJI ABE                               Não       PSD       São Paulo                355
+CD01O313E 004798 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O313E 004798 LUIZ FERNANDO MACHADO                   Obstrução PSDB      São Paulo                365
+CD01O313E 004798 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O313E 004798 MARA GABRILLI                           Obstrução PSDB      São Paulo                366
+CD01O313E 004798 MARCELO AGUIAR                          Não       PSD       São Paulo                370
+CD01O313E 004798 MILTON MONTI                            Não       PR        São Paulo                374
+CD01O313E 004798 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD01O313E 004798 NEWTON LIMA                             Não       PT        São Paulo                377
+CD01O313E 004798 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O313E 004798 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD01O313E 004798 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O313E 004798 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD01O313E 004798 RICARDO TRIPOLI                         Obstrução PSDB      São Paulo                384
+CD01O313E 004798 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD01O313E 004798 ROBERTO FREIRE                          Obstrução PPS       São Paulo                387
+CD01O313E 004798 ROBERTO SANTIAGO                        Não       PSD       São Paulo                386
+CD01O313E 004798 TIRIRICA                                Não       PR        São Paulo                392
+CD01O313E 004798 VANDERLEI SIRAQUE                       Não       PT        São Paulo                581
+CD01O313E 004798 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CD01O313E 004798 VICENTINHO                              Não       PT        São Paulo                396
+CD01O313E 004798 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD01O313E 004798 JÚLIO CAMPOS                            Obstrução DEM       Mato Grosso              399
+CD01O313E 004798 NILSON LEITÃO                           Obstrução PSDB      Mato Grosso              573
+CD01O313E 004798 ROBERTO DORNER                          Não       PSD       Mato Grosso              519
+CD01O313E 004798 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O313E 004798 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD01O313E 004798 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O313E 004798 JAQUELINE RORIZ                         Não       PMN       Distrito Federal         409
+CD01O313E 004798 LUIZ PITIMAN                            Não       PMDB      Distrito Federal         410
+CD01O313E 004798 POLICARPO                               Não       PT        Distrito Federal         539
+CD01O313E 004798 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O313E 004798 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O313E 004798 ARMANDO VERGÍLIO                        Não       PSD       Goiás                    416
+CD01O313E 004798 CARLOS ALBERTO LERÉIA                   Obstrução PSDB      Goiás                    415
+CD01O313E 004798 HEULER CRUVINEL                         Não       PSD       Goiás                    423
+CD01O313E 004798 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O313E 004798 MAGDA MOFATTO                           Não       PTB       Goiás                    575
+CD01O313E 004798 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD01O313E 004798 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD01O313E 004798 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD01O313E 004798 SANDRO MABEL                            Não       PMDB      Goiás                    431
+CD01O313E 004798 VALDIVINO DE OLIVEIRA                   Obstrução PSDB      Goiás                    547
+CD01O313E 004798 ANTÔNIO CARLOS BIFFI                    Não       PT        Mato Grosso do Sul       432
+CD01O313E 004798 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD01O313E 004798 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD01O313E 004798 GIROTO                                  Não       PMDB      Mato Grosso do Sul       434
+CD01O313E 004798 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O313E 004798 REINALDO AZAMBUJA                       Obstrução PSDB      Mato Grosso do Sul       439
+CD01O313E 004798 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD01O313E 004798 ABELARDO LUPION                         Obstrução DEM       Paraná                   440
+CD01O313E 004798 ALEX CANZIANI                           Não       PTB       Paraná                   445
+CD01O313E 004798 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD01O313E 004798 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD01O313E 004798 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD01O313E 004798 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD01O313E 004798 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O313E 004798 DR. ROSINHA                             Não       PT        Paraná                   449
+CD01O313E 004798 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD01O313E 004798 EDUARDO SCIARRA                         Não       PSD       Paraná                   461
+CD01O313E 004798 FERNANDO FRANCISCHINI                   Obstrução PSDB      Paraná                   450
+CD01O313E 004798 GIACOBO                                 Não       PR        Paraná                   466
+CD01O313E 004798 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O313E 004798 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O313E 004798 LUIZ CARLOS SETIM                       Obstrução DEM       Paraná                   535
+CD01O313E 004798 NELSON MEURER                           Não       PP        Paraná                   458
+CD01O313E 004798 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD01O313E 004798 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD01O313E 004798 RATINHO JUNIOR                          Não       PSC       Paraná                   464
+CD01O313E 004798 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD01O313E 004798 RUBENS BUENO                            Obstrução PPS       Paraná                   460
+CD01O313E 004798 SANDRO ALEX                             Não       PPS       Paraná                   465
+CD01O313E 004798 TAKAYAMA                                Não       PSC       Paraná                   469
+CD01O313E 004798 CARMEN ZANOTTO                          Obstrução PPS       Santa Catarina           561
+CD01O313E 004798 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD01O313E 004798 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD01O313E 004798 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD01O313E 004798 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O313E 004798 JORGE BOEIRA                            Não       PT        Santa Catarina           474
+CD01O313E 004798 JORGINHO MELLO                          Obstrução PSDB      Santa Catarina           476
+CD01O313E 004798 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD01O313E 004798 ONOFRE SANTO AGOSTINI                   Não       PSD       Santa Catarina           479
+CD01O313E 004798 ROMANNA REMOR                           Não       PMDB      Santa Catarina           582
+CD01O313E 004798 ALEXANDRE ROSO                          Não       PSB       Rio Grande do Sul        489
+CD01O313E 004798 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD01O313E 004798 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD01O313E 004798 DANRLEI DE DEUS HINTERHOLZ              Não       PSD       Rio Grande do Sul        495
+CD01O313E 004798 ELISEU PADILHA                          Não       PMDB      Rio Grande do Sul        578
+CD01O313E 004798 ENIO BACCI                              Não       PDT       Rio Grande do Sul        493
+CD01O313E 004798 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD01O313E 004798 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD01O313E 004798 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD01O313E 004798 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O313E 004798 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD01O313E 004798 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O313E 004798 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD01O313E 004798 OSMAR TERRA                             Não       PMDB      Rio Grande do Sul        497
+CD01O313E 004798 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD01O313E 004798 PEPE VARGAS                             Não       PT        Rio Grande do Sul        503
+CD01O313E 004798 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O313E 004798 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD01O313E 004798 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD01O313E 004798 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD01O313E 004798 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O313E 004798 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O313E 004798 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD01O313E 004798 RUI PALMEIRA                            <-------> PSDB      Alagoas                  171
+CD01O313E 004798 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD01O313E 004798 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O313E 004798 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O313E 004798 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD01O313E 004798 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD01O313E 004798 CARLOS SOUZA                            <-------> PSD       Amazonas                 37 
+CD01O313E 004798 PAUDERNEY AVELINO                       <-------> DEM       Amazonas                 40 
+CD01O313E 004798 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD01O313E 004798 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O313E 004798 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD01O313E 004798 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD01O313E 004798 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD01O313E 004798 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD01O313E 004798 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD01O313E 004798 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD01O313E 004798 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD01O313E 004798 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD01O313E 004798 SÉRGIO BRITO                            <-------> PSD       Bahia                    213
+CD01O313E 004798 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD01O313E 004798 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD01O313E 004798 JOSÉ NUNES                              <-------> PSD       Bahia                    201
+CD01O313E 004798 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O313E 004798 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O313E 004798 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD01O313E 004798 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD01O313E 004798 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD01O313E 004798 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O313E 004798 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O313E 004798 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD01O313E 004798 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD01O313E 004798 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O313E 004798 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O313E 004798 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD01O313E 004798 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O313E 004798 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD01O313E 004798 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O313E 004798 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD01O313E 004798 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O313E 004798 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O313E 004798 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD01O313E 004798 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD01O313E 004798 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O313E 004798 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O313E 004798 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O313E 004798 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O313E 004798 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD01O313E 004798 ZÉ SILVA                                <-------> PDT       Minas Gerais             271
+CD01O313E 004798 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O313E 004798 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD01O313E 004798 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD01O313E 004798 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD01O313E 004798 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD01O313E 004798 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD01O313E 004798 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD01O313E 004798 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD01O313E 004798 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O313E 004798 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O313E 004798 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD01O313E 004798 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD01O313E 004798 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O313E 004798 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD01O313E 004798 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O313E 004798 ELIENE LIMA                             <-------> PSD       Mato Grosso              401
+CD01O313E 004798 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD01O313E 004798 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD01O313E 004798 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O313E 004798 BETO FARO                               <-------> PT        Pará                     19 
+CD01O313E 004798 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD01O313E 004798 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O313E 004798 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O313E 004798 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD01O313E 004798 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O313E 004798 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O313E 004798 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CD01O313E 004798 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD01O313E 004798 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD01O313E 004798 ROMERO RODRIGUES                        <-------> PSDB      Paraíba                  135
+CD01O313E 004798 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD01O313E 004798 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD01O313E 004798 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD01O313E 004798 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD01O313E 004798 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD01O313E 004798 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD01O313E 004798 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O313E 004798 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O313E 004798 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O313E 004798 NAZARENO FONTELES                       <-------> PT        Piauí                    530
+CD01O313E 004798 MARLLOS SAMPAIO                         <-------> PMDB      Piauí                    117
+CD01O313E 004798 REINHOLD STEPHANES                      <-------> PSD       Paraná                   467
+CD01O313E 004798 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O313E 004798 MOACIR MICHELETTO                       <-------> PMDB      Paraná                   462
+CD01O313E 004798 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD01O313E 004798 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O313E 004798 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD01O313E 004798 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD01O313E 004798 DR. ALUIZIO                             <-------> PV        Rio de Janeiro           294
+CD01O313E 004798 PAULO FEIJÓ                             <-------> PR        Rio de Janeiro           577
+CD01O313E 004798 ANTHONY GAROTINHO                       <-------> PR        Rio de Janeiro           289
+CD01O313E 004798 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD01O313E 004798 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O313E 004798 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O313E 004798 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD01O313E 004798 NELSON BORNIER                          <-------> PMDB      Rio de Janeiro           549
+CD01O313E 004798 BENEDITA DA SILVA                       <-------> PT        Rio de Janeiro           291
+CD01O313E 004798 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD01O313E 004798 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O313E 004798 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD01O313E 004798 FELIPE BORNIER                          <-------> PSD       Rio de Janeiro           301
+CD01O313E 004798 LEONARDO PICCIANI                       <-------> PMDB      Rio de Janeiro           312
+CD01O313E 004798 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD01O313E 004798 EDUARDO CUNHA                           <-------> PMDB      Rio de Janeiro           300
+CD01O313E 004798 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CD01O313E 004798 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD01O313E 004798 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD01O313E 004798 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD01O313E 004798 VITOR PAULO                             <-------> PRB       Rio de Janeiro           324
+CD01O313E 004798 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD01O313E 004798 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD01O313E 004798 ELIANE ROLIM                            <-------> PT        Rio de Janeiro           538
+CD01O313E 004798 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD01O313E 004798 FÁBIO FARIA                             <-------> PSD       Rio Grande do Norte      119
+CD01O313E 004798 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O313E 004798 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O313E 004798 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD01O313E 004798 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD01O313E 004798 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD01O313E 004798 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD01O313E 004798 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD01O313E 004798 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD01O313E 004798 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O313E 004798 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD01O313E 004798 FERNANDO MARRONI                        <-------> PT        Rio Grande do Sul        525
+CD01O313E 004798 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O313E 004798 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O313E 004798 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O313E 004798 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD01O313E 004798 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD01O313E 004798 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD01O313E 004798 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD01O313E 004798 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD01O313E 004798 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O313E 004798 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD01O313E 004798 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD01O313E 004798 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD01O313E 004798 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O313E 004798 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O313E 004798 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD01O313E 004798 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD01O313E 004798 ALEXANDRE LEITE                         <-------> DEM       São Paulo                334
+CD01O313E 004798 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O313E 004798 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD01O313E 004798 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD01O313E 004798 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O313E 004798 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD01O313E 004798 JONAS DONIZETTE                         <-------> PSB       São Paulo                353
+CD01O313E 004798 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O313E 004798 WALTER IHOSHI                           <-------> PSD       São Paulo                553
+CD01O313E 004798 RICARDO IZAR                            <-------> PSD       São Paulo                383
+CD01O313E 004798 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD01O313E 004798 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD01O313E 004798 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD01O313E 004798 JOSÉ DE FILIPPI                         <-------> PT        São Paulo                354
+CD01O313E 004798 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD01O313E 004798 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O313E 004798 DRA.ELAINE ABISSAMRA                    <-------> PSB       São Paulo                576
+CD01O313E 004798 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD01O313E 004798 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD01O313E 004798 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD01O313E 004798 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O313E 004798 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD01O313E 004798 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD01O313E 004798 DR. UBIALI                              <-------> PSB       São Paulo                541
+CD01O313E 004798 PENNA                                   <-------> PV        São Paulo                382
+CD01O313E 004798 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD01O313E 004798 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O313E 004798 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 

@@ -1,0 +1,513 @@
+CD03O074E 005309 CHICO DAS VERDURAS                      Não       PRP       Roraima                  3
+CD03O074E 005309 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD03O074E 005309 MARCIO JUNQUEIRA                        Não       DEM       Roraima                  625
+CD03O074E 005309 PAULO CESAR QUARTIERO                   Não       DEM       Roraima                  6  
+CD03O074E 005309 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD03O074E 005309 DAVI ALCOLUMBRE                         Não       DEM       Amapá                    10 
+CD03O074E 005309 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD03O074E 005309 BETO FARO                               Não       PT        Pará                     19 
+CD03O074E 005309 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD03O074E 005309 DUDIMAR PAXIÚBA                         Obstrução PSDB      Pará                     518
+CD03O074E 005309 JOSÉ PRIANTE                            Não       PMDB      Pará                     26 
+CD03O074E 005309 LÚCIO VALE                              Não       PR        Pará                     29 
+CD03O074E 005309 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD03O074E 005309 WANDENKOLK GONÇALVES                    Obstrução PSDB      Pará                     32 
+CD03O074E 005309 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD03O074E 005309 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD03O074E 005309 ÁTILA LINS                              Não       PSD       Amazonas                 38 
+CD03O074E 005309 DR. LUIZ FERNANDO                       Não       PSD       Amazonas                 605
+CD03O074E 005309 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD03O074E 005309 HENRIQUE OLIVEIRA                       Obstrução PR        Amazonas                 36 
+CD03O074E 005309 PLÍNIO VALÉRIO                          Obstrução PSDB      Amazonas                 633
+CD03O074E 005309 ANSELMO DE JESUS                        Não       PT        Rondonia                 615
+CD03O074E 005309 MARCOS ROGÉRIO                          Não       PDT       Rondonia                 583
+CD03O074E 005309 NATAN DONADON                           Não       PMDB      Rondonia                 51 
+CD03O074E 005309 PADRE TON                               Não       PT        Rondonia                 48 
+CD03O074E 005309 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD03O074E 005309 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD03O074E 005309 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD03O074E 005309 JÚNIOR COIMBRA                          Não       PMDB      Tocantins                66 
+CD03O074E 005309 LEOMAR QUINTANILHA                      Não       PMDB      Tocantins                628
+CD03O074E 005309 OSVALDO REIS                            Não       PMDB      Tocantins                620
+CD03O074E 005309 PROFESSORA DORINHA SEABRA REZEN         Não       DEM       Tocantins                67 
+CD03O074E 005309 CARLOS BRANDÃO                          Obstrução PSDB      Maranhão                 68 
+CD03O074E 005309 COSTA FERREIRA                          Não       PSC       Maranhão                 571
+CD03O074E 005309 DAVI ALVES SILVA JÚNIOR                 Não       PR        Maranhão                 528
+CD03O074E 005309 DOMINGOS DUTRA                          Obstrução PT        Maranhão                 72 
+CD03O074E 005309 FRANCISCO ESCÓRCIO                      Não       PMDB      Maranhão                 567
+CD03O074E 005309 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD03O074E 005309 PEDRO NOVAIS                            Sim       PMDB      Maranhão                 82 
+CD03O074E 005309 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD03O074E 005309 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD03O074E 005309 WALDIR MARANHÃO                         Obstrução PP        Maranhão                 84 
+CD03O074E 005309 WEVERTON ROCHA                          Não       PDT       Maranhão                 579
+CD03O074E 005309 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD03O074E 005309 ARIOSTO HOLANDA                         Obstrução PSB       Ceará                    92 
+CD03O074E 005309 ARNON BEZERRA                           Não       PTB       Ceará                    90 
+CD03O074E 005309 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD03O074E 005309 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD03O074E 005309 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD03O074E 005309 ILÁRIO MARQUES                          Não       PT        Ceará                    637
+CD03O074E 005309 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD03O074E 005309 MÁRIO FEITOZA                           Não       PMDB      Ceará                    590
+CD03O074E 005309 RAIMUNDO GOMES DE MATOS                 Obstrução PSDB      Ceará                    102
+CD03O074E 005309 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD03O074E 005309 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD03O074E 005309 JÚLIO CESAR                             Não       PSD       Piauí                    114
+CD03O074E 005309 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD03O074E 005309 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD03O074E 005309 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD03O074E 005309 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD03O074E 005309 FELIPE MAIA                             Não       DEM       Rio Grande do Norte      120
+CD03O074E 005309 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD03O074E 005309 PAULO WAGNER                            Obstrução PV        Rio Grande do Norte      126
+CD03O074E 005309 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD03O074E 005309 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD03O074E 005309 EFRAIM FILHO                            Não       DEM       Paraíba                  128
+CD03O074E 005309 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD03O074E 005309 MAJOR FÁBIO                             Não       DEM       Paraíba                  599
+CD03O074E 005309 MANOEL JUNIOR                           Não       PMDB      Paraíba                  130
+CD03O074E 005309 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD03O074E 005309 WILSON FILHO                            Não       PMDB      Paraíba                  139
+CD03O074E 005309 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD03O074E 005309 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD03O074E 005309 EDUARDO DA FONTE                        Não       PP        Pernambuco               156
+CD03O074E 005309 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD03O074E 005309 GONZAGA PATRIOTA                        Obstrução PSB       Pernambuco               143
+CD03O074E 005309 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD03O074E 005309 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD03O074E 005309 MENDONÇA FILHO                          Não       DEM       Pernambuco               154
+CD03O074E 005309 PASTOR EURICO                           Obstrução PSB       Pernambuco               155
+CD03O074E 005309 PAULO RUBEM SANTIAGO                    Abstenção PDT       Pernambuco               554
+CD03O074E 005309 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD03O074E 005309 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD03O074E 005309 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD03O074E 005309 SEVERINO NINHO                          Sim       PSB       Pernambuco               580
+CD03O074E 005309 VILALBA                                 Obstrução PRB       Pernambuco               555
+CD03O074E 005309 ALEXANDRE TOLEDO                        Obstrução PSDB      Alagoas                  596
+CD03O074E 005309 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD03O074E 005309 JOÃO LYRA                               Não       PSD       Alagoas                  167
+CD03O074E 005309 PAULÃO                                  Não       PT        Alagoas                  608
+CD03O074E 005309 RENAN FILHO                             Não       PMDB      Alagoas                  169
+CD03O074E 005309 FABIO REIS                              Não       PMDB      Sergipe                  619
+CD03O074E 005309 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD03O074E 005309 MENDONÇA PRADO                          Não       DEM       Sergipe                  179
+CD03O074E 005309 ROGÉRIO CARVALHO                        Não       PT        Sergipe                  178
+CD03O074E 005309 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD03O074E 005309 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD03O074E 005309 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD03O074E 005309 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD03O074E 005309 COLBERT MARTINS                         Não       PMDB      Bahia                    622
+CD03O074E 005309 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD03O074E 005309 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD03O074E 005309 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD03O074E 005309 JOÃO LEÃO                               Não       PP        Bahia                    199
+CD03O074E 005309 JOSÉ NUNES                              Não       PSD       Bahia                    201
+CD03O074E 005309 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD03O074E 005309 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD03O074E 005309 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD03O074E 005309 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD03O074E 005309 LUIZ DE DEUS                            Não       DEM       Bahia                    609
+CD03O074E 005309 MARCELO GUIMARÃES FILHO                 Não       PMDB      Bahia                    627
+CD03O074E 005309 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD03O074E 005309 MÁRIO NEGROMONTE                        Não       PP        Bahia                    210
+CD03O074E 005309 NELSON PELLEGRINO                       Não       PT        Bahia                    209
+CD03O074E 005309 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD03O074E 005309 SÉRGIO BRITO                            Não       PSD       Bahia                    213
+CD03O074E 005309 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD03O074E 005309 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD03O074E 005309 ZEZÉU RIBEIRO                           Não       PT        Bahia                    217
+CD03O074E 005309 ADEMIR CAMILO                           Não       PSD       Minas Gerais             220
+CD03O074E 005309 AELTON FREITAS                          Não       PR        Minas Gerais             224
+CD03O074E 005309 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD03O074E 005309 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD03O074E 005309 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD03O074E 005309 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD03O074E 005309 JAIRO ATAIDE                            Não       DEM       Minas Gerais             533
+CD03O074E 005309 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD03O074E 005309 JOÃO BITTAR                             Não       DEM       Minas Gerais             531
+CD03O074E 005309 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD03O074E 005309 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD03O074E 005309 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD03O074E 005309 LEONARDO QUINTÃO                        Não       PMDB      Minas Gerais             255
+CD03O074E 005309 MARCUS PESTANA                          Obstrução PSDB      Minas Gerais             254
+CD03O074E 005309 MARGARIDA SALOMÃO                       Não       PT        Minas Gerais             610
+CD03O074E 005309 MAURO LOPES                             Não       PMDB      Minas Gerais             252
+CD03O074E 005309 NILMÁRIO MIRANDA                        Não       PT        Minas Gerais             611
+CD03O074E 005309 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD03O074E 005309 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD03O074E 005309 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD03O074E 005309 RENATO ANDRADE                          Não       PP        Minas Gerais             612
+CD03O074E 005309 RODRIGO DE CASTRO                       Obstrução PSDB      Minas Gerais             268
+CD03O074E 005309 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD03O074E 005309 STEFANO AGUIAR                          Não       PSC       Minas Gerais             558
+CD03O074E 005309 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD03O074E 005309 VITOR PENIDO                            Não       DEM       Minas Gerais             532
+CD03O074E 005309 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD03O074E 005309 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD03O074E 005309 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD03O074E 005309 IRINY LOPES                             Não       PT        Espírito Santo           273
+CD03O074E 005309 LAURIETE                                Não       PSC       Espírito Santo           279
+CD03O074E 005309 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD03O074E 005309 MANATO                                  Não       PDT       Espírito Santo           275
+CD03O074E 005309 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD03O074E 005309 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CD03O074E 005309 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD03O074E 005309 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD03O074E 005309 AROLDE DE OLIVEIRA                      Não       PSD       Rio de Janeiro           288
+CD03O074E 005309 AUREO                                   Obstrução PRTB      Rio de Janeiro           290
+CD03O074E 005309 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD03O074E 005309 CELSO JACOB                             Não       PMDB      Rio de Janeiro           632
+CD03O074E 005309 CHICO ALENCAR                           Obstrução PSOL      Rio de Janeiro           295
+CD03O074E 005309 DELEY                                   Obstrução PSC       Rio de Janeiro           562
+CD03O074E 005309 DR. CARLOS ALBERTO                      Obstrução PMN       Rio de Janeiro           529
+CD03O074E 005309 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD03O074E 005309 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD03O074E 005309 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD03O074E 005309 EURICO JÚNIOR                           Sim       PV        Rio de Janeiro           613
+CD03O074E 005309 FELIPE BORNIER                          Não       PSD       Rio de Janeiro           301
+CD03O074E 005309 FERNANDO JORDÃO                         Não       PMDB      Rio de Janeiro           557
+CD03O074E 005309 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD03O074E 005309 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD03O074E 005309 JEAN WYLLYS                             Obstrução PSOL      Rio de Janeiro           307
+CD03O074E 005309 JORGE BITTAR                            Não       PT        Rio de Janeiro           310
+CD03O074E 005309 LEONARDO PICCIANI                       Não       PMDB      Rio de Janeiro           312
+CD03O074E 005309 LILIAM SÁ                               Não       PSD       Rio de Janeiro           309
+CD03O074E 005309 LUIZ SÉRGIO                             Não       PT        Rio de Janeiro           313
+CD03O074E 005309 MANUEL ROSA NECA                        Não       PR        Rio de Janeiro           614
+CD03O074E 005309 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD03O074E 005309 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CD03O074E 005309 RODRIGO MAIA                            Não       DEM       Rio de Janeiro           322
+CD03O074E 005309 VITOR PAULO                             Obstrução PRB       Rio de Janeiro           324
+CD03O074E 005309 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD03O074E 005309 ALEXANDRE LEITE                         Não       DEM       São Paulo                334
+CD03O074E 005309 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD03O074E 005309 ARLINDO CHINAGLIA                       Não       PT        São Paulo                336
+CD03O074E 005309 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD03O074E 005309 CÂNDIDO VACCAREZZA                      Não       PT        São Paulo                389
+CD03O074E 005309 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD03O074E 005309 DELEGADO PROTÓGENES                     Não       PCdoB     São Paulo                343
+CD03O074E 005309 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD03O074E 005309 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD03O074E 005309 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD03O074E 005309 EMANUEL FERNANDES                       Obstrução PSDB      São Paulo                352
+CD03O074E 005309 FRANCISCO CHAGAS                        Não       PT        São Paulo                626
+CD03O074E 005309 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD03O074E 005309 GUILHERME CAMPOS                        Não       PSD       São Paulo                357
+CD03O074E 005309 IARA BERNARDI                           Não       PT        São Paulo                618
+CD03O074E 005309 IVAN VALENTE                            Obstrução PSOL      São Paulo                359
+CD03O074E 005309 JEFFERSON CAMPOS                        Não       PSD       São Paulo                349
+CD03O074E 005309 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD03O074E 005309 JORGE TADEU MUDALEN                     Não       DEM       São Paulo                363
+CD03O074E 005309 JOSÉ GENOÍNO                            Não       PT        São Paulo                617
+CD03O074E 005309 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD03O074E 005309 JUNJI ABE                               Não       PSD       São Paulo                355
+CD03O074E 005309 LUIZA ERUNDINA                          Obstrução PSB       São Paulo                371
+CD03O074E 005309 MARCELO AGUIAR                          Não       PSD       São Paulo                370
+CD03O074E 005309 NEWTON LIMA                             Não       PT        São Paulo                377
+CD03O074E 005309 OTONIEL LIMA                            Obstrução PRB       São Paulo                378
+CD03O074E 005309 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD03O074E 005309 PAULO FREIRE                            Não       PR        São Paulo                380
+CD03O074E 005309 PAULO TEIXEIRA                          Não       PT        São Paulo                376
+CD03O074E 005309 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD03O074E 005309 RICARDO IZAR                            Não       PSD       São Paulo                383
+CD03O074E 005309 ROBERTO DE LUCENA                       Obstrução PV        São Paulo                385
+CD03O074E 005309 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD03O074E 005309 TIRIRICA                                Não       PR        São Paulo                392
+CD03O074E 005309 VANDERLEI SIRAQUE                       Não       PT        São Paulo                581
+CD03O074E 005309 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CD03O074E 005309 VICENTINHO                              Não       PT        São Paulo                396
+CD03O074E 005309 WALTER FELDMAN                          Sim       PSDB      São Paulo                550
+CD03O074E 005309 WALTER IHOSHI                           Não       PSD       São Paulo                553
+CD03O074E 005309 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD03O074E 005309 ELIENE LIMA                             Não       PSD       Mato Grosso              401
+CD03O074E 005309 VALTENIR PEREIRA                        Obstrução PSB       Mato Grosso              404
+CD03O074E 005309 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD03O074E 005309 IZALCI                                  Sim       PSDB      Distrito Federal         408
+CD03O074E 005309 JAQUELINE RORIZ                         Obstrução PMN       Distrito Federal         409
+CD03O074E 005309 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD03O074E 005309 MAGELA                                  Não       PT        Distrito Federal         411
+CD03O074E 005309 POLICARPO                               Não       PT        Distrito Federal         539
+CD03O074E 005309 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD03O074E 005309 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD03O074E 005309 ARMANDO VERGÍLIO                        Não       PSD       Goiás                    416
+CD03O074E 005309 CARLOS ALBERTO LERÉIA                   Obstrução PSDB      Goiás                    415
+CD03O074E 005309 HEULER CRUVINEL                         Não       PSD       Goiás                    423
+CD03O074E 005309 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD03O074E 005309 JOÃO CAMPOS                             Obstrução PSDB      Goiás                    418
+CD03O074E 005309 MAGDA MOFATTO                           Não       PTB       Goiás                    575
+CD03O074E 005309 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD03O074E 005309 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD03O074E 005309 RONALDO CAIADO                          Não       DEM       Goiás                    429
+CD03O074E 005309 AKIRA OTSUBO                            Não       PMDB      Mato Grosso do Sul       638
+CD03O074E 005309 BIFFI                                   Não       PT        Mato Grosso do Sul       432
+CD03O074E 005309 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD03O074E 005309 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD03O074E 005309 MANDETTA                                Não       DEM       Mato Grosso do Sul       436
+CD03O074E 005309 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD03O074E 005309 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD03O074E 005309 ABELARDO LUPION                         Não       DEM       Paraná                   440
+CD03O074E 005309 ANDRÉ VARGAS                            Não       PT        Paraná                   452
+CD03O074E 005309 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD03O074E 005309 DR. ROSINHA                             Não       PT        Paraná                   449
+CD03O074E 005309 EDUARDO SCIARRA                         Não       PSD       Paraná                   461
+CD03O074E 005309 HERMES PARCIANELLO                      Não       PMDB      Paraná                   448
+CD03O074E 005309 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD03O074E 005309 NELSON MEURER                           Não       PP        Paraná                   458
+CD03O074E 005309 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD03O074E 005309 ODÍLIO BALBINOTTI                       Não       PMDB      Paraná                   588
+CD03O074E 005309 OLIVEIRA FILHO                          Obstrução PRB       Paraná                   621
+CD03O074E 005309 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD03O074E 005309 PROFESSOR SÉRGIO DE OLIVEIRA            Não       PSC       Paraná                   603
+CD03O074E 005309 RICARDO ARRUDA                          Não       PSC       Paraná                   635
+CD03O074E 005309 ROSANE FERREIRA                         Obstrução PV        Paraná                   459
+CD03O074E 005309 RUBENS BUENO                            Obstrução PPS       Paraná                   460
+CD03O074E 005309 SANDRO ALEX                             Obstrução PPS       Paraná                   465
+CD03O074E 005309 TAKAYAMA                                Não       PSC       Paraná                   469
+CD03O074E 005309 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD03O074E 005309 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD03O074E 005309 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD03O074E 005309 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD03O074E 005309 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD03O074E 005309 JORGE BOEIRA                            Sim       PSD       Santa Catarina           474
+CD03O074E 005309 JORGINHO MELLO                          Não       PR        Santa Catarina           476
+CD03O074E 005309 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD03O074E 005309 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD03O074E 005309 ONOFRE SANTO AGOSTINI                   Não       PSD       Santa Catarina           479
+CD03O074E 005309 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD03O074E 005309 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD03O074E 005309 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD03O074E 005309 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD03O074E 005309 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD03O074E 005309 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD03O074E 005309 DANRLEI DE DEUS HINTERHOLZ              Não       PSD       Rio Grande do Sul        495
+CD03O074E 005309 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD03O074E 005309 GIOVANI CHERINI                         Sim       PDT       Rio Grande do Sul        502
+CD03O074E 005309 JOSÉ STÉDILE                            Obstrução PSB       Rio Grande do Sul        506
+CD03O074E 005309 MARCO MAIA                              Não       PT        Rio Grande do Sul        496
+CD03O074E 005309 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD03O074E 005309 PAULO FERREIRA                          Não       PT        Rio Grande do Sul        591
+CD03O074E 005309 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD03O074E 005309 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD03O074E 005309 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD03O074E 005309 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD03O074E 005309 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD03O074E 005309 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD03O074E 005309 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD03O074E 005309 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD03O074E 005309 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD03O074E 005309 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD03O074E 005309 FRANCISCO TENÓRIO                       <-------> PMN       Alagoas                  607
+CD03O074E 005309 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD03O074E 005309 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD03O074E 005309 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD03O074E 005309 CARLOS SOUZA                            <-------> PSD       Amazonas                 37 
+CD03O074E 005309 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD03O074E 005309 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD03O074E 005309 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD03O074E 005309 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD03O074E 005309 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD03O074E 005309 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD03O074E 005309 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD03O074E 005309 ANTONIO IMBASSAHY                       <-------> PSDB      Bahia                    191
+CD03O074E 005309 PAULO MAGALHÃES                         <-------> PSD       Bahia                    214
+CD03O074E 005309 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD03O074E 005309 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD03O074E 005309 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD03O074E 005309 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD03O074E 005309 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD03O074E 005309 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD03O074E 005309 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD03O074E 005309 AFONSO FLORENCE                         <-------> PT        Bahia                    182
+CD03O074E 005309 EDSON PIMENTA                           <-------> PSD       Bahia                    193
+CD03O074E 005309 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD03O074E 005309 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD03O074E 005309 JOSÉ CARLOS ARAÚJO                      <-------> PSD       Bahia                    197
+CD03O074E 005309 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD03O074E 005309 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD03O074E 005309 JOÃO ANANIAS                            <-------> PCdoB     Ceará                    106
+CD03O074E 005309 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD03O074E 005309 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD03O074E 005309 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD03O074E 005309 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD03O074E 005309 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD03O074E 005309 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD03O074E 005309 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD03O074E 005309 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD03O074E 005309 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD03O074E 005309 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD03O074E 005309 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD03O074E 005309 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD03O074E 005309 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD03O074E 005309 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD03O074E 005309 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD03O074E 005309 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD03O074E 005309 VALDIVINO DE OLIVEIRA                   <-------> PSDB      Goiás                    547
+CD03O074E 005309 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD03O074E 005309 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD03O074E 005309 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD03O074E 005309 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD03O074E 005309 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD03O074E 005309 ALBERTO FILHO                           <-------> PMDB      Maranhão                 71 
+CD03O074E 005309 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD03O074E 005309 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD03O074E 005309 HÉLIO SANTOS                            <-------> PSD       Maranhão                 76 
+CD03O074E 005309 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD03O074E 005309 SIMPLÍCIO ARAÚJO                        <-------> PPS       Maranhão                 585
+CD03O074E 005309 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD03O074E 005309 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD03O074E 005309 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD03O074E 005309 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD03O074E 005309 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD03O074E 005309 PAULO ABI-ACKEL                         <-------> PSDB      Minas Gerais             263
+CD03O074E 005309 SILAS BRASILEIRO                        <-------> PMDB      Minas Gerais             636
+CD03O074E 005309 HUMBERTO SOUTO                          <-------> PPS       Minas Gerais             606
+CD03O074E 005309 GERALDO THADEU                          <-------> PSD       Minas Gerais             236
+CD03O074E 005309 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD03O074E 005309 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD03O074E 005309 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD03O074E 005309 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD03O074E 005309 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD03O074E 005309 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD03O074E 005309 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD03O074E 005309 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD03O074E 005309 DIMAS FABIANO                           <-------> PP        Minas Gerais             231
+CD03O074E 005309 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD03O074E 005309 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD03O074E 005309 MARCOS MONTES                           <-------> PSD       Minas Gerais             257
+CD03O074E 005309 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD03O074E 005309 DIEGO ANDRADE                           <-------> PSD       Minas Gerais             228
+CD03O074E 005309 MÁRIO HERINGER                          <-------> PDT       Minas Gerais             629
+CD03O074E 005309 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD03O074E 005309 ISAIAS SILVESTRE                        <-------> PSB       Minas Gerais             604
+CD03O074E 005309 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD03O074E 005309 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD03O074E 005309 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD03O074E 005309 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD03O074E 005309 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD03O074E 005309 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD03O074E 005309 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD03O074E 005309 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD03O074E 005309 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD03O074E 005309 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD03O074E 005309 NILSON PINTO                            <-------> PSDB      Pará                     31 
+CD03O074E 005309 ASDRUBAL BENTES                         <-------> PMDB      Pará                     20 
+CD03O074E 005309 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD03O074E 005309 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD03O074E 005309 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD03O074E 005309 LEONARDO GADELHA                        <-------> PSC       Paraíba                  586
+CD03O074E 005309 LUIZ COUTO                              <-------> PT        Paraíba                  133
+CD03O074E 005309 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD03O074E 005309 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD03O074E 005309 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD03O074E 005309 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD03O074E 005309 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD03O074E 005309 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD03O074E 005309 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD03O074E 005309 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD03O074E 005309 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD03O074E 005309 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD03O074E 005309 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD03O074E 005309 HUGO NAPOLEÃO                           <-------> PSD       Piauí                    112
+CD03O074E 005309 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD03O074E 005309 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD03O074E 005309 DILCEU SPERAFICO                        <-------> PP        Paraná                   444
+CD03O074E 005309 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD03O074E 005309 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD03O074E 005309 LEOPOLDO MEYER                          <-------> PSB       Paraná                   456
+CD03O074E 005309 GIACOBO                                 <-------> PR        Paraná                   466
+CD03O074E 005309 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD03O074E 005309 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD03O074E 005309 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD03O074E 005309 MARCELO ALMEIDA                         <-------> PMDB      Paraná                   631
+CD03O074E 005309 FERNANDO FRANCISCHINI                   <-------> PEN       Paraná                   450
+CD03O074E 005309 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD03O074E 005309 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD03O074E 005309 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD03O074E 005309 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD03O074E 005309 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD03O074E 005309 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CD03O074E 005309 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD03O074E 005309 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD03O074E 005309 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD03O074E 005309 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD03O074E 005309 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD03O074E 005309 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD03O074E 005309 DR. PAULO CÉSAR                         <-------> PSD       Rio de Janeiro           296
+CD03O074E 005309 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD03O074E 005309 SERGIO ZVEITER                          <-------> PSD       Rio de Janeiro           320
+CD03O074E 005309 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD03O074E 005309 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD03O074E 005309 FERNANDO LOPES                          <-------> PMDB      Rio de Janeiro           623
+CD03O074E 005309 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD03O074E 005309 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD03O074E 005309 FÁBIO FARIA                             <-------> PSD       Rio Grande do Norte      119
+CD03O074E 005309 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD03O074E 005309 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD03O074E 005309 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD03O074E 005309 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD03O074E 005309 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD03O074E 005309 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD03O074E 005309 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD03O074E 005309 URZENI ROCHA                            <-------> PSDB      Roraima                  616
+CD03O074E 005309 RAUL LIMA                               <-------> PSD       Roraima                  7  
+CD03O074E 005309 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD03O074E 005309 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD03O074E 005309 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD03O074E 005309 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD03O074E 005309 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD03O074E 005309 LUIS CARLOS HEINZE                      <-------> PP        Rio Grande do Sul        500
+CD03O074E 005309 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD03O074E 005309 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD03O074E 005309 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD03O074E 005309 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD03O074E 005309 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD03O074E 005309 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD03O074E 005309 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD03O074E 005309 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD03O074E 005309 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD03O074E 005309 BETO ALBUQUERQUE                        <-------> PSB       Rio Grande do Sul        490
+CD03O074E 005309 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD03O074E 005309 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD03O074E 005309 MARCO TEBALDI                           <-------> PSDB      Santa Catarina           478
+CD03O074E 005309 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD03O074E 005309 CELSO MALDANER                          <-------> PMDB      Santa Catarina           472
+CD03O074E 005309 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD03O074E 005309 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD03O074E 005309 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD03O074E 005309 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD03O074E 005309 ALMEIDA LIMA                            <-------> PPS       Sergipe                  173
+CD03O074E 005309 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD03O074E 005309 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD03O074E 005309 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD03O074E 005309 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD03O074E 005309 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD03O074E 005309 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD03O074E 005309 MÁRCIO FRANÇA                           <-------> PSB       São Paulo                368
+CD03O074E 005309 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD03O074E 005309 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD03O074E 005309 KEIKO OTA                               <-------> PSB       São Paulo                356
+CD03O074E 005309 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD03O074E 005309 ELEUSES PAIVA                           <-------> PSD       São Paulo                537
+CD03O074E 005309 ARNALDO FARIA DE SÁ                     <-------> PTB       São Paulo                337
+CD03O074E 005309 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD03O074E 005309 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD03O074E 005309 JANETE ROCHA PIETÁ                      <-------> PT        São Paulo                358
+CD03O074E 005309 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD03O074E 005309 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD03O074E 005309 ROBERTO SANTIAGO                        <-------> PSD       São Paulo                386
+CD03O074E 005309 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD03O074E 005309 PENNA                                   <-------> PV        São Paulo                382
+CD03O074E 005309 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD03O074E 005309 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD03O074E 005309 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD03O074E 005309 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD03O074E 005309 MILTON MONTI                            <-------> PR        São Paulo                374
+CD03O074E 005309 PAULO MALUF                             <-------> PP        São Paulo                373
+CD03O074E 005309 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD03O074E 005309 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD03O074E 005309 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD03O074E 005309 BETO MANSUR                             <-------> PP        São Paulo                340
+CD03O074E 005309 NILMAR RUIZ                             <-------> PEN       Tocantins                634
+CD03O074E 005309 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CD03O074E 005309 CÉSAR HALUM                             <-------> PSD       Tocantins                64 

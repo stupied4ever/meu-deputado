@@ -1,0 +1,513 @@
+CD01O317E 004814 BERINHO BANTIM                          Obstrução PSDB      Roraima                  1
+CD01O317E 004814 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD01O317E 004814 FRANCISCO ARAÚJO                        Não       PSD       Roraima                  570
+CD01O317E 004814 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD01O317E 004814 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD01O317E 004814 PAULO CESAR QUARTIERO                   Obstrução DEM       Roraima                  6  
+CD01O317E 004814 RAUL LIMA                               Não       PSD       Roraima                  7  
+CD01O317E 004814 TERESA SURITA                           Não       PMDB      Roraima                  8  
+CD01O317E 004814 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD01O317E 004814 DAVI ALCOLUMBRE                         Obstrução DEM       Amapá                    10 
+CD01O317E 004814 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD01O317E 004814 FÁTIMA PELAES                           Não       PMDB      Amapá                    12 
+CD01O317E 004814 JANETE CAPIBERIBE                       Não       PSB       Amapá                    572
+CD01O317E 004814 LUIZ CARLOS                             Obstrução PSDB      Amapá                    14 
+CD01O317E 004814 SEBASTIÃO BALA ROCHA                    Não       PDT       Amapá                    17 
+CD01O317E 004814 VINICIUS GURGEL                         Não       PR        Amapá                    16 
+CD01O317E 004814 ARNALDO JORDY                           Obstrução PPS       Pará                     18 
+CD01O317E 004814 ASDRUBAL BENTES                         Não       PMDB      Pará                     20 
+CD01O317E 004814 BETO FARO                               Não       PT        Pará                     19 
+CD01O317E 004814 CLÁUDIO PUTY                            Não       PT        Pará                     22 
+CD01O317E 004814 ELCIONE BARBALHO                        Não       PMDB      Pará                     21 
+CD01O317E 004814 JOSÉ PRIANTE                            Não       PMDB      Pará                     26 
+CD01O317E 004814 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD01O317E 004814 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O317E 004814 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O317E 004814 WANDENKOLK GONÇALVES                    Obstrução PSDB      Pará                     32 
+CD01O317E 004814 WLADIMIR COSTA                          Não       PMDB      Pará                     23 
+CD01O317E 004814 ÁTILA LINS                              Não       PSD       Amazonas                 38 
+CD01O317E 004814 CARLOS SOUZA                            Não       PSD       Amazonas                 37 
+CD01O317E 004814 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD01O317E 004814 PAUDERNEY AVELINO                       Sim       DEM       Amazonas                 40 
+CD01O317E 004814 REBECCA GARCIA                          Não       PP        Amazonas                 42 
+CD01O317E 004814 SABINO CASTELO BRANCO                   Sim       PTB       Amazonas                 43 
+CD01O317E 004814 SILAS CÂMARA                            Não       PSD       Amazonas                 39 
+CD01O317E 004814 CARLOS MAGNO                            Não       PP        Rondonia                 44 
+CD01O317E 004814 LINDOMAR GARÇON                         Não       PV        Rondonia                 45 
+CD01O317E 004814 NATAN DONADON                           Não       PMDB      Rondonia                 51 
+CD01O317E 004814 NILTON CAPIXABA                         Não       PTB       Rondonia                 47 
+CD01O317E 004814 GLADSON CAMELI                          Não       PP        Acre                     55 
+CD01O317E 004814 HENRIQUE AFONSO                         Não       PV        Acre                     52 
+CD01O317E 004814 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD01O317E 004814 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD01O317E 004814 CÉSAR HALUM                             Não       PSD       Tocantins                64 
+CD01O317E 004814 LAUREZ MOREIRA                          Não       PSB       Tocantins                62 
+CD01O317E 004814 LÁZARO BOTELHO                          Não       PP        Tocantins                63 
+CD01O317E 004814 PROFESSORA DORINHA SEABRA REZEN         Obstrução DEM       Tocantins                67 
+CD01O317E 004814 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O317E 004814 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD01O317E 004814 DAVI ALVES SILVA JÚNIOR                 Não       PR        Maranhão                 528
+CD01O317E 004814 DOMINGOS DUTRA                          Não       PT        Maranhão                 72 
+CD01O317E 004814 EDIVALDO HOLANDA JUNIOR                 Não       PTC       Maranhão                 73 
+CD01O317E 004814 FRANCISCO ESCÓRCIO                      Não       PMDB      Maranhão                 567
+CD01O317E 004814 HÉLIO SANTOS                            Não       PSD       Maranhão                 76 
+CD01O317E 004814 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O317E 004814 PEDRO NOVAIS                            Não       PMDB      Maranhão                 82 
+CD01O317E 004814 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD01O317E 004814 RIBAMAR ALVES                           Não       PSB       Maranhão                 74 
+CD01O317E 004814 SARNEY FILHO                            Não       PV        Maranhão                 85 
+CD01O317E 004814 WALDIR MARANHÃO                         Não       PP        Maranhão                 84 
+CD01O317E 004814 WEVERTON ROCHA                          Não       PDT       Maranhão                 579
+CD01O317E 004814 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O317E 004814 ANTONIO BALHMANN                        Não       PSB       Ceará                    93 
+CD01O317E 004814 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD01O317E 004814 ARNON BEZERRA                           Não       PTB       Ceará                    90 
+CD01O317E 004814 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD01O317E 004814 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD01O317E 004814 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD01O317E 004814 DOMINGOS NETO                           Não       PSB       Ceará                    97 
+CD01O317E 004814 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD01O317E 004814 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD01O317E 004814 GENECIAS NORONHA                        Não       PMDB      Ceará                    99 
+CD01O317E 004814 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD01O317E 004814 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O317E 004814 MANOEL SALVIANO                         Não       PSD       Ceará                    104
+CD01O317E 004814 MAURO BENEVIDES                         Não       PMDB      Ceará                    105
+CD01O317E 004814 RAIMUNDÃO                               Não       PMDB      Ceará                    108
+CD01O317E 004814 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD01O317E 004814 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD01O317E 004814 IRACEMA PORTELLA                        Não       PP        Piauí                    113
+CD01O317E 004814 JÚLIO CESAR                             Não       PSD       Piauí                    114
+CD01O317E 004814 MARCELO CASTRO                          Não       PMDB      Piauí                    110
+CD01O317E 004814 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD01O317E 004814 PAES LANDIM                             Não       PTB       Piauí                    118
+CD01O317E 004814 FELIPE MAIA                             Obstrução DEM       Rio Grande do Norte      120
+CD01O317E 004814 JOÃO MAIA                               Não       PR        Rio Grande do Norte      124
+CD01O317E 004814 PAULO WAGNER                            Não       PV        Rio Grande do Norte      126
+CD01O317E 004814 ROGÉRIO MARINHO                         Sim       PSDB      Rio Grande do Norte      540
+CD01O317E 004814 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD01O317E 004814 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD01O317E 004814 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD01O317E 004814 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O317E 004814 MANOEL JUNIOR                           Não       PMDB      Paraíba                  130
+CD01O317E 004814 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD01O317E 004814 ROMERO RODRIGUES                        Obstrução PSDB      Paraíba                  135
+CD01O317E 004814 RUY CARNEIRO                            Obstrução PSDB      Paraíba                  137
+CD01O317E 004814 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD01O317E 004814 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD01O317E 004814 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD01O317E 004814 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD01O317E 004814 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD01O317E 004814 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD01O317E 004814 JOSÉ AUGUSTO MAIA                       Não       PTB       Pernambuco               151
+CD01O317E 004814 LUCIANA SANTOS                          Não       PCdoB     Pernambuco               153
+CD01O317E 004814 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD01O317E 004814 PASTOR EURICO                           Não       PSB       Pernambuco               155
+CD01O317E 004814 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD01O317E 004814 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD01O317E 004814 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD01O317E 004814 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD01O317E 004814 SEVERINO NINHO                          Não       PSB       Pernambuco               580
+CD01O317E 004814 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD01O317E 004814 VILALBA                                 Não       PRB       Pernambuco               555
+CD01O317E 004814 WOLNEY QUEIROZ                          Não       PDT       Pernambuco               164
+CD01O317E 004814 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD01O317E 004814 CELIA ROCHA                             Não       PTB       Alagoas                  165
+CD01O317E 004814 GIVALDO CARIMBÃO                        Não       PSB       Alagoas                  166
+CD01O317E 004814 RENAN FILHO                             Não       PMDB      Alagoas                  169
+CD01O317E 004814 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD01O317E 004814 ALMEIDA LIMA                            Sim       PPS       Sergipe                  173
+CD01O317E 004814 ANDRE MOURA                             Não       PSC       Sergipe                  174
+CD01O317E 004814 HELENO SILVA                            Não       PRB       Sergipe                  175
+CD01O317E 004814 LAERCIO OLIVEIRA                        Não       PR        Sergipe                  176
+CD01O317E 004814 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD01O317E 004814 ROGÉRIO CARVALHO                        Não       PT        Sergipe                  178
+CD01O317E 004814 ALICE PORTUGAL                          Não       PCdoB     Bahia                    180
+CD01O317E 004814 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O317E 004814 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD01O317E 004814 ANTONIO CARLOS MAGALHÃES NETO           Obstrução DEM       Bahia                    181
+CD01O317E 004814 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O317E 004814 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD01O317E 004814 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD01O317E 004814 EDSON PIMENTA                           Não       PSD       Bahia                    193
+CD01O317E 004814 EMILIANO JOSÉ                           Não       PT        Bahia                    523
+CD01O317E 004814 FÁBIO SOUTO                             Obstrução DEM       Bahia                    190
+CD01O317E 004814 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD01O317E 004814 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O317E 004814 JOÃO CARLOS BACELAR                     Não       PR        Bahia                    187
+CD01O317E 004814 JOSÉ CARLOS ARAÚJO                      Não       PSD       Bahia                    197
+CD01O317E 004814 JOSÉ NUNES                              Não       PSD       Bahia                    201
+CD01O317E 004814 JOSÉ ROCHA                              Não       PR        Bahia                    203
+CD01O317E 004814 JOSEPH BANDEIRA                         Não       PT        Bahia                    565
+CD01O317E 004814 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD01O317E 004814 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O317E 004814 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD01O317E 004814 LUIZ ALBERTO                            Não       PT        Bahia                    204
+CD01O317E 004814 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD01O317E 004814 MARCOS MEDRADO                          Não       PDT       Bahia                    200
+CD01O317E 004814 MAURÍCIO TRINDADE                       Não       PR        Bahia                    208
+CD01O317E 004814 NELSON PELLEGRINO                       Não       PT        Bahia                    209
+CD01O317E 004814 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD01O317E 004814 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O317E 004814 RUI COSTA                               Não       PT        Bahia                    216
+CD01O317E 004814 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O317E 004814 SÉRGIO BRITO                            Não       PSD       Bahia                    213
+CD01O317E 004814 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD01O317E 004814 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O317E 004814 ADEMIR CAMILO                           Não       PSD       Minas Gerais             220
+CD01O317E 004814 AELTON FREITAS                          Não       PR        Minas Gerais             224
+CD01O317E 004814 ANTÔNIO ANDRADE                         Não       PMDB      Minas Gerais             227
+CD01O317E 004814 ARACELY DE PAULA                        Não       PR        Minas Gerais             223
+CD01O317E 004814 CARLAILE PEDROSA                        Obstrução PSDB      Minas Gerais             222
+CD01O317E 004814 DIEGO ANDRADE                           Não       PSD       Minas Gerais             228
+CD01O317E 004814 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O317E 004814 DOMINGOS SÁVIO                          Obstrução PSDB      Minas Gerais             233
+CD01O317E 004814 DR. GRILO                               Não       PSL       Minas Gerais             235
+CD01O317E 004814 EDUARDO AZEREDO                         Obstrução PSDB      Minas Gerais             237
+CD01O317E 004814 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD01O317E 004814 FÁBIO RAMALHO                           Não       PV        Minas Gerais             238
+CD01O317E 004814 GABRIEL GUIMARÃES                       Não       PT        Minas Gerais             244
+CD01O317E 004814 GEORGE HILTON                           Não       PRB       Minas Gerais             241
+CD01O317E 004814 GERALDO THADEU                          Não       PSD       Minas Gerais             236
+CD01O317E 004814 GILMAR MACHADO                          Não       PT        Minas Gerais             234
+CD01O317E 004814 JAIME MARTINS                           Não       PR        Minas Gerais             240
+CD01O317E 004814 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD01O317E 004814 JOÃO BITTAR                             Não       DEM       Minas Gerais             531
+CD01O317E 004814 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD01O317E 004814 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O317E 004814 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD01O317E 004814 LAEL VARELLA                            Não       DEM       Minas Gerais             245
+CD01O317E 004814 LUIS TIBÉ                               Não       PTdoB     Minas Gerais             251
+CD01O317E 004814 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD01O317E 004814 MARCOS MONTES                           Não       PSD       Minas Gerais             257
+CD01O317E 004814 MAURO LOPES                             Não       PMDB      Minas Gerais             252
+CD01O317E 004814 MIGUEL CORRÊA                           Não       PT        Minas Gerais             261
+CD01O317E 004814 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O317E 004814 PAULO ABI-ACKEL                         Obstrução PSDB      Minas Gerais             263
+CD01O317E 004814 PAULO PIAU                              Não       PMDB      Minas Gerais             266
+CD01O317E 004814 REGINALDO LOPES                         Não       PT        Minas Gerais             272
+CD01O317E 004814 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD01O317E 004814 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD01O317E 004814 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O317E 004814 WALTER TOSTA                            Não       PSD       Minas Gerais             267
+CD01O317E 004814 WELITON PRADO                           Não       PT        Minas Gerais             270
+CD01O317E 004814 ZÉ SILVA                                Não       PDT       Minas Gerais             271
+CD01O317E 004814 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O317E 004814 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD01O317E 004814 CESAR COLNAGO                           Obstrução PSDB      Espírito Santo           276
+CD01O317E 004814 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD01O317E 004814 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD01O317E 004814 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O317E 004814 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD01O317E 004814 ROSE DE FREITAS                         Art. 17   PMDB      Espírito Santo           282
+CD01O317E 004814 ADRIAN                                  Não       PMDB      Rio de Janeiro           286
+CD01O317E 004814 ALESSANDRO MOLON                        Não       PT        Rio de Janeiro           287
+CD01O317E 004814 ANDREIA ZITO                            Obstrução PSDB      Rio de Janeiro           283
+CD01O317E 004814 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD01O317E 004814 AUREO                                   Não       PRTB      Rio de Janeiro           290
+CD01O317E 004814 BENEDITA DA SILVA                       Não       PT        Rio de Janeiro           291
+CD01O317E 004814 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O317E 004814 CHICO D`ANGELO                          Não       PT        Rio de Janeiro           527
+CD01O317E 004814 DR. ADILSON SOARES                      Não       PR        Rio de Janeiro           293
+CD01O317E 004814 DR. ALUIZIO                             Não       PV        Rio de Janeiro           294
+CD01O317E 004814 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O317E 004814 DR. PAULO CÉSAR                         Não       PSD       Rio de Janeiro           296
+CD01O317E 004814 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD01O317E 004814 EDSON SANTOS                            Não       PT        Rio de Janeiro           299
+CD01O317E 004814 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD01O317E 004814 ELIANE ROLIM                            Não       PT        Rio de Janeiro           538
+CD01O317E 004814 FELIPE BORNIER                          Não       PSD       Rio de Janeiro           301
+CD01O317E 004814 FERNANDO JORDÃO                         Não       PMDB      Rio de Janeiro           557
+CD01O317E 004814 FRANCISCO FLORIANO                      Não       PR        Rio de Janeiro           297
+CD01O317E 004814 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD01O317E 004814 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD01O317E 004814 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O317E 004814 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD01O317E 004814 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD01O317E 004814 LEONARDO PICCIANI                       Não       PMDB      Rio de Janeiro           312
+CD01O317E 004814 LILIAM SÁ                               Não       PSD       Rio de Janeiro           309
+CD01O317E 004814 MARCELO MATOS                           Não       PDT       Rio de Janeiro           311
+CD01O317E 004814 MIRO TEIXEIRA                           Não       PDT       Rio de Janeiro           317
+CD01O317E 004814 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O317E 004814 NELSON BORNIER                          Não       PMDB      Rio de Janeiro           549
+CD01O317E 004814 PAULO FEIJÓ                             Não       PR        Rio de Janeiro           577
+CD01O317E 004814 RODRIGO BETHLEM                         Não       PMDB      Rio de Janeiro           318
+CD01O317E 004814 ROMÁRIO                                 Não       PSB       Rio de Janeiro           319
+CD01O317E 004814 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD01O317E 004814 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O317E 004814 WALNEY ROCHA                            Não       PTB       Rio de Janeiro           325
+CD01O317E 004814 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD01O317E 004814 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD01O317E 004814 ALBERTO MOURÃO                          Obstrução PSDB      São Paulo                552
+CD01O317E 004814 ALEXANDRE LEITE                         Obstrução DEM       São Paulo                334
+CD01O317E 004814 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD01O317E 004814 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD01O317E 004814 BETO MANSUR                             Não       PP        São Paulo                340
+CD01O317E 004814 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD01O317E 004814 CARLOS SAMPAIO                          Sim       PSDB      São Paulo                338
+CD01O317E 004814 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD01O317E 004814 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD01O317E 004814 DIMAS RAMALHO                           Sim       PPS       São Paulo                346
+CD01O317E 004814 DRA.ELAINE ABISSAMRA                    Não       PSB       São Paulo                576
+CD01O317E 004814 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O317E 004814 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD01O317E 004814 ELI CORREA FILHO                        Obstrução DEM       São Paulo                345
+CD01O317E 004814 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD01O317E 004814 GUILHERME CAMPOS                        Não       PSD       São Paulo                357
+CD01O317E 004814 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD01O317E 004814 JEFFERSON CAMPOS                        Não       PSD       São Paulo                349
+CD01O317E 004814 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O317E 004814 JOÃO DADO                               Não       PDT       São Paulo                362
+CD01O317E 004814 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD01O317E 004814 JORGE TADEU MUDALEN                     Art. 17   DEM       São Paulo                363
+CD01O317E 004814 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD01O317E 004814 JUNJI ABE                               Não       PSD       São Paulo                355
+CD01O317E 004814 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O317E 004814 LUIZ FERNANDO MACHADO                   Obstrução PSDB      São Paulo                365
+CD01O317E 004814 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O317E 004814 MARCELO AGUIAR                          Não       PSD       São Paulo                370
+CD01O317E 004814 MILTON MONTI                            Não       PR        São Paulo                374
+CD01O317E 004814 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD01O317E 004814 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD01O317E 004814 NEWTON LIMA                             Não       PT        São Paulo                377
+CD01O317E 004814 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O317E 004814 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O317E 004814 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD01O317E 004814 PENNA                                   Não       PV        São Paulo                382
+CD01O317E 004814 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD01O317E 004814 RICARDO IZAR                            Não       PSD       São Paulo                383
+CD01O317E 004814 ROBERTO DE LUCENA                       Não       PV        São Paulo                385
+CD01O317E 004814 ROBERTO FREIRE                          Obstrução PPS       São Paulo                387
+CD01O317E 004814 ROBERTO SANTIAGO                        Não       PSD       São Paulo                386
+CD01O317E 004814 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD01O317E 004814 TIRIRICA                                Não       PR        São Paulo                392
+CD01O317E 004814 VALDEMAR COSTA NETO                     Não       PR        São Paulo                393
+CD01O317E 004814 VANDERLEI SIRAQUE                       Não       PT        São Paulo                581
+CD01O317E 004814 VAZ DE LIMA                             Obstrução PSDB      São Paulo                394
+CD01O317E 004814 VICENTINHO                              Não       PT        São Paulo                396
+CD01O317E 004814 WALTER IHOSHI                           Não       PSD       São Paulo                553
+CD01O317E 004814 WILLIAM DIB                             Obstrução PSDB      São Paulo                397
+CD01O317E 004814 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD01O317E 004814 HOMERO PEREIRA                          Não       PSD       Mato Grosso              402
+CD01O317E 004814 JÚLIO CAMPOS                            Obstrução DEM       Mato Grosso              399
+CD01O317E 004814 NILSON LEITÃO                           Obstrução PSDB      Mato Grosso              573
+CD01O317E 004814 ROBERTO DORNER                          Não       PSD       Mato Grosso              519
+CD01O317E 004814 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD01O317E 004814 WELLINGTON FAGUNDES                     Não       PR        Mato Grosso              406
+CD01O317E 004814 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O317E 004814 ERIKA KOKAY                             Não       PT        Distrito Federal         407
+CD01O317E 004814 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O317E 004814 JAQUELINE RORIZ                         Não       PMN       Distrito Federal         409
+CD01O317E 004814 LUIZ PITIMAN                            Não       PMDB      Distrito Federal         410
+CD01O317E 004814 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O317E 004814 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O317E 004814 CARLOS ALBERTO LERÉIA                   Sim       PSDB      Goiás                    415
+CD01O317E 004814 HEULER CRUVINEL                         Não       PSD       Goiás                    423
+CD01O317E 004814 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O317E 004814 MAGDA MOFATTO                           Não       PTB       Goiás                    575
+CD01O317E 004814 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD01O317E 004814 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD01O317E 004814 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD01O317E 004814 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD01O317E 004814 SANDES JÚNIOR                           Não       PP        Goiás                    426
+CD01O317E 004814 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD01O317E 004814 ANTÔNIO CARLOS BIFFI                    Não       PT        Mato Grosso do Sul       432
+CD01O317E 004814 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD01O317E 004814 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD01O317E 004814 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD01O317E 004814 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O317E 004814 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD01O317E 004814 VANDER LOUBET                           Não       PT        Mato Grosso do Sul       438
+CD01O317E 004814 ALEX CANZIANI                           Não       PTB       Paraná                   445
+CD01O317E 004814 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD01O317E 004814 ANGELO VANHONI                          Não       PT        Paraná                   453
+CD01O317E 004814 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD01O317E 004814 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD01O317E 004814 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O317E 004814 DR. ROSINHA                             Não       PT        Paraná                   449
+CD01O317E 004814 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD01O317E 004814 EDUARDO SCIARRA                         Não       PSD       Paraná                   461
+CD01O317E 004814 FERNANDO FRANCISCHINI                   Obstrução PSDB      Paraná                   450
+CD01O317E 004814 HERMES PARCIANELLO                      Não       PMDB      Paraná                   448
+CD01O317E 004814 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O317E 004814 LUIZ NISHIMORI                          Obstrução PSDB      Paraná                   542
+CD01O317E 004814 NELSON MEURER                           Não       PP        Paraná                   458
+CD01O317E 004814 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD01O317E 004814 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD01O317E 004814 REINHOLD STEPHANES                      Não       PSD       Paraná                   467
+CD01O317E 004814 ROSANE FERREIRA                         Não       PV        Paraná                   459
+CD01O317E 004814 SANDRO ALEX                             Não       PPS       Paraná                   465
+CD01O317E 004814 TAKAYAMA                                Não       PSC       Paraná                   469
+CD01O317E 004814 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD01O317E 004814 CARMEN ZANOTTO                          Obstrução PPS       Santa Catarina           561
+CD01O317E 004814 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD01O317E 004814 DÉCIO LIMA                              Não       PT        Santa Catarina           475
+CD01O317E 004814 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD01O317E 004814 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O317E 004814 JOÃO PIZZOLATTI                         Não       PP        Santa Catarina           574
+CD01O317E 004814 JORGE BOEIRA                            Não       PSD       Santa Catarina           474
+CD01O317E 004814 JORGINHO MELLO                          Sim       PSDB      Santa Catarina           476
+CD01O317E 004814 LUCI CHOINACKI                          Não       PT        Santa Catarina           477
+CD01O317E 004814 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD01O317E 004814 ONOFRE SANTO AGOSTINI                   Não       PSD       Santa Catarina           479
+CD01O317E 004814 PEDRO UCZAI                             Não       PT        Santa Catarina           481
+CD01O317E 004814 ROGÉRIO PENINHA MENDONÇA                Não       PMDB      Santa Catarina           483
+CD01O317E 004814 ROMANNA REMOR                           Não       PMDB      Santa Catarina           582
+CD01O317E 004814 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD01O317E 004814 VALDIR COLATTO                          Não       PMDB      Santa Catarina           560
+CD01O317E 004814 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD01O317E 004814 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD01O317E 004814 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD01O317E 004814 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD01O317E 004814 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD01O317E 004814 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD01O317E 004814 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD01O317E 004814 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O317E 004814 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD01O317E 004814 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD01O317E 004814 NELSON MARCHEZAN JUNIOR                 Obstrução PSDB      Rio Grande do Sul        509
+CD01O317E 004814 ONYX LORENZONI                          Obstrução DEM       Rio Grande do Sul        510
+CD01O317E 004814 OSMAR TERRA                             Não       PMDB      Rio Grande do Sul        497
+CD01O317E 004814 PEPE VARGAS                             Não       PT        Rio Grande do Sul        503
+CD01O317E 004814 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O317E 004814 SÉRGIO MORAES                           Não       PTB       Rio Grande do Sul        512
+CD01O317E 004814 VIEIRA DA CUNHA                         Não       PDT       Rio Grande do Sul        514
+CD01O317E 004814 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD01O317E 004814 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD01O317E 004814 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD01O317E 004814 TAUMATURGO LIMA                         <-------> PT        Acre                     59 
+CD01O317E 004814 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD01O317E 004814 JOÃO LYRA                               <-------> PSD       Alagoas                  167
+CD01O317E 004814 JOAQUIM BELTRÃO                         <-------> PMDB      Alagoas                  172
+CD01O317E 004814 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O317E 004814 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD01O317E 004814 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD01O317E 004814 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD01O317E 004814 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD01O317E 004814 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD01O317E 004814 PAULO MAGALHÃES                         <-------> PSD       Bahia                    214
+CD01O317E 004814 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD01O317E 004814 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD01O317E 004814 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD01O317E 004814 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD01O317E 004814 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O317E 004814 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O317E 004814 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD01O317E 004814 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O317E 004814 POLICARPO                               <-------> PT        Distrito Federal         539
+CD01O317E 004814 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD01O317E 004814 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD01O317E 004814 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O317E 004814 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O317E 004814 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD01O317E 004814 ARMANDO VERGÍLIO                        <-------> PSD       Goiás                    416
+CD01O317E 004814 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O317E 004814 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD01O317E 004814 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD01O317E 004814 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O317E 004814 COSTA FERREIRA                          <-------> PSC       Maranhão                 571
+CD01O317E 004814 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD01O317E 004814 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD01O317E 004814 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD01O317E 004814 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O317E 004814 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O317E 004814 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O317E 004814 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD01O317E 004814 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD01O317E 004814 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD01O317E 004814 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD01O317E 004814 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD01O317E 004814 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD01O317E 004814 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD01O317E 004814 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CD01O317E 004814 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD01O317E 004814 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD01O317E 004814 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD01O317E 004814 GIROTO                                  <-------> PMDB      Mato Grosso do Sul       434
+CD01O317E 004814 ELIENE LIMA                             <-------> PSD       Mato Grosso              401
+CD01O317E 004814 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O317E 004814 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD01O317E 004814 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O317E 004814 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD01O317E 004814 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O317E 004814 ZENALDO COUTINHO                        <-------> PSDB      Pará                     34 
+CD01O317E 004814 AGUINALDO RIBEIRO                       <-------> PP        Paraíba                  129
+CD01O317E 004814 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O317E 004814 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD01O317E 004814 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD01O317E 004814 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O317E 004814 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O317E 004814 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O317E 004814 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O317E 004814 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD01O317E 004814 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD01O317E 004814 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O317E 004814 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD01O317E 004814 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD01O317E 004814 MARLLOS SAMPAIO                         <-------> PMDB      Piauí                    117
+CD01O317E 004814 HUGO NAPOLEÃO                           <-------> PSD       Piauí                    112
+CD01O317E 004814 JESUS RODRIGUES                         <-------> PT        Piauí                    115
+CD01O317E 004814 ANDRÉ VARGAS                            <-------> PT        Paraná                   452
+CD01O317E 004814 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O317E 004814 MOACIR MICHELETTO                       <-------> PMDB      Paraná                   462
+CD01O317E 004814 RUBENS BUENO                            <-------> PPS       Paraná                   460
+CD01O317E 004814 LUIZ CARLOS SETIM                       <-------> DEM       Paraná                   535
+CD01O317E 004814 JOÃO ARRUDA                             <-------> PMDB      Paraná                   455
+CD01O317E 004814 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD01O317E 004814 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O317E 004814 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD01O317E 004814 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O317E 004814 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD01O317E 004814 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD01O317E 004814 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD01O317E 004814 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD01O317E 004814 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O317E 004814 AROLDE DE OLIVEIRA                      <-------> PSD       Rio de Janeiro           288
+CD01O317E 004814 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD01O317E 004814 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O317E 004814 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD01O317E 004814 FÁBIO FARIA                             <-------> PSD       Rio Grande do Norte      119
+CD01O317E 004814 MAURO NAZIF                             <-------> PSB       Rondonia                 46 
+CD01O317E 004814 PADRE TON                               <-------> PT        Rondonia                 48 
+CD01O317E 004814 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD01O317E 004814 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD01O317E 004814 ELISEU PADILHA                          <-------> PMDB      Rio Grande do Sul        578
+CD01O317E 004814 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD01O317E 004814 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD01O317E 004814 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O317E 004814 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD01O317E 004814 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O317E 004814 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O317E 004814 FERNANDO MARRONI                        <-------> PT        Rio Grande do Sul        525
+CD01O317E 004814 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O317E 004814 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O317E 004814 DANRLEI DE DEUS HINTERHOLZ              <-------> PSD       Rio Grande do Sul        495
+CD01O317E 004814 RONALDO ZULKE                           <-------> PT        Rio Grande do Sul        515
+CD01O317E 004814 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD01O317E 004814 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O317E 004814 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD01O317E 004814 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD01O317E 004814 ELEUSES PAIVA                           <-------> PSD       São Paulo                537
+CD01O317E 004814 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD01O317E 004814 IVAN VALENTE                            <-------> PSOL      São Paulo                359
+CD01O317E 004814 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O317E 004814 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD01O317E 004814 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O317E 004814 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD01O317E 004814 DR. UBIALI                              <-------> PSB       São Paulo                541
+CD01O317E 004814 JOSÉ DE FILIPPI                         <-------> PT        São Paulo                354
+CD01O317E 004814 PASTOR MARCO FELICIANO                  <-------> PSC       São Paulo                379
+CD01O317E 004814 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD01O317E 004814 GUILHERME MUSSI                         <-------> PSD       São Paulo                348
+CD01O317E 004814 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O317E 004814 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD01O317E 004814 ARNALDO FARIA DE SÁ                     <-------> PTB       São Paulo                337
+CD01O317E 004814 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O317E 004814 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD01O317E 004814 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O317E 004814 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O317E 004814 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O317E 004814 JÚNIOR COIMBRA                          <-------> PMDB      Tocantins                66 
+CD01O317E 004814 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O317E 004814 ÂNGELO AGNOLIN                          <-------> PDT       Tocantins                61 
+CD01O317E 004814 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 

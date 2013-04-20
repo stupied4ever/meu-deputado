@@ -1,0 +1,512 @@
+CD01O107E 004639 BERINHO BANTIM                          Não       PSDB      Roraima                  1
+CD01O107E 004639 EDIO LOPES                              Obstrução PMDB      Roraima                  2  
+CD01O107E 004639 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD01O107E 004639 PAULO CESAR QUARTIERO                   Não       DEM       Roraima                  6  
+CD01O107E 004639 RAUL LIMA                               Não       PP        Roraima                  7  
+CD01O107E 004639 DAVI ALCOLUMBRE                         Não       DEM       Amapá                    10 
+CD01O107E 004639 EVANDRO MILHOMEN                        Obstrução PCdoB     Amapá                    11 
+CD01O107E 004639 LUIZ CARLOS                             Não       PSDB      Amapá                    14 
+CD01O107E 004639 SEBASTIÃO BALA ROCHA                    Obstrução PDT       Amapá                    17 
+CD01O107E 004639 ARNALDO JORDY                           Obstrução PPS       Pará                     18 
+CD01O107E 004639 DUDIMAR PAXIÚBA                         Não       PSDB      Pará                     518
+CD01O107E 004639 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD01O107E 004639 LIRA MAIA                               Não       DEM       Pará                     28 
+CD01O107E 004639 LÚCIO VALE                              Obstrução PR        Pará                     29 
+CD01O107E 004639 WANDENKOLK GONÇALVES                    Não       PSDB      Pará                     32 
+CD01O107E 004639 ZEQUINHA MARINHO                        Não       PSC       Pará                     33 
+CD01O107E 004639 FRANCISCO PRACIANO                      Obstrução PT        Amazonas                 41 
+CD01O107E 004639 HENRIQUE OLIVEIRA                       Obstrução PR        Amazonas                 36 
+CD01O107E 004639 PAUDERNEY AVELINO                       Não       DEM       Amazonas                 40 
+CD01O107E 004639 SILAS CÂMARA                            Não       PSC       Amazonas                 39 
+CD01O107E 004639 CARLOS MAGNO                            Não       PP        Rondonia                 44 
+CD01O107E 004639 LINDOMAR GARÇON                         Obstrução PV        Rondonia                 45 
+CD01O107E 004639 MARINHA RAUPP                           Obstrução PMDB      Rondonia                 50 
+CD01O107E 004639 MAURO NAZIF                             Não       PSB       Rondonia                 46 
+CD01O107E 004639 MOREIRA MENDES                          Não       PPS       Rondonia                 49 
+CD01O107E 004639 NILTON CAPIXABA                         Não       PTB       Rondonia                 47 
+CD01O107E 004639 ANTÔNIA LÚCIA                           Abstenção PSC       Acre                     53 
+CD01O107E 004639 GLADSON CAMELI                          Não       PP        Acre                     55 
+CD01O107E 004639 MARCIO BITTAR                           Não       PSDB      Acre                     57 
+CD01O107E 004639 TAUMATURGO LIMA                         Não       PT        Acre                     59 
+CD01O107E 004639 CÉSAR HALUM                             Não       PPS       Tocantins                64 
+CD01O107E 004639 IRAJÁ ABREU                             Não       DEM       Tocantins                65 
+CD01O107E 004639 JÚNIOR COIMBRA                          Obstrução PMDB      Tocantins                66 
+CD01O107E 004639 LAUREZ MOREIRA                          Abstenção PSB       Tocantins                62 
+CD01O107E 004639 LÁZARO BOTELHO                          Não       PP        Tocantins                63 
+CD01O107E 004639 PROFESSORA DORINHA SEABRA REZEN         Não       DEM       Tocantins                67 
+CD01O107E 004639 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O107E 004639 CARLOS BRANDÃO                          Não       PSDB      Maranhão                 68 
+CD01O107E 004639 CLEBER VERDE                            Obstrução PRB       Maranhão                 70 
+CD01O107E 004639 HÉLIO SANTOS                            Não       PSDB      Maranhão                 76 
+CD01O107E 004639 LUCIANO MOREIRA                         Obstrução PMDB      Maranhão                 83 
+CD01O107E 004639 PINTO ITAMARATY                         Não       PSDB      Maranhão                 79 
+CD01O107E 004639 PROFESSOR SETIMO                        Obstrução PMDB      Maranhão                 81 
+CD01O107E 004639 RIBAMAR ALVES                           Não       PSB       Maranhão                 74 
+CD01O107E 004639 ANDRÉ FIGUEIREDO                        Obstrução PDT       Ceará                    89 
+CD01O107E 004639 ANÍBAL GOMES                            Obstrução PMDB      Ceará                    87 
+CD01O107E 004639 ANTONIO BALHMANN                        Obstrução PSB       Ceará                    93 
+CD01O107E 004639 ARIOSTO HOLANDA                         Obstrução PSB       Ceará                    92 
+CD01O107E 004639 CHICO LOPES                             Obstrução PCdoB     Ceará                    88 
+CD01O107E 004639 DOMINGOS NETO                           Não       PSB       Ceará                    97 
+CD01O107E 004639 EDSON SILVA                             Não       PSB       Ceará                    98 
+CD01O107E 004639 JOÃO ANANIAS                            Obstrução PCdoB     Ceará                    106
+CD01O107E 004639 JOSÉ AIRTON                             Obstrução PT        Ceará                    101
+CD01O107E 004639 MANOEL SALVIANO                         Não       PSDB      Ceará                    104
+CD01O107E 004639 RAIMUNDO GOMES DE MATOS                 Não       PSDB      Ceará                    102
+CD01O107E 004639 HUGO NAPOLEÃO                           Não       DEM       Piauí                    112
+CD01O107E 004639 JÚLIO CESAR                             Não       DEM       Piauí                    114
+CD01O107E 004639 MARLLOS SAMPAIO                         Obstrução PMDB      Piauí                    117
+CD01O107E 004639 FELIPE MAIA                             Não       DEM       Rio Grande do Norte      120
+CD01O107E 004639 PAULO WAGNER                            Obstrução PV        Rio Grande do Norte      126
+CD01O107E 004639 ROGÉRIO MARINHO                         Não       PSDB      Rio Grande do Norte      540
+CD01O107E 004639 EFRAIM FILHO                            Não       DEM       Paraíba                  128
+CD01O107E 004639 MANOEL JUNIOR                           Obstrução PMDB      Paraíba                  130
+CD01O107E 004639 NILDA GONDIM                            Abstenção PMDB      Paraíba                  134
+CD01O107E 004639 ROMERO RODRIGUES                        Não       PSDB      Paraíba                  135
+CD01O107E 004639 RUY CARNEIRO                            Não       PSDB      Paraíba                  137
+CD01O107E 004639 ANA ARRAES                              Obstrução PSB       Pernambuco               140
+CD01O107E 004639 ANDERSON FERREIRA                       Obstrução PR        Pernambuco               142
+CD01O107E 004639 AUGUSTO COUTINHO                        Não       DEM       Pernambuco               144
+CD01O107E 004639 BRUNO ARAÚJO                            Não       PSDB      Pernambuco               146
+CD01O107E 004639 EDUARDO DA FONTE                        Obstrução PP        Pernambuco               156
+CD01O107E 004639 FERNANDO COELHO FILHO                   Obstrução PSB       Pernambuco               158
+CD01O107E 004639 JOÃO PAULO  LIMA                        Obstrução PT        Pernambuco               149
+CD01O107E 004639 JORGE CORTE REAL                        Obstrução PTB       Pernambuco               150
+CD01O107E 004639 LUCIANA SANTOS                          Obstrução PCdoB     Pernambuco               153
+CD01O107E 004639 PASTOR EURICO                           Obstrução PSB       Pernambuco               155
+CD01O107E 004639 PAULO RUBEM SANTIAGO                    Obstrução PDT       Pernambuco               554
+CD01O107E 004639 RAUL HENRY                              Não       PMDB      Pernambuco               163
+CD01O107E 004639 SERGIO GUERRA                           Não       PSDB      Pernambuco               159
+CD01O107E 004639 VILALBA                                 Obstrução PRB       Pernambuco               555
+CD01O107E 004639 ARTHUR LIRA                             Obstrução PP        Alagoas                  162
+CD01O107E 004639 JOÃO LYRA                               Não       PTB       Alagoas                  167
+CD01O107E 004639 MAURÍCIO QUINTELLA LESSA                Obstrução PR        Alagoas                  168
+CD01O107E 004639 RUI PALMEIRA                            Não       PSDB      Alagoas                  171
+CD01O107E 004639 HELENO SILVA                            Obstrução PRB       Sergipe                  175
+CD01O107E 004639 LAERCIO OLIVEIRA                        Não       PR        Sergipe                  176
+CD01O107E 004639 VALADARES FILHO                         Obstrução PSB       Sergipe                  183
+CD01O107E 004639 ACELINO POPÓ                            Não       PRB       Bahia                    522
+CD01O107E 004639 ALICE PORTUGAL                          Obstrução PCdoB     Bahia                    180
+CD01O107E 004639 ANTONIO BRITO                           Obstrução PTB       Bahia                    189
+CD01O107E 004639 ANTONIO CARLOS MAGALHÃES NETO           Não       DEM       Bahia                    181
+CD01O107E 004639 ANTONIO IMBASSAHY                       Não       PSDB      Bahia                    191
+CD01O107E 004639 CLAUDIO CAJADO                          Não       DEM       Bahia                    186
+CD01O107E 004639 DANIEL ALMEIDA                          Obstrução PCdoB     Bahia                    188
+CD01O107E 004639 EDSON PIMENTA                           Obstrução PCdoB     Bahia                    193
+CD01O107E 004639 ERIVELTON SANTANA                       Não       PSC       Bahia                    194
+CD01O107E 004639 FÁBIO SOUTO                             Não       DEM       Bahia                    190
+CD01O107E 004639 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD01O107E 004639 FERNANDO TORRES                         Obstrução DEM       Bahia                    196
+CD01O107E 004639 JOÃO CARLOS BACELAR                     Não       PR        Bahia                    187
+CD01O107E 004639 JOSÉ CARLOS ARAÚJO                      Não       PDT       Bahia                    197
+CD01O107E 004639 JOSÉ NUNES                              Não       DEM       Bahia                    201
+CD01O107E 004639 JOSEPH BANDEIRA                         Obstrução PT        Bahia                    565
+CD01O107E 004639 MÁRCIO MARINHO                          Obstrução PRB       Bahia                    212
+CD01O107E 004639 MAURÍCIO TRINDADE                       Obstrução PR        Bahia                    208
+CD01O107E 004639 OZIEL OLIVEIRA                          Não       PDT       Bahia                    215
+CD01O107E 004639 PAULO MAGALHÃES                         Não       DEM       Bahia                    214
+CD01O107E 004639 SÉRGIO BARRADAS CARNEIRO                Obstrução PT        Bahia                    524
+CD01O107E 004639 ADEMIR CAMILO                           Sim       PDT       Minas Gerais             220
+CD01O107E 004639 AELTON FREITAS                          Não       PR        Minas Gerais             224
+CD01O107E 004639 ANTÔNIO ROBERTO                         Obstrução PV        Minas Gerais             229
+CD01O107E 004639 ARACELY DE PAULA                        Não       PR        Minas Gerais             223
+CD01O107E 004639 BERNARDO SANTANA DE VASCONCELLO         Não       PR        Minas Gerais             221
+CD01O107E 004639 CARLAILE PEDROSA                        Não       PSDB      Minas Gerais             222
+CD01O107E 004639 DIEGO ANDRADE                           Não       PR        Minas Gerais             228
+CD01O107E 004639 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O107E 004639 DOMINGOS SÁVIO                          Não       PSDB      Minas Gerais             233
+CD01O107E 004639 DR. GRILO                               Obstrução PSL       Minas Gerais             235
+CD01O107E 004639 EDUARDO AZEREDO                         Não       PSDB      Minas Gerais             237
+CD01O107E 004639 EDUARDO BARBOSA                         Não       PSDB      Minas Gerais             230
+CD01O107E 004639 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD01O107E 004639 GERALDO THADEU                          Não       PPS       Minas Gerais             236
+CD01O107E 004639 JAIME MARTINS                           Não       PR        Minas Gerais             240
+CD01O107E 004639 JAIRO ATAIDE                            Não       DEM       Minas Gerais             533
+CD01O107E 004639 JÔ MORAES                               Obstrução PCdoB     Minas Gerais             246
+CD01O107E 004639 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O107E 004639 JÚLIO DELGADO                           Abstenção PSB       Minas Gerais             250
+CD01O107E 004639 LINCOLN PORTELA                         Obstrução PR        Minas Gerais             243
+CD01O107E 004639 MARCOS MONTES                           Não       DEM       Minas Gerais             257
+CD01O107E 004639 MARCUS PESTANA                          Não       PSDB      Minas Gerais             254
+CD01O107E 004639 PAULO ABI-ACKEL                         Não       PSDB      Minas Gerais             263
+CD01O107E 004639 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD01O107E 004639 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O107E 004639 VITOR PENIDO                            Não       DEM       Minas Gerais             532
+CD01O107E 004639 ZÉ SILVA                                Não       PDT       Minas Gerais             271
+CD01O107E 004639 AUDIFAX                                 Obstrução PSB       Espírito Santo           274
+CD01O107E 004639 CESAR COLNAGO                           Não       PSDB      Espírito Santo           276
+CD01O107E 004639 LAURIETE                                Obstrução PSC       Espírito Santo           279
+CD01O107E 004639 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD01O107E 004639 MANATO                                  Não       PDT       Espírito Santo           275
+CD01O107E 004639 PAULO FOLETTO                           Não       PSB       Espírito Santo           280
+CD01O107E 004639 ROSE DE FREITAS                         Obstrução PMDB      Espírito Santo           282
+CD01O107E 004639 SUELI VIDIGAL                           Obstrução PDT       Espírito Santo           281
+CD01O107E 004639 ANTHONY GAROTINHO                       Não       PR        Rio de Janeiro           289
+CD01O107E 004639 AROLDE DE OLIVEIRA                      Não       DEM       Rio de Janeiro           288
+CD01O107E 004639 AUREO                                   Obstrução PRTB      Rio de Janeiro           290
+CD01O107E 004639 BRIZOLA NETO                            Obstrução PDT       Rio de Janeiro           566
+CD01O107E 004639 CHICO ALENCAR                           Obstrução PSOL      Rio de Janeiro           295
+CD01O107E 004639 CRISTIANO                               Obstrução PTdoB     Rio de Janeiro           292
+CD01O107E 004639 DR. ADILSON SOARES                      Obstrução PR        Rio de Janeiro           293
+CD01O107E 004639 FELIPE BORNIER                          Obstrução PHS       Rio de Janeiro           301
+CD01O107E 004639 FRANCISCO FLORIANO                      Não       PR        Rio de Janeiro           297
+CD01O107E 004639 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD01O107E 004639 JANDIRA FEGHALI                         Obstrução PCdoB     Rio de Janeiro           305
+CD01O107E 004639 JEAN WYLLYS                             Obstrução PSOL      Rio de Janeiro           307
+CD01O107E 004639 LILIAM SÁ                               Não       PR        Rio de Janeiro           309
+CD01O107E 004639 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O107E 004639 NELSON BORNIER                          Obstrução PMDB      Rio de Janeiro           549
+CD01O107E 004639 OTAVIO LEITE                            Não       PSDB      Rio de Janeiro           316
+CD01O107E 004639 RODRIGO MAIA                            Não       DEM       Rio de Janeiro           322
+CD01O107E 004639 ROMÁRIO                                 Obstrução PSB       Rio de Janeiro           319
+CD01O107E 004639 VITOR PAULO                             Obstrução PRB       Rio de Janeiro           324
+CD01O107E 004639 WALNEY ROCHA                            Abstenção PTB       Rio de Janeiro           325
+CD01O107E 004639 ZOINHO                                  Não       PR        Rio de Janeiro           328
+CD01O107E 004639 ALEXANDRE LEITE                         Não       DEM       São Paulo                334
+CD01O107E 004639 ALINE CORRÊA                            Obstrução PP        São Paulo                330
+CD01O107E 004639 ANTONIO BULHÕES                         Não       PRB       São Paulo                333
+CD01O107E 004639 ANTONIO CARLOS MENDES THAME             Não       PSDB      São Paulo                332
+CD01O107E 004639 ARNALDO JARDIM                          Não       PPS       São Paulo                339
+CD01O107E 004639 BETO MANSUR                             Não       PP        São Paulo                340
+CD01O107E 004639 CARLOS ROBERTO                          Não       PSDB      São Paulo                569
+CD01O107E 004639 CARLOS SAMPAIO                          Não       PSDB      São Paulo                338
+CD01O107E 004639 DIMAS RAMALHO                           Não       PPS       São Paulo                346
+CD01O107E 004639 DR. UBIALI                              Não       PSB       São Paulo                541
+CD01O107E 004639 DUARTE NOGUEIRA                         Não       PSDB      São Paulo                350
+CD01O107E 004639 EDINHO ARAÚJO                           Obstrução PMDB      São Paulo                344
+CD01O107E 004639 ELEUSES PAIVA                           Não       DEM       São Paulo                537
+CD01O107E 004639 ELI CORREA FILHO                        Não       DEM       São Paulo                345
+CD01O107E 004639 GABRIEL CHALITA                         Obstrução PSB       São Paulo                347
+CD01O107E 004639 GUILHERME CAMPOS                        Não       DEM       São Paulo                357
+CD01O107E 004639 GUILHERME MUSSI                         Obstrução PV        São Paulo                348
+CD01O107E 004639 IVAN VALENTE                            Obstrução PSOL      São Paulo                359
+CD01O107E 004639 JEFFERSON CAMPOS                        Não       PSB       São Paulo                349
+CD01O107E 004639 JOÃO DADO                               Obstrução PDT       São Paulo                362
+CD01O107E 004639 JONAS DONIZETTE                         Obstrução PSB       São Paulo                353
+CD01O107E 004639 JORGE TADEU MUDALEN                     Não       DEM       São Paulo                363
+CD01O107E 004639 JUNJI ABE                               Não       DEM       São Paulo                355
+CD01O107E 004639 KEIKO OTA                               Obstrução PSB       São Paulo                356
+CD01O107E 004639 LUIZ FERNANDO MACHADO                   Não       PSDB      São Paulo                365
+CD01O107E 004639 LUIZA ERUNDINA                          Obstrução PSB       São Paulo                371
+CD01O107E 004639 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD01O107E 004639 MARCELO AGUIAR                          Não       PSC       São Paulo                370
+CD01O107E 004639 MILTON MONTI                            Obstrução PR        São Paulo                374
+CD01O107E 004639 MISSIONÁRIO JOSÉ OLIMPIO                Obstrução PP        São Paulo                375
+CD01O107E 004639 NELSON MARQUEZELLI                      Obstrução PTB       São Paulo                381
+CD01O107E 004639 OTONIEL LIMA                            Obstrução PRB       São Paulo                378
+CD01O107E 004639 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD01O107E 004639 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O107E 004639 PAULO PEREIRA DA SILVA                  Obstrução PDT       São Paulo                372
+CD01O107E 004639 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD01O107E 004639 ROBERTO FREIRE                          Não       PPS       São Paulo                387
+CD01O107E 004639 SALVADOR ZIMBALDI                       Obstrução PDT       São Paulo                391
+CD01O107E 004639 TIRIRICA                                Não       PR        São Paulo                392
+CD01O107E 004639 VANDERLEI MACRIS                        Não       PSDB      São Paulo                521
+CD01O107E 004639 VAZ DE LIMA                             Não       PSDB      São Paulo                394
+CD01O107E 004639 WALTER IHOSHI                           Não       DEM       São Paulo                553
+CD01O107E 004639 WILLIAM DIB                             Não       PSDB      São Paulo                397
+CD01O107E 004639 HOMERO PEREIRA                          Não       PR        Mato Grosso              402
+CD01O107E 004639 JÚLIO CAMPOS                            Não       DEM       Mato Grosso              399
+CD01O107E 004639 NERI GELLER                             Não       PP        Mato Grosso              520
+CD01O107E 004639 ROBERTO DORNER                          Não       PP        Mato Grosso              519
+CD01O107E 004639 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD01O107E 004639 AUGUSTO CARVALHO                        Não       PPS       Distrito Federal         545
+CD01O107E 004639 IZALCI                                  Não       PR        Distrito Federal         408
+CD01O107E 004639 JAQUELINE RORIZ                         Abstenção PMN       Distrito Federal         409
+CD01O107E 004639 REGUFFE                                 Obstrução PDT       Distrito Federal         413
+CD01O107E 004639 RICARDO QUIRINO                         Obstrução PRB       Distrito Federal         551
+CD01O107E 004639 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O107E 004639 DELEGADO WALDIR                         Não       PSDB      Goiás                    559
+CD01O107E 004639 HEULER CRUVINEL                         Não       DEM       Goiás                    423
+CD01O107E 004639 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O107E 004639 JOÃO CAMPOS                             Não       PSDB      Goiás                    418
+CD01O107E 004639 RONALDO CAIADO                          Não       DEM       Goiás                    429
+CD01O107E 004639 VALDIVINO DE OLIVEIRA                   Não       PSDB      Goiás                    547
+CD01O107E 004639 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD01O107E 004639 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD01O107E 004639 GIROTO                                  Não       PR        Mato Grosso do Sul       434
+CD01O107E 004639 MANDETTA                                Não       DEM       Mato Grosso do Sul       436
+CD01O107E 004639 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O107E 004639 REINALDO AZAMBUJA                       Não       PSDB      Mato Grosso do Sul       439
+CD01O107E 004639 ABELARDO LUPION                         Não       DEM       Paraná                   440
+CD01O107E 004639 ALFREDO KAEFER                          Não       PSDB      Paraná                   451
+CD01O107E 004639 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD01O107E 004639 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O107E 004639 EDMAR ARRUDA                            Não       PSC       Paraná                   446
+CD01O107E 004639 EDUARDO SCIARRA                         Não       DEM       Paraná                   461
+CD01O107E 004639 FERNANDO FRANCISCHINI                   Não       PSDB      Paraná                   450
+CD01O107E 004639 JOÃO ARRUDA                             Obstrução PMDB      Paraná                   455
+CD01O107E 004639 LEOPOLDO MEYER                          Obstrução PSB       Paraná                   456
+CD01O107E 004639 LUIZ CARLOS SETIM                       Não       DEM       Paraná                   535
+CD01O107E 004639 LUIZ NISHIMORI                          Não       PSDB      Paraná                   542
+CD01O107E 004639 NELSON PADOVANI                         Abstenção PSC       Paraná                   457
+CD01O107E 004639 RATINHO JUNIOR                          Não       PSC       Paraná                   464
+CD01O107E 004639 REINHOLD STEPHANES                      Não       PMDB      Paraná                   467
+CD01O107E 004639 ROSANE FERREIRA                         Obstrução PV        Paraná                   459
+CD01O107E 004639 RUBENS BUENO                            Não       PPS       Paraná                   460
+CD01O107E 004639 SANDRO ALEX                             Não       PPS       Paraná                   465
+CD01O107E 004639 CARMEN ZANOTTO                          Não       PPS       Santa Catarina           561
+CD01O107E 004639 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD01O107E 004639 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD01O107E 004639 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O107E 004639 GEAN LOUREIRO                           Obstrução PMDB      Santa Catarina           568
+CD01O107E 004639 JORGE BOEIRA                            Não       PT        Santa Catarina           474
+CD01O107E 004639 JORGINHO MELLO                          Não       PSDB      Santa Catarina           476
+CD01O107E 004639 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD01O107E 004639 ONOFRE SANTO AGOSTINI                   Não       DEM       Santa Catarina           479
+CD01O107E 004639 ROGÉRIO PENINHA MENDONÇA                Obstrução PMDB      Santa Catarina           483
+CD01O107E 004639 RONALDO BENEDET                         Obstrução PMDB      Santa Catarina           484
+CD01O107E 004639 VALDIR COLATTO                          Não       PMDB      Santa Catarina           560
+CD01O107E 004639 ZONTA                                   Não       PP        Santa Catarina           485
+CD01O107E 004639 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD01O107E 004639 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD01O107E 004639 DANRLEI DE DEUS HINTERHOLZ              Não       PTB       Rio Grande do Sul        495
+CD01O107E 004639 DARCÍSIO PERONDI                        Não       PMDB      Rio Grande do Sul        491
+CD01O107E 004639 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD01O107E 004639 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD01O107E 004639 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD01O107E 004639 JOSE STÉDILE                            Obstrução PSB       Rio Grande do Sul        506
+CD01O107E 004639 LUIS CARLOS HEINZE                      Não       PP        Rio Grande do Sul        500
+CD01O107E 004639 LUIZ NOÉ                                Não       PSB       Rio Grande do Sul        536
+CD01O107E 004639 MANUELA D`ÁVILA                         Não       PCdoB     Rio Grande do Sul        494
+CD01O107E 004639 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O107E 004639 NELSON MARCHEZAN JUNIOR                 Não       PSDB      Rio Grande do Sul        509
+CD01O107E 004639 ONYX LORENZONI                          Não       DEM       Rio Grande do Sul        510
+CD01O107E 004639 OSMAR TERRA                             Não       PMDB      Rio Grande do Sul        497
+CD01O107E 004639 PAULO PIMENTA                           Obstrução PT        Rio Grande do Sul        513
+CD01O107E 004639 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD01O107E 004639 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O107E 004639 VIEIRA DA CUNHA                         Sim       PDT       Rio Grande do Sul        514
+CD01O107E 004639 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD01O107E 004639 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD01O107E 004639 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD01O107E 004639 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD01O107E 004639 SIBÁ MACHADO                            <-------> PT        Acre                     58 
+CD01O107E 004639 JOAQUIM BELTRÃO                         <-------> PMDB      Alagoas                  172
+CD01O107E 004639 ROSINHA DA ADEFAL                       <-------> PTdoB     Alagoas                  170
+CD01O107E 004639 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O107E 004639 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD01O107E 004639 CELIA ROCHA                             <-------> PTB       Alagoas                  165
+CD01O107E 004639 ÁTILA LINS                              <-------> PMDB      Amazonas                 38 
+CD01O107E 004639 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD01O107E 004639 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O107E 004639 CARLOS SOUZA                            <-------> PP        Amazonas                 37 
+CD01O107E 004639 PROFESSORA MARCIVANIA                   <-------> PT        Amapá                    15 
+CD01O107E 004639 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O107E 004639 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD01O107E 004639 VINICIUS GURGEL                         <-------> PRTB      Amapá                    16 
+CD01O107E 004639 AMAURI TEIXEIRA                         <-------> PT        Bahia                    184
+CD01O107E 004639 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD01O107E 004639 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD01O107E 004639 MARCOS MEDRADO                          <-------> PDT       Bahia                    200
+CD01O107E 004639 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD01O107E 004639 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD01O107E 004639 LUIZ ALBERTO                            <-------> PT        Bahia                    204
+CD01O107E 004639 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD01O107E 004639 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD01O107E 004639 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD01O107E 004639 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O107E 004639 ROBERTO BRITTO                          <-------> PP        Bahia                    211
+CD01O107E 004639 SÉRGIO BRITO                            <-------> PSC       Bahia                    213
+CD01O107E 004639 RUI COSTA                               <-------> PT        Bahia                    216
+CD01O107E 004639 VALMIR ASSUNÇÃO                         <-------> PT        Bahia                    218
+CD01O107E 004639 WALDENOR PEREIRA                        <-------> PT        Bahia                    219
+CD01O107E 004639 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD01O107E 004639 GERALDO SIMÕES                          <-------> PT        Bahia                    185
+CD01O107E 004639 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD01O107E 004639 EUDES XAVIER                            <-------> PT        Ceará                    91 
+CD01O107E 004639 ARTUR BRUNO                             <-------> PT        Ceará                    94 
+CD01O107E 004639 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD01O107E 004639 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O107E 004639 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O107E 004639 JOSÉ GUIMARÃES                          <-------> PT        Ceará                    103
+CD01O107E 004639 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD01O107E 004639 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD01O107E 004639 RAIMUNDÃO                               <-------> PMDB      Ceará                    108
+CD01O107E 004639 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O107E 004639 ERIKA KOKAY                             <-------> PT        Distrito Federal         407
+CD01O107E 004639 POLICARPO                               <-------> PT        Distrito Federal         539
+CD01O107E 004639 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD01O107E 004639 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD01O107E 004639 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD01O107E 004639 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O107E 004639 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O107E 004639 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD01O107E 004639 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD01O107E 004639 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O107E 004639 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O107E 004639 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD01O107E 004639 JORGE PINHEIRO                          <-------> PRB       Goiás                    548
+CD01O107E 004639 PEDRO CHAVES                            <-------> PMDB      Goiás                    428
+CD01O107E 004639 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O107E 004639 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O107E 004639 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD01O107E 004639 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD01O107E 004639 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O107E 004639 GASTÃO VIEIRA                           <-------> PMDB      Maranhão                 75 
+CD01O107E 004639 SARNEY FILHO                            <-------> PV        Maranhão                 85 
+CD01O107E 004639 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O107E 004639 WALDIR MARANHÃO                         <-------> PP        Maranhão                 84 
+CD01O107E 004639 LOURIVAL MENDES                         <-------> PTdoB     Maranhão                 77 
+CD01O107E 004639 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O107E 004639 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O107E 004639 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O107E 004639 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O107E 004639 SARAIVA FELIPE                          <-------> PMDB      Minas Gerais             265
+CD01O107E 004639 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O107E 004639 STEFANO AGUIAR                          <-------> PSC       Minas Gerais             558
+CD01O107E 004639 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O107E 004639 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD01O107E 004639 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O107E 004639 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD01O107E 004639 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O107E 004639 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O107E 004639 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD01O107E 004639 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD01O107E 004639 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O107E 004639 MÁRCIO REINALDO MOREIRA                 <-------> PP        Minas Gerais             247
+CD01O107E 004639 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD01O107E 004639 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD01O107E 004639 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD01O107E 004639 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD01O107E 004639 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD01O107E 004639 ANTÔNIO ANDRADE                         <-------> PMDB      Minas Gerais             227
+CD01O107E 004639 WALTER TOSTA                            <-------> PMN       Minas Gerais             267
+CD01O107E 004639 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O107E 004639 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD01O107E 004639 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD01O107E 004639 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O107E 004639 ANTÔNIO CARLOS BIFFI                    <-------> PT        Mato Grosso do Sul       432
+CD01O107E 004639 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O107E 004639 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD01O107E 004639 SÁGUAS MORAES                           <-------> PT        Mato Grosso              405
+CD01O107E 004639 BETO FARO                               <-------> PT        Pará                     19 
+CD01O107E 004639 LUIZ OTÁVIO                             <-------> PMDB      Pará                     526
+CD01O107E 004639 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD01O107E 004639 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O107E 004639 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD01O107E 004639 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O107E 004639 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O107E 004639 MIRIQUINHO BATISTA                      <-------> PT        Pará                     35 
+CD01O107E 004639 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O107E 004639 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD01O107E 004639 AGUINALDO RIBEIRO                       <-------> PP        Paraíba                  129
+CD01O107E 004639 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD01O107E 004639 LUIZ COUTO                              <-------> PT        Paraíba                  133
+CD01O107E 004639 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD01O107E 004639 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O107E 004639 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD01O107E 004639 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD01O107E 004639 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD01O107E 004639 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD01O107E 004639 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD01O107E 004639 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD01O107E 004639 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD01O107E 004639 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD01O107E 004639 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD01O107E 004639 FERNANDO FERRO                          <-------> PT        Pernambuco               141
+CD01O107E 004639 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O107E 004639 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD01O107E 004639 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD01O107E 004639 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD01O107E 004639 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD01O107E 004639 MARCELO CASTRO                          <-------> PMDB      Piauí                    110
+CD01O107E 004639 JESUS RODRIGUES                         <-------> PT        Piauí                    115
+CD01O107E 004639 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD01O107E 004639 NAZARENO FONTELES                       <-------> PT        Piauí                    530
+CD01O107E 004639 ASSIS CARVALHO                          <-------> PT        Piauí                    111
+CD01O107E 004639 MOACIR MICHELETTO                       <-------> PMDB      Paraná                   462
+CD01O107E 004639 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD01O107E 004639 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O107E 004639 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD01O107E 004639 TAKAYAMA                                <-------> PSC       Paraná                   469
+CD01O107E 004639 NELSON MEURER                           <-------> PP        Paraná                   458
+CD01O107E 004639 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD01O107E 004639 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O107E 004639 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O107E 004639 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD01O107E 004639 ANDRÉ VARGAS                            <-------> PT        Paraná                   452
+CD01O107E 004639 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O107E 004639 ASSIS DO COUTO                          <-------> PT        Paraná                   443
+CD01O107E 004639 DR. CARLOS ALBERTO                      <-------> PMN       Rio de Janeiro           529
+CD01O107E 004639 SOLANGE ALMEIDA                         <-------> PMDB      Rio de Janeiro           563
+CD01O107E 004639 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD01O107E 004639 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD01O107E 004639 WASHINGTON REIS                         <-------> PMDB      Rio de Janeiro           326
+CD01O107E 004639 CHICO D`ANGELO                          <-------> PT        Rio de Janeiro           527
+CD01O107E 004639 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD01O107E 004639 ELIANE ROLIM                            <-------> PT        Rio de Janeiro           538
+CD01O107E 004639 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD01O107E 004639 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O107E 004639 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O107E 004639 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O107E 004639 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD01O107E 004639 BENEDITA DA SILVA                       <-------> PT        Rio de Janeiro           291
+CD01O107E 004639 DR. ALUIZIO                             <-------> PV        Rio de Janeiro           294
+CD01O107E 004639 DR. PAULO CÉSAR                         <-------> PR        Rio de Janeiro           296
+CD01O107E 004639 EDSON EZEQUIEL                          <-------> PMDB      Rio de Janeiro           298
+CD01O107E 004639 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD01O107E 004639 EDUARDO CUNHA                           <-------> PMDB      Rio de Janeiro           300
+CD01O107E 004639 JAIR BOLSONARO                          <-------> PP        Rio de Janeiro           302
+CD01O107E 004639 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD01O107E 004639 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD01O107E 004639 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD01O107E 004639 MIRO TEIXEIRA                           <-------> PDT       Rio de Janeiro           317
+CD01O107E 004639 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD01O107E 004639 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O107E 004639 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD01O107E 004639 HENRIQUE EDUARDO ALVES                  <-------> PMDB      Rio Grande do Norte      123
+CD01O107E 004639 FÁBIO FARIA                             <-------> PMN       Rio Grande do Norte      119
+CD01O107E 004639 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD01O107E 004639 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD01O107E 004639 PADRE TON                               <-------> PT        Rondonia                 48 
+CD01O107E 004639 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD01O107E 004639 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD01O107E 004639 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O107E 004639 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O107E 004639 RONALDO ZULKE                           <-------> PT        Rio Grande do Sul        515
+CD01O107E 004639 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O107E 004639 ASSIS MELO                              <-------> PCdoB     Rio Grande do Sul        492
+CD01O107E 004639 BOHN GASS                               <-------> PT        Rio Grande do Sul        499
+CD01O107E 004639 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD01O107E 004639 PEPE VARGAS                             <-------> PT        Rio Grande do Sul        503
+CD01O107E 004639 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD01O107E 004639 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD01O107E 004639 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O107E 004639 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD01O107E 004639 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD01O107E 004639 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD01O107E 004639 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD01O107E 004639 ALMEIDA LIMA                            <-------> PMDB      Sergipe                  173
+CD01O107E 004639 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CD01O107E 004639 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O107E 004639 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD01O107E 004639 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O107E 004639 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD01O107E 004639 VICENTINHO                              <-------> PT        São Paulo                396
+CD01O107E 004639 CARLOS ZARATTINI                        <-------> PT        São Paulo                398
+CD01O107E 004639 ALDO REBELO                             <-------> PCdoB     São Paulo                331
+CD01O107E 004639 CARLINHOS ALMEIDA                       <-------> PT        São Paulo                341
+CD01O107E 004639 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O107E 004639 ARNALDO FARIA DE SÁ                     <-------> PTB       São Paulo                337
+CD01O107E 004639 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD01O107E 004639 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O107E 004639 JANETE ROCHA PIETÁ                      <-------> PT        São Paulo                358
+CD01O107E 004639 JILMAR TATTO                            <-------> PT        São Paulo                360
+CD01O107E 004639 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O107E 004639 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD01O107E 004639 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD01O107E 004639 JOSÉ DE FILIPPI                         <-------> PT        São Paulo                354
+CD01O107E 004639 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD01O107E 004639 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O107E 004639 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD01O107E 004639 ROBERTO SANTIAGO                        <-------> PV        São Paulo                386
+CD01O107E 004639 ROBERTO DE LUCENA                       <-------> PV        São Paulo                385
+CD01O107E 004639 RICARDO IZAR                            <-------> PV        São Paulo                383
+CD01O107E 004639 PENNA                                   <-------> PV        São Paulo                382
+CD01O107E 004639 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD01O107E 004639 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O107E 004639 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O107E 004639 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD01O107E 004639 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O107E 004639 ÂNGELO AGNOLIN                          <-------> PDT       Tocantins                61 

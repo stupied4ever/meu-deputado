@@ -1,0 +1,513 @@
+CD01O175O 004701 BERINHO BANTIM                          Sim       PSDB      Roraima                  1
+CD01O175O 004701 EDIO LOPES                              Não       PMDB      Roraima                  2  
+CD01O175O 004701 FRANCISCO ARAÚJO                        Não       PSL       Roraima                  570
+CD01O175O 004701 JHONATAN DE JESUS                       Não       PRB       Roraima                  5  
+CD01O175O 004701 LUCIANO CASTRO                          Não       PR        Roraima                  4  
+CD01O175O 004701 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD01O175O 004701 RAUL LIMA                               Não       PP        Roraima                  7  
+CD01O175O 004701 DALVA FIGUEIREDO                        Não       PT        Amapá                    9  
+CD01O175O 004701 DAVI ALCOLUMBRE                         Sim       DEM       Amapá                    10 
+CD01O175O 004701 EVANDRO MILHOMEN                        Não       PCdoB     Amapá                    11 
+CD01O175O 004701 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD01O175O 004701 PROFESSORA MARCIVANIA                   Não       PT        Amapá                    15 
+CD01O175O 004701 SEBASTIÃO BALA ROCHA                    Não       PDT       Amapá                    17 
+CD01O175O 004701 VINICIUS GURGEL                         Não       PRTB      Amapá                    16 
+CD01O175O 004701 BETO FARO                               Não       PT        Pará                     19 
+CD01O175O 004701 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD01O175O 004701 JOSÉ PRIANTE                            Não       PMDB      Pará                     26 
+CD01O175O 004701 JOSUÉ BENGTSON                          Não       PTB       Pará                     30 
+CD01O175O 004701 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD01O175O 004701 LÚCIO VALE                              Não       PR        Pará                     29 
+CD01O175O 004701 LUIZ OTÁVIO                             Não       PMDB      Pará                     526
+CD01O175O 004701 MIRIQUINHO BATISTA                      Não       PT        Pará                     35 
+CD01O175O 004701 WANDENKOLK GONÇALVES                    Sim       PSDB      Pará                     32 
+CD01O175O 004701 ZÉ GERALDO                              Não       PT        Pará                     25 
+CD01O175O 004701 ÁTILA LINS                              Não       PMDB      Amazonas                 38 
+CD01O175O 004701 HENRIQUE OLIVEIRA                       Não       PR        Amazonas                 36 
+CD01O175O 004701 PAUDERNEY AVELINO                       Sim       DEM       Amazonas                 40 
+CD01O175O 004701 ANTÔNIA LÚCIA                           Não       PSC       Acre                     53 
+CD01O175O 004701 FLAVIANO MELO                           Não       PMDB      Acre                     54 
+CD01O175O 004701 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD01O175O 004701 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD01O175O 004701 PERPÉTUA ALMEIDA                        Não       PCdoB     Acre                     56 
+CD01O175O 004701 SIBÁ MACHADO                            Não       PT        Acre                     58 
+CD01O175O 004701 ÂNGELO AGNOLIN                          Não       PDT       Tocantins                61 
+CD01O175O 004701 CÉSAR HALUM                             Não       PPS       Tocantins                64 
+CD01O175O 004701 LAUREZ MOREIRA                          Não       PSB       Tocantins                62 
+CD01O175O 004701 LÁZARO BOTELHO                          Não       PP        Tocantins                63 
+CD01O175O 004701 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD01O175O 004701 ALBERTO FILHO                           Não       PMDB      Maranhão                 71 
+CD01O175O 004701 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD01O175O 004701 CLEBER VERDE                            Não       PRB       Maranhão                 70 
+CD01O175O 004701 COSTA FERREIRA                          Não       PSC       Maranhão                 571
+CD01O175O 004701 DAVI ALVES SILVA JÚNIOR                 Não       PR        Maranhão                 528
+CD01O175O 004701 DOMINGOS DUTRA                          Abstenção PT        Maranhão                 72 
+CD01O175O 004701 EDIVALDO HOLANDA JUNIOR                 Não       PTC       Maranhão                 73 
+CD01O175O 004701 FRANCISCO ESCÓRCIO                      Não       PMDB      Maranhão                 567
+CD01O175O 004701 HÉLIO SANTOS                            Sim       PSDB      Maranhão                 76 
+CD01O175O 004701 LOURIVAL MENDES                         Não       PTdoB     Maranhão                 77 
+CD01O175O 004701 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD01O175O 004701 PROFESSOR SETIMO                        Não       PMDB      Maranhão                 81 
+CD01O175O 004701 SARNEY FILHO                            Sim       PV        Maranhão                 85 
+CD01O175O 004701 ZÉ VIEIRA                               Não       PR        Maranhão                 86 
+CD01O175O 004701 ANDRÉ FIGUEIREDO                        Não       PDT       Ceará                    89 
+CD01O175O 004701 ARIOSTO HOLANDA                         Não       PSB       Ceará                    92 
+CD01O175O 004701 ARNON BEZERRA                           Não       PTB       Ceará                    90 
+CD01O175O 004701 ARTUR BRUNO                             Não       PT        Ceará                    94 
+CD01O175O 004701 CHICO LOPES                             Não       PCdoB     Ceará                    88 
+CD01O175O 004701 DANILO FORTE                            Não       PMDB      Ceará                    95 
+CD01O175O 004701 EUDES XAVIER                            Não       PT        Ceará                    91 
+CD01O175O 004701 GENECIAS NORONHA                        Não       PMDB      Ceará                    99 
+CD01O175O 004701 JOÃO ANANIAS                            Não       PCdoB     Ceará                    106
+CD01O175O 004701 JOSÉ AIRTON                             Não       PT        Ceará                    101
+CD01O175O 004701 JOSÉ GUIMARÃES                          Não       PT        Ceará                    103
+CD01O175O 004701 MANOEL SALVIANO                         Sim       PSDB      Ceará                    104
+CD01O175O 004701 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD01O175O 004701 VICENTE ARRUDA                          Não       PR        Ceará                    107
+CD01O175O 004701 ASSIS CARVALHO                          Não       PT        Piauí                    111
+CD01O175O 004701 JESUS RODRIGUES                         Não       PT        Piauí                    115
+CD01O175O 004701 JÚLIO CESAR                             Sim       DEM       Piauí                    114
+CD01O175O 004701 MARLLOS SAMPAIO                         Não       PMDB      Piauí                    117
+CD01O175O 004701 NAZARENO FONTELES                       Não       PT        Piauí                    530
+CD01O175O 004701 OSMAR JÚNIOR                            Não       PCdoB     Piauí                    116
+CD01O175O 004701 PAES LANDIM                             Não       PTB       Piauí                    118
+CD01O175O 004701 FÁBIO FARIA                             Não       PMN       Rio Grande do Norte      119
+CD01O175O 004701 HENRIQUE EDUARDO ALVES                  Não       PMDB      Rio Grande do Norte      123
+CD01O175O 004701 JOÃO MAIA                               Não       PR        Rio Grande do Norte      124
+CD01O175O 004701 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD01O175O 004701 ROGÉRIO MARINHO                         Sim       PSDB      Rio Grande do Norte      540
+CD01O175O 004701 SANDRA ROSADO                           Não       PSB       Rio Grande do Norte      125
+CD01O175O 004701 BENJAMIN MARANHÃO                       Não       PMDB      Paraíba                  131
+CD01O175O 004701 DAMIÃO FELICIANO                        Não       PDT       Paraíba                  127
+CD01O175O 004701 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD01O175O 004701 HUGO MOTTA                              Não       PMDB      Paraíba                  132
+CD01O175O 004701 LUIZ COUTO                              Não       PT        Paraíba                  133
+CD01O175O 004701 NILDA GONDIM                            Não       PMDB      Paraíba                  134
+CD01O175O 004701 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD01O175O 004701 WELLINGTON ROBERTO                      Não       PR        Paraíba                  136
+CD01O175O 004701 ANDERSON FERREIRA                       Não       PR        Pernambuco               142
+CD01O175O 004701 BRUNO ARAÚJO                            Sim       PSDB      Pernambuco               146
+CD01O175O 004701 CARLOS EDUARDO CADOCA                   Não       PSC       Pernambuco               152
+CD01O175O 004701 FERNANDO COELHO FILHO                   Não       PSB       Pernambuco               158
+CD01O175O 004701 FERNANDO FERRO                          Não       PT        Pernambuco               141
+CD01O175O 004701 INOCÊNCIO OLIVEIRA                      Não       PR        Pernambuco               145
+CD01O175O 004701 JOÃO PAULO  LIMA                        Não       PT        Pernambuco               149
+CD01O175O 004701 JORGE CORTE REAL                        Não       PTB       Pernambuco               150
+CD01O175O 004701 JOSÉ CHAVES                             Não       PTB       Pernambuco               147
+CD01O175O 004701 MENDONÇA FILHO                          Sim       DEM       Pernambuco               154
+CD01O175O 004701 PEDRO EUGÊNIO                           Não       PT        Pernambuco               161
+CD01O175O 004701 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD01O175O 004701 ROBERTO TEIXEIRA                        Não       PP        Pernambuco               157
+CD01O175O 004701 SERGIO GUERRA                           Sim       PSDB      Pernambuco               159
+CD01O175O 004701 SILVIO COSTA                            Não       PTB       Pernambuco               160
+CD01O175O 004701 VILALBA                                 Não       PRB       Pernambuco               555
+CD01O175O 004701 ARTHUR LIRA                             Não       PP        Alagoas                  162
+CD01O175O 004701 CELIA ROCHA                             Não       PTB       Alagoas                  165
+CD01O175O 004701 GIVALDO CARIMBÃO                        Não       PSB       Alagoas                  166
+CD01O175O 004701 JOAQUIM BELTRÃO                         Não       PMDB      Alagoas                  172
+CD01O175O 004701 MAURÍCIO QUINTELLA LESSA                Não       PR        Alagoas                  168
+CD01O175O 004701 ROSINHA DA ADEFAL                       Não       PTdoB     Alagoas                  170
+CD01O175O 004701 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD01O175O 004701 ALMEIDA LIMA                            Não       PMDB      Sergipe                  173
+CD01O175O 004701 ANDRE MOURA                             Não       PSC       Sergipe                  174
+CD01O175O 004701 HELENO SILVA                            Não       PRB       Sergipe                  175
+CD01O175O 004701 LAERCIO OLIVEIRA                        Não       PR        Sergipe                  176
+CD01O175O 004701 MÁRCIO MACÊDO                           Não       PT        Sergipe                  177
+CD01O175O 004701 ROGÉRIO CARVALHO                        Não       PT        Sergipe                  178
+CD01O175O 004701 VALADARES FILHO                         Não       PSB       Sergipe                  183
+CD01O175O 004701 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD01O175O 004701 ANTONIO BRITO                           Não       PTB       Bahia                    189
+CD01O175O 004701 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD01O175O 004701 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O175O 004701 ARTHUR OLIVEIRA MAIA                    Não       PMDB      Bahia                    192
+CD01O175O 004701 DANIEL ALMEIDA                          Não       PCdoB     Bahia                    188
+CD01O175O 004701 EDSON PIMENTA                           Não       PCdoB     Bahia                    193
+CD01O175O 004701 EMILIANO JOSÉ                           Não       PT        Bahia                    523
+CD01O175O 004701 ERIVELTON SANTANA                       Não       PSC       Bahia                    194
+CD01O175O 004701 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD01O175O 004701 FELIX MENDONÇA JÚNIOR                   Não       PDT       Bahia                    195
+CD01O175O 004701 FERNANDO TORRES                         Não       DEM       Bahia                    196
+CD01O175O 004701 GERALDO SIMÕES                          Não       PT        Bahia                    185
+CD01O175O 004701 JÂNIO NATAL                             Não       PRP       Bahia                    198
+CD01O175O 004701 JOSÉ NUNES                              Sim       DEM       Bahia                    201
+CD01O175O 004701 JOSEPH BANDEIRA                         Não       PT        Bahia                    565
+CD01O175O 004701 JOSIAS GOMES                            Não       PT        Bahia                    202
+CD01O175O 004701 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O175O 004701 LUCIO VIEIRA LIMA                       Não       PMDB      Bahia                    205
+CD01O175O 004701 LUIZ ARGÔLO                             Não       PP        Bahia                    207
+CD01O175O 004701 MÁRCIO MARINHO                          Não       PRB       Bahia                    212
+CD01O175O 004701 MAURÍCIO TRINDADE                       Não       PR        Bahia                    208
+CD01O175O 004701 NELSON PELLEGRINO                       Não       PT        Bahia                    209
+CD01O175O 004701 PAULO MAGALHÃES                         Não       DEM       Bahia                    214
+CD01O175O 004701 ROBERTO BRITTO                          Não       PP        Bahia                    211
+CD01O175O 004701 RUI COSTA                               Não       PT        Bahia                    216
+CD01O175O 004701 SÉRGIO BARRADAS CARNEIRO                Não       PT        Bahia                    524
+CD01O175O 004701 SÉRGIO BRITO                            Não       PSC       Bahia                    213
+CD01O175O 004701 VALMIR ASSUNÇÃO                         Não       PT        Bahia                    218
+CD01O175O 004701 WALDENOR PEREIRA                        Não       PT        Bahia                    219
+CD01O175O 004701 ADEMIR CAMILO                           Não       PDT       Minas Gerais             220
+CD01O175O 004701 BERNARDO SANTANA DE VASCONCELLO         Não       PR        Minas Gerais             221
+CD01O175O 004701 BONIFÁCIO DE ANDRADA                    Sim       PSDB      Minas Gerais             534
+CD01O175O 004701 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD01O175O 004701 DIEGO ANDRADE                           Não       PR        Minas Gerais             228
+CD01O175O 004701 DIMAS FABIANO                           Não       PP        Minas Gerais             231
+CD01O175O 004701 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD01O175O 004701 EROS BIONDINI                           Não       PTB       Minas Gerais             242
+CD01O175O 004701 GERALDO THADEU                          Sim       PPS       Minas Gerais             236
+CD01O175O 004701 GILMAR MACHADO                          Não       PT        Minas Gerais             234
+CD01O175O 004701 JAIRO ATAIDE                            Sim       DEM       Minas Gerais             533
+CD01O175O 004701 JÔ MORAES                               Não       PCdoB     Minas Gerais             246
+CD01O175O 004701 JOÃO BITTAR                             Sim       DEM       Minas Gerais             531
+CD01O175O 004701 JOÃO MAGALHÃES                          Não       PMDB      Minas Gerais             239
+CD01O175O 004701 JOSÉ HUMBERTO                           Não       PHS       Minas Gerais             249
+CD01O175O 004701 JÚLIO DELGADO                           Não       PSB       Minas Gerais             250
+CD01O175O 004701 LEONARDO MONTEIRO                       Não       PT        Minas Gerais             253
+CD01O175O 004701 LEONARDO QUINTÃO                        Não       PMDB      Minas Gerais             255
+CD01O175O 004701 LINCOLN PORTELA                         Não       PR        Minas Gerais             243
+CD01O175O 004701 MÁRCIO REINALDO MOREIRA                 Não       PP        Minas Gerais             247
+CD01O175O 004701 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD01O175O 004701 MÁRIO DE OLIVEIRA                       Não       PSC       Minas Gerais             260
+CD01O175O 004701 NEWTON CARDOSO                          Não       PMDB      Minas Gerais             258
+CD01O175O 004701 ODAIR CUNHA                             Não       PT        Minas Gerais             269
+CD01O175O 004701 PADRE JOÃO                              Não       PT        Minas Gerais             259
+CD01O175O 004701 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD01O175O 004701 RENZO BRAZ                              Não       PP        Minas Gerais             262
+CD01O175O 004701 SARAIVA FELIPE                          Não       PMDB      Minas Gerais             265
+CD01O175O 004701 TONINHO PINHEIRO                        Não       PP        Minas Gerais             264
+CD01O175O 004701 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD01O175O 004701 ZÉ SILVA                                Não       PDT       Minas Gerais             271
+CD01O175O 004701 AUDIFAX                                 Não       PSB       Espírito Santo           274
+CD01O175O 004701 CAMILO COLA                             Não       PMDB      Espírito Santo           543
+CD01O175O 004701 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD01O175O 004701 DR. JORGE SILVA                         Não       PDT       Espírito Santo           278
+CD01O175O 004701 LAURIETE                                Não       PSC       Espírito Santo           279
+CD01O175O 004701 LELO COIMBRA                            Não       PMDB      Espírito Santo           277
+CD01O175O 004701 MANATO                                  Sim       PDT       Espírito Santo           275
+CD01O175O 004701 ROSE DE FREITAS                         Art. 17   PMDB      Espírito Santo           282
+CD01O175O 004701 SUELI VIDIGAL                           Não       PDT       Espírito Santo           281
+CD01O175O 004701 ALEXANDRE SANTOS                        Não       PMDB      Rio de Janeiro           285
+CD01O175O 004701 ANDREIA ZITO                            Sim       PSDB      Rio de Janeiro           283
+CD01O175O 004701 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD01O175O 004701 AROLDE DE OLIVEIRA                      Sim       DEM       Rio de Janeiro           288
+CD01O175O 004701 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O175O 004701 CHICO D`ANGELO                          Não       PT        Rio de Janeiro           527
+CD01O175O 004701 DELEY                                   Sim       PSC       Rio de Janeiro           562
+CD01O175O 004701 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD01O175O 004701 DR. CARLOS ALBERTO                      Não       PMN       Rio de Janeiro           529
+CD01O175O 004701 DR. PAULO CÉSAR                         Não       PR        Rio de Janeiro           296
+CD01O175O 004701 EDSON EZEQUIEL                          Não       PMDB      Rio de Janeiro           298
+CD01O175O 004701 EDUARDO CUNHA                           Não       PMDB      Rio de Janeiro           300
+CD01O175O 004701 ELIANE ROLIM                            Não       PT        Rio de Janeiro           538
+CD01O175O 004701 FERNANDO JORDÃO                         Não       PMDB      Rio de Janeiro           557
+CD01O175O 004701 FILIPE PEREIRA                          Não       PSC       Rio de Janeiro           303
+CD01O175O 004701 GLAUBER BRAGA                           Não       PSB       Rio de Janeiro           304
+CD01O175O 004701 HUGO LEAL                               Não       PSC       Rio de Janeiro           306
+CD01O175O 004701 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O175O 004701 JANDIRA FEGHALI                         Não       PCdoB     Rio de Janeiro           305
+CD01O175O 004701 LILIAM SÁ                               Sim       PR        Rio de Janeiro           309
+CD01O175O 004701 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD01O175O 004701 NEILTON MULIM                           Não       PR        Rio de Janeiro           315
+CD01O175O 004701 NELSON BORNIER                          Não       PMDB      Rio de Janeiro           549
+CD01O175O 004701 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD01O175O 004701 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD01O175O 004701 SIMÃO SESSIM                            Não       PP        Rio de Janeiro           327
+CD01O175O 004701 SOLANGE ALMEIDA                         Não       PMDB      Rio de Janeiro           563
+CD01O175O 004701 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD01O175O 004701 WALNEY ROCHA                            Não       PTB       Rio de Janeiro           325
+CD01O175O 004701 WASHINGTON REIS                         Não       PMDB      Rio de Janeiro           326
+CD01O175O 004701 ABELARDO CAMARINHA                      Não       PSB       São Paulo                329
+CD01O175O 004701 ALBERTO MOURÃO                          Sim       PSDB      São Paulo                552
+CD01O175O 004701 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD01O175O 004701 ALINE CORRÊA                            Não       PP        São Paulo                330
+CD01O175O 004701 ARNALDO FARIA DE SÁ                     Não       PTB       São Paulo                337
+CD01O175O 004701 ARNALDO JARDIM                          Sim       PPS       São Paulo                339
+CD01O175O 004701 BETO MANSUR                             Não       PP        São Paulo                340
+CD01O175O 004701 CARLINHOS ALMEIDA                       Não       PT        São Paulo                341
+CD01O175O 004701 CARLOS ROBERTO                          Sim       PSDB      São Paulo                569
+CD01O175O 004701 CARLOS SAMPAIO                          Sim       PSDB      São Paulo                338
+CD01O175O 004701 CARLOS ZARATTINI                        Não       PT        São Paulo                398
+CD01O175O 004701 DELEGADO PROTÓGENES                     Não       PCdoB     São Paulo                343
+CD01O175O 004701 DEVANIR RIBEIRO                         Não       PT        São Paulo                342
+CD01O175O 004701 DIMAS RAMALHO                           Sim       PPS       São Paulo                346
+CD01O175O 004701 DR. UBIALI                              Não       PSB       São Paulo                541
+CD01O175O 004701 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O175O 004701 EDINHO ARAÚJO                           Não       PMDB      São Paulo                344
+CD01O175O 004701 ELEUSES PAIVA                           Sim       DEM       São Paulo                537
+CD01O175O 004701 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD01O175O 004701 GABRIEL CHALITA                         Não       PMDB      São Paulo                347
+CD01O175O 004701 GUILHERME CAMPOS                        Sim       DEM       São Paulo                357
+CD01O175O 004701 GUILHERME MUSSI                         Não       PV        São Paulo                348
+CD01O175O 004701 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD01O175O 004701 JANETE ROCHA PIETÁ                      Não       PT        São Paulo                358
+CD01O175O 004701 JEFFERSON CAMPOS                        Não       PSB       São Paulo                349
+CD01O175O 004701 JILMAR TATTO                            Não       PT        São Paulo                360
+CD01O175O 004701 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD01O175O 004701 JONAS DONIZETTE                         Não       PSB       São Paulo                353
+CD01O175O 004701 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD01O175O 004701 JOSÉ MENTOR                             Não       PT        São Paulo                367
+CD01O175O 004701 JUNJI ABE                               Não       DEM       São Paulo                355
+CD01O175O 004701 KEIKO OTA                               Não       PSB       São Paulo                356
+CD01O175O 004701 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD01O175O 004701 LUIZA ERUNDINA                          Não       PSB       São Paulo                371
+CD01O175O 004701 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD01O175O 004701 MARCELO AGUIAR                          Não       PSC       São Paulo                370
+CD01O175O 004701 MILTON MONTI                            Não       PR        São Paulo                374
+CD01O175O 004701 MISSIONÁRIO JOSÉ OLIMPIO                Não       PP        São Paulo                375
+CD01O175O 004701 NELSON MARQUEZELLI                      Não       PTB       São Paulo                381
+CD01O175O 004701 NEWTON LIMA                             Não       PT        São Paulo                377
+CD01O175O 004701 OTONIEL LIMA                            Não       PRB       São Paulo                378
+CD01O175O 004701 PASTOR MARCO FELICIANO                  Não       PSC       São Paulo                379
+CD01O175O 004701 PAULO FREIRE                            Não       PR        São Paulo                380
+CD01O175O 004701 PAULO PEREIRA DA SILVA                  Não       PDT       São Paulo                372
+CD01O175O 004701 PENNA                                   Sim       PV        São Paulo                382
+CD01O175O 004701 RICARDO BERZOINI                        Não       PT        São Paulo                390
+CD01O175O 004701 RICARDO TRIPOLI                         Sim       PSDB      São Paulo                384
+CD01O175O 004701 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O175O 004701 ROBERTO FREIRE                          Sim       PPS       São Paulo                387
+CD01O175O 004701 ROBERTO SANTIAGO                        Não       PV        São Paulo                386
+CD01O175O 004701 SALVADOR ZIMBALDI                       Não       PDT       São Paulo                391
+CD01O175O 004701 TIRIRICA                                Não       PR        São Paulo                392
+CD01O175O 004701 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD01O175O 004701 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD01O175O 004701 VICENTE CANDIDO                         Não       PT        São Paulo                395
+CD01O175O 004701 VICENTINHO                              Não       PT        São Paulo                396
+CD01O175O 004701 WALTER IHOSHI                           Sim       DEM       São Paulo                553
+CD01O175O 004701 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD01O175O 004701 CARLOS BEZERRA                          Não       PMDB      Mato Grosso              400
+CD01O175O 004701 HOMERO PEREIRA                          Não       PR        Mato Grosso              402
+CD01O175O 004701 NERI GELLER                             Não       PP        Mato Grosso              520
+CD01O175O 004701 ROBERTO DORNER                          Não       PP        Mato Grosso              519
+CD01O175O 004701 SÁGUAS MORAES                           Não       PT        Mato Grosso              405
+CD01O175O 004701 VALTENIR PEREIRA                        Não       PSB       Mato Grosso              404
+CD01O175O 004701 WELLINGTON FAGUNDES                     Não       PR        Mato Grosso              406
+CD01O175O 004701 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O175O 004701 IZALCI                                  Sim       PR        Distrito Federal         408
+CD01O175O 004701 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD01O175O 004701 POLICARPO                               Não       PT        Distrito Federal         539
+CD01O175O 004701 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O175O 004701 RICARDO QUIRINO                         Não       PRB       Distrito Federal         551
+CD01O175O 004701 RONALDO FONSECA                         Não       PR        Distrito Federal         414
+CD01O175O 004701 DELEGADO WALDIR                         Sim       PSDB      Goiás                    559
+CD01O175O 004701 FLÁVIA MORAIS                           Não       PDT       Goiás                    422
+CD01O175O 004701 HEULER CRUVINEL                         Sim       DEM       Goiás                    423
+CD01O175O 004701 ÍRIS DE ARAÚJO                          Não       PMDB      Goiás                    417
+CD01O175O 004701 JOVAIR ARANTES                          Não       PTB       Goiás                    419
+CD01O175O 004701 LEANDRO VILELA                          Não       PMDB      Goiás                    420
+CD01O175O 004701 MARINA SANTANNA                         Não       PT        Goiás                    564
+CD01O175O 004701 PEDRO CHAVES                            Não       PMDB      Goiás                    428
+CD01O175O 004701 ROBERTO BALESTRA                        Não       PP        Goiás                    427
+CD01O175O 004701 RONALDO CAIADO                          Sim       DEM       Goiás                    429
+CD01O175O 004701 RUBENS OTONI                            Não       PT        Goiás                    425
+CD01O175O 004701 VALDIVINO DE OLIVEIRA                   Sim       PSDB      Goiás                    547
+CD01O175O 004701 FABIO TRAD                              Não       PMDB      Mato Grosso do Sul       433
+CD01O175O 004701 GERALDO RESENDE                         Não       PMDB      Mato Grosso do Sul       435
+CD01O175O 004701 MANDETTA                                Sim       DEM       Mato Grosso do Sul       436
+CD01O175O 004701 MARÇAL FILHO                            Não       PMDB      Mato Grosso do Sul       437
+CD01O175O 004701 REINALDO AZAMBUJA                       Sim       PSDB      Mato Grosso do Sul       439
+CD01O175O 004701 ANDRÉ ZACHAROW                          Não       PMDB      Paraná                   441
+CD01O175O 004701 ANGELO VANHONI                          Não       PT        Paraná                   453
+CD01O175O 004701 ASSIS DO COUTO                          Não       PT        Paraná                   443
+CD01O175O 004701 CIDA BORGHETTI                          Não       PP        Paraná                   442
+CD01O175O 004701 DILCEU SPERAFICO                        Não       PP        Paraná                   444
+CD01O175O 004701 DR. ROSINHA                             Não       PT        Paraná                   449
+CD01O175O 004701 EDUARDO SCIARRA                         Sim       DEM       Paraná                   461
+CD01O175O 004701 FERNANDO FRANCISCHINI                   Sim       PSDB      Paraná                   450
+CD01O175O 004701 GIACOBO                                 Não       PR        Paraná                   466
+CD01O175O 004701 JOÃO ARRUDA                             Não       PMDB      Paraná                   455
+CD01O175O 004701 LEOPOLDO MEYER                          Não       PSB       Paraná                   456
+CD01O175O 004701 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD01O175O 004701 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD01O175O 004701 MOACIR MICHELETTO                       Não       PMDB      Paraná                   462
+CD01O175O 004701 NELSON MEURER                           Não       PP        Paraná                   458
+CD01O175O 004701 NELSON PADOVANI                         Não       PSC       Paraná                   457
+CD01O175O 004701 OSMAR SERRAGLIO                         Não       PMDB      Paraná                   463
+CD01O175O 004701 REINHOLD STEPHANES                      Não       PMDB      Paraná                   467
+CD01O175O 004701 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD01O175O 004701 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD01O175O 004701 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O175O 004701 TAKAYAMA                                Não       PSC       Paraná                   469
+CD01O175O 004701 ZECA DIRCEU                             Não       PT        Paraná                   468
+CD01O175O 004701 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD01O175O 004701 CELSO MALDANER                          Não       PMDB      Santa Catarina           472
+CD01O175O 004701 EDINHO BEZ                              Não       PMDB      Santa Catarina           470
+CD01O175O 004701 ESPERIDIÃO AMIN                         Não       PP        Santa Catarina           471
+CD01O175O 004701 JORGE BOEIRA                            Não       PT        Santa Catarina           474
+CD01O175O 004701 MAURO MARIANI                           Não       PMDB      Santa Catarina           480
+CD01O175O 004701 ONOFRE SANTO AGOSTINI                   Sim       DEM       Santa Catarina           479
+CD01O175O 004701 PEDRO UCZAI                             Não       PT        Santa Catarina           481
+CD01O175O 004701 RONALDO BENEDET                         Não       PMDB      Santa Catarina           484
+CD01O175O 004701 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD01O175O 004701 ZONTA                                   Não       PP        Santa Catarina           485
+CD01O175O 004701 AFONSO HAMM                             Não       PP        Rio Grande do Sul        487
+CD01O175O 004701 ALCEU MOREIRA                           Não       PMDB      Rio Grande do Sul        486
+CD01O175O 004701 ASSIS MELO                              Não       PCdoB     Rio Grande do Sul        492
+CD01O175O 004701 BOHN GASS                               Não       PT        Rio Grande do Sul        499
+CD01O175O 004701 DANRLEI DE DEUS HINTERHOLZ              Não       PTB       Rio Grande do Sul        495
+CD01O175O 004701 DARCÍSIO PERONDI                        Não       PMDB      Rio Grande do Sul        491
+CD01O175O 004701 FERNANDO MARRONI                        Não       PT        Rio Grande do Sul        525
+CD01O175O 004701 GIOVANI CHERINI                         Não       PDT       Rio Grande do Sul        502
+CD01O175O 004701 HENRIQUE FONTANA                        Não       PT        Rio Grande do Sul        498
+CD01O175O 004701 JERONIMO GOERGEN                        Não       PP        Rio Grande do Sul        505
+CD01O175O 004701 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD01O175O 004701 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O175O 004701 MARCON                                  Não       PT        Rio Grande do Sul        507
+CD01O175O 004701 MENDES RIBEIRO FILHO                    Não       PMDB      Rio Grande do Sul        504
+CD01O175O 004701 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD01O175O 004701 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CD01O175O 004701 PAULO PIMENTA                           Não       PT        Rio Grande do Sul        513
+CD01O175O 004701 PEPE VARGAS                             Não       PT        Rio Grande do Sul        503
+CD01O175O 004701 RENATO MOLLING                          Não       PP        Rio Grande do Sul        511
+CD01O175O 004701 RONALDO NOGUEIRA                        Não       PTB       Rio Grande do Sul        556
+CD01O175O 004701 RONALDO ZULKE                           Não       PT        Rio Grande do Sul        515
+CD01O175O 004701 VILSON COVATTI                          Não       PP        Rio Grande do Sul        516
+CD01O175O 004701 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD01O175O 004701 TAUMATURGO LIMA                         <-------> PT        Acre                     59 
+CD01O175O 004701 JOÃO LYRA                               <-------> PTB       Alagoas                  167
+CD01O175O 004701 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD01O175O 004701 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O175O 004701 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD01O175O 004701 FRANCISCO PRACIANO                      <-------> PT        Amazonas                 41 
+CD01O175O 004701 CARLOS SOUZA                            <-------> PP        Amazonas                 37 
+CD01O175O 004701 SILAS CÂMARA                            <-------> PSC       Amazonas                 39 
+CD01O175O 004701 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O175O 004701 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD01O175O 004701 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD01O175O 004701 JOÃO CARLOS BACELAR                     <-------> PR        Bahia                    187
+CD01O175O 004701 JOSÉ CARLOS ARAÚJO                      <-------> PDT       Bahia                    197
+CD01O175O 004701 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD01O175O 004701 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD01O175O 004701 LUIZ ALBERTO                            <-------> PT        Bahia                    204
+CD01O175O 004701 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD01O175O 004701 MARCOS MEDRADO                          <-------> PDT       Bahia                    200
+CD01O175O 004701 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD01O175O 004701 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD01O175O 004701 DOMINGOS NETO                           <-------> PSB       Ceará                    97 
+CD01O175O 004701 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O175O 004701 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD01O175O 004701 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD01O175O 004701 RAIMUNDÃO                               <-------> PMDB      Ceará                    108
+CD01O175O 004701 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD01O175O 004701 ERIKA KOKAY                             <-------> PT        Distrito Federal         407
+CD01O175O 004701 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD01O175O 004701 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD01O175O 004701 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O175O 004701 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O175O 004701 JORGE PINHEIRO                          <-------> PRB       Goiás                    548
+CD01O175O 004701 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O175O 004701 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O175O 004701 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O175O 004701 WALDIR MARANHÃO                         <-------> PP        Maranhão                 84 
+CD01O175O 004701 GASTÃO VIEIRA                           <-------> PMDB      Maranhão                 75 
+CD01O175O 004701 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD01O175O 004701 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD01O175O 004701 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD01O175O 004701 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD01O175O 004701 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD01O175O 004701 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD01O175O 004701 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD01O175O 004701 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O175O 004701 MARCOS MONTES                           <-------> DEM       Minas Gerais             257
+CD01O175O 004701 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O175O 004701 PAULO PIAU                              <-------> PMDB      Minas Gerais             266
+CD01O175O 004701 WALTER TOSTA                            <-------> PMN       Minas Gerais             267
+CD01O175O 004701 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O175O 004701 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O175O 004701 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD01O175O 004701 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD01O175O 004701 ANTÔNIO ANDRADE                         <-------> PMDB      Minas Gerais             227
+CD01O175O 004701 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD01O175O 004701 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O175O 004701 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O175O 004701 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD01O175O 004701 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O175O 004701 GIROTO                                  <-------> PR        Mato Grosso do Sul       434
+CD01O175O 004701 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD01O175O 004701 ANTÔNIO CARLOS BIFFI                    <-------> PT        Mato Grosso do Sul       432
+CD01O175O 004701 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD01O175O 004701 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O175O 004701 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD01O175O 004701 CLÁUDIO PUTY                            <-------> PT        Pará                     22 
+CD01O175O 004701 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD01O175O 004701 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD01O175O 004701 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O175O 004701 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O175O 004701 AGUINALDO RIBEIRO                       <-------> PP        Paraíba                  129
+CD01O175O 004701 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O175O 004701 ROMERO RODRIGUES                        <-------> PSDB      Paraíba                  135
+CD01O175O 004701 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD01O175O 004701 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD01O175O 004701 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD01O175O 004701 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O175O 004701 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD01O175O 004701 ANA ARRAES                              <-------> PSB       Pernambuco               140
+CD01O175O 004701 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O175O 004701 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD01O175O 004701 PAULO RUBEM SANTIAGO                    <-------> PDT       Pernambuco               554
+CD01O175O 004701 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD01O175O 004701 HUGO NAPOLEÃO                           <-------> DEM       Piauí                    112
+CD01O175O 004701 MARCELO CASTRO                          <-------> PMDB      Piauí                    110
+CD01O175O 004701 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD01O175O 004701 EDMAR ARRUDA                            <-------> PSC       Paraná                   446
+CD01O175O 004701 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD01O175O 004701 RATINHO JUNIOR                          <-------> PSC       Paraná                   464
+CD01O175O 004701 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O175O 004701 ANDRÉ VARGAS                            <-------> PT        Paraná                   452
+CD01O175O 004701 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O175O 004701 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O175O 004701 ALFREDO SIRKIS                          <-------> PV        Rio de Janeiro           321
+CD01O175O 004701 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O175O 004701 FELIPE BORNIER                          <-------> PHS       Rio de Janeiro           301
+CD01O175O 004701 ZOINHO                                  <-------> PR        Rio de Janeiro           328
+CD01O175O 004701 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD01O175O 004701 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD01O175O 004701 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD01O175O 004701 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O175O 004701 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD01O175O 004701 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD01O175O 004701 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD01O175O 004701 BENEDITA DA SILVA                       <-------> PT        Rio de Janeiro           291
+CD01O175O 004701 CRISTIANO                               <-------> PTdoB     Rio de Janeiro           292
+CD01O175O 004701 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CD01O175O 004701 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD01O175O 004701 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD01O175O 004701 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD01O175O 004701 FELIPE MAIA                             <-------> DEM       Rio Grande do Norte      120
+CD01O175O 004701 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD01O175O 004701 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD01O175O 004701 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O175O 004701 PADRE TON                               <-------> PT        Rondonia                 48 
+CD01O175O 004701 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD01O175O 004701 MAURO NAZIF                             <-------> PSB       Rondonia                 46 
+CD01O175O 004701 LINDOMAR GARÇON                         <-------> PV        Rondonia                 45 
+CD01O175O 004701 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD01O175O 004701 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD01O175O 004701 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD01O175O 004701 LUIS CARLOS HEINZE                      <-------> PP        Rio Grande do Sul        500
+CD01O175O 004701 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD01O175O 004701 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O175O 004701 LUIZ NOÉ                                <-------> PSB       Rio Grande do Sul        536
+CD01O175O 004701 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD01O175O 004701 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O175O 004701 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O175O 004701 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O175O 004701 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD01O175O 004701 JORGINHO MELLO                          <-------> PSDB      Santa Catarina           476
+CD01O175O 004701 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD01O175O 004701 GEAN LOUREIRO                           <-------> PMDB      Santa Catarina           568
+CD01O175O 004701 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD01O175O 004701 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O175O 004701 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O175O 004701 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O175O 004701 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD01O175O 004701 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD01O175O 004701 JOSÉ DE FILIPPI                         <-------> PT        São Paulo                354
+CD01O175O 004701 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD01O175O 004701 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD01O175O 004701 ALDO REBELO                             <-------> PCdoB     São Paulo                331
+CD01O175O 004701 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O175O 004701 RICARDO IZAR                            <-------> PV        São Paulo                383
+CD01O175O 004701 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD01O175O 004701 PAULO MALUF                             <-------> PP        São Paulo                373
+CD01O175O 004701 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O175O 004701 JÚNIOR COIMBRA                          <-------> PMDB      Tocantins                66 
+CD01O175O 004701 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 

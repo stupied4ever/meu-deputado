@@ -1,0 +1,81 @@
+SF03O004E 005226 ANGELA PORTELA                          Sim       PT        Roraima                  815
+SF03O004E 005226 ROMERO JUCÁ                             Não       PMDB      Roraima                  881
+SF03O004E 005226 SODRÉ SANTORO                           Sim       PTB       Roraima                  919
+SF03O004E 005226 RANDOLPH RODRIGUES                      Sim       PSOL      Amapá                    827
+SF03O004E 005226 FLEXA RIBEIRO                           Obstrução PSDB      Pará                     935
+SF03O004E 005226 ALFREDO NASCIMENTO                      Sim       PR        Amazonas                 803
+SF03O004E 005226 EDUARDO  BRAGA                          Sim       PMDB      Amazonas                 802
+SF03O004E 005226 VANESSA  GRAZZIOTIN                     Sim       PCdoB     Amazonas                 801
+SF03O004E 005226 ACIR GURGACZ                            Sim       PDT       Rondonia                 916
+SF03O004E 005226 IVO CASSOL                              Sim       PP        Rondonia                 867
+SF03O004E 005226 ANIBAL DINIZ                            Sim       PT        Acre                     904
+SF03O004E 005226 JORGE VIANA                             Sim       PT        Acre                     849
+SF03O004E 005226 JOÃO COSTA                              Sim       PPL       Tocantins                920
+SF03O004E 005226 KÁTIA ABREU                             Sim       PSD       Tocantins                885
+SF03O004E 005226 LOBÃO FILHO                             Sim       PMDB      Maranhão                 913
+SF03O004E 005226 EUNÍCIO OLIVEIRA                        Sim       PMDB      Ceará                    826
+SF03O004E 005226 INÁCIO ARRUDA                           Sim       PCdoB     Ceará                    812
+SF03O004E 005226 JOSÉ PIMENTEL                           Sim       PT        Ceará                    825
+SF03O004E 005226 JOÃO VICENTE CLAUDINO                   Sim       PTB       Piauí                    810
+SF03O004E 005226 WELLINGTON DIAS                         Sim       PT        Piauí                    813
+SF03O004E 005226 GARIBALDI  ALVES                        Sim       PMDB      Rio Grande do Norte      903
+SF03O004E 005226 JOSÉ AGRIPINO                           Sim       DEM       Rio Grande do Norte      818
+SF03O004E 005226 PAULO DAVIM                             Sim       PV        Rio Grande do Norte      948
+SF03O004E 005226 CÁSSIO CUNHA LIMA                       Abstenção PSDB      Paraíba                  938
+SF03O004E 005226 CÍCERO LUCENA                           Sim       PSDB      Paraíba                  819
+SF03O004E 005226 VITAL DO RÊGO                           Sim       PMDB      Paraíba                  820
+SF03O004E 005226 ARMANDO MONTEIRO                        Sim       PTB       Pernambuco               823
+SF03O004E 005226 HUMBERTO COSTA                          Sim       PT        Pernambuco               824
+SF03O004E 005226 JARBAS VASCONCELOS                      Sim       PMDB      Pernambuco               822
+SF03O004E 005226 BENEDITO DE LIRA                        Sim       PP        Alagoas                  874
+SF03O004E 005226 FERNANDO COLLOR                         Sim       PTB       Alagoas                  927
+SF03O004E 005226 RENAN CALHEIROS                         Art.51    PMDB      Alagoas                  875
+SF03O004E 005226 ANTONIO CARLOS VALADARES                Sim       PSB       Sergipe                  829
+SF03O004E 005226 EDUARDO AMORIM                          Sim       PSC       Sergipe                  830
+SF03O004E 005226 JOÃO DURVAL                             Sim       PDT       Bahia                    831
+SF03O004E 005226 LÍDICE DA MATA                          Sim       PSB       Bahia                    832
+SF03O004E 005226 WALTER PINHEIRO                         Sim       PT        Bahia                    833
+SF03O004E 005226 CLÉSIO ANDRADE                          Sim       PMDB      Minas Gerais             898
+SF03O004E 005226 ANA RITA                                Sim       PT        Espírito Santo           901
+SF03O004E 005226 MAGNO MALTA                             Sim       PR        Espírito Santo           862
+SF03O004E 005226 RICARDO FERRAÇO                         Sim       PMDB      Espírito Santo           835
+SF03O004E 005226 EDUARDO LOPES                           Sim       PRB       Rio de Janeiro           930
+SF03O004E 005226 LINDBERG FARIAS                         Sim       PT        Rio de Janeiro           839
+SF03O004E 005226 ANTÔNIO CARLOS RODRIGUES                Sim       PR        São Paulo                923
+SF03O004E 005226 EDUARDO SUPLICY                         Sim       PT        São Paulo                846
+SF03O004E 005226 BLAIRO MAGGI                            Sim       PR        Mato Grosso              838
+SF03O004E 005226 PEDRO TAQUES                            Sim       PDT       Mato Grosso              842
+SF03O004E 005226 GIM ARGELLO                             Abstenção PTB       Distrito Federal         947
+SF03O004E 005226 RODRIGO ROLLEMBERG                      Sim       PSB       Distrito Federal         852
+SF03O004E 005226 WILDER MORAIS                           Sim       DEM       Goiás                    926
+SF03O004E 005226 DELCIDIO AMARAL                         Sim       PT        Mato Grosso do Sul       853
+SF03O004E 005226 WALDEMIR MOKA                           Sim       PMDB      Mato Grosso do Sul       854
+SF03O004E 005226 ROBERTO REQUIÃO                         Sim       PMDB      Paraná                   857
+SF03O004E 005226 SÉRGIO SOUZA                            Sim       PMDB      Paraná                   950
+SF03O004E 005226 CASILDO MALDANER                        Sim       PMDB      Santa Catarina           928
+SF03O004E 005226 LUIZ HENRIQUE                           Sim       PMDB      Santa Catarina           882
+SF03O004E 005226 ANA AMÉLIA LEMOS                        Sim       PP        Rio Grande do Sul        860
+SF03O004E 005226 PAULO PAIM                              Sim       PT        Rio Grande do Sul        859
+SF03O004E 005226 SÉRGIO PETECÃO                          <-------> PSD       Acre                     850
+SF03O004E 005226 JOSÉ SARNEY                             <-------> PMDB      Amapá                    834
+SF03O004E 005226 JOÃO CAPIBERIBE                         <-------> PSB       Amapá                    937
+SF03O004E 005226 CRISTOVAM BUARQUE                       <-------> PDT       Distrito Federal         851
+SF03O004E 005226 LÚCIA VÂNIA                             <-------> PSDB      Goiás                    864
+SF03O004E 005226 CYRO MIRANDA                            <-------> PSDB      Goiás                    906
+SF03O004E 005226 EPITÁCIO CAFETEIRA                      <-------> PTB       Maranhão                 807
+SF03O004E 005226 JOÃO ALBERTO SOUZA                      <-------> PMDB      Maranhão                 808
+SF03O004E 005226 AÉCIO NEVES                             <-------> PSDB      Minas Gerais             843
+SF03O004E 005226 ZEZÉ PERRELLA                           <-------> PDT       Minas Gerais             943
+SF03O004E 005226 RUBEN FIGUEIRÓ                          <-------> PSDB      Mato Grosso do Sul       917
+SF03O004E 005226 JAYME CAMPOS                            <-------> DEM       Mato Grosso              837
+SF03O004E 005226 MÁRIO COUTO                             <-------> PSDB      Pará                     809
+SF03O004E 005226 JADER BARBALHO                          <-------> PMDB      Pará                     932
+SF03O004E 005226 CIRO NOGUEIRA                           <-------> PP        Piauí                    811
+SF03O004E 005226 ÁLVARO DIAS                             <-------> PSDB      Paraná                   855
+SF03O004E 005226 FRANCISCO DORNELLES                     <-------> PP        Rio de Janeiro           840
+SF03O004E 005226 VALDIR RAUPP                            <-------> PMDB      Rondonia                 868
+SF03O004E 005226 PEDRO SIMON                             <-------> PMDB      Rio Grande do Sul        861
+SF03O004E 005226 PAULO BAUER                             <-------> PSDB      Santa Catarina           884
+SF03O004E 005226 MARIA DO CARMO ALVES                    <-------> DEM       Sergipe                  828
+SF03O004E 005226 ALOYSIO NUNES FERREIRA                  <-------> PSDB      São Paulo                847
+SF03O004E 005226 ATAÍDES OLIVEIRA                        <-------> PSDB      Tocantins                949

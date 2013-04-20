@@ -1,0 +1,513 @@
+CD01O228E 004743 BERINHO BANTIM                          Sim       PSDB      Roraima                  1
+CD01O228E 004743 EDIO LOPES                              Sim       PMDB      Roraima                  2  
+CD01O228E 004743 FRANCISCO ARAÚJO                        Sim       PSL       Roraima                  570
+CD01O228E 004743 LUCIANO CASTRO                          Sim       PR        Roraima                  4  
+CD01O228E 004743 PAULO CESAR QUARTIERO                   Sim       DEM       Roraima                  6  
+CD01O228E 004743 RAUL LIMA                               Sim       PP        Roraima                  7  
+CD01O228E 004743 SEBASTIÃO BALA ROCHA                    Sim       PDT       Amapá                    17 
+CD01O228E 004743 VINICIUS GURGEL                         Sim       S.Part.   Amapá                    16 
+CD01O228E 004743 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD01O228E 004743 BETO FARO                               Sim       PT        Pará                     19 
+CD01O228E 004743 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD01O228E 004743 DUDIMAR PAXIÚBA                         Sim       PSDB      Pará                     518
+CD01O228E 004743 ELCIONE BARBALHO                        Sim       PMDB      Pará                     21 
+CD01O228E 004743 GIOVANNI QUEIROZ                        Sim       PDT       Pará                     27 
+CD01O228E 004743 JOSUÉ BENGTSON                          Sim       PTB       Pará                     30 
+CD01O228E 004743 LIRA MAIA                               Sim       DEM       Pará                     28 
+CD01O228E 004743 LÚCIO VALE                              Sim       PR        Pará                     29 
+CD01O228E 004743 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD01O228E 004743 WLADIMIR COSTA                          Sim       PMDB      Pará                     23 
+CD01O228E 004743 CARLOS SOUZA                            Sim       PP        Amazonas                 37 
+CD01O228E 004743 FRANCISCO PRACIANO                      Sim       PT        Amazonas                 41 
+CD01O228E 004743 HENRIQUE OLIVEIRA                       Sim       PR        Amazonas                 36 
+CD01O228E 004743 CARLOS MAGNO                            Sim       PP        Rondonia                 44 
+CD01O228E 004743 MARINHA RAUPP                           Sim       PMDB      Rondonia                 50 
+CD01O228E 004743 MAURO NAZIF                             Sim       PSB       Rondonia                 46 
+CD01O228E 004743 NILTON CAPIXABA                         Sim       PTB       Rondonia                 47 
+CD01O228E 004743 PADRE TON                               Sim       PT        Rondonia                 48 
+CD01O228E 004743 ANTÔNIA LÚCIA                           Sim       PSC       Acre                     53 
+CD01O228E 004743 GLADSON CAMELI                          Sim       PP        Acre                     55 
+CD01O228E 004743 MARCIO BITTAR                           Sim       PSDB      Acre                     57 
+CD01O228E 004743 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD01O228E 004743 TAUMATURGO LIMA                         Sim       PT        Acre                     59 
+CD01O228E 004743 ÂNGELO AGNOLIN                          Sim       PDT       Tocantins                61 
+CD01O228E 004743 LAUREZ MOREIRA                          Sim       PSB       Tocantins                62 
+CD01O228E 004743 LÁZARO BOTELHO                          Sim       PP        Tocantins                63 
+CD01O228E 004743 PROFESSORA DORINHA SEABRA REZEN         Sim       DEM       Tocantins                67 
+CD01O228E 004743 ALBERTO FILHO                           Sim       PMDB      Maranhão                 71 
+CD01O228E 004743 CARLOS BRANDÃO                          Sim       PSDB      Maranhão                 68 
+CD01O228E 004743 COSTA FERREIRA                          Sim       PSC       Maranhão                 571
+CD01O228E 004743 DOMINGOS DUTRA                          Sim       PT        Maranhão                 72 
+CD01O228E 004743 HÉLIO SANTOS                            Sim       PSDB      Maranhão                 76 
+CD01O228E 004743 LOURIVAL MENDES                         Sim       PTdoB     Maranhão                 77 
+CD01O228E 004743 PINTO ITAMARATY                         Sim       PSDB      Maranhão                 79 
+CD01O228E 004743 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD01O228E 004743 SARNEY FILHO                            Sim       PV        Maranhão                 85 
+CD01O228E 004743 WALDIR MARANHÃO                         Sim       PP        Maranhão                 84 
+CD01O228E 004743 ANDRÉ FIGUEIREDO                        Sim       PDT       Ceará                    89 
+CD01O228E 004743 ANTONIO BALHMANN                        Sim       PSB       Ceará                    93 
+CD01O228E 004743 ARIOSTO HOLANDA                         Sim       PSB       Ceará                    92 
+CD01O228E 004743 ARNON BEZERRA                           Sim       PTB       Ceará                    90 
+CD01O228E 004743 ARTUR BRUNO                             Sim       PT        Ceará                    94 
+CD01O228E 004743 DOMINGOS NETO                           Sim       PSB       Ceará                    97 
+CD01O228E 004743 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD01O228E 004743 GORETE PEREIRA                          Sim       PR        Ceará                    100
+CD01O228E 004743 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD01O228E 004743 JOSÉ GUIMARÃES                          Sim       PT        Ceará                    103
+CD01O228E 004743 MANOEL SALVIANO                         Sim       PSDB      Ceará                    104
+CD01O228E 004743 RAIMUNDÃO                               Sim       PMDB      Ceará                    108
+CD01O228E 004743 RAIMUNDO GOMES DE MATOS                 Sim       PSDB      Ceará                    102
+CD01O228E 004743 VICENTE ARRUDA                          Sim       PR        Ceará                    107
+CD01O228E 004743 ASSIS CARVALHO                          Sim       PT        Piauí                    111
+CD01O228E 004743 IRACEMA PORTELLA                        Sim       PP        Piauí                    113
+CD01O228E 004743 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD01O228E 004743 JÚLIO CESAR                             Sim       DEM       Piauí                    114
+CD01O228E 004743 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD01O228E 004743 NAZARENO FONTELES                       Sim       PT        Piauí                    530
+CD01O228E 004743 OSMAR JÚNIOR                            Sim       PCdoB     Piauí                    116
+CD01O228E 004743 FÁBIO FARIA                             Sim       PMN       Rio Grande do Norte      119
+CD01O228E 004743 FELIPE MAIA                             Sim       DEM       Rio Grande do Norte      120
+CD01O228E 004743 HENRIQUE EDUARDO ALVES                  Sim       PMDB      Rio Grande do Norte      123
+CD01O228E 004743 SANDRA ROSADO                           Sim       PSB       Rio Grande do Norte      125
+CD01O228E 004743 DAMIÃO FELICIANO                        Sim       PDT       Paraíba                  127
+CD01O228E 004743 EFRAIM FILHO                            Sim       DEM       Paraíba                  128
+CD01O228E 004743 HUGO MOTTA                              Sim       PMDB      Paraíba                  132
+CD01O228E 004743 LUIZ COUTO                              Sim       PT        Paraíba                  133
+CD01O228E 004743 NILDA GONDIM                            Sim       PMDB      Paraíba                  134
+CD01O228E 004743 ROMERO RODRIGUES                        Sim       PSDB      Paraíba                  135
+CD01O228E 004743 RUY CARNEIRO                            Sim       PSDB      Paraíba                  137
+CD01O228E 004743 WILSON FILHO                            Sim       PMDB      Paraíba                  139
+CD01O228E 004743 ANA ARRAES                              Sim       PSB       Pernambuco               140
+CD01O228E 004743 ANDERSON FERREIRA                       Sim       PR        Pernambuco               142
+CD01O228E 004743 AUGUSTO COUTINHO                        Sim       DEM       Pernambuco               144
+CD01O228E 004743 FERNANDO COELHO FILHO                   Sim       PSB       Pernambuco               158
+CD01O228E 004743 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD01O228E 004743 INOCÊNCIO OLIVEIRA                      Sim       PR        Pernambuco               145
+CD01O228E 004743 JOÃO PAULO  LIMA                        Sim       PT        Pernambuco               149
+CD01O228E 004743 JORGE CORTE REAL                        Sim       PTB       Pernambuco               150
+CD01O228E 004743 JOSÉ AUGUSTO MAIA                       Sim       PTB       Pernambuco               151
+CD01O228E 004743 JOSÉ CHAVES                             Sim       PTB       Pernambuco               147
+CD01O228E 004743 LUCIANA SANTOS                          Sim       PCdoB     Pernambuco               153
+CD01O228E 004743 PASTOR EURICO                           Sim       PSB       Pernambuco               155
+CD01O228E 004743 PAULO RUBEM SANTIAGO                    Sim       PDT       Pernambuco               554
+CD01O228E 004743 PEDRO EUGÊNIO                           Sim       PT        Pernambuco               161
+CD01O228E 004743 RAUL HENRY                              Sim       PMDB      Pernambuco               163
+CD01O228E 004743 SILVIO COSTA                            Sim       PTB       Pernambuco               160
+CD01O228E 004743 VILALBA                                 Sim       PRB       Pernambuco               555
+CD01O228E 004743 WOLNEY QUEIROZ                          Sim       PDT       Pernambuco               164
+CD01O228E 004743 CELIA ROCHA                             Sim       PTB       Alagoas                  165
+CD01O228E 004743 JOAQUIM BELTRÃO                         Sim       PMDB      Alagoas                  172
+CD01O228E 004743 MAURÍCIO QUINTELLA LESSA                Sim       PR        Alagoas                  168
+CD01O228E 004743 RENAN FILHO                             Sim       PMDB      Alagoas                  169
+CD01O228E 004743 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD01O228E 004743 RUI PALMEIRA                            Sim       PSDB      Alagoas                  171
+CD01O228E 004743 ALMEIDA LIMA                            Sim       PMDB      Sergipe                  173
+CD01O228E 004743 HELENO SILVA                            Sim       PRB       Sergipe                  175
+CD01O228E 004743 VALADARES FILHO                         Sim       PSB       Sergipe                  183
+CD01O228E 004743 ACELINO POPÓ                            Sim       PRB       Bahia                    522
+CD01O228E 004743 ALICE PORTUGAL                          Sim       PCdoB     Bahia                    180
+CD01O228E 004743 AMAURI TEIXEIRA                         Sim       PT        Bahia                    184
+CD01O228E 004743 ANTONIO BRITO                           Sim       PTB       Bahia                    189
+CD01O228E 004743 ANTONIO CARLOS MAGALHÃES NETO           Sim       DEM       Bahia                    181
+CD01O228E 004743 ANTONIO IMBASSAHY                       Sim       PSDB      Bahia                    191
+CD01O228E 004743 ARTHUR OLIVEIRA MAIA                    Sim       PMDB      Bahia                    192
+CD01O228E 004743 CLAUDIO CAJADO                          Sim       DEM       Bahia                    186
+CD01O228E 004743 DANIEL ALMEIDA                          Sim       PCdoB     Bahia                    188
+CD01O228E 004743 EDSON PIMENTA                           Sim       PCdoB     Bahia                    193
+CD01O228E 004743 FÁBIO SOUTO                             Sim       DEM       Bahia                    190
+CD01O228E 004743 FELIX MENDONÇA JÚNIOR                   Sim       PDT       Bahia                    195
+CD01O228E 004743 FERNANDO TORRES                         Sim       DEM       Bahia                    196
+CD01O228E 004743 GERALDO SIMÕES                          Sim       PT        Bahia                    185
+CD01O228E 004743 JÂNIO NATAL                             Sim       PRP       Bahia                    198
+CD01O228E 004743 JOÃO CARLOS BACELAR                     Sim       PR        Bahia                    187
+CD01O228E 004743 JOSÉ CARLOS ARAÚJO                      Sim       PDT       Bahia                    197
+CD01O228E 004743 JOSÉ NUNES                              Sim       DEM       Bahia                    201
+CD01O228E 004743 JOSEPH BANDEIRA                         Sim       PT        Bahia                    565
+CD01O228E 004743 JOSIAS GOMES                            Sim       PT        Bahia                    202
+CD01O228E 004743 JUTAHY JUNIOR                           Sim       PSDB      Bahia                    206
+CD01O228E 004743 LUIZ ALBERTO                            Sim       PT        Bahia                    204
+CD01O228E 004743 MÁRCIO MARINHO                          Sim       PRB       Bahia                    212
+CD01O228E 004743 MARCOS MEDRADO                          Sim       PDT       Bahia                    200
+CD01O228E 004743 OZIEL OLIVEIRA                          Sim       PDT       Bahia                    215
+CD01O228E 004743 PAULO MAGALHÃES                         Sim       DEM       Bahia                    214
+CD01O228E 004743 RUI COSTA                               Sim       PT        Bahia                    216
+CD01O228E 004743 SÉRGIO BARRADAS CARNEIRO                Sim       PT        Bahia                    524
+CD01O228E 004743 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD01O228E 004743 ADEMIR CAMILO                           Sim       PDT       Minas Gerais             220
+CD01O228E 004743 AELTON FREITAS                          Sim       PR        Minas Gerais             224
+CD01O228E 004743 CARLAILE PEDROSA                        Sim       PSDB      Minas Gerais             222
+CD01O228E 004743 DIMAS FABIANO                           Sim       PP        Minas Gerais             231
+CD01O228E 004743 DOMINGOS SÁVIO                          Sim       PSDB      Minas Gerais             233
+CD01O228E 004743 EDUARDO AZEREDO                         Sim       PSDB      Minas Gerais             237
+CD01O228E 004743 EDUARDO BARBOSA                         Sim       PSDB      Minas Gerais             230
+CD01O228E 004743 FÁBIO RAMALHO                           Sim       PV        Minas Gerais             238
+CD01O228E 004743 GABRIEL GUIMARÃES                       Sim       PT        Minas Gerais             244
+CD01O228E 004743 GERALDO THADEU                          Sim       PPS       Minas Gerais             236
+CD01O228E 004743 JAIME MARTINS                           Sim       PR        Minas Gerais             240
+CD01O228E 004743 JÔ MORAES                               Sim       PCdoB     Minas Gerais             246
+CD01O228E 004743 JOÃO MAGALHÃES                          Sim       PMDB      Minas Gerais             239
+CD01O228E 004743 JOSÉ HUMBERTO                           Sim       PHS       Minas Gerais             249
+CD01O228E 004743 JÚLIO DELGADO                           Sim       PSB       Minas Gerais             250
+CD01O228E 004743 LEONARDO MONTEIRO                       Sim       PT        Minas Gerais             253
+CD01O228E 004743 LEONARDO QUINTÃO                        Sim       PMDB      Minas Gerais             255
+CD01O228E 004743 LINCOLN PORTELA                         Sim       PR        Minas Gerais             243
+CD01O228E 004743 LUIS TIBÉ                               Sim       PTdoB     Minas Gerais             251
+CD01O228E 004743 MÁRCIO REINALDO MOREIRA                 Sim       PP        Minas Gerais             247
+CD01O228E 004743 MARCUS PESTANA                          Sim       PSDB      Minas Gerais             254
+CD01O228E 004743 PADRE JOÃO                              Sim       PT        Minas Gerais             259
+CD01O228E 004743 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD01O228E 004743 PAULO PIAU                              Sim       PMDB      Minas Gerais             266
+CD01O228E 004743 SARAIVA FELIPE                          Sim       PMDB      Minas Gerais             265
+CD01O228E 004743 TONINHO PINHEIRO                        Sim       PP        Minas Gerais             264
+CD01O228E 004743 VITOR PENIDO                            Sim       DEM       Minas Gerais             532
+CD01O228E 004743 WALTER TOSTA                            Sim       PMN       Minas Gerais             267
+CD01O228E 004743 AUDIFAX                                 Sim       PSB       Espírito Santo           274
+CD01O228E 004743 CAMILO COLA                             Sim       PMDB      Espírito Santo           543
+CD01O228E 004743 CESAR COLNAGO                           Sim       PSDB      Espírito Santo           276
+CD01O228E 004743 DR. JORGE SILVA                         Sim       PDT       Espírito Santo           278
+CD01O228E 004743 LELO COIMBRA                            Sim       PMDB      Espírito Santo           277
+CD01O228E 004743 MANATO                                  Sim       PDT       Espírito Santo           275
+CD01O228E 004743 PAULO FOLETTO                           Sim       PSB       Espírito Santo           280
+CD01O228E 004743 ROSE DE FREITAS                         Sim       PMDB      Espírito Santo           282
+CD01O228E 004743 ALESSANDRO MOLON                        Sim       PT        Rio de Janeiro           287
+CD01O228E 004743 ALFREDO SIRKIS                          Sim       PV        Rio de Janeiro           321
+CD01O228E 004743 ANTHONY GAROTINHO                       Sim       PR        Rio de Janeiro           289
+CD01O228E 004743 AROLDE DE OLIVEIRA                      Sim       DEM       Rio de Janeiro           288
+CD01O228E 004743 BENEDITA DA SILVA                       Sim       PT        Rio de Janeiro           291
+CD01O228E 004743 CHICO ALENCAR                           Sim       PSOL      Rio de Janeiro           295
+CD01O228E 004743 DR. ALUIZIO                             Sim       PV        Rio de Janeiro           294
+CD01O228E 004743 DR. CARLOS ALBERTO                      Sim       PMN       Rio de Janeiro           529
+CD01O228E 004743 DR. PAULO CÉSAR                         Sim       PR        Rio de Janeiro           296
+CD01O228E 004743 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD01O228E 004743 EDSON SANTOS                            Sim       PT        Rio de Janeiro           299
+CD01O228E 004743 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD01O228E 004743 FERNANDO JORDÃO                         Sim       PMDB      Rio de Janeiro           557
+CD01O228E 004743 JAIR BOLSONARO                          Sim       PP        Rio de Janeiro           302
+CD01O228E 004743 JANDIRA FEGHALI                         Sim       PCdoB     Rio de Janeiro           305
+CD01O228E 004743 JEAN WYLLYS                             Sim       PSOL      Rio de Janeiro           307
+CD01O228E 004743 MIRO TEIXEIRA                           Sim       PDT       Rio de Janeiro           317
+CD01O228E 004743 NELSON BORNIER                          Sim       PMDB      Rio de Janeiro           549
+CD01O228E 004743 OTAVIO LEITE                            Sim       PSDB      Rio de Janeiro           316
+CD01O228E 004743 RODRIGO MAIA                            Sim       DEM       Rio de Janeiro           322
+CD01O228E 004743 SIMÃO SESSIM                            Sim       PP        Rio de Janeiro           327
+CD01O228E 004743 STEPAN NERCESSIAN                       Sim       PPS       Rio de Janeiro           323
+CD01O228E 004743 VITOR PAULO                             Sim       PRB       Rio de Janeiro           324
+CD01O228E 004743 WALNEY ROCHA                            Sim       PTB       Rio de Janeiro           325
+CD01O228E 004743 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD01O228E 004743 ZOINHO                                  Sim       PR        Rio de Janeiro           328
+CD01O228E 004743 ALDO REBELO                             Sim       PCdoB     São Paulo                331
+CD01O228E 004743 ALEXANDRE LEITE                         Sim       DEM       São Paulo                334
+CD01O228E 004743 ANTONIO CARLOS MENDES THAME             Sim       PSDB      São Paulo                332
+CD01O228E 004743 ARNALDO FARIA DE SÁ                     Sim       PTB       São Paulo                337
+CD01O228E 004743 BRUNA FURLAN                            Sim       PSDB      São Paulo                335
+CD01O228E 004743 CARLOS ROBERTO                          Sim       PSDB      São Paulo                569
+CD01O228E 004743 CARLOS ZARATTINI                        Sim       PT        São Paulo                398
+CD01O228E 004743 DEVANIR RIBEIRO                         Sim       PT        São Paulo                342
+CD01O228E 004743 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD01O228E 004743 DUARTE NOGUEIRA                         Sim       PSDB      São Paulo                350
+CD01O228E 004743 EDINHO ARAÚJO                           Sim       PMDB      São Paulo                344
+CD01O228E 004743 ELI CORREA FILHO                        Sim       DEM       São Paulo                345
+CD01O228E 004743 GABRIEL CHALITA                         Sim       PMDB      São Paulo                347
+CD01O228E 004743 GUILHERME CAMPOS                        Sim       DEM       São Paulo                357
+CD01O228E 004743 IVAN VALENTE                            Sim       PSOL      São Paulo                359
+CD01O228E 004743 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD01O228E 004743 JILMAR TATTO                            Sim       PT        São Paulo                360
+CD01O228E 004743 JOÃO DADO                               Sim       PDT       São Paulo                362
+CD01O228E 004743 JONAS DONIZETTE                         Sim       PSB       São Paulo                353
+CD01O228E 004743 JORGE TADEU MUDALEN                     Sim       DEM       São Paulo                363
+CD01O228E 004743 JOSÉ DE FILIPPI                         Sim       PT        São Paulo                354
+CD01O228E 004743 JUNJI ABE                               Sim       DEM       São Paulo                355
+CD01O228E 004743 LUIZ FERNANDO MACHADO                   Sim       PSDB      São Paulo                365
+CD01O228E 004743 LUIZA ERUNDINA                          Sim       PSB       São Paulo                371
+CD01O228E 004743 MARA GABRILLI                           Sim       PSDB      São Paulo                366
+CD01O228E 004743 MARCELO AGUIAR                          Sim       PSC       São Paulo                370
+CD01O228E 004743 MILTON MONTI                            Sim       PR        São Paulo                374
+CD01O228E 004743 MISSIONÁRIO JOSÉ OLIMPIO                Sim       PP        São Paulo                375
+CD01O228E 004743 NELSON MARQUEZELLI                      Sim       PTB       São Paulo                381
+CD01O228E 004743 OTONIEL LIMA                            Sim       PRB       São Paulo                378
+CD01O228E 004743 PASTOR MARCO FELICIANO                  Sim       PSC       São Paulo                379
+CD01O228E 004743 PAULO FREIRE                            Sim       PR        São Paulo                380
+CD01O228E 004743 PAULO MALUF                             Sim       PP        São Paulo                373
+CD01O228E 004743 PAULO PEREIRA DA SILVA                  Sim       PDT       São Paulo                372
+CD01O228E 004743 PAULO TEIXEIRA                          Sim       PT        São Paulo                376
+CD01O228E 004743 PENNA                                   Sim       PV        São Paulo                382
+CD01O228E 004743 RICARDO IZAR                            Sim       PV        São Paulo                383
+CD01O228E 004743 ROBERTO DE LUCENA                       Sim       PV        São Paulo                385
+CD01O228E 004743 SALVADOR ZIMBALDI                       Sim       PDT       São Paulo                391
+CD01O228E 004743 TIRIRICA                                Sim       PR        São Paulo                392
+CD01O228E 004743 VANDERLEI MACRIS                        Sim       PSDB      São Paulo                521
+CD01O228E 004743 VAZ DE LIMA                             Sim       PSDB      São Paulo                394
+CD01O228E 004743 VICENTE CANDIDO                         Sim       PT        São Paulo                395
+CD01O228E 004743 WALTER IHOSHI                           Sim       DEM       São Paulo                553
+CD01O228E 004743 WILLIAM DIB                             Sim       PSDB      São Paulo                397
+CD01O228E 004743 JÚLIO CAMPOS                            Sim       DEM       Mato Grosso              399
+CD01O228E 004743 NILSON LEITÃO                           Sim       PSDB      Mato Grosso              573
+CD01O228E 004743 ROBERTO DORNER                          Sim       PP        Mato Grosso              519
+CD01O228E 004743 AUGUSTO CARVALHO                        Sim       PPS       Distrito Federal         545
+CD01O228E 004743 ERIKA KOKAY                             Sim       PT        Distrito Federal         407
+CD01O228E 004743 IZALCI                                  Sim       PR        Distrito Federal         408
+CD01O228E 004743 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD01O228E 004743 POLICARPO                               Sim       PT        Distrito Federal         539
+CD01O228E 004743 REGUFFE                                 Sim       PDT       Distrito Federal         413
+CD01O228E 004743 RONALDO FONSECA                         Sim       PR        Distrito Federal         414
+CD01O228E 004743 CARLOS ALBERTO LERÉIA                   Sim       PSDB      Goiás                    415
+CD01O228E 004743 FLÁVIA MORAIS                           Sim       PDT       Goiás                    422
+CD01O228E 004743 LEANDRO VILELA                          Sim       PMDB      Goiás                    420
+CD01O228E 004743 MAGDA MOFATTO                           Sim       PTB       Goiás                    575
+CD01O228E 004743 MARINA SANTANNA                         Sim       PT        Goiás                    564
+CD01O228E 004743 PEDRO CHAVES                            Sim       PMDB      Goiás                    428
+CD01O228E 004743 ROBERTO BALESTRA                        Sim       PP        Goiás                    427
+CD01O228E 004743 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD01O228E 004743 GERALDO RESENDE                         Sim       PMDB      Mato Grosso do Sul       435
+CD01O228E 004743 GIROTO                                  Sim       PR        Mato Grosso do Sul       434
+CD01O228E 004743 MARÇAL FILHO                            Sim       PMDB      Mato Grosso do Sul       437
+CD01O228E 004743 VANDER LOUBET                           Sim       PT        Mato Grosso do Sul       438
+CD01O228E 004743 ALFREDO KAEFER                          Sim       PSDB      Paraná                   451
+CD01O228E 004743 ANDRÉ ZACHAROW                          Sim       PMDB      Paraná                   441
+CD01O228E 004743 ANGELO VANHONI                          Sim       PT        Paraná                   453
+CD01O228E 004743 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD01O228E 004743 CIDA BORGHETTI                          Sim       PP        Paraná                   442
+CD01O228E 004743 DILCEU SPERAFICO                        Sim       PP        Paraná                   444
+CD01O228E 004743 EDMAR ARRUDA                            Sim       PSC       Paraná                   446
+CD01O228E 004743 EDUARDO SCIARRA                         Sim       DEM       Paraná                   461
+CD01O228E 004743 FERNANDO FRANCISCHINI                   Sim       PSDB      Paraná                   450
+CD01O228E 004743 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD01O228E 004743 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD01O228E 004743 LUIZ CARLOS SETIM                       Sim       DEM       Paraná                   535
+CD01O228E 004743 LUIZ NISHIMORI                          Sim       PSDB      Paraná                   542
+CD01O228E 004743 MOACIR MICHELETTO                       Sim       PMDB      Paraná                   462
+CD01O228E 004743 NELSON MEURER                           Sim       PP        Paraná                   458
+CD01O228E 004743 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD01O228E 004743 RATINHO JUNIOR                          Sim       PSC       Paraná                   464
+CD01O228E 004743 REINHOLD STEPHANES                      Sim       PMDB      Paraná                   467
+CD01O228E 004743 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD01O228E 004743 RUBENS BUENO                            Sim       PPS       Paraná                   460
+CD01O228E 004743 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD01O228E 004743 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD01O228E 004743 ZECA DIRCEU                             Sim       PT        Paraná                   468
+CD01O228E 004743 CARMEN ZANOTTO                          Sim       PPS       Santa Catarina           561
+CD01O228E 004743 CELSO MALDANER                          Sim       PMDB      Santa Catarina           472
+CD01O228E 004743 DÉCIO LIMA                              Sim       PT        Santa Catarina           475
+CD01O228E 004743 EDINHO BEZ                              Sim       PMDB      Santa Catarina           470
+CD01O228E 004743 ESPERIDIÃO AMIN                         Sim       PP        Santa Catarina           471
+CD01O228E 004743 GEAN LOUREIRO                           Sim       PMDB      Santa Catarina           568
+CD01O228E 004743 JORGE BOEIRA                            Sim       PT        Santa Catarina           474
+CD01O228E 004743 JORGINHO MELLO                          Sim       PSDB      Santa Catarina           476
+CD01O228E 004743 ONOFRE SANTO AGOSTINI                   Sim       DEM       Santa Catarina           479
+CD01O228E 004743 ROGÉRIO PENINHA MENDONÇA                Sim       PMDB      Santa Catarina           483
+CD01O228E 004743 RONALDO BENEDET                         Sim       PMDB      Santa Catarina           484
+CD01O228E 004743 VALDIR COLATTO                          Sim       PMDB      Santa Catarina           560
+CD01O228E 004743 ASSIS MELO                              Sim       PCdoB     Rio Grande do Sul        492
+CD01O228E 004743 DANRLEI DE DEUS HINTERHOLZ              Sim       PTB       Rio Grande do Sul        495
+CD01O228E 004743 DARCÍSIO PERONDI                        Sim       PMDB      Rio Grande do Sul        491
+CD01O228E 004743 FERNANDO MARRONI                        Sim       PT        Rio Grande do Sul        525
+CD01O228E 004743 HENRIQUE FONTANA                        Sim       PT        Rio Grande do Sul        498
+CD01O228E 004743 JERONIMO GOERGEN                        Sim       PP        Rio Grande do Sul        505
+CD01O228E 004743 JOSÉ STÉDILE                            Sim       PSB       Rio Grande do Sul        506
+CD01O228E 004743 LUIZ NOÉ                                Sim       PSB       Rio Grande do Sul        536
+CD01O228E 004743 MANUELA D`ÁVILA                         Sim       PCdoB     Rio Grande do Sul        494
+CD01O228E 004743 MARCO MAIA                              Art. 17   PT        Rio Grande do Sul        496
+CD01O228E 004743 NELSON MARCHEZAN JUNIOR                 Sim       PSDB      Rio Grande do Sul        509
+CD01O228E 004743 ONYX LORENZONI                          Sim       DEM       Rio Grande do Sul        510
+CD01O228E 004743 OSMAR TERRA                             Sim       PMDB      Rio Grande do Sul        497
+CD01O228E 004743 PAULO PIMENTA                           Sim       PT        Rio Grande do Sul        513
+CD01O228E 004743 PEPE VARGAS                             Sim       PT        Rio Grande do Sul        503
+CD01O228E 004743 RENATO MOLLING                          Sim       PP        Rio Grande do Sul        511
+CD01O228E 004743 RONALDO NOGUEIRA                        Sim       PTB       Rio Grande do Sul        556
+CD01O228E 004743 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD01O228E 004743 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD01O228E 004743 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD01O228E 004743 HENRIQUE AFONSO                         <-------> PV        Acre                     52 
+CD01O228E 004743 ARTHUR LIRA                             <-------> PP        Alagoas                  162
+CD01O228E 004743 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD01O228E 004743 JOÃO LYRA                               <-------> PTB       Alagoas                  167
+CD01O228E 004743 SILAS CÂMARA                            <-------> PSC       Amazonas                 39 
+CD01O228E 004743 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD01O228E 004743 REBECCA GARCIA                          <-------> PP        Amazonas                 42 
+CD01O228E 004743 PAUDERNEY AVELINO                       <-------> DEM       Amazonas                 40 
+CD01O228E 004743 ÁTILA LINS                              <-------> PMDB      Amazonas                 38 
+CD01O228E 004743 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD01O228E 004743 DALVA FIGUEIREDO                        <-------> PT        Amapá                    9  
+CD01O228E 004743 EVANDRO MILHOMEN                        <-------> PCdoB     Amapá                    11 
+CD01O228E 004743 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD01O228E 004743 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD01O228E 004743 LUIZ CARLOS                             <-------> PSDB      Amapá                    14 
+CD01O228E 004743 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD01O228E 004743 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD01O228E 004743 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD01O228E 004743 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD01O228E 004743 EMILIANO JOSÉ                           <-------> PT        Bahia                    523
+CD01O228E 004743 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD01O228E 004743 ROBERTO BRITTO                          <-------> PP        Bahia                    211
+CD01O228E 004743 SÉRGIO BRITO                            <-------> PSC       Bahia                    213
+CD01O228E 004743 VALMIR ASSUNÇÃO                         <-------> PT        Bahia                    218
+CD01O228E 004743 MAURÍCIO TRINDADE                       <-------> PR        Bahia                    208
+CD01O228E 004743 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD01O228E 004743 CHICO LOPES                             <-------> PCdoB     Ceará                    88 
+CD01O228E 004743 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD01O228E 004743 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD01O228E 004743 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD01O228E 004743 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD01O228E 004743 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD01O228E 004743 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD01O228E 004743 JAQUELINE RORIZ                         <-------> PMN       Distrito Federal         409
+CD01O228E 004743 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD01O228E 004743 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD01O228E 004743 ÍRIS DE ARAÚJO                          <-------> PMDB      Goiás                    417
+CD01O228E 004743 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD01O228E 004743 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD01O228E 004743 HEULER CRUVINEL                         <-------> DEM       Goiás                    423
+CD01O228E 004743 ARMANDO VERGÍLIO                        <-------> PMN       Goiás                    416
+CD01O228E 004743 VALDIVINO DE OLIVEIRA                   <-------> PSDB      Goiás                    547
+CD01O228E 004743 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD01O228E 004743 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD01O228E 004743 SANDRO MABEL                            <-------> PR        Goiás                    431
+CD01O228E 004743 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD01O228E 004743 EDIVALDO HOLANDA JUNIOR                 <-------> PTC       Maranhão                 73 
+CD01O228E 004743 NICE LOBÃO                              <-------> DEM       Maranhão                 78 
+CD01O228E 004743 FRANCISCO ESCÓRCIO                      <-------> PMDB      Maranhão                 567
+CD01O228E 004743 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD01O228E 004743 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD01O228E 004743 DAVI ALVES SILVA JÚNIOR                 <-------> PR        Maranhão                 528
+CD01O228E 004743 GASTÃO VIEIRA                           <-------> PMDB      Maranhão                 75 
+CD01O228E 004743 RIBAMAR ALVES                           <-------> PSB       Maranhão                 74 
+CD01O228E 004743 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD01O228E 004743 MARCOS MONTES                           <-------> DEM       Minas Gerais             257
+CD01O228E 004743 NEWTON CARDOSO                          <-------> PMDB      Minas Gerais             258
+CD01O228E 004743 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD01O228E 004743 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD01O228E 004743 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD01O228E 004743 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD01O228E 004743 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD01O228E 004743 ZÉ SILVA                                <-------> PDT       Minas Gerais             271
+CD01O228E 004743 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD01O228E 004743 MAURO LOPES                             <-------> PMDB      Minas Gerais             252
+CD01O228E 004743 EROS BIONDINI                           <-------> PTB       Minas Gerais             242
+CD01O228E 004743 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD01O228E 004743 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD01O228E 004743 GILMAR MACHADO                          <-------> PT        Minas Gerais             234
+CD01O228E 004743 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD01O228E 004743 DIEGO ANDRADE                           <-------> PR        Minas Gerais             228
+CD01O228E 004743 ANTÔNIO ANDRADE                         <-------> PMDB      Minas Gerais             227
+CD01O228E 004743 WELITON PRADO                           <-------> PT        Minas Gerais             270
+CD01O228E 004743 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD01O228E 004743 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD01O228E 004743 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD01O228E 004743 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD01O228E 004743 MÁRIO DE OLIVEIRA                       <-------> PSC       Minas Gerais             260
+CD01O228E 004743 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD01O228E 004743 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD01O228E 004743 ANTÔNIO CARLOS BIFFI                    <-------> PT        Mato Grosso do Sul       432
+CD01O228E 004743 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD01O228E 004743 NERI GELLER                             <-------> PP        Mato Grosso              520
+CD01O228E 004743 HOMERO PEREIRA                          <-------> PR        Mato Grosso              402
+CD01O228E 004743 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD01O228E 004743 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD01O228E 004743 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD01O228E 004743 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD01O228E 004743 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD01O228E 004743 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD01O228E 004743 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD01O228E 004743 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD01O228E 004743 ANDRÉ DIAS                              <-------> PSDB      Pará                     517
+CD01O228E 004743 AGUINALDO RIBEIRO                       <-------> PP        Paraíba                  129
+CD01O228E 004743 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD01O228E 004743 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD01O228E 004743 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD01O228E 004743 MENDONÇA FILHO                          <-------> DEM       Pernambuco               154
+CD01O228E 004743 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD01O228E 004743 EDUARDO DA FONTE                        <-------> PP        Pernambuco               156
+CD01O228E 004743 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD01O228E 004743 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD01O228E 004743 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD01O228E 004743 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD01O228E 004743 MARLLOS SAMPAIO                         <-------> PMDB      Piauí                    117
+CD01O228E 004743 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD01O228E 004743 HUGO NAPOLEÃO                           <-------> DEM       Piauí                    112
+CD01O228E 004743 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD01O228E 004743 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD01O228E 004743 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD01O228E 004743 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD01O228E 004743 GIACOBO                                 <-------> PR        Paraná                   466
+CD01O228E 004743 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD01O228E 004743 ANDRÉ VARGAS                            <-------> PT        Paraná                   452
+CD01O228E 004743 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CD01O228E 004743 PAULO FEIJÓ                             <-------> PR        Rio de Janeiro           577
+CD01O228E 004743 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD01O228E 004743 ALEXANDRE SANTOS                        <-------> PMDB      Rio de Janeiro           285
+CD01O228E 004743 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD01O228E 004743 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD01O228E 004743 SOLANGE ALMEIDA                         <-------> PMDB      Rio de Janeiro           563
+CD01O228E 004743 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD01O228E 004743 ELIANE ROLIM                            <-------> PT        Rio de Janeiro           538
+CD01O228E 004743 CHICO D`ANGELO                          <-------> PT        Rio de Janeiro           527
+CD01O228E 004743 ROMÁRIO                                 <-------> PSB       Rio de Janeiro           319
+CD01O228E 004743 NEILTON MULIM                           <-------> PR        Rio de Janeiro           315
+CD01O228E 004743 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD01O228E 004743 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD01O228E 004743 LILIAM SÁ                               <-------> PR        Rio de Janeiro           309
+CD01O228E 004743 BRIZOLA NETO                            <-------> PDT       Rio de Janeiro           566
+CD01O228E 004743 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD01O228E 004743 FELIPE BORNIER                          <-------> PHS       Rio de Janeiro           301
+CD01O228E 004743 FILIPE PEREIRA                          <-------> PSC       Rio de Janeiro           303
+CD01O228E 004743 GLAUBER BRAGA                           <-------> PSB       Rio de Janeiro           304
+CD01O228E 004743 PAULO WAGNER                            <-------> PV        Rio Grande do Norte      126
+CD01O228E 004743 ROGÉRIO MARINHO                         <-------> PSDB      Rio Grande do Norte      540
+CD01O228E 004743 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD01O228E 004743 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD01O228E 004743 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD01O228E 004743 LINDOMAR GARÇON                         <-------> PV        Rondonia                 45 
+CD01O228E 004743 MOREIRA MENDES                          <-------> PPS       Rondonia                 49 
+CD01O228E 004743 TERESA SURITA                           <-------> PMDB      Roraima                  8  
+CD01O228E 004743 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD01O228E 004743 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD01O228E 004743 MARCON                                  <-------> PT        Rio Grande do Sul        507
+CD01O228E 004743 GIOVANI CHERINI                         <-------> PDT       Rio Grande do Sul        502
+CD01O228E 004743 LUIS CARLOS HEINZE                      <-------> PP        Rio Grande do Sul        500
+CD01O228E 004743 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD01O228E 004743 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD01O228E 004743 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD01O228E 004743 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD01O228E 004743 BOHN GASS                               <-------> PT        Rio Grande do Sul        499
+CD01O228E 004743 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD01O228E 004743 ELISEU PADILHA                          <-------> PMDB      Rio Grande do Sul        578
+CD01O228E 004743 VILSON COVATTI                          <-------> PP        Rio Grande do Sul        516
+CD01O228E 004743 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD01O228E 004743 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD01O228E 004743 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD01O228E 004743 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD01O228E 004743 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD01O228E 004743 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD01O228E 004743 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD01O228E 004743 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD01O228E 004743 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD01O228E 004743 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CD01O228E 004743 VICENTINHO                              <-------> PT        São Paulo                396
+CD01O228E 004743 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD01O228E 004743 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD01O228E 004743 ARLINDO CHINAGLIA                       <-------> PT        São Paulo                336
+CD01O228E 004743 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD01O228E 004743 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD01O228E 004743 BETO MANSUR                             <-------> PP        São Paulo                340
+CD01O228E 004743 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD01O228E 004743 DIMAS RAMALHO                           <-------> PPS       São Paulo                346
+CD01O228E 004743 GUILHERME MUSSI                         <-------> PV        São Paulo                348
+CD01O228E 004743 JEFFERSON CAMPOS                        <-------> PSB       São Paulo                349
+CD01O228E 004743 KEIKO OTA                               <-------> PSB       São Paulo                356
+CD01O228E 004743 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD01O228E 004743 ROBERTO SANTIAGO                        <-------> PV        São Paulo                386
+CD01O228E 004743 DRA.ELAINE ABISSAMRA                    <-------> PSB       São Paulo                576
+CD01O228E 004743 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD01O228E 004743 CARLINHOS ALMEIDA                       <-------> PT        São Paulo                341
+CD01O228E 004743 ELEUSES PAIVA                           <-------> DEM       São Paulo                537
+CD01O228E 004743 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD01O228E 004743 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD01O228E 004743 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD01O228E 004743 ALBERTO MOURÃO                          <-------> PSDB      São Paulo                552
+CD01O228E 004743 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD01O228E 004743 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD01O228E 004743 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD01O228E 004743 CÉSAR HALUM                             <-------> PPS       Tocantins                64 
+CD01O228E 004743 EDUARDO GOMES                           <-------> PSDB      Tocantins                60 
+CD01O228E 004743 JÚNIOR COIMBRA                          <-------> PMDB      Tocantins                66 
+CD01O228E 004743 IRAJÁ ABREU                             <-------> DEM       Tocantins                65 

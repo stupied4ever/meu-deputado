@@ -1,0 +1,513 @@
+CD03O039E 005247 CHICO DAS VERDURAS                      Não       PRP       Roraima                  3
+CD03O039E 005247 RAUL LIMA                               Sim       PSD       Roraima                  7  
+CD03O039E 005247 DALVA FIGUEIREDO                        Sim       PT        Amapá                    9  
+CD03O039E 005247 LUIZ CARLOS                             Sim       PSDB      Amapá                    14 
+CD03O039E 005247 ASDRUBAL BENTES                         Sim       PMDB      Pará                     20 
+CD03O039E 005247 CLÁUDIO PUTY                            Sim       PT        Pará                     22 
+CD03O039E 005247 MIRIQUINHO BATISTA                      Sim       PT        Pará                     35 
+CD03O039E 005247 ÁTILA LINS                              Sim       PSD       Amazonas                 38 
+CD03O039E 005247 CARLOS SOUZA                            Sim       PSD       Amazonas                 37 
+CD03O039E 005247 FRANCISCO PRACIANO                      Não       PT        Amazonas                 41 
+CD03O039E 005247 PLÍNIO VALÉRIO                          Sim       PSDB      Amazonas                 633
+CD03O039E 005247 MARCOS ROGÉRIO                          Sim       PDT       Rondonia                 583
+CD03O039E 005247 HENRIQUE AFONSO                         Sim       PV        Acre                     52 
+CD03O039E 005247 SIBÁ MACHADO                            Sim       PT        Acre                     58 
+CD03O039E 005247 JÚNIOR COIMBRA                          Sim       PMDB      Tocantins                66 
+CD03O039E 005247 OSVALDO REIS                            Sim       PMDB      Tocantins                620
+CD03O039E 005247 CARLOS BRANDÃO                          Obstrução PSDB      Maranhão                 68 
+CD03O039E 005247 DAVI ALVES SILVA JÚNIOR                 Sim       PR        Maranhão                 528
+CD03O039E 005247 FRANCISCO ESCÓRCIO                      Sim       PMDB      Maranhão                 567
+CD03O039E 005247 PROFESSOR SETIMO                        Sim       PMDB      Maranhão                 81 
+CD03O039E 005247 SARNEY FILHO                            Sim       PV        Maranhão                 85 
+CD03O039E 005247 WALDIR MARANHÃO                         Obstrução PP        Maranhão                 84 
+CD03O039E 005247 WEVERTON ROCHA                          Sim       PDT       Maranhão                 579
+CD03O039E 005247 EUDES XAVIER                            Sim       PT        Ceará                    91 
+CD03O039E 005247 JOÃO ANANIAS                            Sim       PCdoB     Ceará                    106
+CD03O039E 005247 JESUS RODRIGUES                         Sim       PT        Piauí                    115
+CD03O039E 005247 JÚLIO CESAR                             Sim       PSD       Piauí                    114
+CD03O039E 005247 MARCELO CASTRO                          Sim       PMDB      Piauí                    110
+CD03O039E 005247 HENRIQUE EDUARDO ALVES                  Art. 17   PMDB      Rio Grande do Norte      123
+CD03O039E 005247 PAULO WAGNER                            Sim       PV        Rio Grande do Norte      126
+CD03O039E 005247 EDUARDO DA FONTE                        Sim       PP        Pernambuco               156
+CD03O039E 005247 FERNANDO FERRO                          Sim       PT        Pernambuco               141
+CD03O039E 005247 MENDONÇA FILHO                          Obstrução DEM       Pernambuco               154
+CD03O039E 005247 PAULO RUBEM SANTIAGO                    Não       PDT       Pernambuco               554
+CD03O039E 005247 SEVERINO NINHO                          Obstrução PSB       Pernambuco               580
+CD03O039E 005247 ALEXANDRE TOLEDO                        Obstrução PSDB      Alagoas                  596
+CD03O039E 005247 JOÃO LYRA                               Abstenção PSD       Alagoas                  167
+CD03O039E 005247 PAULÃO                                  Sim       PT        Alagoas                  608
+CD03O039E 005247 ROSINHA DA ADEFAL                       Sim       PTdoB     Alagoas                  170
+CD03O039E 005247 AFONSO FLORENCE                         Sim       PT        Bahia                    182
+CD03O039E 005247 AMAURI TEIXEIRA                         Não       PT        Bahia                    184
+CD03O039E 005247 ANTONIO BRITO                           Obstrução PTB       Bahia                    189
+CD03O039E 005247 COLBERT MARTINS                         Sim       PMDB      Bahia                    622
+CD03O039E 005247 JOSÉ NUNES                              Sim       PSD       Bahia                    201
+CD03O039E 005247 LUIZ DE DEUS                            Obstrução DEM       Bahia                    609
+CD03O039E 005247 ROBERTO BRITTO                          Sim       PP        Bahia                    211
+CD03O039E 005247 WALDENOR PEREIRA                        Sim       PT        Bahia                    219
+CD03O039E 005247 DIMAS FABIANO                           Abstenção PP        Minas Gerais             231
+CD03O039E 005247 ISAIAS SILVESTRE                        Sim       PSB       Minas Gerais             604
+CD03O039E 005247 MAURO LOPES                             Sim       PMDB      Minas Gerais             252
+CD03O039E 005247 NEWTON CARDOSO                          Sim       PMDB      Minas Gerais             258
+CD03O039E 005247 NILMÁRIO MIRANDA                        Sim       PT        Minas Gerais             611
+CD03O039E 005247 PAULO ABI-ACKEL                         Sim       PSDB      Minas Gerais             263
+CD03O039E 005247 RENATO ANDRADE                          Não       PP        Minas Gerais             612
+CD03O039E 005247 SILAS BRASILEIRO                        Sim       PMDB      Minas Gerais             636
+CD03O039E 005247 WELITON PRADO                           Sim       PT        Minas Gerais             270
+CD03O039E 005247 MANATO                                  Sim       PDT       Espírito Santo           275
+CD03O039E 005247 ALEXANDRE SANTOS                        Sim       PMDB      Rio de Janeiro           285
+CD03O039E 005247 ALFREDO SIRKIS                          Não       PV        Rio de Janeiro           321
+CD03O039E 005247 CELSO JACOB                             Sim       PMDB      Rio de Janeiro           632
+CD03O039E 005247 CHICO ALENCAR                           Não       PSOL      Rio de Janeiro           295
+CD03O039E 005247 DR. CARLOS ALBERTO                      Obstrução PMN       Rio de Janeiro           529
+CD03O039E 005247 EDSON EZEQUIEL                          Sim       PMDB      Rio de Janeiro           298
+CD03O039E 005247 EDUARDO CUNHA                           Sim       PMDB      Rio de Janeiro           300
+CD03O039E 005247 EURICO JÚNIOR                           Não       PV        Rio de Janeiro           613
+CD03O039E 005247 GLAUBER BRAGA                           Sim       PSB       Rio de Janeiro           304
+CD03O039E 005247 JAIR BOLSONARO                          Abstenção PP        Rio de Janeiro           302
+CD03O039E 005247 ROMÁRIO                                 Obstrução PSB       Rio de Janeiro           319
+CD03O039E 005247 SERGIO ZVEITER                          Sim       PSD       Rio de Janeiro           320
+CD03O039E 005247 VITOR PAULO                             Não       PRB       Rio de Janeiro           324
+CD03O039E 005247 WASHINGTON REIS                         Sim       PMDB      Rio de Janeiro           326
+CD03O039E 005247 ALEXANDRE LEITE                         Obstrução DEM       São Paulo                334
+CD03O039E 005247 ARLINDO CHINAGLIA                       Sim       PT        São Paulo                336
+CD03O039E 005247 DR. UBIALI                              Sim       PSB       São Paulo                541
+CD03O039E 005247 EMANUEL FERNANDES                       Obstrução PSDB      São Paulo                352
+CD03O039E 005247 FRANCISCO CHAGAS                        Sim       PT        São Paulo                626
+CD03O039E 005247 GUILHERME CAMPOS                        Sim       PSD       São Paulo                357
+CD03O039E 005247 GUILHERME MUSSI                         Sim       PSD       São Paulo                348
+CD03O039E 005247 IVAN VALENTE                            Obstrução PSOL      São Paulo                359
+CD03O039E 005247 JANETE ROCHA PIETÁ                      Sim       PT        São Paulo                358
+CD03O039E 005247 JOÃO DADO                               Obstrução PDT       São Paulo                362
+CD03O039E 005247 JUNJI ABE                               Sim       PSD       São Paulo                355
+CD03O039E 005247 TIRIRICA                                Sim       PR        São Paulo                392
+CD03O039E 005247 VANDERLEI SIRAQUE                       Sim       PT        São Paulo                581
+CD03O039E 005247 VICENTINHO                              Sim       PT        São Paulo                396
+CD03O039E 005247 IZALCI                                  Sim       PSDB      Distrito Federal         408
+CD03O039E 005247 JAQUELINE RORIZ                         Sim       PMN       Distrito Federal         409
+CD03O039E 005247 LUIZ PITIMAN                            Sim       PMDB      Distrito Federal         410
+CD03O039E 005247 POLICARPO                               Sim       PT        Distrito Federal         539
+CD03O039E 005247 REGUFFE                                 Não       PDT       Distrito Federal         413
+CD03O039E 005247 FABIO TRAD                              Sim       PMDB      Mato Grosso do Sul       433
+CD03O039E 005247 ASSIS DO COUTO                          Sim       PT        Paraná                   443
+CD03O039E 005247 EDUARDO SCIARRA                         Sim       PSD       Paraná                   461
+CD03O039E 005247 JOÃO ARRUDA                             Sim       PMDB      Paraná                   455
+CD03O039E 005247 LEOPOLDO MEYER                          Sim       PSB       Paraná                   456
+CD03O039E 005247 MARCELO ALMEIDA                         Não       PMDB      Paraná                   631
+CD03O039E 005247 NELSON PADOVANI                         Sim       PSC       Paraná                   457
+CD03O039E 005247 PROFESSOR SÉRGIO DE OLIVEIRA            Sim       PSC       Paraná                   603
+CD03O039E 005247 ROSANE FERREIRA                         Sim       PV        Paraná                   459
+CD03O039E 005247 SANDRO ALEX                             Sim       PPS       Paraná                   465
+CD03O039E 005247 TAKAYAMA                                Sim       PSC       Paraná                   469
+CD03O039E 005247 ONOFRE SANTO AGOSTINI                   Sim       PSD       Santa Catarina           479
+CD03O039E 005247 BOHN GASS                               Sim       PT        Rio Grande do Sul        499
+CD03O039E 005247 JOSÉ STÉDILE                            Não       PSB       Rio Grande do Sul        506
+CD03O039E 005247 MARCON                                  Sim       PT        Rio Grande do Sul        507
+CD03O039E 005247 RONALDO NOGUEIRA                        Obstrução PTB       Rio Grande do Sul        556
+CD03O039E 005247 RONALDO ZULKE                           Sim       PT        Rio Grande do Sul        515
+CD03O039E 005247 VILSON COVATTI                          Sim       PP        Rio Grande do Sul        516
+CD03O039E 005247 MARCIO BITTAR                           <-------> PSDB      Acre                     57 
+CD03O039E 005247 FLAVIANO MELO                           <-------> PMDB      Acre                     54 
+CD03O039E 005247 ANTÔNIA LÚCIA                           <-------> PSC       Acre                     53 
+CD03O039E 005247 TAUMATURGO LIMA                         <-------> PT        Acre                     59 
+CD03O039E 005247 PERPÉTUA ALMEIDA                        <-------> PCdoB     Acre                     56 
+CD03O039E 005247 GLADSON CAMELI                          <-------> PP        Acre                     55 
+CD03O039E 005247 FRANCISCO TENÓRIO                       <-------> PMN       Alagoas                  607
+CD03O039E 005247 RENAN FILHO                             <-------> PMDB      Alagoas                  169
+CD03O039E 005247 ARTHUR LIRA                             <-------> PP        Alagoas                  162
+CD03O039E 005247 GIVALDO CARIMBÃO                        <-------> PSB       Alagoas                  166
+CD03O039E 005247 MAURÍCIO QUINTELLA LESSA                <-------> PR        Alagoas                  168
+CD03O039E 005247 SABINO CASTELO BRANCO                   <-------> PTB       Amazonas                 43 
+CD03O039E 005247 SILAS CÂMARA                            <-------> PSD       Amazonas                 39 
+CD03O039E 005247 DR. LUIZ FERNANDO                       <-------> PSD       Amazonas                 605
+CD03O039E 005247 HENRIQUE OLIVEIRA                       <-------> PR        Amazonas                 36 
+CD03O039E 005247 JANETE CAPIBERIBE                       <-------> PSB       Amapá                    572
+CD03O039E 005247 EVANDRO MILHOMEN                        <-------> PCdoB     Amapá                    11 
+CD03O039E 005247 DAVI ALCOLUMBRE                         <-------> DEM       Amapá                    10 
+CD03O039E 005247 FÁTIMA PELAES                           <-------> PMDB      Amapá                    12 
+CD03O039E 005247 SEBASTIÃO BALA ROCHA                    <-------> PDT       Amapá                    17 
+CD03O039E 005247 VINICIUS GURGEL                         <-------> PR        Amapá                    16 
+CD03O039E 005247 ALICE PORTUGAL                          <-------> PCdoB     Bahia                    180
+CD03O039E 005247 PAULO MAGALHÃES                         <-------> PSD       Bahia                    214
+CD03O039E 005247 DANIEL ALMEIDA                          <-------> PCdoB     Bahia                    188
+CD03O039E 005247 ANTONIO IMBASSAHY                       <-------> PSDB      Bahia                    191
+CD03O039E 005247 ERIVELTON SANTANA                       <-------> PSC       Bahia                    194
+CD03O039E 005247 JOSIAS GOMES                            <-------> PT        Bahia                    202
+CD03O039E 005247 LUIZ ALBERTO                            <-------> PT        Bahia                    204
+CD03O039E 005247 LUCIO VIEIRA LIMA                       <-------> PMDB      Bahia                    205
+CD03O039E 005247 JUTAHY JUNIOR                           <-------> PSDB      Bahia                    206
+CD03O039E 005247 LUIZ ARGÔLO                             <-------> PP        Bahia                    207
+CD03O039E 005247 MÁRCIO MARINHO                          <-------> PRB       Bahia                    212
+CD03O039E 005247 OZIEL OLIVEIRA                          <-------> PDT       Bahia                    215
+CD03O039E 005247 VALMIR ASSUNÇÃO                         <-------> PT        Bahia                    218
+CD03O039E 005247 MARCELO GUIMARÃES FILHO                 <-------> PMDB      Bahia                    627
+CD03O039E 005247 JÂNIO NATAL                             <-------> PRP       Bahia                    198
+CD03O039E 005247 MARCOS MEDRADO                          <-------> PDT       Bahia                    200
+CD03O039E 005247 FERNANDO TORRES                         <-------> PSD       Bahia                    196
+CD03O039E 005247 SÉRGIO BRITO                            <-------> PSD       Bahia                    213
+CD03O039E 005247 FÁBIO SOUTO                             <-------> DEM       Bahia                    190
+CD03O039E 005247 ACELINO POPÓ                            <-------> PRB       Bahia                    522
+CD03O039E 005247 MÁRIO NEGROMONTE                        <-------> PP        Bahia                    210
+CD03O039E 005247 EDSON PIMENTA                           <-------> PSD       Bahia                    193
+CD03O039E 005247 FELIX MENDONÇA JÚNIOR                   <-------> PDT       Bahia                    195
+CD03O039E 005247 JOSÉ ROCHA                              <-------> PR        Bahia                    203
+CD03O039E 005247 CLAUDIO CAJADO                          <-------> DEM       Bahia                    186
+CD03O039E 005247 ARTHUR OLIVEIRA MAIA                    <-------> PMDB      Bahia                    192
+CD03O039E 005247 NELSON PELLEGRINO                       <-------> PT        Bahia                    209
+CD03O039E 005247 ZEZÉU RIBEIRO                           <-------> PT        Bahia                    217
+CD03O039E 005247 JOÃO LEÃO                               <-------> PP        Bahia                    199
+CD03O039E 005247 JOSÉ CARLOS ARAÚJO                      <-------> PSD       Bahia                    197
+CD03O039E 005247 GERALDO SIMÕES                          <-------> PT        Bahia                    185
+CD03O039E 005247 MÁRIO FEITOZA                           <-------> PMDB      Ceará                    590
+CD03O039E 005247 ANÍBAL GOMES                            <-------> PMDB      Ceará                    87 
+CD03O039E 005247 CHICO LOPES                             <-------> PCdoB     Ceará                    88 
+CD03O039E 005247 ARNON BEZERRA                           <-------> PTB       Ceará                    90 
+CD03O039E 005247 GERA ARRUDA                             <-------> PMDB      Ceará                    592
+CD03O039E 005247 ANDRÉ FIGUEIREDO                        <-------> PDT       Ceará                    89 
+CD03O039E 005247 EDSON SILVA                             <-------> PSB       Ceará                    98 
+CD03O039E 005247 JOSÉ LINHARES                           <-------> PP        Ceará                    96 
+CD03O039E 005247 MANOEL SALVIANO                         <-------> PSD       Ceará                    104
+CD03O039E 005247 ARIOSTO HOLANDA                         <-------> PSB       Ceará                    92 
+CD03O039E 005247 ANTONIO BALHMANN                        <-------> PSB       Ceará                    93 
+CD03O039E 005247 DANILO FORTE                            <-------> PMDB      Ceará                    95 
+CD03O039E 005247 GENECIAS NORONHA                        <-------> PMDB      Ceará                    99 
+CD03O039E 005247 GORETE PEREIRA                          <-------> PR        Ceará                    100
+CD03O039E 005247 RAIMUNDO GOMES DE MATOS                 <-------> PSDB      Ceará                    102
+CD03O039E 005247 JOSÉ GUIMARÃES                          <-------> PT        Ceará                    103
+CD03O039E 005247 MAURO BENEVIDES                         <-------> PMDB      Ceará                    105
+CD03O039E 005247 VICENTE ARRUDA                          <-------> PR        Ceará                    107
+CD03O039E 005247 JOSÉ AIRTON                             <-------> PT        Ceará                    101
+CD03O039E 005247 ARTUR BRUNO                             <-------> PT        Ceará                    94 
+CD03O039E 005247 AUGUSTO CARVALHO                        <-------> PPS       Distrito Federal         545
+CD03O039E 005247 RONALDO FONSECA                         <-------> PR        Distrito Federal         414
+CD03O039E 005247 ERIKA KOKAY                             <-------> PT        Distrito Federal         407
+CD03O039E 005247 CAMILO COLA                             <-------> PMDB      Espírito Santo           543
+CD03O039E 005247 CESAR COLNAGO                           <-------> PSDB      Espírito Santo           276
+CD03O039E 005247 LELO COIMBRA                            <-------> PMDB      Espírito Santo           277
+CD03O039E 005247 DR. JORGE SILVA                         <-------> PDT       Espírito Santo           278
+CD03O039E 005247 ROSE DE FREITAS                         <-------> PMDB      Espírito Santo           282
+CD03O039E 005247 SUELI VIDIGAL                           <-------> PDT       Espírito Santo           281
+CD03O039E 005247 IRINY LOPES                             <-------> PT        Espírito Santo           273
+CD03O039E 005247 LAURIETE                                <-------> PSC       Espírito Santo           279
+CD03O039E 005247 PAULO FOLETTO                           <-------> PSB       Espírito Santo           280
+CD03O039E 005247 MARINA SANTANNA                         <-------> PT        Goiás                    564
+CD03O039E 005247 ARMANDO VERGÍLIO                        <-------> PSD       Goiás                    416
+CD03O039E 005247 JOÃO CAMPOS                             <-------> PSDB      Goiás                    418
+CD03O039E 005247 JOVAIR ARANTES                          <-------> PTB       Goiás                    419
+CD03O039E 005247 LEANDRO VILELA                          <-------> PMDB      Goiás                    420
+CD03O039E 005247 FLÁVIA MORAIS                           <-------> PDT       Goiás                    422
+CD03O039E 005247 RUBENS OTONI                            <-------> PT        Goiás                    425
+CD03O039E 005247 HEULER CRUVINEL                         <-------> PSD       Goiás                    423
+CD03O039E 005247 SANDES JÚNIOR                           <-------> PP        Goiás                    426
+CD03O039E 005247 SANDRO MABEL                            <-------> PMDB      Goiás                    431
+CD03O039E 005247 MAGDA MOFATTO                           <-------> PTB       Goiás                    575
+CD03O039E 005247 ÍRIS DE ARAÚJO                          <-------> PMDB      Goiás                    417
+CD03O039E 005247 ROBERTO BALESTRA                        <-------> PP        Goiás                    427
+CD03O039E 005247 PEDRO CHAVES                            <-------> PMDB      Goiás                    428
+CD03O039E 005247 RONALDO CAIADO                          <-------> DEM       Goiás                    429
+CD03O039E 005247 VALDIVINO DE OLIVEIRA                   <-------> PSDB      Goiás                    547
+CD03O039E 005247 CARLOS ALBERTO LERÉIA                   <-------> PSDB      Goiás                    415
+CD03O039E 005247 SIMPLÍCIO ARAÚJO                        <-------> PPS       Maranhão                 585
+CD03O039E 005247 DOMINGOS DUTRA                          <-------> PT        Maranhão                 72 
+CD03O039E 005247 LOURIVAL MENDES                         <-------> PTdoB     Maranhão                 77 
+CD03O039E 005247 CLEBER VERDE                            <-------> PRB       Maranhão                 70 
+CD03O039E 005247 COSTA FERREIRA                          <-------> PSC       Maranhão                 571
+CD03O039E 005247 PINTO ITAMARATY                         <-------> PSDB      Maranhão                 79 
+CD03O039E 005247 ALBERTO FILHO                           <-------> PMDB      Maranhão                 71 
+CD03O039E 005247 ZÉ VIEIRA                               <-------> PR        Maranhão                 86 
+CD03O039E 005247 PEDRO NOVAIS                            <-------> PMDB      Maranhão                 82 
+CD03O039E 005247 HÉLIO SANTOS                            <-------> PSD       Maranhão                 76 
+CD03O039E 005247 NICE LOBÃO                              <-------> PSD       Maranhão                 78 
+CD03O039E 005247 BONIFÁCIO DE ANDRADA                    <-------> PSDB      Minas Gerais             534
+CD03O039E 005247 AELTON FREITAS                          <-------> PR        Minas Gerais             224
+CD03O039E 005247 ANTÔNIO ROBERTO                         <-------> PV        Minas Gerais             229
+CD03O039E 005247 EDUARDO BARBOSA                         <-------> PSDB      Minas Gerais             230
+CD03O039E 005247 DOMINGOS SÁVIO                          <-------> PSDB      Minas Gerais             233
+CD03O039E 005247 DR. GRILO                               <-------> PSL       Minas Gerais             235
+CD03O039E 005247 EDUARDO AZEREDO                         <-------> PSDB      Minas Gerais             237
+CD03O039E 005247 FÁBIO RAMALHO                           <-------> PV        Minas Gerais             238
+CD03O039E 005247 JOÃO MAGALHÃES                          <-------> PMDB      Minas Gerais             239
+CD03O039E 005247 JAIME MARTINS                           <-------> PR        Minas Gerais             240
+CD03O039E 005247 GEORGE HILTON                           <-------> PRB       Minas Gerais             241
+CD03O039E 005247 LINCOLN PORTELA                         <-------> PR        Minas Gerais             243
+CD03O039E 005247 GABRIEL GUIMARÃES                       <-------> PT        Minas Gerais             244
+CD03O039E 005247 JÔ MORAES                               <-------> PCdoB     Minas Gerais             246
+CD03O039E 005247 LEONARDO MONTEIRO                       <-------> PT        Minas Gerais             253
+CD03O039E 005247 MARCUS PESTANA                          <-------> PSDB      Minas Gerais             254
+CD03O039E 005247 LEONARDO QUINTÃO                        <-------> PMDB      Minas Gerais             255
+CD03O039E 005247 LUIZ FERNANDO FARIA                     <-------> PP        Minas Gerais             256
+CD03O039E 005247 MIGUEL CORRÊA                           <-------> PT        Minas Gerais             261
+CD03O039E 005247 RENZO BRAZ                              <-------> PP        Minas Gerais             262
+CD03O039E 005247 TONINHO PINHEIRO                        <-------> PP        Minas Gerais             264
+CD03O039E 005247 SARAIVA FELIPE                          <-------> PMDB      Minas Gerais             265
+CD03O039E 005247 RODRIGO DE CASTRO                       <-------> PSDB      Minas Gerais             268
+CD03O039E 005247 ODAIR CUNHA                             <-------> PT        Minas Gerais             269
+CD03O039E 005247 REGINALDO LOPES                         <-------> PT        Minas Gerais             272
+CD03O039E 005247 HUMBERTO SOUTO                          <-------> PPS       Minas Gerais             606
+CD03O039E 005247 MARGARIDA SALOMÃO                       <-------> PT        Minas Gerais             610
+CD03O039E 005247 JOSÉ HUMBERTO                           <-------> PHS       Minas Gerais             249
+CD03O039E 005247 ADEMIR CAMILO                           <-------> PSD       Minas Gerais             220
+CD03O039E 005247 GERALDO THADEU                          <-------> PSD       Minas Gerais             236
+CD03O039E 005247 WALTER TOSTA                            <-------> PSD       Minas Gerais             267
+CD03O039E 005247 JAIRO ATAIDE                            <-------> DEM       Minas Gerais             533
+CD03O039E 005247 ARACELY DE PAULA                        <-------> PR        Minas Gerais             223
+CD03O039E 005247 LAEL VARELLA                            <-------> DEM       Minas Gerais             245
+CD03O039E 005247 BERNARDO SANTANA DE VASCONCELLO         <-------> PR        Minas Gerais             221
+CD03O039E 005247 LUIS TIBÉ                               <-------> PTdoB     Minas Gerais             251
+CD03O039E 005247 PADRE JOÃO                              <-------> PT        Minas Gerais             259
+CD03O039E 005247 JOÃO BITTAR                             <-------> DEM       Minas Gerais             531
+CD03O039E 005247 JÚLIO DELGADO                           <-------> PSB       Minas Gerais             250
+CD03O039E 005247 VITOR PENIDO                            <-------> DEM       Minas Gerais             532
+CD03O039E 005247 MÁRIO HERINGER                          <-------> PDT       Minas Gerais             629
+CD03O039E 005247 STEFANO AGUIAR                          <-------> PSC       Minas Gerais             558
+CD03O039E 005247 DIEGO ANDRADE                           <-------> PSD       Minas Gerais             228
+CD03O039E 005247 MARCOS MONTES                           <-------> PSD       Minas Gerais             257
+CD03O039E 005247 GIROTO                                  <-------> PMDB      Mato Grosso do Sul       434
+CD03O039E 005247 GERALDO RESENDE                         <-------> PMDB      Mato Grosso do Sul       435
+CD03O039E 005247 BIFFI                                   <-------> PT        Mato Grosso do Sul       432
+CD03O039E 005247 REINALDO AZAMBUJA                       <-------> PSDB      Mato Grosso do Sul       439
+CD03O039E 005247 VANDER LOUBET                           <-------> PT        Mato Grosso do Sul       438
+CD03O039E 005247 MARÇAL FILHO                            <-------> PMDB      Mato Grosso do Sul       437
+CD03O039E 005247 MANDETTA                                <-------> DEM       Mato Grosso do Sul       436
+CD03O039E 005247 NILSON LEITÃO                           <-------> PSDB      Mato Grosso              573
+CD03O039E 005247 VALTENIR PEREIRA                        <-------> PSB       Mato Grosso              404
+CD03O039E 005247 ELIENE LIMA                             <-------> PSD       Mato Grosso              401
+CD03O039E 005247 CARLOS BEZERRA                          <-------> PMDB      Mato Grosso              400
+CD03O039E 005247 PEDRO HENRY                             <-------> PP        Mato Grosso              403
+CD03O039E 005247 HOMERO PEREIRA                          <-------> PSD       Mato Grosso              402
+CD03O039E 005247 JÚLIO CAMPOS                            <-------> DEM       Mato Grosso              399
+CD03O039E 005247 WELLINGTON FAGUNDES                     <-------> PR        Mato Grosso              406
+CD03O039E 005247 DUDIMAR PAXIÚBA                         <-------> PSDB      Pará                     518
+CD03O039E 005247 ZEQUINHA MARINHO                        <-------> PSC       Pará                     33 
+CD03O039E 005247 WANDENKOLK GONÇALVES                    <-------> PSDB      Pará                     32 
+CD03O039E 005247 JOSUÉ BENGTSON                          <-------> PTB       Pará                     30 
+CD03O039E 005247 LÚCIO VALE                              <-------> PR        Pará                     29 
+CD03O039E 005247 GIOVANNI QUEIROZ                        <-------> PDT       Pará                     27 
+CD03O039E 005247 ARNALDO JORDY                           <-------> PPS       Pará                     18 
+CD03O039E 005247 ZÉ GERALDO                              <-------> PT        Pará                     25 
+CD03O039E 005247 WLADIMIR COSTA                          <-------> PMDB      Pará                     23 
+CD03O039E 005247 LIRA MAIA                               <-------> DEM       Pará                     28 
+CD03O039E 005247 ELCIONE BARBALHO                        <-------> PMDB      Pará                     21 
+CD03O039E 005247 NILSON PINTO                            <-------> PSDB      Pará                     31 
+CD03O039E 005247 BETO FARO                               <-------> PT        Pará                     19 
+CD03O039E 005247 JOSÉ PRIANTE                            <-------> PMDB      Pará                     26 
+CD03O039E 005247 NILDA GONDIM                            <-------> PMDB      Paraíba                  134
+CD03O039E 005247 DAMIÃO FELICIANO                        <-------> PDT       Paraíba                  127
+CD03O039E 005247 LEONARDO GADELHA                        <-------> PSC       Paraíba                  586
+CD03O039E 005247 BENJAMIN MARANHÃO                       <-------> PMDB      Paraíba                  131
+CD03O039E 005247 MANOEL JUNIOR                           <-------> PMDB      Paraíba                  130
+CD03O039E 005247 WILSON FILHO                            <-------> PMDB      Paraíba                  139
+CD03O039E 005247 WELLINGTON ROBERTO                      <-------> PR        Paraíba                  136
+CD03O039E 005247 LUIZ COUTO                              <-------> PT        Paraíba                  133
+CD03O039E 005247 HUGO MOTTA                              <-------> PMDB      Paraíba                  132
+CD03O039E 005247 EFRAIM FILHO                            <-------> DEM       Paraíba                  128
+CD03O039E 005247 MAJOR FÁBIO                             <-------> DEM       Paraíba                  599
+CD03O039E 005247 RUY CARNEIRO                            <-------> PSDB      Paraíba                  137
+CD03O039E 005247 BRUNO ARAÚJO                            <-------> PSDB      Pernambuco               146
+CD03O039E 005247 JOSÉ AUGUSTO MAIA                       <-------> PTB       Pernambuco               151
+CD03O039E 005247 JORGE CORTE REAL                        <-------> PTB       Pernambuco               150
+CD03O039E 005247 JOSÉ CHAVES                             <-------> PTB       Pernambuco               147
+CD03O039E 005247 RAUL HENRY                              <-------> PMDB      Pernambuco               163
+CD03O039E 005247 PEDRO EUGÊNIO                           <-------> PT        Pernambuco               161
+CD03O039E 005247 SILVIO COSTA                            <-------> PTB       Pernambuco               160
+CD03O039E 005247 FERNANDO COELHO FILHO                   <-------> PSB       Pernambuco               158
+CD03O039E 005247 ROBERTO TEIXEIRA                        <-------> PP        Pernambuco               157
+CD03O039E 005247 PASTOR EURICO                           <-------> PSB       Pernambuco               155
+CD03O039E 005247 LUCIANA SANTOS                          <-------> PCdoB     Pernambuco               153
+CD03O039E 005247 SERGIO GUERRA                           <-------> PSDB      Pernambuco               159
+CD03O039E 005247 WOLNEY QUEIROZ                          <-------> PDT       Pernambuco               164
+CD03O039E 005247 GONZAGA PATRIOTA                        <-------> PSB       Pernambuco               143
+CD03O039E 005247 CARLOS EDUARDO CADOCA                   <-------> PSC       Pernambuco               152
+CD03O039E 005247 VILALBA                                 <-------> PRB       Pernambuco               555
+CD03O039E 005247 INOCÊNCIO OLIVEIRA                      <-------> PR        Pernambuco               145
+CD03O039E 005247 JOÃO PAULO  LIMA                        <-------> PT        Pernambuco               149
+CD03O039E 005247 AUGUSTO COUTINHO                        <-------> DEM       Pernambuco               144
+CD03O039E 005247 ANDERSON FERREIRA                       <-------> PR        Pernambuco               142
+CD03O039E 005247 IRACEMA PORTELLA                        <-------> PP        Piauí                    113
+CD03O039E 005247 NAZARENO FONTELES                       <-------> PT        Piauí                    530
+CD03O039E 005247 HUGO NAPOLEÃO                           <-------> PSD       Piauí                    112
+CD03O039E 005247 ASSIS CARVALHO                          <-------> PT        Piauí                    111
+CD03O039E 005247 MARLLOS SAMPAIO                         <-------> PMDB      Piauí                    117
+CD03O039E 005247 OSMAR JÚNIOR                            <-------> PCdoB     Piauí                    116
+CD03O039E 005247 PAES LANDIM                             <-------> PTB       Piauí                    118
+CD03O039E 005247 GIACOBO                                 <-------> PR        Paraná                   466
+CD03O039E 005247 ZECA DIRCEU                             <-------> PT        Paraná                   468
+CD03O039E 005247 ANDRÉ VARGAS                            <-------> PT        Paraná                   452
+CD03O039E 005247 LUIZ NISHIMORI                          <-------> PSDB      Paraná                   542
+CD03O039E 005247 CIDA BORGHETTI                          <-------> PP        Paraná                   442
+CD03O039E 005247 OLIVEIRA FILHO                          <-------> PRB       Paraná                   621
+CD03O039E 005247 RICARDO ARRUDA                          <-------> PSC       Paraná                   635
+CD03O039E 005247 RUBENS BUENO                            <-------> PPS       Paraná                   460
+CD03O039E 005247 ABELARDO LUPION                         <-------> DEM       Paraná                   440
+CD03O039E 005247 FERNANDO FRANCISCHINI                   <-------> PEN       Paraná                   450
+CD03O039E 005247 ANDRÉ ZACHAROW                          <-------> PMDB      Paraná                   441
+CD03O039E 005247 HERMES PARCIANELLO                      <-------> PMDB      Paraná                   448
+CD03O039E 005247 ODÍLIO BALBINOTTI                       <-------> PMDB      Paraná                   588
+CD03O039E 005247 DILCEU SPERAFICO                        <-------> PP        Paraná                   444
+CD03O039E 005247 ALEX CANZIANI                           <-------> PTB       Paraná                   445
+CD03O039E 005247 DR. ROSINHA                             <-------> PT        Paraná                   449
+CD03O039E 005247 ALFREDO KAEFER                          <-------> PSDB      Paraná                   451
+CD03O039E 005247 ANGELO VANHONI                          <-------> PT        Paraná                   453
+CD03O039E 005247 NELSON MEURER                           <-------> PP        Paraná                   458
+CD03O039E 005247 OSMAR SERRAGLIO                         <-------> PMDB      Paraná                   463
+CD03O039E 005247 FERNANDO LOPES                          <-------> PMDB      Rio de Janeiro           623
+CD03O039E 005247 LUIZ SÉRGIO                             <-------> PT        Rio de Janeiro           313
+CD03O039E 005247 JORGE BITTAR                            <-------> PT        Rio de Janeiro           310
+CD03O039E 005247 SIMÃO SESSIM                            <-------> PP        Rio de Janeiro           327
+CD03O039E 005247 HUGO LEAL                               <-------> PSC       Rio de Janeiro           306
+CD03O039E 005247 STEPAN NERCESSIAN                       <-------> PPS       Rio de Janeiro           323
+CD03O039E 005247 FERNANDO JORDÃO                         <-------> PMDB      Rio de Janeiro           557
+CD03O039E 005247 DELEY                                   <-------> PSC       Rio de Janeiro           562
+CD03O039E 005247 FRANCISCO FLORIANO                      <-------> PR        Rio de Janeiro           297
+CD03O039E 005247 PAULO FEIJÓ                             <-------> PR        Rio de Janeiro           577
+CD03O039E 005247 ANDREIA ZITO                            <-------> PSDB      Rio de Janeiro           283
+CD03O039E 005247 ADRIAN                                  <-------> PMDB      Rio de Janeiro           286
+CD03O039E 005247 ALESSANDRO MOLON                        <-------> PT        Rio de Janeiro           287
+CD03O039E 005247 ANTHONY GAROTINHO                       <-------> PR        Rio de Janeiro           289
+CD03O039E 005247 AUREO                                   <-------> PRTB      Rio de Janeiro           290
+CD03O039E 005247 BENEDITA DA SILVA                       <-------> PT        Rio de Janeiro           291
+CD03O039E 005247 DR. ADILSON SOARES                      <-------> PR        Rio de Janeiro           293
+CD03O039E 005247 EDSON SANTOS                            <-------> PT        Rio de Janeiro           299
+CD03O039E 005247 JANDIRA FEGHALI                         <-------> PCdoB     Rio de Janeiro           305
+CD03O039E 005247 JEAN WYLLYS                             <-------> PSOL      Rio de Janeiro           307
+CD03O039E 005247 MARCELO MATOS                           <-------> PDT       Rio de Janeiro           311
+CD03O039E 005247 MIRO TEIXEIRA                           <-------> PDT       Rio de Janeiro           317
+CD03O039E 005247 MANUEL ROSA NECA                        <-------> PR        Rio de Janeiro           614
+CD03O039E 005247 FELIPE BORNIER                          <-------> PSD       Rio de Janeiro           301
+CD03O039E 005247 DR. PAULO CÉSAR                         <-------> PSD       Rio de Janeiro           296
+CD03O039E 005247 AROLDE DE OLIVEIRA                      <-------> PSD       Rio de Janeiro           288
+CD03O039E 005247 RODRIGO MAIA                            <-------> DEM       Rio de Janeiro           322
+CD03O039E 005247 WALNEY ROCHA                            <-------> PTB       Rio de Janeiro           325
+CD03O039E 005247 ZOINHO                                  <-------> PR        Rio de Janeiro           328
+CD03O039E 005247 OTAVIO LEITE                            <-------> PSDB      Rio de Janeiro           316
+CD03O039E 005247 LEONARDO PICCIANI                       <-------> PMDB      Rio de Janeiro           312
+CD03O039E 005247 LILIAM SÁ                               <-------> PSD       Rio de Janeiro           309
+CD03O039E 005247 FÁBIO FARIA                             <-------> PSD       Rio Grande do Norte      119
+CD03O039E 005247 SANDRA ROSADO                           <-------> PSB       Rio Grande do Norte      125
+CD03O039E 005247 JOÃO MAIA                               <-------> PR        Rio Grande do Norte      124
+CD03O039E 005247 FÁTIMA BEZERRA                          <-------> PT        Rio Grande do Norte      121
+CD03O039E 005247 FELIPE MAIA                             <-------> DEM       Rio Grande do Norte      120
+CD03O039E 005247 BETINHO ROSADO                          <-------> DEM       Rio Grande do Norte      122
+CD03O039E 005247 NATAN DONADON                           <-------> PMDB      Rondonia                 51 
+CD03O039E 005247 PADRE TON                               <-------> PT        Rondonia                 48 
+CD03O039E 005247 NILTON CAPIXABA                         <-------> PTB       Rondonia                 47 
+CD03O039E 005247 CARLOS MAGNO                            <-------> PP        Rondonia                 44 
+CD03O039E 005247 MOREIRA MENDES                          <-------> PSD       Rondonia                 49 
+CD03O039E 005247 ANSELMO DE JESUS                        <-------> PT        Rondonia                 615
+CD03O039E 005247 MARINHA RAUPP                           <-------> PMDB      Rondonia                 50 
+CD03O039E 005247 URZENI ROCHA                            <-------> PSDB      Roraima                  616
+CD03O039E 005247 JHONATAN DE JESUS                       <-------> PRB       Roraima                  5  
+CD03O039E 005247 LUCIANO CASTRO                          <-------> PR        Roraima                  4  
+CD03O039E 005247 MARCIO JUNQUEIRA                        <-------> DEM       Roraima                  625
+CD03O039E 005247 EDIO LOPES                              <-------> PMDB      Roraima                  2  
+CD03O039E 005247 PAULO CESAR QUARTIERO                   <-------> DEM       Roraima                  6  
+CD03O039E 005247 HENRIQUE FONTANA                        <-------> PT        Rio Grande do Sul        498
+CD03O039E 005247 LUIS CARLOS HEINZE                      <-------> PP        Rio Grande do Sul        500
+CD03O039E 005247 GIOVANI CHERINI                         <-------> PDT       Rio Grande do Sul        502
+CD03O039E 005247 NELSON MARCHEZAN JUNIOR                 <-------> PSDB      Rio Grande do Sul        509
+CD03O039E 005247 RENATO MOLLING                          <-------> PP        Rio Grande do Sul        511
+CD03O039E 005247 PAULO PIMENTA                           <-------> PT        Rio Grande do Sul        513
+CD03O039E 005247 VIEIRA DA CUNHA                         <-------> PDT       Rio Grande do Sul        514
+CD03O039E 005247 MENDES RIBEIRO FILHO                    <-------> PMDB      Rio Grande do Sul        504
+CD03O039E 005247 BETO ALBUQUERQUE                        <-------> PSB       Rio Grande do Sul        490
+CD03O039E 005247 MANUELA D`ÁVILA                         <-------> PCdoB     Rio Grande do Sul        494
+CD03O039E 005247 JERONIMO GOERGEN                        <-------> PP        Rio Grande do Sul        505
+CD03O039E 005247 MARCO MAIA                              <-------> PT        Rio Grande do Sul        496
+CD03O039E 005247 DANRLEI DE DEUS HINTERHOLZ              <-------> PSD       Rio Grande do Sul        495
+CD03O039E 005247 JOSÉ OTÁVIO GERMANO                     <-------> PP        Rio Grande do Sul        501
+CD03O039E 005247 PAULO FERREIRA                          <-------> PT        Rio Grande do Sul        591
+CD03O039E 005247 ONYX LORENZONI                          <-------> DEM       Rio Grande do Sul        510
+CD03O039E 005247 FERNANDO MARRONI                        <-------> PT        Rio Grande do Sul        525
+CD03O039E 005247 ALCEU MOREIRA                           <-------> PMDB      Rio Grande do Sul        486
+CD03O039E 005247 AFONSO HAMM                             <-------> PP        Rio Grande do Sul        487
+CD03O039E 005247 ALEXANDRE ROSO                          <-------> PSB       Rio Grande do Sul        489
+CD03O039E 005247 DARCÍSIO PERONDI                        <-------> PMDB      Rio Grande do Sul        491
+CD03O039E 005247 ASSIS MELO                              <-------> PCdoB     Rio Grande do Sul        492
+CD03O039E 005247 ENIO BACCI                              <-------> PDT       Rio Grande do Sul        493
+CD03O039E 005247 SÉRGIO MORAES                           <-------> PTB       Rio Grande do Sul        512
+CD03O039E 005247 OSMAR TERRA                             <-------> PMDB      Rio Grande do Sul        497
+CD03O039E 005247 ROGÉRIO PENINHA MENDONÇA                <-------> PMDB      Santa Catarina           483
+CD03O039E 005247 VALDIR COLATTO                          <-------> PMDB      Santa Catarina           560
+CD03O039E 005247 JORGE BOEIRA                            <-------> PSD       Santa Catarina           474
+CD03O039E 005247 PEDRO UCZAI                             <-------> PT        Santa Catarina           481
+CD03O039E 005247 JORGINHO MELLO                          <-------> PR        Santa Catarina           476
+CD03O039E 005247 CELSO MALDANER                          <-------> PMDB      Santa Catarina           472
+CD03O039E 005247 ESPERIDIÃO AMIN                         <-------> PP        Santa Catarina           471
+CD03O039E 005247 RONALDO BENEDET                         <-------> PMDB      Santa Catarina           484
+CD03O039E 005247 JOÃO PIZZOLATTI                         <-------> PP        Santa Catarina           574
+CD03O039E 005247 MARCO TEBALDI                           <-------> PSDB      Santa Catarina           478
+CD03O039E 005247 DÉCIO LIMA                              <-------> PT        Santa Catarina           475
+CD03O039E 005247 MAURO MARIANI                           <-------> PMDB      Santa Catarina           480
+CD03O039E 005247 CARMEN ZANOTTO                          <-------> PPS       Santa Catarina           561
+CD03O039E 005247 EDINHO BEZ                              <-------> PMDB      Santa Catarina           470
+CD03O039E 005247 LUCI CHOINACKI                          <-------> PT        Santa Catarina           477
+CD03O039E 005247 MÁRCIO MACÊDO                           <-------> PT        Sergipe                  177
+CD03O039E 005247 ROGÉRIO CARVALHO                        <-------> PT        Sergipe                  178
+CD03O039E 005247 ALMEIDA LIMA                            <-------> PPS       Sergipe                  173
+CD03O039E 005247 FABIO REIS                              <-------> PMDB      Sergipe                  619
+CD03O039E 005247 VALADARES FILHO                         <-------> PSB       Sergipe                  183
+CD03O039E 005247 MENDONÇA PRADO                          <-------> DEM       Sergipe                  179
+CD03O039E 005247 ANDRE MOURA                             <-------> PSC       Sergipe                  174
+CD03O039E 005247 LAERCIO OLIVEIRA                        <-------> PR        Sergipe                  176
+CD03O039E 005247 NEWTON LIMA                             <-------> PT        São Paulo                377
+CD03O039E 005247 VANDERLEI MACRIS                        <-------> PSDB      São Paulo                521
+CD03O039E 005247 JORGE TADEU MUDALEN                     <-------> DEM       São Paulo                363
+CD03O039E 005247 PENNA                                   <-------> PV        São Paulo                382
+CD03O039E 005247 MÁRCIO FRANÇA                           <-------> PSB       São Paulo                368
+CD03O039E 005247 CARLOS ROBERTO                          <-------> PSDB      São Paulo                569
+CD03O039E 005247 IARA BERNARDI                           <-------> PT        São Paulo                618
+CD03O039E 005247 JOSÉ GENOÍNO                            <-------> PT        São Paulo                617
+CD03O039E 005247 MARA GABRILLI                           <-------> PSDB      São Paulo                366
+CD03O039E 005247 JOSÉ MENTOR                             <-------> PT        São Paulo                367
+CD03O039E 005247 LUIZA ERUNDINA                          <-------> PSB       São Paulo                371
+CD03O039E 005247 PAULO PEREIRA DA SILVA                  <-------> PDT       São Paulo                372
+CD03O039E 005247 PAULO MALUF                             <-------> PP        São Paulo                373
+CD03O039E 005247 MILTON MONTI                            <-------> PR        São Paulo                374
+CD03O039E 005247 MISSIONÁRIO JOSÉ OLIMPIO                <-------> PP        São Paulo                375
+CD03O039E 005247 PAULO TEIXEIRA                          <-------> PT        São Paulo                376
+CD03O039E 005247 OTONIEL LIMA                            <-------> PRB       São Paulo                378
+CD03O039E 005247 PAULO FREIRE                            <-------> PR        São Paulo                380
+CD03O039E 005247 NELSON MARQUEZELLI                      <-------> PTB       São Paulo                381
+CD03O039E 005247 RICARDO TRIPOLI                         <-------> PSDB      São Paulo                384
+CD03O039E 005247 ROBERTO FREIRE                          <-------> PPS       São Paulo                387
+CD03O039E 005247 RICARDO BERZOINI                        <-------> PT        São Paulo                390
+CD03O039E 005247 SALVADOR ZIMBALDI                       <-------> PDT       São Paulo                391
+CD03O039E 005247 VALDEMAR COSTA NETO                     <-------> PR        São Paulo                393
+CD03O039E 005247 VAZ DE LIMA                             <-------> PSDB      São Paulo                394
+CD03O039E 005247 VICENTE CANDIDO                         <-------> PT        São Paulo                395
+CD03O039E 005247 CARLOS ZARATTINI                        <-------> PT        São Paulo                398
+CD03O039E 005247 ALINE CORRÊA                            <-------> PP        São Paulo                330
+CD03O039E 005247 ANTONIO BULHÕES                         <-------> PRB       São Paulo                333
+CD03O039E 005247 BRUNA FURLAN                            <-------> PSDB      São Paulo                335
+CD03O039E 005247 CARLOS SAMPAIO                          <-------> PSDB      São Paulo                338
+CD03O039E 005247 ARNALDO JARDIM                          <-------> PPS       São Paulo                339
+CD03O039E 005247 BETO MANSUR                             <-------> PP        São Paulo                340
+CD03O039E 005247 DEVANIR RIBEIRO                         <-------> PT        São Paulo                342
+CD03O039E 005247 ELI CORREA FILHO                        <-------> DEM       São Paulo                345
+CD03O039E 005247 DUARTE NOGUEIRA                         <-------> PSDB      São Paulo                350
+CD03O039E 005247 KEIKO OTA                               <-------> PSB       São Paulo                356
+CD03O039E 005247 JOÃO PAULO CUNHA                        <-------> PT        São Paulo                361
+CD03O039E 005247 MARCELO AGUIAR                          <-------> PSD       São Paulo                370
+CD03O039E 005247 GABRIEL CHALITA                         <-------> PMDB      São Paulo                347
+CD03O039E 005247 ELEUSES PAIVA                           <-------> PSD       São Paulo                537
+CD03O039E 005247 RICARDO IZAR                            <-------> PSD       São Paulo                383
+CD03O039E 005247 ARNALDO FARIA DE SÁ                     <-------> PTB       São Paulo                337
+CD03O039E 005247 DELEGADO PROTÓGENES                     <-------> PCdoB     São Paulo                343
+CD03O039E 005247 WILLIAM DIB                             <-------> PSDB      São Paulo                397
+CD03O039E 005247 PASTOR MARCO FELICIANO                  <-------> PSC       São Paulo                379
+CD03O039E 005247 JEFFERSON CAMPOS                        <-------> PSD       São Paulo                349
+CD03O039E 005247 WALTER FELDMAN                          <-------> PSDB      São Paulo                550
+CD03O039E 005247 ANTONIO CARLOS MENDES THAME             <-------> PSDB      São Paulo                332
+CD03O039E 005247 CÂNDIDO VACCAREZZA                      <-------> PT        São Paulo                389
+CD03O039E 005247 ROBERTO DE LUCENA                       <-------> PV        São Paulo                385
+CD03O039E 005247 WALTER IHOSHI                           <-------> PSD       São Paulo                553
+CD03O039E 005247 ABELARDO CAMARINHA                      <-------> PSB       São Paulo                329
+CD03O039E 005247 LUIZ FERNANDO MACHADO                   <-------> PSDB      São Paulo                365
+CD03O039E 005247 ROBERTO SANTIAGO                        <-------> PSD       São Paulo                386
+CD03O039E 005247 EDINHO ARAÚJO                           <-------> PMDB      São Paulo                344
+CD03O039E 005247 PROFESSORA DORINHA SEABRA REZEN         <-------> DEM       Tocantins                67 
+CD03O039E 005247 ÂNGELO AGNOLIN                          <-------> PDT       Tocantins                61 
+CD03O039E 005247 IRAJÁ ABREU                             <-------> PSD       Tocantins                65 
+CD03O039E 005247 NILMAR RUIZ                             <-------> PEN       Tocantins                634
+CD03O039E 005247 CÉSAR HALUM                             <-------> PSD       Tocantins                64 
+CD03O039E 005247 LEOMAR QUINTANILHA                      <-------> PMDB      Tocantins                628
