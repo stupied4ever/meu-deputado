@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130420060009) do
+ActiveRecord::Schema.define(:version => 20130420064832) do
 
   create_table "comissoes", :force => true do |t|
     t.text     "nome"
@@ -53,7 +53,7 @@ ActiveRecord::Schema.define(:version => 20130420060009) do
     t.boolean  "sessao_ordinaria"
     t.string   "sequencial_votacao"
     t.string   "nome_parlamentar"
-    t.boolean  "situacao_presenca"
+    t.boolean  "presente"
     t.string   "partido"
     t.string   "uf"
     t.string   "codigo_parlamentar"
