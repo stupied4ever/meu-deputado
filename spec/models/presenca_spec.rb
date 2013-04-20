@@ -1,6 +1,8 @@
 require 'spec_helper'
 
 describe Presenca do
+  it { should belong_to(:deputado) }
+  
   describe 'tipos de sessão' do
     subject { FactoryGirl.build(:presenca, tipo_sessao: tipo_sessao) }
 
@@ -30,7 +32,7 @@ end
 # :tipo_sessao, :numero_sessao_legislativa, :sessao_legislativa,
 #     :sessao_numero, :sessao_extra_ordinaria, :sequencial_votacao,
 #     :nome_parlamentar, :situacao_presenca, :partido, :uf, :codigo_parlamentar
-  
+
 
 #   def sessao_camara
 #     tipo_sessao == "CD"

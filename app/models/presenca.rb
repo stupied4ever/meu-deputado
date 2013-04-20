@@ -1,4 +1,7 @@
 class Presenca < ActiveRecord::Base
+  attr_accessible :nome_parlamentar 
+  belongs_to :deputado, :primary_key => "nome_parlamentar", :foreign_key => "nome_parlamentar"
+
   def sessao_camara?
     tipo_sessao == 'camara'
   end

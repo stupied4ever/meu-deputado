@@ -1,3 +1,6 @@
 FactoryGirl.define do
-  factory :presenca
+  factory :presenca do 
+  	nome_parlamentar "nome do parlamentar"
+  	situacao_presenca "Presente"
+  end
 end
