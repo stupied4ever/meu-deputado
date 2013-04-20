@@ -27,4 +27,8 @@ class Deputado < ActiveRecord::Base
 	has_many :comissoes_suplente, :through => :deputado_comissoes_suplente,
 		:class_name => "Comissao", :source => :comissao
 
+	def foto
+		"http://www.camara.gov.br/internet/deputado/bandep/#{ide_cadastro}.jpg"
+	end	
+
 end
