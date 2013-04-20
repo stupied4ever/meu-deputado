@@ -1,4 +1,5 @@
 require 'spec_helper'
+require 'parsers/parser_presenca'
 
 describe ParserPresenca do
 	
