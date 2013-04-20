@@ -1,6 +1,0 @@
-     deputados POST   /deputados(.:format)      deputados#create
- new_deputados GET    /deputados/new(.:format)  deputados#new
-edit_deputados GET    /deputados/edit(.:format) deputados#edit
-               GET    /deputados(.:format)      deputados#show
-               PUT    /deputados(.:format)      deputados#update
-               DELETE /deputados(.:format)      deputados#destroy
