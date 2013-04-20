@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130326003937) do
+ActiveRecord::Schema.define(:version => 20130420060009) do
 
   create_table "comissoes", :force => true do |t|
     t.text     "nome"
@@ -43,6 +43,23 @@ ActiveRecord::Schema.define(:version => 20130326003937) do
     t.string   "email"
     t.datetime "created_at",       :null => false
     t.datetime "updated_at",       :null => false
+  end
+
+  create_table "presencas", :force => true do |t|
+    t.string   "numero_sessao_legislativa"
+    t.string   "sessao_legislativa"
+    t.string   "sessao_numero"
+    t.boolean  "sessao_legislativa_ordinaria"
+    t.boolean  "sessao_ordinaria"
+    t.string   "sequencial_votacao"
+    t.string   "nome_parlamentar"
+    t.boolean  "situacao_presenca"
+    t.string   "partido"
+    t.string   "uf"
+    t.string   "codigo_parlamentar"
+    t.string   "tipo_sessao"
+    t.datetime "created_at",                   :null => false
+    t.datetime "updated_at",                   :null => false
   end
 
 end
