@@ -16,7 +16,6 @@ class Presenca < ActiveRecord::Base
   validates :tipo_sessao, inclusion: { in: TIPOS_DE_SESSOES }
 
 
-
   # TIPOS DE SESSAO SESSAO
   def sessao_camara?
     tipo_sessao == Presenca::SESSAO_DA_CAMARA

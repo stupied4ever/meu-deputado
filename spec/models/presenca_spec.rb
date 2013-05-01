@@ -13,11 +13,10 @@ describe Presenca do
         )
     }
 
-    let(:tipo_sessao) { Presenca::SESSAO_DA_CAMARA }
-
+    let(:tipo_sessao)                  { Presenca::SESSAO_DA_CAMARA }
     let(:sessao_legislativa_ordinaria) { Presenca::SESSAO_ORDINARIA }
-    let(:sessao_ordinaria) { Presenca::SESSAO_ORDINARIA }
-    let(:presente) { Presenca::PRESENTE }
+    let(:sessao_ordinaria)             { Presenca::SESSAO_ORDINARIA }
+    let(:presente)                     { Presenca::PRESENTE }
 
 
     describe '#presente' do
@@ -27,6 +26,7 @@ describe Presenca do
 
       context 'ausente' do
         let(:presente) { Presenca::AUSENTE }
+
         its(:presente?) { should be_false }
       end
     end
@@ -37,7 +37,7 @@ describe Presenca do
       end
 
       context 'extraordinaria' do
-        let(:sessao_ordinaria) { Presenca::SESSAO_EXTRAORDINARIA }
+        let(:sessao_ordinaria)  { Presenca::SESSAO_EXTRAORDINARIA }
 
         its(:sessao_ordinaria?) { should be_false }
       end
@@ -51,8 +51,7 @@ describe Presenca do
       end
 
       context 'extraordinaria' do
-        let(:sessao_legislativa_ordinaria) { Presenca::SESSAO_EXTRAORDINARIA }
-
+        let(:sessao_legislativa_ordinaria)  { Presenca::SESSAO_EXTRAORDINARIA }
         its(:sessao_legislativa_ordinaria?) { should be_false }
       end
     end
@@ -88,8 +87,4 @@ describe Presenca do
       end
     end
   end
-
-
-
-
 end
