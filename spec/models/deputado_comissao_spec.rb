@@ -9,6 +9,6 @@ describe DeputadoComissao do
 	it { should belong_to(:comissao) }
 
 	it { should ensure_inclusion_of(:cadeira).in_array( %w(titular suplente) ) }
-	it { should validate_uniqueness_of(:cadeira).scoped_to([:comissao_id, :deputado_id]) }
+	it { should validate_uniqueness_of(:cadeira).scoped_to(:comissao_id, :deputado_id) }
 	
 end

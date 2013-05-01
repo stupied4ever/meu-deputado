@@ -42,13 +42,7 @@ describe ParserPresenca do
       #end
     end
     
-    #context 'numero da sessao legislativa' do
-      #let(:linha) {
-        #'SF03O051O 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-      #}
-      
-      #its(:numero_sessao_legislativa) { should eq('03') }
-    #end
+    
 
     #context 'sessao legislativa' do
       #context 'ordinaria' do
