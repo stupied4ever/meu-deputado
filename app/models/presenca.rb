@@ -59,6 +59,4 @@ class Presenca < ActiveRecord::Base
   def presente?
     presente == Presenca::PRESENTE
   end
-
-
 end
