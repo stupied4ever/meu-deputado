@@ -4,159 +4,90 @@ require 'parsers/parser_presenca'
 describe ParserPresenca do
   subject(:parser_presenca) { ParserPresenca.new }
 
-  describe 'somente uma linha' do
-    subject { parser_presenca.parse(linha) }
-    
-    context 'sessao' do
-      context 'da camara' do
-        let(:linha) { 
-          'CD03O051O 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-        }
-        
-        # it { should eq([
-        #   FactoryGirl.build(:presenca)
-        # ]) }
-        #its(:sessao_camara) 		  { should be_true }
-        #its(:sessao_congresso_camara) { should be_false }
-        #its(:sessao_congresso_senado) { should be_false }
-      end  
+  describe '#parse_registro' do
+    subject { parser_presenca.parse_registro(linha) }
 
-      #context 'do congresso - camara' do
-        #let(:linha) { 
-          #'CC03O051O 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-        #}
-        
-        #its(:sessao_camara) 		  { should be_false }
-        #its(:sessao_congresso_camara) { should be_true }
-        #its(:sessao_congresso_senado) { should be_false }
-      #end
+    let(:linha) { 'CD03O051O 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' }
 
-      #context 'do congresso - senado' do
-        #let(:linha) {
-          #'SF03O051O 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-        #}
-        
-        #its(:sessao_camara) 		  { should be_false }
-        #its(:sessao_congresso_camara) { should be_false }
-        #its(:sessao_congresso_senado) { should be_true }
-      #end
+    describe 'Número da Sessão legislativa (2 posições)' do
+      its(:numero_sessao_legislativa) { should eq('03')}
     end
-    
-    
 
-    #context 'sessao legislativa' do
-      #context 'ordinaria' do
-        #let(:linha) {
-          #'SF03O051O 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-        #}
-        
-        #its(:sessao_legislativa_ordinaria) 		{ should be_true }
-        #its(:sessao_legislativa_extraordinaria) { should be_false }
-      #end
+    describe 'sessão legislativa ordinária ou extraordinária' do
+      context 'ordinaria' do
+        its(:sessao_legislativa_ordinaria) { should eq('O')}
+      end
 
-      #context 'extraordinária' do
-        #let(:linha) {
-          #'SF03E051O 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-        #}
-        
-        #its(:sessao_legislativa_ordinaria) 		{ should be_false }
-        #its(:sessao_legislativa_extraordinaria) { should be_true  }
-      #end
-    #end
+      context 'extraordinaria' do
+        let(:linha) { 'CD03E051O 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' }
+        its(:sessao_legislativa_ordinaria) { should eq('E')}
+      end
+    end
 
-    #context 'sessao numero' do
-      #let(:linha) {
-        #'SF03E051O 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-      #}
+    describe 'sessao' do
+      context 'da camara' do
+        its(:tipo_sessao) { should eq("CD")}
+      end
 
-      #its(:sessao_numero) { should eq('051') }
-    #end
+      context 'do congresso - camara' do
+        let(:linha) { 'CC03O051O 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' }
 
-    #context 'sessao numero' do
-      #let(:linha) {
-        #'SF03E051O 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-      #}
+        its(:tipo_sessao) { should eq("CC")}
+      end
 
-      #its(:sessao_numero) { should eq('051') }
-    #end
+      context 'do congresso - senado' do
+        let(:linha) { 'SF03O051O 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' }
 
-    #context 'sessao' do
-      #context 'ordinaria' do
-        #let(:linha) {
-          #'SF03E051O 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-        #}
+        its(:tipo_sessao) { should eq("SF")}
+      end
+    end
 
-        #its(:sessao_ordinaria) 		{ should be_true  }  
-        #its(:sessao_extraordinaria) { should be_false } 
-      #end
+    describe '#sessao_numero' do
+      its(:sessao_numero) { should eq('051') }
+    end
 
-      #context 'extraordinaria' do
-        #let(:linha) {
-          #'SF03E051E 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-        #}
+    describe 'sessao' do
+      context 'ordinaria' do
+        its(:sessao_ordinaria) { should eq('O')  }
+      end
 
-        #its(:sessao_ordinaria) 		{ should be_false  }  
-        #its(:sessao_extraordinaria) { should be_true   } 
-      #end
-    #end
-    
-    #context 'sequencial votacao' do
-      #let(:linha) {
-        #'SF03E051E 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-      #}
+      context 'extraordinaria' do
+        let(:linha) { 'SF03E051E 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' }
 
-      #its(:sequencial_votacao) { should eq('000000')  }  
-    #end
+        its(:sessao_ordinaria) { should eq('E')  }
+      end
+    end
 
-    #context 'nome do parlamentar' do
+    describe '#sequencial votacao' do
+      its(:sequencial_votacao) { should eq('000000')  }
+    end
 
-      #let(:linha) {
-        #'SF03E051E 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-      #}
+    describe '#nome do parlamentar' do
+      its(:nome_parlamentar) { should eq('CHICO DAS VERDURAS')  }
+    end
 
-      #its(:nome_parlamentar) { should eq('CHICO DAS VERDURAS')  }
-    #end
+    describe '#presente' do
+      context 'presente' do
+        its(:presente) { should eq('Presente') }
+      end
 
-    #context 'estava' do
-      #context 'presente' do
-        #let(:linha) {
-          #'SF03E051E 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-        #}
+      context 'ausente' do
+        let(:linha) { 'SF03E051E 000000 CHICO DAS VERDURAS                      <------> PRP       Roraima                  3  ' }
 
-        #its(:presente) { should be_true }
-      #end
+        its(:presente) { should eq('<------>') }
+      end
+    end
 
-      #context 'ausente' do
-        #let(:linha) {
-          #'SF03E051E 000000 CHICO DAS VERDURAS                      <------> PRP       Roraima                  3  ' 
-        #}
+    describe 'partido' do
+      its(:partido) { should eq('PRP') }
+    end
 
-        #its(:presente) { should be_false }
-      #end
-    #end
+    describe 'uf' do
+      its(:uf) { should eq('Roraima') }
+    end
 
-    #context 'partido' do
-      #let(:linha) {
-        #'SF03E051E 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-      #}
-
-      #its(:partido) { should eq('PRP') }
-    #end
-
-    #context 'uf' do
-      #let(:linha) {
-        #'SF03E051E 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-      #}
-
-      #its(:uf) { should eq('Roraima') }
-    #end
-
-    #context 'codigo parlamentar' do
-      #let(:linha) {
-        #'SF03E051E 000000 CHICO DAS VERDURAS                      Presente PRP       Roraima                  3  ' 
-      #}
-
-      #its(:codigo_parlamentar) { should eq('3') }
-    #end
+    describe 'codigo parlamentar' do
+      its(:codigo_parlamentar) { should eq('3') }
+    end
   end
 end
